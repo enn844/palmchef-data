@@ -2,69 +2,166 @@
   {
     "id": "1",
     "name": "全部",
-    "iconSrc": "app.media.category_dessert"
+    "iconSrc": "app.media.category_all"
   },
   {
     "id": "2",
-    "name": "湘菜",
-    "iconSrc": "app.media.category_hunan"
+    "name": "快手菜",
+    "iconSrc": "app.media.category_快手菜"
   },
   {
     "id": "3",
-    "name": "粤菜",
-    "iconSrc": "app.media.category_guangdong"
+    "name": "汤羹",
+    "iconSrc": "app.media.category_汤羹"
   },
   {
     "id": "4",
-    "name": "海鲜",
-    "iconSrc": "app.media.category_seafood"
+    "name": "素食",
+    "iconSrc": "app.media.category_素食"
   },
   {
     "id": "5",
-    "name": "汤品",
-    "iconSrc": "app.media.category_soup"
+    "name": "川菜",
+    "iconSrc": "app.media.category_川菜"
   },
   {
     "id": "6",
-    "name": "素食",
-    "iconSrc": "app.media.category_vegetarian"
+    "name": "粤菜",
+    "iconSrc": "app.media.category_粤菜"
   },
   {
     "id": "7",
-    "name": "烧烤",
-    "iconSrc": "app.media.category_bbq"
+    "name": "家常菜",
+    "iconSrc": "app.media.category_家常菜"
   },
   {
     "id": "8",
-    "name": "甜品",
-    "iconSrc": "app.media.category_dessert"
+    "name": "鲁菜",
+    "iconSrc": "app.media.category_鲁菜"
   },
-
   {
     "id": "9",
-    "name": "川菜",
-    "iconSrc": "app.media.category_dessert"
+    "name": "凉菜沙拉",
+    "iconSrc": "app.media.category_凉菜沙拉"
   },
   {
     "id": "10",
-    "name": "家常菜",
-    "iconSrc": "app.media.category_home"
+    "name": "早餐",
+    "iconSrc": "app.media.category_早餐"
   },
   {
     "id": "11",
-    "name": "早餐",
-    "iconSrc": "app.media.category_home"
+    "name": "午餐",
+    "iconSrc": "app.media.category_午餐"
   },
   {
     "id": "12",
-    "name": "午餐",
-    "iconSrc": "app.media.category_home"
+    "name": "晚餐",
+    "iconSrc": "app.media.category_晚餐"
   },
   {
     "id": "13",
-    "name": "晚餐",
-    "iconSrc": "app.media.category_home"
+    "name": "地方小吃",
+    "iconSrc": "app.media.category_地方小吃"
+  },
+  {
+    "id": "14",
+    "name": "甜品",
+    "iconSrc": "app.media.category_甜品"
+  },
+  {
+    "id": "15",
+    "name": "补血益气",
+    "iconSrc": "app.media.category_补血益气"
+  },
+  {
+    "id": "16",
+    "name": "健脾开胃",
+    "iconSrc": "app.media.category_健脾开胃"
+  },
+  {
+    "id": "17",
+    "name": "减脂健身",
+    "iconSrc": "app.media.category_减脂健身"
+  },
+  {
+    "id": "18",
+    "name": "美容养颜",
+    "iconSrc": "app.media.category_美容养颜"
+  },
+  {
+    "id": "19",
+    "name": "滋阴养肾",
+    "iconSrc": "app.media.category_滋阴养肾"
+  },
+  {
+    "id": "20",
+    "name": "肉类",
+    "iconSrc": "app.media.category_肉类"
+  },
+  {
+    "id": "21",
+    "name": "粗粮",
+    "iconSrc": "app.media.category_粗粮"
+  },
+  {
+    "id": "22",
+    "name": "奶制品",
+    "iconSrc": "app.media.category_奶制品"
+  },
+  {
+    "id": "23",
+    "name": "秋季时令",
+    "iconSrc": "app.media.category_秋季时令"
+  },
+  {
+    "id": "24",
+    "name": "春季时令",
+    "iconSrc": "app.media.category_春季时令"
+  },
+  {
+    "id": "25",
+    "name": "夏季时令",
+    "iconSrc": "app.media.category_夏季时令"
+  },
+  {
+    "id": "26",
+    "name": "冬季时令",
+    "iconSrc": "app.media.category_冬季时令"
+  },
+  {
+    "id": "27",
+    "name": "东北菜",
+    "iconSrc": "app.media.category_东北菜"
+  },
+  {
+    "id": "28",
+    "name": "主食",
+    "iconSrc": "app.media.category_主食"
+  },
+  {
+    "id": "29",
+    "name": "中国节日美食",
+    "iconSrc": "app.media.category_中国节日美食"
+  },
+  {
+    "id": "30",
+    "name": "海鲜",
+    "iconSrc": "app.media.category_海鲜"
+  },
+  {
+    "id": "31",
+    "name": "蔬菜",
+    "iconSrc": "app.media.category_蔬菜"
+  },
+  {
+    "id": "32",
+    "name": "粥",
+    "iconSrc": "app.media.category_粥"
+  },
+  {
+    "id": "33",
+    "name": "儿童营养",
+    "iconSrc": "app.media.category_儿童营养"
   }
 ]
-
-
