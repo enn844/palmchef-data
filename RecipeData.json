@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9213",
     "name": "地三鲜（素食版）",
     "imageSrc": "placeholder_image_url_4_1",
@@ -1284,6 +1285,30 @@
     "name": "Sichuan Fermented Pickles (四川泡菜) recipes",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/cc_Sichuan Ferment_c1cf0eee.jpg",
     "brief": "american / lunch/din",
+=======
+    "id": "e305e54d-d7e1-45a7-93e1-38f3812d4d9c",
+    "name": "经典蛋炒饭",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Egg_fried_rice.png",
+    "brief": "家常菜 / 快手菜",
+    "categoryIds": ["1", "2", "7","11","28"], 
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "米饭: 1碗（约200克，最好是隔夜饭）\n鸡蛋: 2个\n葱: 适量（切成葱花）\n火腿或腊肠: 50克（可选，切丁）\n盐: 适量\n酱油: 1/2 茶匙\n食用油: 适量",
+    "steps": [
+      "将鸡蛋打入碗中，加入少许盐，用筷子充分打散。将胡萝卜和火腿切成小丁，葱切成葱花备用。",
+      "锅中倒入适量食用油，烧至五成热。倒入鸡蛋液，快速划散，炒至半熟或八成熟后盛出备用。",
+      "锅中留底油，放入火腿丁翻炒约30秒至1分钟，炒出香味。待火腿炒香后，放入葱花，快速翻炒出葱香味。",
+      "倒入隔夜米饭，用锅铲或勺子背面将米饭快速捣散、压平，与配料充分混合，确保米饭不结块。",
+      "倒入之前炒好的鸡蛋，加入适量盐，然后加入 1/2 茶匙酱油。大火快速翻炒，使米饭、鸡蛋和配料均匀混合，直至米饭颗粒分明、口感干爽。",
+      "临出锅前，快速翻炒几下即可关火。盛盘享用。"
+    ]
+  },
+  {
+    "id": "35f1005b-2d0e-4c47-95a3-fa5b56b039c1",
+    "name": "四川泡菜",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/cc_Sichuan%20Ferment_c1cf0eee.jpg",
+    "brief": "american / lunch/dinner",
+>>>>>>> 5341aae67a6d1a31be45e10b690f159767413ab1
     "categoryIds": [
       "5",
       "1"
@@ -1298,10 +1323,17 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "1ac08d51-4096-44d8-b941-93a67352a1e7",
     "name": "Pulled- Pork Sandwich with Egg Benedict and Hollandaise sauce (Martha Stewart) ..丰富的早餐呢",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zc_Pulled- Pork Sa_d1f20b53.jpg",
     "brief": "american / lunch/din",
+=======
+    "id": "aeabcfaf-8bc5-4e30-b662-f319e97ca362",
+    "name": "丰富的早餐",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zc_Pulled-%20Pork%20Sa_d1f20b53.jpg",
+    "brief": "american / lunch/dinner",
+>>>>>>> 5341aae67a6d1a31be45e10b690f159767413ab1
     "categoryIds": [
       "10",
       "1"
@@ -1316,10 +1348,17 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "c5fe6110-c7e5-48fa-ae32-2e6243e31f15",
     "name": "Hong Kong Style Spam & Egg Macaroni Soup (午餐肉通粉)",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/wc_Hong Kong Style_6e6d2b3c.jpg",
     "brief": "italian / lunch/dinn",
+=======
+    "id": "146f2b8e-3ebb-4e8e-a013-bd79d1ffcc98",
+    "name": "午餐肉通粉",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/wc_Hong%20Kong%20Style_6e6d2b3c.jpg",
+    "brief": "italian / lunch/dinner",
+>>>>>>> 5341aae67a6d1a31be45e10b690f159767413ab1
     "categoryIds": [
       "11",
       "1"
@@ -1334,9 +1373,15 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "b89bb5e4-4ca2-4a13-a1c0-819ffb15d77d",
     "name": "Chinese Omelette with Lettuce (蔬菜大蛋餅)",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Chinese Omelett_acda918b.jpg",
+=======
+    "id": "dabcf6da-4deb-4936-9ffc-8c17560563ea",
+    "name": "蔬菜大蛋餅",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Chinese%20Omelett_acda918b.jpg",
+>>>>>>> 5341aae67a6d1a31be45e10b690f159767413ab1
     "brief": "chinese / breakfast",
     "categoryIds": [
       "31",
@@ -1352,10 +1397,17 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "58b3d0c8-1b4e-444f-9eb6-705cb1074d2a",
     "name": "Sauteed Chard Pasta 蔬菜意大利面 recipes",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Sauteed Chard P_5542eb57.jpg",
     "brief": "italian / lunch/dinn",
+=======
+    "id": "39daaccb-433e-4f96-b76b-58557a720de9",
+    "name": "蔬菜意大利面",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Sauteed%20Chard%20P_5542eb57.jpg",
+    "brief": "italian / lunch/dinner",
+>>>>>>> 5341aae67a6d1a31be45e10b690f159767413ab1
     "categoryIds": [
       "31",
       "1"
@@ -1370,10 +1422,17 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "916d68d7-8d2f-45f3-a4b2-c903eeccc863",
     "name": "Chicken and Shrimp Rice Porridge - Congee 粥 'Zhou' Recipe",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/z_Chicken and Shr_5592235d.jpg",
     "brief": "chinese / lunch/dinn",
+=======
+    "id": "452a019e-1b6b-4eff-99d8-36d622523f9b",
+    "name": "粥",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/粥_Chicken and Shrimp Rice Porrid.jpg",
+    "brief": "chinese / lunch/dinner",
+>>>>>>> 5341aae67a6d1a31be45e10b690f159767413ab1
     "categoryIds": [
       "32",
       "1"
@@ -1388,10 +1447,17 @@
     ]
   },
   {
+<<<<<<< HEAD
     "id": "c653a9ad-84eb-41e1-98ed-a9737468f033",
     "name": "Century Egg and Pork Congee (皮蛋瘦肉粥)",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/z_Century Egg and_ece72fa2.jpg",
     "brief": "chinese / lunch/dinn",
+=======
+    "id": "101fe859-b0ad-49a0-9005-442848432abe",
+    "name": "皮蛋瘦肉粥",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/z_Century%20Egg%20and_ece72fa2.jpg",
+    "brief": "chinese / lunch/dinner",
+>>>>>>> 5341aae67a6d1a31be45e10b690f159767413ab1
     "categoryIds": [
       "32",
       "1"
