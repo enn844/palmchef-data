@@ -1,8 +1,8 @@
 [
   {
     "id": "35f1005b-2d0e-4c47-95a3-fa5b56b039c1",
-    "name": "Sichuan Fermented Pickles (四川泡菜) recipes",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/川菜_Sichuan Fermented Pickles (四川泡.jpg",
+    "name": "四川泡菜",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/cc_Sichuan%20Ferment_c1cf0eee.jpg",
     "brief": "american / lunch/dinner",
     "categoryIds": [
       "5",
@@ -19,8 +19,8 @@
   },
   {
     "id": "aeabcfaf-8bc5-4e30-b662-f319e97ca362",
-    "name": "Pulled- Pork Sandwich with Egg Benedict and Hollandaise sauce (Martha Stewart) ..丰富的早餐呢",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/早餐_Pulled- Pork Sandwich with Egg.jpg",
+    "name": "丰富的早餐",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zc_Pulled-%20Pork%20Sa_d1f20b53.jpg",
     "brief": "american / lunch/dinner",
     "categoryIds": [
       "10",
@@ -37,8 +37,8 @@
   },
   {
     "id": "146f2b8e-3ebb-4e8e-a013-bd79d1ffcc98",
-    "name": "Hong Kong Style Spam & Egg Macaroni Soup (午餐肉通粉)",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/午餐_Hong Kong Style Spam & Egg Mac.jpg",
+    "name": "午餐肉通粉",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/wc_Hong%20Kong%20Style_6e6d2b3c.jpg",
     "brief": "italian / lunch/dinner",
     "categoryIds": [
       "11",
@@ -55,8 +55,8 @@
   },
   {
     "id": "dabcf6da-4deb-4936-9ffc-8c17560563ea",
-    "name": "Chinese Omelette with Lettuce (蔬菜大蛋餅)",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/蔬菜_Chinese Omelette with Lettuce .jpg",
+    "name": "蔬菜大蛋餅",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Chinese%20Omelett_acda918b.jpg",
     "brief": "chinese / breakfast",
     "categoryIds": [
       "31",
@@ -73,8 +73,8 @@
   },
   {
     "id": "39daaccb-433e-4f96-b76b-58557a720de9",
-    "name": "Sauteed Chard Pasta 蔬菜意大利面 recipes",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/蔬菜_Sauteed Chard Pasta 蔬菜意大利面 rec_1.jpg",
+    "name": "蔬菜意大利面",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Sauteed%20Chard%20P_5542eb57.jpg",
     "brief": "italian / lunch/dinner",
     "categoryIds": [
       "31",
@@ -91,7 +91,7 @@
   },
   {
     "id": "452a019e-1b6b-4eff-99d8-36d622523f9b",
-    "name": "Chicken and Shrimp Rice Porridge - Congee 粥 'Zhou' Recipe",
+    "name": "粥",
     "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/粥_Chicken and Shrimp Rice Porrid.jpg",
     "brief": "chinese / lunch/dinner",
     "categoryIds": [
@@ -109,8 +109,8 @@
   },
   {
     "id": "101fe859-b0ad-49a0-9005-442848432abe",
-    "name": "Century Egg and Pork Congee (皮蛋瘦肉粥)",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/粥_Century Egg and Pork Congee (皮_1.jpg",
+    "name": "皮蛋瘦肉粥",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/z_Century%20Egg%20and_ece72fa2.jpg",
     "brief": "chinese / lunch/dinner",
     "categoryIds": [
       "32",
