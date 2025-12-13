@@ -19,8 +19,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234601",
-    "name": "家常红烧肉（精细版）",
-    "imageSrc": "placeholder_image_all_1_detail",
+    "name": "家常红烧肉",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/poke_belly.png",
     "brief": "肥而不腻，色泽红亮，肉皮软糯，入口即化的经典中餐宴客菜。",
     "categoryIds": ["1", "7", "20", "12"],
     "difficulty": "中等",
@@ -33,13 +33,13 @@
       "**【上色煸炒】**：立即倒入沥干的五花肉块，转中大火快速翻炒，使肉块均匀裹上一层糖色，同时煸出多余油脂（约2分钟）。",
       "**【调味炖煮】**：加入剩余5片姜片、八角和桂皮。沿着锅边倒入2汤匙生抽和1汤匙老抽，以及1汤匙料酒，翻炒均匀。倒入足量的热水（必须是热水，冷水会使肉质变硬），水量需没过肉块约1-2厘米。",
       "**【焖制软糯】**：大火烧开后尝一下味道，调整至满意，然后立即转最小火，盖上锅盖焖煮60-90分钟，直到肉质达到您喜欢的软糯程度。",
-      "**【大火收汁】**：开盖，将火候转至中大火，快速翻炒收汁。持续翻炒避免粘锅，待汤汁变得浓稠油亮，紧密地包裹在肉块上即可关火出锅。撒上少量葱花（食谱中未列出，可选）点缀。"
+      "**【大火收汁】**：开盖，将火候转至中大火，快速翻炒收汁。持续翻炒避免粘锅，待汤汁变得浓稠油亮，紧密地包裹在肉块上即可关火出锅。"
     ]
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234602",
-    "name": "葱油拌面（上海风味）",
-    "imageSrc": "placeholder_image_fast_1_detail",
+    "name": "葱油拌面",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Scallion_oil_noodles.jpg",
     "brief": "香气扑鼻，面条劲道，操作极简的上海特色快手主食。",
     "categoryIds": ["2", "11", "28", "7"],
     "difficulty": "简单",
@@ -56,7 +56,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234603",
     "name": "清淡海鲜冬瓜汤",
-    "imageSrc": "placeholder_image_soup_1_detail",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Seafood_WinterMelon_Soup.png",
     "brief": "口味清淡，汤鲜味浓，具有消暑利湿功效的家常汤羹。",
     "categoryIds": ["3", "7", "30", "25"],
     "difficulty": "简单",
@@ -67,13 +67,13 @@
       "**【熬煮底汤】**：将1000毫升清水和泡干贝的水一起倒入锅中，放入姜丝和撕好的干贝丝，大火烧开后转中火煮10分钟，让干贝的鲜味充分融入汤中。",
       "**【加入冬瓜】**：将冬瓜块放入汤中。转中火继续煮10-15分钟，直到冬瓜块变软、呈半透明状，口感沙沙的。",
       "**【加入虾仁调味】**：转大火，将虾仁放入汤中，轻轻搅拌。虾仁非常容易熟，煮至其颜色完全变红、并略微卷曲即可（约1-2分钟）。",
-      "**【出锅】**：加入适量的盐调味（先少量，不够再加）。汤再次滚开后立即关火，撒上葱花即可出锅。此汤追求清淡原味，无需添加鸡精或味精。"
+      "**【出锅】**：加入适量的盐调味（先少量，不够再加）。汤再次滚开后立即关火，出锅。此汤追求清淡原味，无需添加鸡精或味精。"
     ]
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234604",
-    "name": "素烧金针菇（蚝油版）",
-    "imageSrc": "placeholder_image_vege_1_detail",
+    "name": "素烧金针菇",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/braised_enoki_mushrooms.png",
     "brief": "鲜嫩入味，口感脆滑，低脂快手的素食代表菜。",
     "categoryIds": ["4", "7", "17"],
     "difficulty": "简单",
@@ -88,8 +88,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234605",
-    "name": "麻婆豆腐（川味经典）",
-    "imageSrc": "placeholder_image_sichuan_1_detail",
+    "name": "麻婆豆腐",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/mopo_tofu.png",
     "brief": "麻辣鲜香，烫口滑嫩，超级下饭的川菜经典代表作。",
     "categoryIds": ["5", "7", "12"],
     "difficulty": "中等",
@@ -105,8 +105,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234606",
-    "name": "白灼虾（粤式做法）",
-    "imageSrc": "placeholder_image_cantonese_1_detail",
+    "name": "白灼虾",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/boiled_shrimp.png",
     "brief": "以最简单的方式保留虾肉的极致鲜甜，粤菜对食材本味的尊重。",
     "categoryIds": ["6", "30", "2"],
     "difficulty": "简单",
@@ -122,8 +122,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234607",
-    "name": "可乐鸡翅（家庭版）",
-    "imageSrc": "placeholder_image_home_1_detail",
+    "name": "可乐鸡翅",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Cola_Chicken.png",
     "brief": "色泽红亮，咸甜适中，是深受儿童喜爱的家常快手菜。",
     "categoryIds": ["7", "2", "20", "33"],
     "difficulty": "简单",
@@ -139,8 +139,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234608",
-    "name": "葱烧海参（鲁菜）",
-    "imageSrc": "placeholder_image_shandong_1_detail",
+    "name": "葱烧海参",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sea_cucumber_with_scallions.png",
     "brief": "葱香浓郁，海参软糯入味，是鲁菜中的经典高档海鲜菜。",
     "categoryIds": ["8", "30", "12"],
     "difficulty": "高级",
@@ -157,8 +157,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234609",
-    "name": "凉拌腐竹木耳（清爽版）",
-    "imageSrc": "placeholder_image_salad_1_detail",
+    "name": "凉拌腐竹木耳",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/TofuSkin_and_WoodEarMushroom%20.png",
     "brief": "清爽脆口，口感层次丰富，健康低脂的素食凉菜。",
     "categoryIds": ["9", "4", "17"],
     "difficulty": "简单",
@@ -174,8 +174,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234610",
-    "name": "皮蛋瘦肉粥（隔夜饭快手版）",
-    "imageSrc": "placeholder_image_porridge_1_detail",
+    "name": "皮蛋瘦肉粥",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/CenturyEgg_LeanPork_Congee.png",
     "brief": "清淡软糯，米香浓郁，经典港式早餐或宵夜。",
     "categoryIds": ["10", "32", "2"],
     "difficulty": "简单",
@@ -191,25 +191,25 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234611",
-    "name": "牛肉炒河粉（广式干炒）",
-    "imageSrc": "placeholder_image_lunch_1_detail",
-    "brief": "镬气十足，河粉劲道入味，酱香浓郁的广式经典午餐。",
+    "name": "潮汕牛肉炒河粉",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Beef_stir-fried_RiceNoodles.png",
+    "brief": "浓郁的沙茶酱香结合牛肉的滑嫩和芥兰的清脆，镬气十足，是经典的潮汕风味主食。",
     "categoryIds": ["11", "28", "7"],
     "difficulty": "中等",
     "time": "20分钟",
-    "ingredients": "新鲜河粉: 300克\n牛肉（牛里脊）: 150克 (切片)\n豆芽: 100克\n洋葱: 1/4个 (切丝)\n葱段: 适量\n**【腌肉料】**：生抽 1汤匙、淀粉 1茶匙、食用油 1茶匙\n**【酱汁】**：老抽 1汤匙、生抽 1汤匙、蚝油 1汤匙、白糖 1/2茶匙",
+    "ingredients": "新鲜河粉: 300克 (选用较宽、较薄的河粉)\n牛肉（牛里脊或嫩肉部位）: 150克 (切薄片)\n芥兰: 100克 (切段，用作配菜)\n**【腌肉料】**：小苏打 1/4茶匙 (嫩肉关键)、生抽 1汤匙、淀粉 1茶匙、食用油 1茶匙\n**【酱汁】**：沙茶酱 2汤匙 (正宗潮汕味)、老抽 1/2汤匙 (上色)、生抽 1汤匙、白糖 1/2茶匙、清水 1汤匙",
     "steps": [
-      "**【前期备菜】**：牛肉切薄片，用腌肉料抓匀腌制15分钟。河粉抖散（不要过水），避免粘连。豆芽、洋葱丝和葱段准备好。将酱汁中的调料混合均匀。",
-      "**【滑炒牛肉】**：锅中多放油，大火烧至冒烟。放入牛肉片，快速滑炒至变色、八成熟，立即盛出备用（保留嫩度）。",
-      "**【炒制配菜】**：锅中留少量底油，放入洋葱丝、豆芽和葱段，大火爆炒30秒至出香味。",
-      "**【炒粉调味】**：倒入河粉，迅速翻炒1分钟，将河粉炒热，加入酱汁，用大火快速翻炒，使河粉均匀上色。",
-      "**【回锅收尾】**：倒入滑炒好的牛肉，快速颠锅或翻炒均匀（约30秒）。立刻关火，保证牛肉嫩度，河粉镬气十足。"
+      "**【前期备菜与腌制】**：牛肉切成均匀的薄片。先加入**小苏打**和清水（少量，约1汤匙）抓匀，使牛肉充分吸收水分。然后加入生抽、淀粉和食用油，抓匀腌制**15分钟**（小苏打是潮汕牛肉嫩滑的秘诀，腌制时间不宜过长）。芥兰洗净后切成约4厘米的段。河粉抖散（切勿过水，避免湿黏）。酱汁所有调料混合均匀备用。",
+      "**【滑炒牛肉】**：锅中多倒入食用油（约50毫升），转**大火**烧至冒烟（油温约180°C）。放入腌制好的牛肉片，快速滑炒**约30秒**。当牛肉片表面变色、大部分达到八成熟时，立即盛出备用（这是保证嫩度的关键）。锅中留少量底油。",
+      "**【爆炒芥兰】**：锅中留的底油继续烧热，放入芥兰段，转**大火**快速翻炒**30-45秒**。炒至芥兰翠绿，微微断生，保持其清脆口感。然后将芥兰推至锅边。",
+      "**【炒粉调味】**：倒入新鲜河粉，转**大火**，快速翻炒约1分钟，将河粉炒热炒散。将事先混合好的沙茶酱汁倒入锅中，快速翻炒，使河粉均匀上色、裹上沙茶酱（此过程需保持大火并快速翻动，以增加镬气）。",
+      "**【回锅收尾】**：倒入滑炒好的牛肉和爆炒好的芥兰，快速颠锅或翻炒均匀（约30秒）。立刻关火，保证牛肉嫩度。成品要求河粉色泽均匀、不粘不碎、镬气十足，且牛肉滑嫩。"
     ]
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234612",
-    "name": "清蒸鲈鱼（家宴）",
-    "imageSrc": "placeholder_image_dinner_2_detail",
+    "name": "清蒸鲈鱼",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Steamed_seabass.png",
     "brief": "肉质细嫩，汁水鲜美，原汁原味的宴客经典菜，讲究火候和新鲜度。",
     "categoryIds": ["12", "30", "7"],
     "difficulty": "中等",
@@ -224,8 +224,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234613",
-    "name": "家常凉皮（陕西风味）",
-    "imageSrc": "placeholder_image_snack_1_detail",
+    "name": "家常凉皮",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Liangpi.png",
     "brief": "酸辣爽滑，劲道弹牙，夏天不可或缺的西北特色小吃。",
     "categoryIds": ["13", "9"],
     "difficulty": "高级",
@@ -242,7 +242,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234614",
     "name": "原味葡式蛋挞",
-    "imageSrc": "placeholder_image_dessert_1_detail",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Eggtarts.png",
     "brief": "外皮酥脆，内馅嫩滑，奶香浓郁，经典的广式甜点。",
     "categoryIds": ["14"],
     "difficulty": "中等",
@@ -258,8 +258,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234615",
-    "name": "红枣桂圆枸杞茶（养生）",
-    "imageSrc": "placeholder_image_health_1_detail",
+    "name": "红枣桂圆枸杞茶",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Reddate_%20longan_goji_tea.png",
     "brief": "暖身补气，滋阴养颜，尤其适合体虚气弱人士的温和养生茶饮。",
     "categoryIds": ["15", "18"],
     "difficulty": "简单",
@@ -269,13 +269,13 @@
       "**【前期备料】**：红枣洗净，最好用刀划开几道或去核，便于营养和味道释放。桂圆去壳。枸杞和姜片洗净。",
       "**【煮制】**：将红枣、桂圆、姜片放入养生壶或锅中，加入1000毫升清水。大火烧开后，转小火继续煮15分钟。",
       "**【调味】**：加入枸杞和红糖，搅拌至红糖完全融化即可关火。",
-      "**【饮用】**：趁热饮用，或放凉后饮用。注意：煮好的红枣和桂圆也可以一同食用。"
+      "**【饮用】**：趁热饮用，或放凉后饮用。"
     ]
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234616",
-    "name": "山楂红糖水（健脾）",
-    "imageSrc": "placeholder_image_stomach_1_detail",
+    "name": "山楂红糖水",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Hawthorn_BrownSugar_water.png",
     "brief": "酸甜开胃，活血化瘀，特别适合饭后消食和女性温补。",
     "categoryIds": ["16", "15"],
     "difficulty": "简单",
@@ -291,7 +291,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234617",
     "name": "鸡胸肉能量沙拉",
-    "imageSrc": "placeholder_image_fit_1_detail",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/ChickenBreast_Energy_Salad.png",
     "brief": "高蛋白低脂肪，搭配丰富蔬菜，是减脂健身期的理想主食。",
     "categoryIds": ["17", "9", "2", "20"],
     "difficulty": "简单",
@@ -307,8 +307,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234618",
-    "name": "银耳莲子羹（滋阴）",
-    "imageSrc": "placeholder_image_beauty_1_detail",
+    "name": "银耳莲子羹",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Whitefungus_LotusSeed_soup.png",
     "brief": "口感软糯粘稠，滋阴润燥，是秋季和冬季常饮的美容养颜甜品。",
     "categoryIds": ["18", "3", "19"],
     "difficulty": "中等",
@@ -324,7 +324,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234619",
     "name": "党参红枣乌鸡汤",
-    "imageSrc": "placeholder_image_kidney_1_detail",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Codonopsis_red%20dates_blackchicken_soup.png",
     "brief": "药膳滋补汤，具有滋阴补肾、补气养血的功效。",
     "categoryIds": ["19", "3", "15"],
     "difficulty": "高级",
@@ -339,8 +339,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234620",
-    "name": "手撕包菜炒腊肉（肉类）",
-    "imageSrc": "placeholder_image_meat_1_detail",
+    "name": "手撕包菜炒腊肉",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Stir-friedCabbage%20_CuredPork.png",
     "brief": "腊肉醇香，包菜脆爽入味，咸香可口的下饭快手菜。",
     "categoryIds": ["20", "7", "2"],
     "difficulty": "简单",
@@ -355,8 +355,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234621",
-    "name": "玉米面红枣发糕（粗粮）",
-    "imageSrc": "placeholder_image_grain_1_detail",
+    "name": "玉米面红枣发糕",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Cornmeal_RedDate_SteamedCake.png",
     "brief": "松软香甜，粗细粮搭配，口感蓬松的健康主食。",
     "categoryIds": ["21", "28", "10"],
     "difficulty": "中等",
@@ -371,8 +371,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234622",
-    "name": "牛奶鸡蛋布丁（奶制品）",
-    "imageSrc": "placeholder_image_dairy_1_detail",
+    "name": "牛奶鸡蛋布丁",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Milk_EggPudding.png",
     "brief": "口感嫩滑，奶香浓郁，制作简单，适合作为下午茶或甜点。",
     "categoryIds": ["22", "14", "33"],
     "difficulty": "简单",
@@ -388,8 +388,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234623",
-    "name": "南瓜小米粥（秋季时令）",
-    "imageSrc": "placeholder_image_autumn_1_detail",
+    "name": "南瓜小米粥",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Pumpkin_MilletPorridge.png",
     "brief": "软糯清甜，色泽金黄，健脾养胃，适合秋季食用。",
     "categoryIds": ["23", "32", "16"],
     "difficulty": "简单",
@@ -404,8 +404,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234624",
-    "name": "荠菜炒年糕（春季时令）",
-    "imageSrc": "placeholder_image_spring_1_detail",
+    "name": "荠菜炒年糕",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Stir-friedRiceCake_shepherd'sPurse.png",
     "brief": "荠菜清香与年糕的软糯完美结合，是江南地区春季的经典时令菜。",
     "categoryIds": ["24", "7", "28"],
     "difficulty": "中等",
@@ -420,8 +420,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234625",
-    "name": "传统酸梅汤（夏季时令）",
-    "imageSrc": "placeholder_image_summer_1_detail",
+    "name": "传统酸梅汤",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/SourPlum_soup.png",
     "brief": "酸甜解渴，消暑生津，夏季自制饮品的最佳选择。",
     "categoryIds": ["25"],
     "difficulty": "简单",
@@ -436,8 +436,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234626",
-    "name": "清炖萝卜羊肉汤（冬季时令）",
-    "imageSrc": "placeholder_image_winter_1_detail",
+    "name": "清炖萝卜羊肉汤",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Radish_mutton_soup.png",
     "brief": "暖身驱寒，滋补温胃，汤色奶白鲜美，冬季进补佳品。",
     "categoryIds": ["26", "3", "20"],
     "difficulty": "中等",
@@ -452,8 +452,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234627",
-    "name": "锅包肉（东北菜）",
-    "imageSrc": "placeholder_image_dongbei_1_detail",
+    "name": "锅包肉",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/PotPork.png",
     "brief": "外酥里嫩，酸甜可口，是东北菜中最具代表性的一道菜。",
     "categoryIds": ["27", "20", "13"],
     "difficulty": "高级",
@@ -469,8 +469,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234628",
-    "name": "白米饭（主食）",
-    "imageSrc": "placeholder_image_staple_1_detail",
+    "name": "白米饭",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Rice.png",
     "brief": "日常主食，软糯香甜，米香浓郁，制作简单。",
     "categoryIds": ["28", "1"],
     "difficulty": "简单",
@@ -486,7 +486,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234629",
     "name": "清蒸石斑鱼",
-    "imageSrc": "placeholder_image_seafood_1_detail",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Steamed_grouper.png",
     "brief": "肉质鲜美紧致，口感极佳，是高档宴席上的海鲜佳肴。",
     "categoryIds": ["29", "12", "30"],
     "difficulty": "高级",
@@ -501,8 +501,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234630",
-    "name": "清炒芥兰（时令蔬菜）",
-    "imageSrc": "placeholder_image_vegetable_1_detail",
+    "name": "清炒芥兰",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Friedkale.png",
     "brief": "鲜嫩翠绿，清淡健康，广式做法保持蔬菜原味和脆感。",
     "categoryIds": ["31", "2", "4"],
     "difficulty": "简单",
@@ -518,8 +518,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234631",
-    "name": "红豆薏米粥（养生粥）",
-    "imageSrc": "placeholder_image_porridge_2_detail",
+    "name": "红豆薏米粥",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Redbean_Barley_Porridge.png",
     "brief": "祛湿健脾，清热利水，是健康养生的经典粥品。",
     "categoryIds": ["32", "10", "16"],
     "difficulty": "中等",
@@ -534,8 +534,8 @@
   },
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234632",
-    "name": "三文鱼牛油果泥（宝宝辅食）",
-    "imageSrc": "placeholder_image_kid_1_detail",
+    "name": "三文鱼牛油果泥",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Salmon_avocado_puree.png",
     "brief": "富含优质蛋白质和DHA，口感软糯，适合添加辅食初期的婴儿。",
     "categoryIds": ["33"],
     "difficulty": "简单",
@@ -550,8 +550,8 @@
   },
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9213",
-    "name": "地三鲜（素食版）",
-    "imageSrc": "placeholder_image_url_4_1",
+    "name": "地三鲜",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Fresh_groundfood.png",
     "brief": "软糯油润，酱香浓郁，经典家常菜",
     "categoryIds": [
       "4",
@@ -575,7 +575,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9214",
     "name": "香菇青菜包",
-    "imageSrc": "placeholder_image_url_4_2",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Mushroom_Vegetable_Buns.png",
     "brief": "面皮松软，馅料清香，早餐主食",
     "categoryIds": [
       "4",
@@ -599,7 +599,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9215",
     "name": "上汤菠菜",
-    "imageSrc": "placeholder_image_url_4_3",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Spinach_Soup.png",
     "brief": "汤汁咸鲜，菠菜软嫩，滋补快手菜",
     "categoryIds": [
       "4",
@@ -620,7 +620,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9216",
     "name": "素炒三丁",
-    "imageSrc": "placeholder_image_url_4_4",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Fried_Sanding.png",
     "brief": "清脆爽口，色彩丰富，减脂配菜",
     "categoryIds": [
       "4",
@@ -640,8 +640,8 @@
   },
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9217",
-    "name": "麻辣干豆腐（素）",
-    "imageSrc": "placeholder_image_url_4_5",
+    "name": "麻辣干豆腐",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Spicy_Dried_Tofu.png",
     "brief": "筋道有嚼劲，麻辣鲜香，下饭凉菜",
     "categoryIds": [
       "4",
@@ -661,7 +661,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9218",
     "name": "清炒山药木耳",
-    "imageSrc": "placeholder_image_url_4_6",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/yam_fungus.png",
     "brief": "脆爽清淡，健康营养，减脂家常菜",
     "categoryIds": [
       "4",
@@ -683,7 +683,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9219",
     "name": "素烧豆腐",
-    "imageSrc": "placeholder_image_url_4_7",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Grilled_tofu.png",
     "brief": "豆腐软嫩，汤汁浓郁，经典家常菜",
     "categoryIds": [
       "4",
@@ -703,8 +703,8 @@
   },
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9220",
-    "name": "干锅花菜（素）",
-    "imageSrc": "placeholder_image_url_4_8",
+    "name": "干锅花菜",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/DryPot_Cauliflower.png",
     "brief": "干香微焦，麻辣开胃，重口味聚餐",
     "categoryIds": [
       "4",
@@ -727,7 +727,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9221",
     "name": "手撕包菜",
-    "imageSrc": "placeholder_image_url_4_9",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Hand-torn_cabbage.png",
     "brief": "脆爽酸辣，开胃下饭，经典快手菜",
     "categoryIds": [
       "4",
@@ -748,7 +748,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9222",
     "name": "香椿拌豆腐",
-    "imageSrc": "placeholder_image_url_4_10",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Tofu_Toon.png",
     "brief": "软嫩清香，春季时令，清爽凉菜",
     "categoryIds": [
       "4",
@@ -769,7 +769,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9223",
     "name": "油焖春笋",
-    "imageSrc": "placeholder_image_url_4_11",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Braised_bamboo_shoots.png",
     "brief": "鲜嫩咸甜，春季时令，经典江浙菜",
     "categoryIds": [
       "4",
@@ -791,7 +791,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9224",
     "name": "蒜蓉蒸茄子",
-    "imageSrc": "placeholder_image_url_4_12",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/eggplant_MincedGarlic.png",
     "brief": "软糯蒜香，简单健康，家常快手菜",
     "categoryIds": [
       "4",
@@ -814,7 +814,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9225",
     "name": "凉拌苦瓜",
-    "imageSrc": "placeholder_image_url_4_13",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Cold_BitterMelon.png",
     "brief": "脆爽微苦，夏季清热，清爽开胃",
     "categoryIds": [
       "4",
@@ -834,7 +834,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9226",
     "name": "麻酱油麦菜",
-    "imageSrc": "placeholder_image_url_4_14",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Sesame_SauceLettuce.png",
     "brief": "嫩滑麻酱，制作简单，快手凉菜",
     "categoryIds": [
       "4",
@@ -855,7 +855,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9227",
     "name": "蚝油香菇",
-    "imageSrc": "placeholder_image_url_4_15",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Oyster_SauceMushrooms.png",
     "brief": "滑嫩鲜甜，制作简单，家常素菜",
     "categoryIds": [
       "4",
@@ -875,7 +875,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9228",
     "name": "红烧冬瓜",
-    "imageSrc": "placeholder_image_url_4_16",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Braised_wintermelon.png",
     "brief": "软烂入味，夏季清热，口感细腻",
     "categoryIds": [
       "4",
@@ -896,7 +896,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9229",
     "name": "糖醋藕片",
-    "imageSrc": "placeholder_image_url_4_17",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Sweet_Sour%20LotusRootSlices.png",
     "brief": "清脆酸甜，开胃小菜，制作简单",
     "categoryIds": [
       "4",
@@ -918,7 +918,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9230",
     "name": "香干炒芹菜",
-    "imageSrc": "placeholder_image_url_4_18",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/DriedTofu_celery.png",
     "brief": "脆爽劲道，营养搭配，快手家常菜",
     "categoryIds": [
       "4",
@@ -938,8 +938,8 @@
   },
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9231",
-    "name": "翠玉白菜卷（素）",
-    "imageSrc": "placeholder_image_url_4_19",
+    "name": "翠玉白菜卷",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Jade_CabbageRolls.png",
     "brief": "造型美观，馅料鲜香，家宴佳品",
     "categoryIds": [
       "4",
@@ -962,7 +962,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9232",
     "name": "素烩三菇",
-    "imageSrc": "placeholder_image_url_4_20",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Braised_Mushrooms.png",
     "brief": "菌菇鲜美，汤汁浓厚，营养滋补",
     "categoryIds": [
       "4",
@@ -982,8 +982,8 @@
   },
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9233",
-    "name": "回锅肉（正宗川菜）",
-    "imageSrc": "placeholder_image_url_5_1",
+    "name": "回锅肉",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/twice-cooked_pork.png",
     "brief": "焦香酥软，咸鲜辣香，经典川菜",
     "categoryIds": [
       "5",
@@ -1006,7 +1006,7 @@
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9234",
     "name": "辣子鸡丁",
-    "imageSrc": "placeholder_image_url_5_2",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/Spicy_ChickenCubes.png",
     "brief": "外酥里嫩，麻辣干香，聚会佐酒",
     "categoryIds": [
       "5",
@@ -1022,132 +1022,6 @@
       "爆炒：锅中留少量底油，放入姜蒜末爆香，接着放入干辣椒段和花椒，小火煸炒出麻辣香味，注意不要炒焦。",
       "合炒：倒入炸好的鸡丁，大火快速翻炒，让鸡丁充分裹上辣椒和花椒。",
       "调味：加入少量盐和糖调味（可选），翻炒均匀即可出锅。"
-    ]
-  },
-  {
-    "id": "35f1005b-2d0e-4c47-95a3-fa5b56b039c1",
-    "name": "四川泡菜",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/cc_Sichuan%20Ferment_c1cf0eee.jpg",
-    "brief": "酸辣爽脆，开胃下饭，经典川菜",
-    "categoryIds": [
-      "5",
-      "1"
-    ],
-    "difficulty": "中等",
-    "time": "45分钟",
-    "ingredients": "",
-    "steps": [
-      "1. 准备食材：...",
-      "2. 详细步骤请参考：http://redcook.net/2013/10/04/probiotic-pickles-china/",
-      "3. 根据个人口味调整调料"
-    ]
-  },
-  {
-    "id": "aeabcfaf-8bc5-4e30-b662-f319e97ca362",
-    "name": "丰富的早餐",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zc_Pulled-%20Pork%20Sa_d1f20b53.jpg",
-    "brief": "营养丰富，早餐首选，简单易做",
-    "categoryIds": [
-      "10",
-      "1"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "",
-    "steps": [
-      "1. 准备食材：...",
-      "2. 详细步骤请参考：http://my123favourites.blogspot.com/2012/12/pulled-pork-sandwich-with-egg-benedict.html",
-      "3. 根据个人口味调整调料"
-    ]
-  },
-  {
-    "id": "146f2b8e-3ebb-4e8e-a013-bd79d1ffcc98",
-    "name": "午餐肉通粉",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/wc_Hong%20Kong%20Style_6e6d2b3c.jpg",
-    "brief": "意式风味，午餐晚餐，经典主食",
-    "categoryIds": [
-      "11",
-      "1"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "",
-    "steps": [
-      "1. 准备食材：...",
-      "2. 详细步骤请参考：https://food52.com/recipes/32514-hong-kong-style-spam-egg-macaroni-soup",
-      "3. 根据个人口味调整调料"
-    ]
-  },
-  {
-    "id": "dabcf6da-4deb-4936-9ffc-8c17560563ea",
-    "name": "蔬菜大蛋餅",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Chinese%20Omelett_acda918b.jpg",
-    "brief": "中式早餐，营养丰富，简单易做",
-    "categoryIds": [
-      "31",
-      "1"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "",
-    "steps": [
-      "1. 准备食材：...",
-      "2. 详细步骤请参考：http://www.itsmydish.com/chinese-omelette-with-lettuce/",
-      "3. 根据个人口味调整调料"
-    ]
-  },
-  {
-    "id": "39daaccb-433e-4f96-b76b-58557a720de9",
-    "name": "蔬菜意大利面",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/sc_Sauteed%20Chard%20P_5542eb57.jpg",
-    "brief": "意式风味，蔬菜丰富，营养主食",
-    "categoryIds": [
-      "31",
-      "1"
-    ],
-    "difficulty": "中等",
-    "time": "50分钟",
-    "ingredients": "",
-    "steps": [
-      "1. 准备食材：...",
-      "2. 详细步骤请参考：http://teczcape.blogspot.com/2014/04/sauteed-chard-pasta.html",
-      "3. 根据个人口味调整调料"
-    ]
-  },
-  {
-    "id": "452a019e-1b6b-4eff-99d8-36d622523f9b",
-    "name": "粥",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/粥_Chicken and Shrimp Rice Porrid.jpg",
-    "brief": "中式主食，营养暖胃，经典粥品",
-    "categoryIds": [
-      "32",
-      "1"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "",
-    "steps": [
-      "1. 准备食材：...",
-      "2. 详细步骤请参考：http://cookingwithmorgane.com/en/recipe/chicken-and-shrimp-rice-porridge.html",
-      "3. 根据个人口味调整调料"
-    ]
-  },
-  {
-    "id": "101fe859-b0ad-49a0-9005-442848432abe",
-    "name": "皮蛋瘦肉粥",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/z_Century%20Egg%20and_ece72fa2.jpg",
-    "brief": "中式主食，营养暖胃，经典粥品",
-    "categoryIds": [
-      "32",
-      "1"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "",
-    "steps": [
-      "1. 准备食材：...",
-      "2. 详细步骤请参考：http://www.memorabledishes.com/century-egg-and-pork-congee/",
-      "3. 根据个人口味调整调料"
     ]
   }
 ]
