@@ -2,7 +2,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234701",
     "name": "油焖大虾",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/youmen_daxia.png",
     "brief": "鲁菜经典，口味咸甜，色泽红亮，虾肉鲜嫩。",
     "categoryIds": [
       "8",
@@ -22,7 +22,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234702",
     "name": "葱烧蹄筋",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/congshao_tijin.png",
     "brief": "鲁菜高级菜肴，蹄筋软糯，葱香浓郁，胶质丰富。",
     "categoryIds": [
       "8",
@@ -42,7 +42,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234703",
     "name": "糟熘鱼片",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zaoliu_yupian.png",
     "brief": "清淡鲜美，鱼片滑嫩，酒糟香气独特，适合夏季。",
     "categoryIds": [
       "8",
@@ -63,7 +63,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234704",
     "name": "锅塌豆腐",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/guota_doufu.png",
     "brief": "豆腐外焦里嫩，酱汁浓郁，做法简单，下饭佳品。",
     "categoryIds": [
       "8",
@@ -83,7 +83,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234706",
     "name": "老式桃酥",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/taosu.png",
     "brief": "传统中式糕点，口感酥脆，香甜可口。",
     "categoryIds": [
       "9",
@@ -103,7 +103,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234707",
     "name": "鲜肉月饼",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/xianrou_yuebing.png",
     "brief": "外皮酥松，内馅鲜香多汁，苏式月饼的经典代表。",
     "categoryIds": [
       "9",
@@ -125,7 +125,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234708",
     "name": "广式菠萝包",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/boluobao.png",
     "brief": "松软的面包搭配酥脆的菠萝皮，经典的港式茶点。",
     "categoryIds": [
       "9",
@@ -144,7 +144,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234709",
     "name": "红糖核桃吐司",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/hongtang_hetao_tusi.png",
     "brief": "面包松软，红糖和核桃的香味浓郁，营养健康的早餐选择。",
     "categoryIds": [
       "9",
@@ -162,7 +162,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234710",
     "name": "迷你椰蓉塔",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/yerongta.png",
     "brief": "内馅椰香浓郁，口感湿润，挞皮酥脆。",
     "categoryIds": [
       "9",
@@ -181,7 +181,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234711",
     "name": "板栗烧鸡",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/banli_shaoji.png",
     "brief": "秋季时令菜，板栗软糯，鸡肉入味，汤汁浓郁下饭。",
     "categoryIds": [
       "23",
@@ -202,7 +202,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234712",
     "name": "桂花糯米藕",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/guihua_nuomi_ou.png",
     "brief": "传统秋季甜品，软糯香甜，桂花香气浓郁。",
     "categoryIds": [
       "23",
@@ -222,7 +222,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234714",
     "name": "蟹粉豆腐煲",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/xiefen_doufubao.png",
     "brief": "秋季食蟹，蟹粉和豆腐的结合，汤汁浓郁，味道鲜美。",
     "categoryIds": [
       "23",
@@ -242,7 +242,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234717",
     "name": "虾仁滑蛋粥",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/xiaren_huadanzhou.png",
     "brief": "清淡鲜美，虾仁弹牙，鸡蛋滑嫩，适合儿童和早餐。",
     "categoryIds": [
       "32",
@@ -262,7 +262,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234718",
     "name": "红枣银耳莲子粥",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/hongzao_yiner_lianzizhou.png",
     "brief": "滋阴润肺，软糯香甜，经典中式甜粥。",
     "categoryIds": [
       "32",
@@ -280,7 +280,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234719",
     "name": "潮汕生滚鱼片粥",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/shenggun_yupianzhou.png",
     "brief": "汤清米烂，鱼片鲜嫩，清淡养胃的潮汕风味。",
     "categoryIds": [
       "32",
@@ -300,7 +300,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234720",
     "name": "蔬菜杂粮粥",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/shucai_zaliangzhou.png",
     "brief": "营养均衡，富含膳食纤维，适合减脂或养生。",
     "categoryIds": [
       "32",
@@ -320,7 +320,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234721",
     "name": "蒜蓉西兰花",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/suanrong_xilanhua.png",
     "brief": "清淡健康，口感爽脆，快手家常菜。",
     "categoryIds": [
       "4",
@@ -340,7 +340,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234723",
     "name": "蚝油生菜",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/haoyou_shengcai.png",
     "brief": "清爽脆嫩，蚝油汁咸鲜，制作简单快速。",
     "categoryIds": [
       "4",
@@ -359,7 +359,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234724",
     "name": "椒盐玉米粒",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/jiaoyan_yumili.png",
     "brief": "外皮酥脆，内里软糯，椒盐口味香浓。",
     "categoryIds": [
       "4",
@@ -377,7 +377,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234726",
     "name": "西湖牛肉羹",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/niurougeng.png",
     "brief": "清淡鲜美，汤汁顺滑，牛肉粒嫩滑，经典杭帮菜。",
     "categoryIds": [
       "3",
@@ -398,7 +398,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234727",
     "name": "冬瓜排骨汤",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/donggua_paigutang.png",
     "brief": "清热解暑，汤清味鲜，排骨软烂，夏季家常汤品。",
     "categoryIds": [
       "3",
@@ -418,7 +418,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234729",
     "name": "菌菇豆腐汤",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/jungu_doufu_tang.png",
     "brief": "清淡鲜美，营养丰富，菌菇的天然鲜味突出。",
     "categoryIds": [
       "3",
@@ -438,7 +438,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234734",
     "name": "韭菜盒子",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/jiucai_hezi.png",
     "brief": "面皮金黄酥脆，内馅韭菜鲜香，搭配鸡蛋和粉丝，经典北方早点。",
     "categoryIds": [
       "10",
@@ -458,7 +458,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234735",
     "name": "榨菜肉丝面",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zhacai_rousimian.png",
     "brief": "面条劲道，汤汁鲜美，榨菜爽脆开胃，快手方便。",
     "categoryIds": [
       "10",
@@ -479,7 +479,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234736",
     "name": "清蒸多宝鱼",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/qingzheng_duobaoyu.png",
     "brief": "粤菜经典，最大限度保留鱼肉的鲜嫩，原汁原味。",
     "categoryIds": [
       "30",
@@ -498,7 +498,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234737",
     "name": "香辣爬爬虾",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/xiangla_papaxia.png",
     "brief": "口味麻辣鲜香，虾肉入味，壳薄肉多，吮指美味。",
     "categoryIds": [
       "30",
@@ -518,7 +518,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234738",
     "name": "避风塘炒蟹",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/bifengtang_chaoxie.png",
     "brief": "香港经典，蟹肉鲜甜，蒜蓉金沙香脆，焦香可口。",
     "categoryIds": [
       "30",
@@ -537,7 +537,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234739",
     "name": "豉汁蒸排骨",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/chizhi_zhengpaigu.png",
     "brief": "粤式早茶点心，排骨软糯入味，豉汁咸香。",
     "categoryIds": [
       "30",
@@ -556,7 +556,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234740",
     "name": "辣炒蛤蜊",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/lachao_geli.png",
     "brief": "海鲜快手菜，蛤蜊鲜美，汤汁微辣下酒。",
     "categoryIds": [
       "30",
@@ -577,7 +577,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234744",
     "name": "夫妻肺片",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/fuqifeipian.png",
     "brief": "四川经典凉菜，牛头皮、牛心、牛舌等拌以麻辣红油，味道浓郁。",
     "categoryIds": [
       "5",
@@ -598,7 +598,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234746",
     "name": "鸡肉蔬菜沙拉卷",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/jixiongrou_shucai_shalajuan.png",
     "brief": "低卡高蛋白，清爽饱腹，适合快速减脂餐。",
     "categoryIds": [
       "17",
@@ -617,7 +617,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234747",
     "name": "蒸蛋羹",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zhengdangeng.png",
     "brief": "高蛋白，口感嫩滑如布丁，制作简单，适合早餐。",
     "categoryIds": [
       "17",
@@ -636,7 +636,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234748",
     "name": "烤三文鱼芦笋",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/kaosanwenyu_lushun.png",
     "brief": "高蛋白、Omega-3、低碳水，营养全面的减脂主菜。",
     "categoryIds": [
       "17",
@@ -655,7 +655,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234749",
     "name": "魔芋丝炒鸡丝",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/moyusi_chaojisi.png",
     "brief": "低热量，饱腹感强，魔芋丝和鸡丝口感清爽，适合晚餐。",
     "categoryIds": [
       "17",
@@ -675,7 +675,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234750",
     "name": "低脂牛肉卷",
-    "imageSrc": "",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/dizhi_niuroujuan.png",
     "brief": "高蛋白，用烤箱或空气炸锅制作，口味香浓。",
     "categoryIds": [
       "17",
@@ -683,10 +683,10 @@
     ],
     "difficulty": "中等",
     "time": "25分钟 (含腌制)",
-    "ingredients": "牛里脊薄片 200克\n金针菇 100克\n烤肉酱 2汤匙 (低糖)\n黑胡椒 少量",
+    "ingredients": "牛里脊 200克\n金针菇 100克\n烤肉酱 2汤匙 (低糖)\n黑胡椒 少量",
     "steps": [
-      "【处理牛里脊】：将牛里脊薄片洗净，用厨房纸巾擦干水分。如有筋膜，用刀去除。用刀背轻轻拍打肉片，使其更薄更嫩，便于卷制。",
-      "【腌制】：牛肉片展开，抹上少量烤肉酱和黑胡椒，腌制10分钟。",
+      "【处理牛里脊】：将牛里脊洗净切薄片，用厨房纸巾擦干水分。如有筋膜，用刀去除。用刀背轻轻拍打肉片，使其更薄更嫩，便于卷制。",
+      "【腌制】：牛肉片展开，抹上少量烤肉酱和黑胡椒，抓匀腌制10分钟。",
       "【卷制】：金针菇洗净，分成小撮。取一片牛肉片，卷入一撮金针菇，用牙签固定。",
       "【烤制】：烤箱预热200°C。将牛肉卷放入烤盘，烤制10-12分钟，直到牛肉熟透，金针菇变软。",
       "【出炉】：取出，去除牙签，即可享用。"
