@@ -2,171 +2,171 @@
   {
     "id": "1",
     "name": "全部",
-    "iconSrc": "app.media.category_all"
+    "iconSrc": "app.media.ic_all"
   },
   {
     "id": "7",
     "name": "家常菜",
-    "iconSrc": "app.media.category_家常菜"
+    "iconSrc": "app.media.ic_home_cooking"
   },
   {
     "id": "2",
     "name": "快手菜",
-    "iconSrc": "app.media.category_快手菜"
+    "iconSrc": "app.media.ic_quick_dish"
   },
   {
     "id": "3",
     "name": "汤羹",
-    "iconSrc": "app.media.category_汤羹"
+    "iconSrc": "app.media.ic_soup"
   },
   {
     "id": "28",
     "name": "主食",
-    "iconSrc": "app.media.category_主食"
+    "iconSrc": "app.media.ic_staple"
   },
 
   {
-    "id": "11",
-    "name": "午餐",
-    "iconSrc": "app.media.category_午餐"
-  },
-  {
-    "id": "12",
-    "name": "晚餐",
-    "iconSrc": "app.media.category_晚餐"
-  },
-  {
-    "id": "10",
-    "name": "早餐",
-    "iconSrc": "app.media.category_早餐"
-  },
-  {
     "id": "32",
     "name": "粥",
-    "iconSrc": "app.media.category_粥"
+    "iconSrc": "app.media.ic_porridge"
   },
   {
     "id": "21",
     "name": "粗粮",
-    "iconSrc": "app.media.category_粗粮"
+    "iconSrc": "app.media.ic_coarse_grain"
   },
   {
     "id": "20",
     "name": "肉类",
-    "iconSrc": "app.media.category_肉类"
+    "iconSrc": "app.media.ic_meat"
   },
   {
     "id": "31",
     "name": "蔬菜",
-    "iconSrc": "app.media.category_蔬菜"
+    "iconSrc": "app.media.ic_vegetable"
   },
 
   {
     "id": "4",
     "name": "素食",
-    "iconSrc": "app.media.category_素食"
+    "iconSrc": "app.media.ic_vegetarian"
   },
   {
     "id": "30",
     "name": "海鲜",
-    "iconSrc": "app.media.category_海鲜"
+    "iconSrc": "app.media.ic_seafood"
   },
   {
     "id": "9",
     "name": "凉菜沙拉",
-    "iconSrc": "app.media.category_凉菜沙拉"
+    "iconSrc": "app.media.ic_cold_dish_salad"
   },
   {
     "id": "5",
     "name": "川菜",
-    "iconSrc": "app.media.category_川菜"
+    "iconSrc": "app.media.ic_sichuan_cuisine"
   },
   {
     "id": "6",
     "name": "粤菜",
-    "iconSrc": "app.media.category_粤菜"
+    "iconSrc": "app.media.ic_cantonese_cuisine"
   },
 
   {
     "id": "8",
     "name": "鲁菜",
-    "iconSrc": "app.media.category_鲁菜"
+    "iconSrc": "app.media.ic_shandong_cuisine"
   },
   {
     "id": "27",
     "name": "东北菜",
-    "iconSrc": "app.media.category_东北菜"
+    "iconSrc": "app.media.ic_northeast_cuisine"
   },
 
   {
     "id": "13",
     "name": "地方小吃",
-    "iconSrc": "app.media.category_地方小吃"
+    "iconSrc": "app.media.ic_local_snack"
   },
   {
     "id": "14",
     "name": "甜品",
-    "iconSrc": "app.media.category_甜品"
+    "iconSrc": "app.media.ic_dessert"
   },
   {
     "id": "22",
     "name": "奶制品",
-    "iconSrc": "app.media.category_奶制品"
+    "iconSrc": "app.media.ic_dairy"
   },
   {
     "id": "17",
     "name": "减脂健身",
-    "iconSrc": "app.media.category_减脂健身"
+    "iconSrc": "app.media.ic_fitness"
   },
   {
     "id": "26",
     "name": "冬季时令",
-    "iconSrc": "app.media.category_冬季时令"
+    "iconSrc": "app.media.ic_winter_seasonal"
   },
   {
     "id": "23",
     "name": "秋季时令",
-    "iconSrc": "app.media.category_秋季时令"
+    "iconSrc": "app.media.ic_autumn_seasonal"
   },
   {
     "id": "24",
     "name": "春季时令",
-    "iconSrc": "app.media.category_春季时令"
+    "iconSrc": "app.media.ic_spring_seasonal"
   },
   {
     "id": "25",
     "name": "夏季时令",
-    "iconSrc": "app.media.category_夏季时令"
+    "iconSrc": "app.media.ic_summer_seasonal"
   },
   {
     "id": "15",
     "name": "补血益气",
-    "iconSrc": "app.media.category_补血益气"
+    "iconSrc": "app.media.ic_tonic"
   },
   {
     "id": "16",
     "name": "健脾开胃",
-    "iconSrc": "app.media.category_健脾开胃"
+    "iconSrc": "app.media.ic_appetizer"
   },
 
   {
     "id": "18",
     "name": "美容养颜",
-    "iconSrc": "app.media.category_美容养颜"
+    "iconSrc": "app.media.ic_beauty"
   },
   {
     "id": "19",
     "name": "滋阴养肾",
-    "iconSrc": "app.media.category_滋阴养肾"
+    "iconSrc": "app.media.ic_nourishing"
   },
   {
     "id": "29",
     "name": "节日美食",
-    "iconSrc": "app.media.category_中国节日美食"
+    "iconSrc": "app.media.ic_festival_food"
   },
   {
     "id": "33",
     "name": "儿童营养",
-    "iconSrc": "app.media.category_儿童营养"
+    "iconSrc": "app.media.ic_children_nutrition"
+  },
+  {
+    "id": "11",
+    "name": "午餐",
+    "iconSrc": "app.media.ic_lunch"
+  },
+  {
+    "id": "12",
+    "name": "晚餐",
+    "iconSrc": "app.media.ic_dinner"
+  },
+  {
+    "id": "10",
+    "name": "早餐",
+    "iconSrc": "app.media.ic_breakfast"
   }
 ]
