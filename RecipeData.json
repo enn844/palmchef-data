@@ -22,7 +22,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234702",
     "name": "葱烧蹄筋",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/congshao_tijin.png",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/congshao_tijin.webp",
     "brief": "鲁菜高级菜肴，蹄筋软糯，葱香浓郁，胶质丰富。",
     "categoryIds": [
       "8",
@@ -42,7 +42,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234703",
     "name": "糟熘鱼片",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zaoliu_yupian.png",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/zaoliu_yupian.webp",
     "brief": "清淡鲜美，鱼片滑嫩，酒糟香气独特，适合夏季。",
     "categoryIds": [
       "8",
@@ -63,7 +63,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234704",
     "name": "锅塌豆腐",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/guota_doufu.png",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/guota_doufu.webp",
     "brief": "豆腐外焦里嫩，酱汁浓郁，做法简单，下饭佳品。",
     "categoryIds": [
       "8",
@@ -83,7 +83,7 @@
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234706",
     "name": "老式桃酥",
-    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/taosu.png",
+    "imageSrc": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images/recipes/laoshi_taosu.webp",
     "brief": "传统中式糕点，口感酥脆，香甜可口。",
     "categoryIds": [
       "9",
