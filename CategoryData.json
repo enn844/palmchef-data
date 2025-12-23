@@ -20,11 +20,30 @@
     "iconSrc": "app.media.ic_soup"
   },
   {
+    "id": "20",
+    "name": "肉类",
+    "iconSrc": "app.media.ic_meat"
+  },
+  {
     "id": "28",
     "name": "主食",
     "iconSrc": "app.media.ic_staple"
   },
-
+  {
+    "id": "31",
+    "name": "蔬菜",
+    "iconSrc": "app.media.ic_vegetable"
+  },
+  {
+    "id": "27",
+    "name": "东北菜",
+    "iconSrc": "app.media.ic_northeast_cuisine"
+  },
+  {
+    "id": "5",
+    "name": "川菜",
+    "iconSrc": "app.media.ic_sichuan_cuisine"
+  },
   {
     "id": "32",
     "name": "粥",
@@ -35,17 +54,6 @@
     "name": "粗粮",
     "iconSrc": "app.media.ic_coarse_grain"
   },
-  {
-    "id": "20",
-    "name": "肉类",
-    "iconSrc": "app.media.ic_meat"
-  },
-  {
-    "id": "31",
-    "name": "蔬菜",
-    "iconSrc": "app.media.ic_vegetable"
-  },
-
   {
     "id": "4",
     "name": "素食",
@@ -62,27 +70,15 @@
     "iconSrc": "app.media.ic_cold_dish_salad"
   },
   {
-    "id": "5",
-    "name": "川菜",
-    "iconSrc": "app.media.ic_sichuan_cuisine"
-  },
-  {
     "id": "6",
     "name": "粤菜",
     "iconSrc": "app.media.ic_cantonese_cuisine"
   },
-
   {
     "id": "8",
     "name": "鲁菜",
     "iconSrc": "app.media.ic_shandong_cuisine"
   },
-  {
-    "id": "27",
-    "name": "东北菜",
-    "iconSrc": "app.media.ic_northeast_cuisine"
-  },
-
   {
     "id": "13",
     "name": "地方小吃",
