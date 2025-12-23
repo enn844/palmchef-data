@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "timestamp": 1766480784,
+  "timestamp": 1766483221,
   "recipeDataVersion": "1.0.1765534174",
   "categoryDataVersion": "1.0.1765534174",
   "recipeDataUrl": "RecipeData.json",
   "categoryDataUrl": "CategoryData.json",
   "baseUrl": "https://palmchef-data.pages.dev",
-  "imageBaseUrl": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/images"
+  "imageBaseUrl": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/palmchef-images"
 }
