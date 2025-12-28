@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "timestamp":1766832595,
+  "timestamp":1766897752,
   "recipeDataVersion": "1.0.1765534174",
   "categoryDataVersion": "1.0.1765534174",
   "recipeDataUrl": "RecipeData.json",
   "categoryDataUrl": "CategoryData.json",
   "articleDataUrl": "ArticleData.json",
-  "baseUrl": "https://palmchef-data.pages.dev",
-  "imageBaseUrl": "https://pub-bc512af47ad145a48c3642e207e4e369.r2.dev/palmchef-images"
+  "baseUrl": "https://shiyuji.xyz",
+  "imageBaseUrl": "https://shiyuji.xyz/img"
 }
