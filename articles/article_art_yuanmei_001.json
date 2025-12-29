@@ -1,0 +1,18 @@
+{
+  "id": "art_yuanmei_001",
+  "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_001.webp",
+  "title": "“味要入骨”：清代文人的分子料理实验",
+  "brief": "袁枚主张“味要入骨”，反对徒有其表的勾芡。从科学视角看，这是一场关于渗透压与蛋白质变性的精彩实验。",
+  "webUrl": "https://zh.wikipedia.org/wiki/随园食单",
+  "content": "<h2>【原文导读】</h2><p>《随园食单·独用须知》云：“物有本性，不可以此之味，借彼之色……调味者，须使味入骨髓，方为高手。若仅在皮毛，则如优伶之敷粉，虽美而无实。”</p><h2>【今语解读】</h2><p>袁枚是个极通透的“性灵派”饕客。在他眼里，那些只靠浓油赤酱强行糊在表面的做法，无异于拙劣戏子的粉饰。所谓“味要入骨”，讲的是肉质与调味的“深度缠绵”。想象一尊五花肉在砂锅中与盐、糖相遇，调料不应是禁锢食材的锁链，而应像春雨润物，潜行于纤维纹理之间。这种入骨之味，是食材由内而外生发的底蕴。</p>{{IMAGE_0}}<h2>【硬核科学】</h2><div class=\"science-card\"><h3>渗透压平衡：肉类蛋白质的“持水性”实验</h3><p>袁枚笔下的“入骨”，在现代食品物理学中是<strong>渗透压</strong>对肉类<strong>持水性</strong>的重塑：</p><ul><li><strong>盐的电荷博弈：</strong>食盐中的氯离子会增加蛋白质分子间的静电斥力，使紧缩的肌原纤维蛋白膨胀，从而创造出容纳水分的空间。</li><li><strong>糖的质感修正：</strong>糖分子通过氢键捕捉水分子，能有效减缓水分流失，确保“味入”的同时肉质依然湿润。</li><li><strong>扩散平衡：</strong>由于肉类纤维的阻隔，溶质扩散需要充足的时间，这正是袁枚强调“入骨”需下苦功的原因。</li></ul>{{IMAGE_1}}</div><h2>【入骨指南：腌制时间科学对照表】</h2><table style=\"width:100%; border-collapse: collapse;\"><thead><tr style=\"background-color: #f2f2f2;\"><th>食材</th><th>时长</th><th>科学逻辑</th></tr></thead><tbody><tr><td><strong>鱼类海鲜</strong></td><td>15-30分钟</td><td>组织松散，渗透反应极快，过久则变性失弹。</td></tr><tr><td><strong>禽类(鸡鸭)</strong></td><td>2-4小时</td><td>需穿透皮脂层，通过电荷斥力改变持水性。</td></tr><tr><td><strong>猪肉(五花)</strong></td><td>4-8小时</td><td>糖盐协同，通过氢键捕捉水分，味入且汁存。</td></tr><tr><td><strong>牛肉(腱子)</strong></td><td>12-24小时</td><td>纤维致密，需极长时间让溶质扩散至核心。</td></tr></tbody></table><h2>【给食客的建议】</h2><p><strong>建立你的“食材社交观”</strong></p><p>在社交与饮食中，我们应学习袁枚的渗透哲学：<strong>不要做“勾芡式”的社交，而要做“入骨式”的真诚。</strong></p><p>1. <strong>告别表面涂抹：</strong>腌制肉类时请参照上表给予足够时长，让盐和糖完成物理演变。</p><p>2. <strong>少即是多：</strong>减少那些掩盖本味的厚芡。越是优质的食材，越应以“味入骨”的淡雅来体现质感。</p><p>3. <strong>尊重边界：</strong>了解食材的耐受度，过度的盐分会导致细胞皱缩。保持恰当的渗透压，才是最舒适的相处模式。</p>",
+  "sourceUrls": [
+    "https://zh.wikipedia.org/wiki/营养学",
+    "https://zh.wikipedia.org/wiki/健康饮食",
+    "https://zh.wikipedia.org/wiki/食品安全"
+  ],
+  "license": "CC BY-SA 3.0",
+  "images": [
+    "https://shiyuji.xyz/img/Illustration/Illustration_article0_001.webp",
+    "https://shiyuji.xyz/img/Illustration/Illustration_article0_002.webp"
+  ]
+}
