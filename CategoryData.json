@@ -20,6 +20,11 @@
     "iconSrc": "app.media.ic_soup"
   },
   {
+    "id": "26",
+    "name": "冬季时令",
+    "iconSrc": "app.media.ic_winter_seasonal"
+  },
+  {
     "id": "20",
     "name": "肉类",
     "iconSrc": "app.media.ic_meat"
@@ -99,11 +104,7 @@
     "name": "减脂健身",
     "iconSrc": "app.media.ic_fitness"
   },
-  {
-    "id": "26",
-    "name": "冬季时令",
-    "iconSrc": "app.media.ic_winter_seasonal"
-  },
+
   {
     "id": "23",
     "name": "秋季时令",
