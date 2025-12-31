@@ -124,7 +124,7 @@
     "name": "地三鲜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/disanxian.webp",
     "brief": "软糯鲜香，酱汁浓郁，东北经典的家常素菜。",
-    "categoryIds": ["26",
+    "categoryIds": ["26","31",
       "27",
       "7"
     ],
@@ -183,8 +183,7 @@
     "brief": "外酥里嫩，酸甜可口，是东北菜中最具代表性的一道菜。",
     "categoryIds": [
       "27",
-      "20",
-      "13"
+      "20"
     ],
     "difficulty": "高级",
     "time": "40分钟",
@@ -261,8 +260,7 @@
     "brief": "五花肉软糯，栗子甜面，汤汁浓厚，冬季进补的美味。",
     "categoryIds": ["20",
       "26",
-      "12",
-      "9"
+      "12"
     ],
     "difficulty": "高级",
     "time": "1小时40分钟",
@@ -326,8 +324,7 @@
     "brief": "豆腐外焦里嫩，酱汁浓郁，做法简单，下饭佳品。",
     "categoryIds": [
       "8",
-      "7",
-      "18"
+      "7"
     ],
     "difficulty": "简单",
     "time": "25分钟",
@@ -344,7 +341,7 @@
     "name": "素炒三丁",
     "imageSrc": "https://shiyuji.xyz/img/recipes/suchao_sanding.webp",
     "brief": "清脆爽口，色彩丰富，减脂配菜",
-    "categoryIds": [
+    "categoryIds": ["31","17",
       "4",
       "7",
       "2"
@@ -366,7 +363,6 @@
     "imageSrc": "https://shiyuji.xyz/img/recipes/laoshi_taosu.webp",
     "brief": "传统中式糕点，口感酥脆，香甜可口。",
     "categoryIds": [
-      "9",
       "14"
     ],
     "difficulty": "中等",
@@ -386,7 +382,7 @@
     "imageSrc": "https://shiyuji.xyz/img/recipes/xianrou_yuebing.webp",
     "brief": "外皮酥松，内馅鲜香多汁，苏式月饼的经典代表。",
     "categoryIds": [
-      "9",
+      "20",
       "13"
     ],
     "difficulty": "高级",
@@ -408,7 +404,7 @@
     "imageSrc": "https://shiyuji.xyz/img/recipes/boluobao.webp",
     "brief": "松软的面包搭配酥脆的菠萝皮，经典的港式茶点。",
     "categoryIds": [
-      "9",
+      "14",
       "10"
     ],
     "difficulty": "中等",
@@ -427,7 +423,7 @@
     "imageSrc": "https://shiyuji.xyz/img/recipes/hongtang_hetao_tusi.webp",
     "brief": "面包松软，红糖和核桃的香味浓郁，营养健康的早餐选择。",
     "categoryIds": [
-      "9",
+      "28",
       "10"
     ],
     "difficulty": "简单",
@@ -445,7 +441,7 @@
     "imageSrc": "https://shiyuji.xyz/img/recipes/yerongta.webp",
     "brief": "内馅椰香浓郁，口感湿润，挞皮酥脆。",
     "categoryIds": [
-      "9",
+      "10",
       "14"
     ],
     "difficulty": "中等",
@@ -466,8 +462,7 @@
     "brief": "传统秋季甜品，软糯香甜，桂花香气浓郁。",
     "categoryIds": [
       "23",
-      "14",
-      "18"
+      "14"
     ],
     "difficulty": "简单",
     "time": "2小时30分钟",
@@ -582,7 +577,7 @@
     "name": "蒜蓉西兰花",
     "imageSrc": "https://shiyuji.xyz/img/recipes/suanrong_xilanhua.webp",
     "brief": "清淡健康，口感爽脆，快手家常菜。",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "2",
       "17"
@@ -602,7 +597,7 @@
     "name": "蚝油生菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/haoyou_shengcai.webp",
     "brief": "清爽脆嫩，蚝油汁咸鲜，制作简单快速。",
-    "categoryIds": [
+    "categoryIds": ["31","17",
       "4",
       "2"
     ],
@@ -621,9 +616,8 @@
     "name": "椒盐玉米粒",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_yumili.webp",
     "brief": "外皮酥脆，内里软糯，椒盐口味香浓。",
-    "categoryIds": [
-      "4",
-      "18"
+    "categoryIds": ["13",
+      "4"
     ],
     "difficulty": "中等",
     "time": "20分钟",
@@ -821,9 +815,8 @@
     "name": "夫妻肺片",
     "imageSrc": "https://shiyuji.xyz/img/recipes/fuqi_feipian.webp",
     "brief": "四川经典凉菜，牛头皮、牛心、牛舌等拌以麻辣红油，味道浓郁。",
-    "categoryIds": ["20",
-      "5",
-      "19"
+    "categoryIds": ["20","9",
+      "5"
     ],
     "difficulty": "中等",
     "time": "1小时20分钟 (含煮制)",
@@ -941,8 +934,7 @@
     "brief": "街头小吃风味，酱汁浓郁，口感筋道有嚼劲。",
     "categoryIds": [
       "20",
-      "13",
-      "18"
+      "13"
     ],
     "difficulty": "中等",
     "time": "35分钟",
@@ -1062,7 +1054,7 @@
     "name": "蔬菜瘦肉粥",
     "imageSrc":"https://shiyuji.xyz/img/recipes/shucai_shourou_zhou.webp",
     "brief": "营养全面，做法快速，适合早餐或病中食用。",
-    "categoryIds": [
+    "categoryIds": ["28",
       "32",
       "2",
       "17",
@@ -1204,7 +1196,7 @@
     "name": "双皮奶",
     "imageSrc":"https://shiyuji.xyz/img/recipes/shuangpinai.webp",
     "brief": "洁白嫩滑，奶香浓郁，入口即化，经典的粤式甜品。",
-    "categoryIds": [
+    "categoryIds": ["13",
       "22",
       "14",
       "6"
@@ -1243,9 +1235,8 @@
     "name": "酸奶酪蓝莓蛋糕",
     "imageSrc":"https://shiyuji.xyz/img/recipes/suannailao_lanmei_dangao.webp",
     "brief": "清爽的乳酪口味，低糖低卡，适合当作健康甜品。",
-    "categoryIds": [
-      "22",
-      "17"
+    "categoryIds": ["14",
+      "22"
     ],
     "difficulty": "高级",
     "time": "1小时10分钟",
@@ -1266,7 +1257,7 @@
     "name": "芝士焗红薯",
     "imageSrc":"https://shiyuji.xyz/img/recipes/zhishi_juhongshu.webp",
     "brief": "香甜的红薯泥搭配融化的咸香芝士，口感丰富，制作简单。",
-    "categoryIds": [
+    "categoryIds": ["14",
       "22",
       "7"
     ],
@@ -1285,8 +1276,7 @@
     "name": "素烧腐竹",
     "imageSrc":"https://shiyuji.xyz/img/recipes/sushao_fuzhu.webp",
     "brief": "腐竹软韧入味，汤汁浓郁咸香，搭配香菇味道更佳。",
-    "categoryIds": [
-      "18",
+    "categoryIds": ["4",
       "7"
     ],
     "difficulty": "简单",
@@ -1400,7 +1390,7 @@
     "name": "香芒糯米饭",
     "imageSrc":"https://shiyuji.xyz/img/recipes/xiangmang_nuomifan.webp",
     "brief": "浓郁的椰奶味糯米搭配香甜的芒果，是夏季不可错过的泰式风情甜品。",
-    "categoryIds": [
+    "categoryIds": ["28",
       "24",
       "14"
     ],
@@ -1642,7 +1632,6 @@
     "brief": "油条酥脆蓬松，搭配热豆浆，传统中式早餐套餐。",
     "categoryIds": [
       "10",
-      "22",
       "11"
     ],
     "difficulty": "高级",
@@ -1684,7 +1673,6 @@
     "brief": "皮薄汁多，馅料鲜美，一口一个，风味独特。",
     "categoryIds": ["28",
       "10",
-      "13",
       "20"
     ],
     "difficulty": "高级",
@@ -1703,7 +1691,7 @@
     "name": "香辣土豆丝",
     "imageSrc":"https://shiyuji.xyz/img/recipes/xiangla_tudousi.webp",
     "brief": "脆爽可口，酸辣开胃，最简单的午餐快手菜。",
-    "categoryIds": ["21",
+    "categoryIds": ["21","4","31",
       "11",
       "2",
       "7"
@@ -1950,10 +1938,8 @@
     "name": "凉拌腐竹",
     "imageSrc":"https://shiyuji.xyz/img/recipes/liangban_fuzhu.webp",
     "brief": "腐竹滑韧，黄瓜清脆，酸辣开胃，适合搭配各种主食。",
-    "categoryIds": [
-      "19",
-      "2",
-      "18"
+    "categoryIds": ["9",
+      "2"
     ],
     "difficulty": "简单",
     "time": "20分钟",
@@ -1970,8 +1956,7 @@
     "name": "口水鸡",
     "imageSrc":"https://shiyuji.xyz/img/recipes/koushuiji.webp",
     "brief": "麻辣鲜香，鸡肉嫩滑，红油诱人，经典的川味凉菜。",
-    "categoryIds": ["20",
-      "19",
+    "categoryIds": ["20","9",
       "5"
     ],
     "difficulty": "中等",
@@ -1990,7 +1975,6 @@
     "imageSrc":"https://shiyuji.xyz/img/recipes/laocu_huasheng.webp",
     "brief": "花生酥脆，醋汁酸甜，开胃解腻，佐酒佳品。",
     "categoryIds": [
-      "19",
       "2"
     ],
     "difficulty": "简单",
@@ -2008,8 +1992,7 @@
     "name": "凉拌海蜇丝",
     "imageSrc":"https://shiyuji.xyz/img/recipes/liangban_haizhesi.webp",
     "brief": "口感脆爽，酸甜清凉，是宴席上的经典凉菜。",
-    "categoryIds": [
-      "19",
+    "categoryIds": ["9",
       "8"
     ],
     "difficulty": "中等",
@@ -2027,8 +2010,7 @@
     "name": "麻辣牛腱肉",
     "imageSrc":"https://shiyuji.xyz/img/recipes/mala_niujianrou.webp",
     "brief": "牛腱肉筋道入味，麻辣鲜香，是家庭聚会必备的冷盘。",
-    "categoryIds": [
-      "19",
+    "categoryIds": ["9",
       "5",
       "20"
     ],
@@ -2047,7 +2029,7 @@
     "name": "素炒佛手瓜",
     "imageSrc":"https://shiyuji.xyz/img/recipes/chaofoshougua.webp",
     "brief": "口感清脆，味道清甜，是清热解毒的家常素菜。",
-    "categoryIds": [
+    "categoryIds": ["4","31",
       "18",
       "7",
       "2"
@@ -2067,7 +2049,7 @@
     "name": "干煸四季豆",
     "imageSrc":"https://shiyuji.xyz/img/recipes/ganbian_sijidou.webp",
     "brief": "豆角外皮干香起皱，酱香浓郁，下饭绝配。",
-    "categoryIds": [
+    "categoryIds": ["4","31",
       "18",
       "5"
     ],
@@ -2087,7 +2069,7 @@
     "imageSrc":"https://shiyuji.xyz/img/recipes/xianggu_youmianjin.webp",
     "brief": "香菇鲜美，油面筋吸收汤汁后软糯弹牙，浓油赤酱的素菜。",
     "categoryIds": [
-      "18",
+      "12",
       "9"
     ],
     "difficulty": "中等",
@@ -2105,9 +2087,7 @@
     "name": "麻酱菠菜",
     "imageSrc":"https://shiyuji.xyz/img/recipes/majiang_bocai.webp",
     "brief": "菠菜软嫩，麻酱浓郁，口感清爽，快速凉拌。",
-    "categoryIds": [
-      "18",
-      "19",
+    "categoryIds": ["31","4","9",
       "2"
     ],
     "difficulty": "简单",
@@ -2125,8 +2105,7 @@
     "name": "蚝油香菇扒菜心",
     "imageSrc":"https://shiyuji.xyz/img/recipes/haoyou_xianggu_caixin.webp",
     "brief": "菜心碧绿脆嫩，香菇滑润，蚝油汁咸香，色香味俱全。",
-    "categoryIds": [
-      "18",
+    "categoryIds": ["31","4",
       "6",
       "2"
     ],
@@ -2184,9 +2163,8 @@
     "name": "锡纸金针菇",
     "imageSrc":"https://shiyuji.xyz/img/recipes/xizhi_jinzhengu.webp",
     "brief": "金针菇吸饱汤汁，蒜香浓郁，做法简单，零失败的烧烤素菜。",
-    "categoryIds": [
+    "categoryIds": ["4",
       "20",
-      "18",
       "2"
     ],
     "difficulty": "简单",
@@ -2223,9 +2201,8 @@
     "name": "炭烤茄子",
     "imageSrc":"https://shiyuji.xyz/img/recipes/tankao_qiezi.webp",
     "brief": "茄子软烂，蒜蓉酱汁入味，是烧烤摊上经典的素菜主食。",
-    "categoryIds": [
-      "20",
-      "18"
+    "categoryIds": ["31",
+      "20"
     ],
     "difficulty": "简单",
     "time": "25分钟",
@@ -2327,7 +2304,7 @@
     "name": "清炒藕片",
     "imageSrc":"https://shiyuji.xyz/img/recipes/qingchao_oupian.webp",
     "brief": "藕片清脆爽口，清淡开胃，秋季时令佳肴。",
-    "categoryIds": [
+    "categoryIds": ["31","4",
       "23",
       "18",
       "2"
@@ -2449,8 +2426,7 @@
     "brief": "椒麻清爽，鸡肉鲜嫩，是夏季开胃凉菜的首选。",
     "categoryIds": ["20",
       "5",
-      "2",
-      "19"
+      "2"
     ],
     "difficulty": "简单",
     "time": "30分钟",
@@ -2662,7 +2638,7 @@
     "name": "清炒时蔬",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingchao_shishu.webp",
     "brief": "简单健康，保持食材本味，清爽脆嫩。",
-    "categoryIds": [
+    "categoryIds": ["31","4",
       "7",
       "2"
     ],
@@ -2699,10 +2675,9 @@
     "name": "凉拌皮蛋豆腐",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_pidan_doufu.webp",
     "brief": "清凉爽口，简单易做，是夏季餐桌上的快手凉菜。",
-    "categoryIds": [
+    "categoryIds": ["9","4",
       "7",
-      "2",
-      "19"
+      "2"
     ],
     "difficulty": "简单",
     "time": "10分钟",
@@ -2719,7 +2694,7 @@
     "name": "香菇油菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xianggu_youcai.webp",
     "brief": "鲜嫩碧绿，香菇滑嫩，口味清淡的健康快手素菜。",
-    "categoryIds": [
+    "categoryIds": ["31","4",
       "2",
       "7"
     ],
@@ -2779,9 +2754,8 @@
     "name": "凉拌黑木耳",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_muer.webp",
     "brief": "脆爽可口，蒜香酸辣，清爽解腻的夏季快手凉菜。",
-    "categoryIds": [
-      "2",
-      "19"
+    "categoryIds": ["9","4",
+      "2"
     ],
     "difficulty": "简单",
     "time": "10分钟",
@@ -2836,7 +2810,7 @@
     "name": "西红柿蛋花汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_danhua_tang.webp",
     "brief": "简单快手，酸甜可口，清淡解腻。",
-    "categoryIds": [
+    "categoryIds": ["4",
       "3",
       "2"
     ],
@@ -2954,7 +2928,7 @@
     "name": "素炒年糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/chaoniangao.webp",
     "brief": "年糕软糯Q弹，搭配蔬菜，咸鲜可口。",
-    "categoryIds": [
+    "categoryIds": ["4",
       "28",
       "2"
     ],
@@ -2992,7 +2966,7 @@
     "name": "杨枝甘露",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yangzhi_ganlu.webp",
     "brief": "清爽酸甜，芒果和西柚的完美结合，冰镇风味更佳。",
-    "categoryIds": [
+    "categoryIds": ["22",
       "14",
       "6"
     ],
@@ -3050,7 +3024,7 @@
     "name": "芝麻糊",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhimahu.webp",
     "brief": "香浓顺滑，暖胃滋补，老少咸宜的养生甜汤。",
-    "categoryIds": [
+    "categoryIds": ["4",
       "14",
       "10"
     ],
@@ -3070,6 +3044,7 @@
     "imageSrc": "https://shiyuji.xyz/img/recipes/jixiongrou_shala.webp",
     "brief": "高蛋白低脂肪，清爽健康，营养均衡。",
     "categoryIds": [
+      "9",
       "17",
       "2",
       "11"
@@ -3129,7 +3104,7 @@
     "name": "香蕉燕麦粥",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiangjiao_yanmaizhou.webp",
     "brief": "高纤维，饱腹持久，无添加糖的健康早餐。",
-    "categoryIds": [
+    "categoryIds": ["28",
       "17",
       "10",
       "32",
@@ -3259,7 +3234,7 @@
     "name": "白灼虾",
     "imageSrc": "https://shiyuji.xyz/img/recipes/baizhuoxia.webp",
     "brief": "以最简单的方式保留虾肉的极致鲜甜，粤菜对食材本味的尊重。",
-    "categoryIds": [
+    "categoryIds": ["17",
       "6",
       "30",
       "2"
@@ -3283,8 +3258,7 @@
     "categoryIds": [
       "7",
       "2",
-      "20",
-      "33"
+      "20"
     ],
     "difficulty": "简单",
     "time": "30分钟",
@@ -3409,7 +3383,7 @@
     "name": "原味葡式蛋挞",
     "imageSrc": "https://shiyuji.xyz/img/recipes/danta.webp",
     "brief": "外皮酥脆，内馅嫩滑，奶香浓郁，经典的广式甜点。",
-    "categoryIds": [
+    "categoryIds": ["22",
       "14"
     ],
     "difficulty": "中等",
@@ -3548,7 +3522,7 @@
     "name": "玉米面红枣发糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yumimian_hongzao_fagao.webp",
     "brief": "松软香甜，粗细粮搭配，口感蓬松的健康主食。",
-    "categoryIds": [
+    "categoryIds": ["20",
       "21",
       "28",
       "10"
@@ -3610,7 +3584,7 @@
     "name": "荠菜炒年糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jicai_chaoniangao.webp",
     "brief": "荠菜清香与年糕的软糯完美结合，是江南地区春季的经典时令菜。",
-    "categoryIds": [
+    "categoryIds": ["4",
       "24",
       "7",
       "28"
@@ -3630,7 +3604,7 @@
     "name": "传统酸梅汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/suanmeitang.webp",
     "brief": "酸甜解渴，消暑生津，夏季自制饮品的最佳选择。",
-    "categoryIds": [
+    "categoryIds": ["3",
       "25"
     ],
     "difficulty": "简单",
@@ -3750,7 +3724,7 @@
     "name": "香菇青菜包",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xianggu_qingcaibao.webp",
     "brief": "面皮松软，馅料清香，早餐主食",
-    "categoryIds": ["26",
+    "categoryIds": ["26","31",
       "4",
       "10",
       "28"
@@ -3773,7 +3747,7 @@
     "name": "上汤菠菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shangtang_bocai.webp",
     "brief": "汤汁咸鲜，菠菜软嫩，滋补快手菜",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "2",
       "3"
@@ -3877,7 +3851,7 @@
     "name": "手撕包菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shousi_baocai.webp",
     "brief": "脆爽酸辣，开胃下饭，经典快手菜",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "7",
       "2"
@@ -3917,7 +3891,7 @@
     "name": "油焖春笋",
     "imageSrc": "https://shiyuji.xyz/img/recipes/youmen_chunshun.webp",
     "brief": "鲜嫩咸甜，春季时令，经典江浙菜",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "24",
       "13"
@@ -3938,7 +3912,7 @@
     "name": "蒜蓉蒸茄子",
     "imageSrc": "https://shiyuji.xyz/img/recipes/suanrong_zheng_qiezi.webp",
     "brief": "软糯蒜香，简单健康，家常快手菜",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "7",
       "2"
@@ -3959,7 +3933,7 @@
     "name": "凉拌苦瓜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_kugua.webp",
     "brief": "脆爽微苦，夏季清热，清爽开胃",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "9",
       "25"
@@ -3979,7 +3953,7 @@
     "name": "麻酱油麦菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/majiang_youmaicai.webp",
     "brief": "嫩滑麻酱，制作简单，快手凉菜",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "9",
       "2"
@@ -4019,7 +3993,7 @@
     "name": "红烧冬瓜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_donggua.webp",
     "brief": "软烂入味，夏季清热，口感细腻",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "25",
       "7"
@@ -4039,7 +4013,7 @@
     "name": "糖醋藕片",
     "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_oupian.webp",
     "brief": "清脆酸甜，开胃小菜，制作简单",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "9",
       "16"
@@ -4060,7 +4034,7 @@
     "name": "香干炒芹菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xianggan_chaoqincai.webp",
     "brief": "脆爽劲道，营养搭配，快手家常菜",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "7",
       "2"
@@ -4080,7 +4054,7 @@
     "name": "翠玉白菜卷",
     "imageSrc": "https://shiyuji.xyz/img/recipes/cuiyu_baicaijuan.webp",
     "brief": "造型美观，馅料鲜香，家宴佳品",
-    "categoryIds": [
+    "categoryIds": ["31",
       "4",
       "18"
     ],
@@ -4180,8 +4154,7 @@
     "brief": "江苏高邮名产，以‘红沙油’著称。蛋黄通红油亮，质地细沙，口感绵密，咸香诱人。",
     "categoryIds": [
       "7",
-      "11",
-      "22"
+      "11"
     ],
     "difficulty": "简单",
     "time": "30天 (含腌制)",
@@ -4239,7 +4212,7 @@
     "name": "凉拌马兰头",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_malantou.webp",
     "brief": "春天的田野清香。马兰头的野性爽口与香干的细腻融合，清热利湿。",
-    "categoryIds": [
+    "categoryIds": ["9",
       "4",
       "31",
       "24"
@@ -4493,7 +4466,6 @@
     "brief": "外皮焦香松脆，内里软糯细腻，搭配黑胡椒和迷迭香，是经典的西式配菜。",
     "categoryIds": [
       "7",
-      "31",
       "2"
     ],
     "difficulty": "简单",
@@ -4512,7 +4484,7 @@
     "name": "凉拌荠菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_jicai.webp",
     "brief": "春季时令佳肴，荠菜清香爽口，搭配简单的调味，保留原汁原味。",
-    "categoryIds": [
+    "categoryIds": ["9",
       "24",
       "2",
       "31"
@@ -4555,7 +4527,7 @@
     "name": "清蒸霉千张",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_meiqianzhang.webp",
     "brief": "绍兴传统名菜，闻着臭吃着香，质地软糯，鲜美入味。",
-    "categoryIds": ["11",
+    "categoryIds": ["11","4",
       "7",
       "18",
       "31"
@@ -4578,7 +4550,6 @@
     "brief": "绍兴传统名产，色泽红润，质地细腻，咸鲜微甜，酒香浓郁。",
     "categoryIds": ["10",
       "7",
-      "18",
       "26"
     ],
     "difficulty": "高级",
@@ -4598,7 +4569,7 @@
     "name": "扬州烫干丝",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yangzhou_tang_gansi.webp",
     "brief": "淮扬菜经典早茶名点，口感绵软，汤汁鲜美，豆香浓郁。",
-    "categoryIds": [
+    "categoryIds": ["4",
       "7",
       "18",
       "2",
@@ -4707,11 +4678,10 @@
     "name": "烫马兰头拌香干",
     "imageSrc": "https://shiyuji.xyz/img/recipes/tangmalantou_banxianggan.webp",
     "brief": "江南春季极具代表性的凉拌菜，马兰头清香爽脆，搭配豆干的醇厚，口感清新解腻。",
-    "categoryIds": [
+    "categoryIds": ["9",
       "4",
       "7",
-      "24",
-      "18"
+      "24"
     ],
     "difficulty": "简单",
     "time": "15分钟",
@@ -4730,7 +4700,7 @@
     "name": "清炒春韭",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingchao_chunjiu.webp",
     "brief": "春季限定美味，口感脆嫩，辛香浓郁，是一道做法极简且富有春气息的快手菜。",
-    "categoryIds": [
+    "categoryIds": ["4",
       "24",
       "31",
       "7",
@@ -4773,7 +4743,7 @@
     "name": "腌笃鲜（纯素版）",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yanduxian.webp",
     "brief": "经典江南名菜的纯素演绎，以鲜笋、咸笋和百叶结交织出不输肉类的醇厚鲜美。",
-    "categoryIds": [
+    "categoryIds": ["31",
       "3",
       "4",
       "24"
@@ -4834,7 +4804,7 @@
     "name": "鲜笋白粥",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiansun_baizhou.webp",
     "brief": "春季时令佳肴，竹笋的清脆与大米的甜润完美融合，清新去腻，养胃润燥。",
-    "categoryIds": ["2","3","24","10","31","11","32"],
+    "categoryIds": ["2","3","24","10","31","11","32","28"],
     "difficulty": "简单",
     "time": "45分钟",
     "ingredients": "新鲜春笋 150克\n大米 100克\n清水 1000毫升\n盐 适量\n芝麻油 少许\n葱花 少许",
@@ -5001,9 +4971,8 @@
     "name": "松茸素烧",
     "imageSrc": "https://shiyuji.xyz/img/recipes/songrong_sushao.webp",
     "brief": "高端食材的极简做法，最大程度保留松茸的天然鲜香，口感如鲍鱼般滑嫩。",
-    "categoryIds": ["12",
+    "categoryIds": ["12","4",
       "7",
-      "31",
       "23"
     ],
     "difficulty": "简单",
@@ -5151,7 +5120,7 @@
     "name": "荞麦凉面",
     "imageSrc": "https:///shiyuji.xyz/img/recipes/qiaomai_liangmian.webp",
     "brief": "低脂健康的夏日清爽主食，荞麦香气浓郁，口感筋道，适合减脂人群。",
-    "categoryIds": ["28", "17", "25", "2","21"],
+    "categoryIds": ["28", "17", "25", "2","21","9"],
     "difficulty": "简单",
     "time": "15分钟",
     "ingredients": "荞麦面: 100克\n黄瓜: 50克\n胡萝卜: 30克\n鸡蛋: 1个\n生抽: 2汤匙\n陈醋: 1汤匙\n蒜泥: 1茶匙\n芝麻酱/花生酱: 1汤匙 (可选)\n辣椒油: 少许",
@@ -5236,7 +5205,7 @@
     "name": "拔丝芋头",
     "imageSrc": "https:///shiyuji.xyz/img/recipes/basi_yutou.webp",
     "brief": "鲁菜甜食代表，芋头外酥里嫩，糖丝细长持久，趣味与美味并存。",
-    "categoryIds": ["14", "8", "12","21"],
+    "categoryIds": ["14", "8", "12","21","31"],
     "difficulty": "困难",
     "time": "30分钟",
     "ingredients": "芋头: 500克\n白糖: 120克\n食用油: 适量\n熟白芝麻: 少许",
@@ -5253,7 +5222,7 @@
     "name": "燕麦牛奶蒸蛋",
     "imageSrc": "https:///shiyuji.xyz/img/recipes/yanmai_niunai_zhengdan.webp",
     "brief": "像布丁一样细腻，牛奶与鸡蛋的鲜甜中带有燕麦的嚼劲，健康又低卡。",
-    "categoryIds": ["22", "14", "17", "2","21"],
+    "categoryIds": ["22", "14", "2","21"],
     "difficulty": "简单",
     "time": "15分钟",
     "ingredients": "鸡蛋: 2个\n纯牛奶: 250ml\n即食燕麦片: 20克\n蜂蜜/葡萄干: 适量",
@@ -5321,7 +5290,7 @@
     "name": "藜麦时蔬沙拉",
     "imageSrc": "https:///shiyuji.xyz/img/recipes/limai_shisu_shala.webp",
     "brief": "超模同款的减脂全营养餐，口感清脆多汁，饱腹感极强。",
-    "categoryIds": ["17", "12", "31","21"],
+    "categoryIds": ["17", "12", "31","21","9","4"],
     "difficulty": "简单",
     "time": "20分钟",
     "ingredients": "白藜麦: 50克\n圣女果: 8颗\n黄瓜: 1/2根\n水果玉米粒: 30克\n牛油果: 1/2个\n油醋汁: 橄榄油2勺、柠檬汁1勺、黑胡椒少许、盐少许",
@@ -5338,7 +5307,7 @@
     "name": "糙米南瓜盅",
     "imageSrc": "https:///shiyuji.xyz/img/recipes/caomi_nanguazong.webp",
     "brief": "将浓郁的南瓜香锁在糙米中，造型别致，是粗粮细作的健康典范。",
-    "categoryIds": ["28", "12", "23","21"],
+    "categoryIds": ["28", "12", "23","21","31","4"],
     "difficulty": "中等",
     "time": "50分钟",
     "ingredients": "贝贝南瓜: 1个\n糙米: 60克\n糯米: 20克（增加软糯度）\n腊肉丁/玉米粒: 少许（增香）",
@@ -5355,7 +5324,7 @@
     "name": "排骨焖土豆块",
     "imageSrc": "https:///shiyuji.xyz/img/recipes/paigu_men_tudou.webp",
     "brief": "家常经典，土豆炖至边缘边缘化开，包裹着排骨的肉香，软糯入味。",
-    "categoryIds": ["7", "20", "31","21"],
+    "categoryIds": ["7", "20","21"],
     "difficulty": "简单",
     "time": "50分钟",
     "ingredients": "猪肋排: 500克\n黄心土豆: 2个\n生抽: 2勺\n老抽: 1勺\n冰糖: 4颗\n姜片/葱结/八角: 适量",
