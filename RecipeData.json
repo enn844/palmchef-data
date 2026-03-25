@@ -8435,5 +8435,36 @@
         "imageSrc":"https:///shiyuji.xyz/img/steps/qiaomai_jianbing_guozi_step3.webp"
       }
     ]
+  },
+  {
+    "id": "s9p1r2i3-n4g5-6s7o-u8p9-t0a1n2g3b4c5",
+    "name": "春笋桑叶瘦肉汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/chunsun_sangye_shouroutang.webp",
+    "brief": "春日限定的清油解腻汤品，春笋的脆嫩搭配桑叶的清香，鲜甜滋润。",
+    "categoryIds": [
+      "24",
+      "3",
+      "7",
+      "2"
+    ],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "新鲜春笋: 200克\n桑叶/枸杞叶: 50克\n瘦肉片: 100克\n陈皮: 1角\n生粉: 少量\n生油: 少量\n盐: 适量",
+    "steps": [
+      {
+        "text": "【春笋去涩】：春笋切滚刀块，开水下锅加少许盐焯水3分钟，去除草酸。"
+      },
+      {
+        "text": "【肉片码味】：肉片切薄，用少量生粉和生油抓匀，保持滑嫩。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chunsun_sangye_shouroutang_step1.webp"
+      },
+      {
+        "text": "【入锅快滚】：砂锅中水开后放入春笋和陈皮，大火煮10分钟激发鲜味。"
+      },
+      {
+        "text": "【入叶收尾】：最后放入桑叶和肉片，肉片变色即关火，利用余温烫熟桑叶，锁住维生素。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chunsun_sangye_shouroutang_step2.webp"
+      }
+    ]
   }
 ]
