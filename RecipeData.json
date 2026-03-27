@@ -38,8 +38,7 @@
     "name": "豉汁蒸排骨",
     "imageSrc": "https://shiyuji.xyz/img/recipes/chizhi_zhengpaigu.webp",
     "brief": "粤式早茶点心，排骨软糯入味，豉汁咸香。",
-    "categoryIds": [
-      "30",
+    "categoryIds": ["10","20","7",
       "6"
     ],
     "difficulty": "中等",
@@ -683,7 +682,7 @@
     "name": "鲜肉月饼",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xianrou_yuebing.webp",
     "brief": "外皮酥松，内馅鲜香多汁，苏式月饼的经典代表。",
-    "categoryIds": [
+    "categoryIds": ["29",
       "20",
       "13"
     ],
@@ -810,7 +809,7 @@
     "name": "桂花糯米藕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/guihua_nuomiou.webp",
     "brief": "传统秋季甜品，软糯香甜，桂花香气浓郁。",
-    "categoryIds": [
+    "categoryIds": ["29",
       "23",
       "14"
     ],
@@ -2256,7 +2255,7 @@
     "name": "四川钟水饺",
     "imageSrc":"https://shiyuji.xyz/img/recipes/sichuan_zhongshuijiao.webp",
     "brief": "皮薄馅嫩，红油香浓，甜咸微辣，回味悠长。",
-    "categoryIds": [
+    "categoryIds": ["29",
       "13",
       "5",
       "28"
@@ -2396,7 +2395,7 @@
     "name": "香椿炒鸡蛋",
     "imageSrc":"https://shiyuji.xyz/img/recipes/xiangchun_chaojidan.webp",
     "brief": "香椿独特的清香与鸡蛋的鲜嫩完美结合，春季时令的美味。",
-    "categoryIds": [
+    "categoryIds": ["24",
       "25",
       "7",
       "18"
@@ -2456,7 +2455,7 @@
     "name": "荠菜馄饨",
     "imageSrc":"https://shiyuji.xyz/img/recipes/jicai_huntun.webp",
     "brief": "荠菜的清香与肉馅的鲜美结合，皮薄馅大，春季的经典主食。",
-    "categoryIds": [
+    "categoryIds": ["24",
       "25",
       "28",
       "3"
@@ -2487,7 +2486,7 @@
     "name": "青团",
     "imageSrc":"https://shiyuji.xyz/img/recipes/qingtuan.webp",
     "brief": "翠绿色的糯米皮包裹豆沙或肉松馅，清甜软糯，是江南地区的清明时令小吃。",
-    "categoryIds": [
+    "categoryIds": ["29",
       "25",
       "13",
       "14"
@@ -2935,7 +2934,7 @@
     "name": "剁椒鱼头",
     "imageSrc":"https://shiyuji.xyz/img/recipes/duojiao_yutou.webp",
     "brief": "湖南经典湘菜，鱼肉细嫩，剁椒鲜辣，风味独特。",
-    "categoryIds": [
+    "categoryIds": ["29",
       "12",
       "5",
       "20"
@@ -2969,7 +2968,7 @@
     "name": "韭菜炒河虾",
     "imageSrc":"https://shiyuji.xyz/img/recipes/jiucai_chao_hexia.webp",
     "brief": "韭菜鲜香，河虾清甜，简单快手的晚餐小炒。",
-    "categoryIds": [
+    "categoryIds": ["24",
       "12",
       "2",
       "7"
@@ -2999,7 +2998,7 @@
     "name": "清蒸大闸蟹",
     "imageSrc":"https://shiyuji.xyz/img/recipes/qingzheng_dazhaxie.webp",
     "brief": "原汁原味，肉质鲜甜，最大限度保留了蟹的本味。",
-    "categoryIds": [
+    "categoryIds": ["29",
       "12",
       "20",
       "23"
@@ -3092,7 +3091,7 @@
     "name": "腊八粥",
     "imageSrc":"https://shiyuji.xyz/img/recipes/labazhou.webp",
     "brief": "多种谷物熬制，营养全面，是农历腊八节的传统食品。",
-    "categoryIds": [
+    "categoryIds": ["29",
       "32",
       "26",
       "7"
@@ -3931,7 +3930,7 @@
     "name": "白切鸡",
     "imageSrc": "https://shiyuji.xyz/img/recipes/baiqieji.webp",
     "brief": "皮爽肉滑，原汁原味，蘸料是灵魂所在的粤式经典。",
-    "categoryIds": ["20",
+    "categoryIds": ["20","29",
       "6",
       "10"
     ],
@@ -4572,9 +4571,8 @@
     "name": "扬州炒饭",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yangzhou_chaofan.webp",
     "brief": "米粒分明，色彩丰富，咸鲜适口，经典淮扬主食。",
-    "categoryIds": [
-      "28",
-      "6"
+    "categoryIds": ["11","2",
+      "28"
     ],
     "difficulty": "中等",
     "time": "20分钟",
@@ -4659,7 +4657,7 @@
     "name": "素炒年糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/chaoniangao.webp",
     "brief": "年糕软糯Q弹，搭配蔬菜，咸鲜可口。",
-    "categoryIds": ["4",
+    "categoryIds": ["4","29",
       "28",
       "2"
     ],
@@ -8464,6 +8462,127 @@
       {
         "text": "【入叶收尾】：最后放入桑叶和肉片，肉片变色即关火，利用余温烫熟桑叶，锁住维生素。",
         "imageSrc": "https://shiyuji.xyz/img/steps/chunsun_sangye_shouroutang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "sixi-wanzi-001",
+    "name": "四喜丸子",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sixi_wanzi.webp",
+    "brief": "经典鲁菜，寓意福、禄、寿、喜，色泽金黄，口感酥软鲜香。",
+    "categoryIds": ["8", "7", "20", "29"],
+    "difficulty": "中等",
+    "time": "45分钟",
+    "ingredients": "猪肉馅: 500克\n马蹄(荸荠): 4个\n鸡蛋: 1个\n青菜心: 4棵\n葱姜末: 适量\n生抽/老抽: 适量\n料酒/盐/胡椒粉: 适量\n淀粉: 适量",
+    "steps": [
+      { 
+        "text": "【肉馅调制】：马蹄切碎，与肉馅、鸡蛋、葱姜末、生抽、料酒、盐、胡椒粉混合，加入淀粉顺时针搅拌至起胶。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sixi_wanzi_step1.webp"
+      },
+      { "text": "【丸子成型】：将肉馅分成大小均等的四个大丸子，在手中左右摔打使肉质紧实。" },
+      { 
+        "text": "【炸制上色】：六成油温下锅，炸至表面金黄定型即可捞出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sixi_wanzi_step2.webp"
+      },
+      { 
+        "text": "【慢火焖煮】：砂锅加水、生抽、老抽、糖、姜片，放入丸子中小火焖煮30分钟，最后勾芡并将烫熟的青菜心围边即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sixi_wanzi_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "zong-zi-001",
+    "name": "粽子 (传统鲜肉糯米粽)",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zongzi.webp",
+    "brief": "端午佳节必备，糯米软糯适口，五花肉油而不腻。",
+    "categoryIds": ["29", "28", "13"],
+    "difficulty": "中等",
+    "time": "180分钟",
+    "ingredients": "糯米: 1000克\n鲜粽叶: 适量\n五花肉: 300克\n生抽/老抽: 适量\n盐/料酒: 适量\n棉线: 若干",
+    "steps": [
+      { 
+        "text": "【材料预处理】：糯米洗净泡3小时滤干拌入酱油；五花肉切块，用酱油、料酒、盐腌制过夜；粽叶煮软备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zongzi_step1.webp"
+      },
+      { 
+        "text": "【包扎成型】：取两片粽叶叠成漏斗状，先放一层米，放入一块肉，再盖上一层米，封口并用棉线紧紧缠绕。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zongzi_step2.webp"
+      },
+      { 
+        "text": "【压力焖煮】：将粽子放入锅中，水没过粽子，大火烧开转中火煮2-3小时（或高压锅40分钟），关火后继续焖1小时更软糯。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zongzi_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "hong-shao-yu-001",
+    "name": "红烧鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshaoyu.webp",
+    "brief": "家常经典，鱼肉鲜嫩，汤汁浓郁入味。",
+    "categoryIds": ["7", "30", "11", "12","29"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "草鱼或鳊鱼: 1条\n姜片/蒜瓣/葱段: 适量\n生抽/老抽: 适量\n香醋/白糖: 少量\n料酒: 1汤匙",
+    "steps": [
+      {   
+        "text": "【煎制鱼身】：鱼洗净抹干水分，表面打花刀。热锅凉油，下鱼中小火煎至两面金黄。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step1.webp"
+      },
+      { 
+        "text": "【调味烧煮】：放入葱姜蒜爆香，淋入料酒、生抽、老抽，加入热水至鱼身一半处，加少许糖和醋调味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step2.webp"
+      },
+      { 
+        "text": "【收汁出锅】：大火烧开转中火焖煮10分钟，中间给鱼翻面一次，最后大火收浓汤汁，撒上葱花装饰。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "yutou-shaoya-001",
+    "name": "芋头烧鸭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yutou_shaoya.webp",
+    "brief": "芋头软糯吸收了鸭肉的油脂香，是深秋时节的温补美味。",
+    "categoryIds": ["20", "31", "23", "7","29"],
+    "difficulty": "中等",
+    "time": "50分钟",
+    "ingredients": "鸭子: 半只\n芋头: 300克\n柱侯酱/红腐乳: 各1块\n生姜/干辣椒: 适量\n料酒: 适量",
+    "steps": [
+      { 
+        "text": "【鸭肉去腥】：鸭子切块，冷水下锅加姜片料酒焯水，捞出洗净沥干。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step1.webp"
+      },
+      { 
+        "text": "【炒制上色】：锅中放少许油，下鸭块煸炒至出油微黄，加入姜片、干辣椒、柱侯酱翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step2.webp"
+      },
+      { 
+        "text": "【焖煮成菜】：加入热水没过食材，大火烧开转小火焖20分钟；放入切好的芋头块继续焖15-20分钟至芋头软糯，最后大火收汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "hong-shao-zhuti-001",
+    "name": "红烧猪蹄",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_zhuti.webp",
+    "brief": "口感 Q 弹，胶原蛋白丰富，色泽红润诱人。",
+    "categoryIds": ["20", "18", "7", "12","29"],
+    "difficulty": "中等",
+    "time": "90分钟",
+    "ingredients": "猪蹄: 2只\n冰糖: 1把\n八角/桂皮/香叶: 少许\n生抽/老抽: 适量\n生姜: 1块",
+    "steps": [
+      { 
+        "text": "【处理猪蹄】：猪蹄切块焯水捞出撇沫，冲洗干净。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_zhuti_step1.webp"
+      },
+      { 
+        "text": "【炒糖色】：锅中放少许油和冰糖，小火熬至枣红色冒泡，立即倒入猪蹄快速翻炒上色。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_zhuti_step2.webp"
+      },
+      { 
+        "text": "【香料焖煮】：放入姜片和八角香料，加入生抽、老抽和足量热水。大火烧开转小火焖1.5小时至酥烂，最后加盐调味并大火收干汤汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_zhuti_step3.webp"
       }
     ]
   }
