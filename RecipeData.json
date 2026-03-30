@@ -1436,10 +1436,21 @@
     "time": "15分钟",
     "ingredients": "鸡蛋 2个\n温水/牛奶 180毫升 (蛋液的1.5倍)\n盐 少量\n生抽、香油 少量 (调味)",
     "steps": [
-      "【打蛋】：鸡蛋打散，加入少量盐，分次加入温水或牛奶，边加边搅拌均匀。",
-      "【过滤】：将蛋液用细筛网过滤2次，去除气泡和未打散的蛋清，保证蛋羹细腻。",
-      "【蒸制】：将蛋液倒入碗中，盖上保鲜膜，用牙签扎几个小孔。蒸锅水烧开后，放入蛋液，转小火蒸10-12分钟。",
-      "【调味】：蒸好后取出，淋上少量生抽和香油即可。"
+      
+      {
+        "text": "【打蛋】：鸡蛋打散，加入少量盐，分次加入温水或牛奶，边加边搅拌均匀。"
+      },
+      {
+        "text": "【过滤】：将蛋液用细筛网过滤2次，去除气泡和未打散的蛋清，保证蛋羹细腻。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/dangeng_step1.webp"
+      },
+      {
+        "text": "【蒸制】：将蛋液倒入碗中，盖上保鲜膜，用牙签扎几个小孔。蒸锅水烧开后，放入蛋液，转小火蒸10-12分钟。"
+      },
+      {
+        "text": "【调味】：蒸好后取出，淋上少量生抽和香油即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/dangeng_step2.webp"
+      }
     ]
   },
   {
@@ -2758,14 +2769,15 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/xiaolongbao_step1.webp"
       },
       {
-        "text": "【调馅】：将猪肉糜放入大碗中，加入适量姜末、2勺生抽、1勺料酒、适量盐，朝同一方向用力搅拌至肉馅上劲、有粘性。然后加入葱花，继续搅拌均匀。最后将100克猪皮冻切成小丁，轻轻拌入肉馅中，注意不要过度搅拌，保持猪皮冻的完整性。"
+        "text": "【调馅】：将猪肉糜放入大碗中，加入适量姜末、2勺生抽、1勺料酒、适量盐，朝同一方向用力搅拌至肉馅上劲、有粘性。然后加入葱花，继续搅拌均匀。最后将100克猪皮冻切成小丁，轻轻拌入肉馅中，注意不要过度搅拌，保持猪皮冻的完整性。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaolongbao_step2.webp"
       },
       {
         "text": "【包制】：将醒好的面团取出揉匀排气，搓成长条，切成大小均匀的小剂子（每个约15-18克）。用擀面杖将剂子擀成中间厚、边缘薄的圆皮（直径约8-10厘米），包入适量馅料，用拇指和食指捏出18-22道均匀的褶纹，最后收口成小笼包形状。"
       },
       {
         "text": "【蒸制】：将包好的小笼包放在垫有蒸笼纸或刷油的蒸屉上，盖上盖子醒发10分钟。锅中加水烧开，将醒发好的小笼包上锅，大火蒸8-10分钟（注意不要蒸太久，以免皮破漏汁）。关火后立即取出，趁热食用，食用时先咬一小口吸汁，避免烫伤。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiaolongbao_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaolongbao_step3.webp"
       }
     ]
   },
@@ -3694,14 +3706,15 @@
     "steps": [
       
       {
-        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。"
+        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
       },
       {
         "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，然后用手或纱布挤干水分。将酸菜切成细丝或小段备用。"
       },
       {
         "text": "【炒酸菜】：锅中放入少量食用油，小火加热后放入葱姜爆香，倒入处理好的酸菜，中火煸炒5-8分钟，炒出酸香味，直到酸菜变软、颜色略深。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
       },
       {
         "text": "【泡粉条】：干红薯粉条提前用温水浸泡30分钟，泡软后捞出沥干水分备用。"
@@ -3711,7 +3724,7 @@
       },
       {
         "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
       }
     ]
   },
@@ -5286,11 +5299,12 @@
         "text":"【沉淀淀粉】：将淀粉水静置沉淀4小时以上。将上层清水轻轻倒掉，留下底部浓稠的淀粉浆，搅匀。"
       },
       {
-        "text":"【蒸制凉皮】：取一个平底盘，刷少量油。倒入一勺淀粉浆，摇匀铺满盘底。水开后放入蒸锅，大火蒸3分钟，看到面皮鼓大泡即熟。取出盘子，立刻放入冷水盆中降温，揭下凉皮，刷上少量油防止粘连。重复此步骤直到淀粉浆用完。"
+        "text":"【蒸制凉皮】：取一个平底盘，刷少量油。倒入一勺淀粉浆，摇匀铺满盘底。水开后放入蒸锅，大火蒸3分钟，看到面皮鼓大泡即熟。取出盘子，立刻放入冷水盆中降温，揭下凉皮，刷上少量油防止粘连。重复此步骤直到淀粉浆用完。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/liangpi_step2.webp"
       },
       {
         "text":"【装盘调味】：凉皮切条，面筋切块蒸熟或煮熟。黄瓜切丝，豆芽焯水。将所有材料混合，加入蒜水、辣椒油、香醋、生抽等调料拌匀即可。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/liangpi_step2.webp"
+        "imageSrc":"https://shiyuji.xyz/img/steps/liangpi_step3.webp"
       }
     ]
   },
@@ -6558,14 +6572,14 @@
       },
       {
         "text":"【开水下锅】：锅中水烧开后下入大米。开水下锅能防止糊底，且能让米粒受热均匀，迅速膨胀。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/baizhou_step2.webp"
+        "imageSrc":"https://shiyuji.xyz/img/steps/baizhou_step1.webp"
       },
       {
         "text":"【文火慢熬】：大火烧开后转小火，保持微沸状态。期间用勺子顺时针不断搅拌，此过程称为‘点睛’，能使粥质粘稠。"
       },
       {
         "text":"【米油生成】：熬煮40分钟左右，待米粒完全开花，汤汁浓稠如浆，关火焖5分钟，粥面会结出一层厚厚的米油。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/baizhou_step3.webp"
+        "imageSrc":"https://shiyuji.xyz/img/steps/baizhou_step2.webp"
       }
     ]
   },
