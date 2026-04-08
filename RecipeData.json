@@ -82,17 +82,19 @@
     "steps": [
       
       {
-        "text": "【处理】：多宝鱼去鳞去内脏洗净，在鱼身两侧斜切几刀。用葱段和姜片铺在鱼身上和鱼腹中。"
+        "text": "【处理】：多宝鱼去鳞去内脏洗净，在鱼身两侧斜切几刀。用葱段和姜片铺在鱼身上和鱼腹中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_duobaoyu_step1.webp"
       },
       {
         "text": "【蒸制】：蒸锅水烧开后，将鱼放入，大火蒸8-10分钟 (根据鱼大小调整时间)。"
       },
       {
-        "text": "【淋油】：取出蒸好的鱼，倒掉盘中多余的汤汁。重新铺上新鲜葱丝和姜丝，均匀淋上蒸鱼豉油。"
+        "text": "【淋油】：取出蒸好的鱼，倒掉盘中多余的汤汁。重新铺上新鲜葱丝和姜丝，均匀淋上蒸鱼豉油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_duobaoyu_step2.webp"
       },
       {
         "text": "【爆香】：锅中将适量花生油烧至冒烟，趁热均匀淋在葱丝上，激发香味即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_duobaoyu_step1.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_duobaoyu_step3.webp"
       }
     ]
   },
@@ -169,16 +171,22 @@
     "time": "50分钟",
     "ingredients": "猪肋排: 500克\n黄心土豆: 2个\n生抽: 2勺\n老抽: 1勺\n冰糖: 4颗\n姜片/葱结/八角: 适量",
     "steps": [
-      {"text":"【排骨净身】：排骨冷水入锅，加姜片和料酒，煮开后撇去浮沫，捞出用温水洗净，彻底沥干水分（防爆油）。"},
       {
-        "text":"【煎制上色】：锅中热油，先将土豆块煎至表面微黄捞出（这样炖煮不散）。留底油下冰糖炒至琥珀色，下排骨快速翻炒，让每块排骨都裹上糖色。",
+        "text":"【排骨净身】：排骨冷水入锅，加姜片和料酒，煮开后撇去浮沫，捞出用温水洗净，彻底沥干水分（防爆油）。土豆削皮切块洗净备用。",
         "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step1.webp"
       },
-      {"text":"【香料激发】：放入八角、姜片、葱结，倒入生抽和老抽翻炒出酱香味。倒入没过排骨的热水（切记用热水，肉质不柴）。"},
+      {
+        "text":"【煎制上色】：锅中热油，先将土豆块煎至表面微黄捞出（这样炖煮不散）。留底油下冰糖炒至琥珀色，下排骨快速翻炒，让每块排骨都裹上糖色。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step2.webp"
+      },
+      {
+        "text":"【香料激发】：放入八角、姜片、葱结，倒入生抽和老抽翻炒出酱香味。倒入没过排骨的热水（切记用热水，肉质不柴）。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step3.webp"
+      },
       {"text":"【焖煮软烂】：大火烧开转中小火焖煮30分钟。随后下入土豆块，继续焖煮15-20分钟。此时土豆开始吸汤变软。"},
       {
         "text":"【收汁出锅】：最后打开盖子，转大火不断翻炒收汁。待汤汁变得浓稠并挂在排骨和土豆上时，撒上葱花装饰即可。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step2.webp"
+        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step4.webp"
       }
     ]
   },
@@ -232,14 +240,15 @@
         "text": "【处理香椿】：香椿芽洗净，放入沸水中焯水30秒，去除亚硝酸盐和涩味。捞出沥干水分，切碎。"
       },
       {
-        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。"
+        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
       },
       {
         "text": "【炒制】：锅中放油烧热，倒入混合好的蛋液。快速划散，炒至蛋液凝固，香椿香味散发。"
       },
       {
         "text": "【出锅】：炒至鸡蛋金黄蓬松即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step2.webp"
       }
     ]
   },
@@ -393,17 +402,19 @@
     "steps": [
      
       {
-        "text": "【腌制牛肉】：牛肉切薄片，用腌肉料（蛋清、淀粉、料酒）抓匀，腌制15分钟。"
+        "text": "【腌制牛肉】：牛肉切薄片，用腌肉料（蛋清、淀粉、料酒）抓匀，腌制15分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shuizhu_niurou_step1.webp"
       },
       {
         "text": "【炒制底料】：锅中放油，炒香姜蒜末和豆瓣酱，加入高汤或水烧开。将豆芽和蔬菜放入汤中煮熟，捞出铺在盆底。"
       },
       {
-        "text": "【滑煮牛肉】：转小火，将腌好的牛肉片一片片放入汤中，煮至变色断生（约30秒至1分钟），连汤带肉倒入铺有蔬菜的盆中。"
+        "text": "【滑煮牛肉】：转小火，将腌好的牛肉片一片片放入汤中，煮至变色断生（约30秒至1分钟），连汤带肉倒入铺有蔬菜的盆中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shuizhu_niurou_step2.webp"
       },
       {
         "text": "【激油增香】：将干辣椒和花椒铺在牛肉上。另起锅烧热适量油，烧至冒烟（八成热），淋在辣椒和花椒上，发出“滋啦”声，即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shuizhu_niurou_step1.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/shuizhu_niurou_step3.webp"
       }
     ]
   },
