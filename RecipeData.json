@@ -1,5 +1,765 @@
 [
   {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234606",
+    "name": "白灼虾",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baizhuoxia.webp",
+    "brief": "以最简单的方式保留虾肉的极致鲜甜，粤菜对食材本味的尊重。",
+    "categoryIds": ["17","11",
+      "6",
+      "30",
+      "2"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜活虾（或鲜冻虾）: 500克\n姜片: 8片\n葱段: 适量 (约5段)\n料酒: 1汤匙 (约15毫升)\n【蘸料】：生抽 3汤匙、香油 1茶匙、新鲜姜丝 适量",
+    "steps": [
+      
+      {
+        "text":"【前期备菜】：新鲜活虾剪去虾须和虾枪，用清水冲洗干净，沥干水分。准备好焯水用的姜片和葱段。"
+      },
+      {
+        "text":"【煮制】：锅中烧开足量清水（确保能没过虾），放入姜片、葱段和料酒。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step1.webp"
+      },
+      {
+        "text":"【下虾测熟】：水开后转大火，迅速倒入鲜虾，保持大火煮制。从虾入锅开始计算，煮约2-3分钟。判断标准是虾身完全变红，并卷曲成U型，即可立即捞出。"
+      },
+      {
+        "text":"【降温】：将煮好的虾迅速放入冰水或冷开水中浸泡1分钟，可以使其肉质更加紧实弹牙。捞出，彻底沥干水分。"
+      },
+      {
+        "text":"【装盘与蘸料】：将虾摆盘。制作蘸料：将生抽、香油混合，放入新鲜姜丝。蘸食即可。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234607",
+    "name": "可乐鸡翅",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp",
+    "brief": "色泽红亮，咸甜适中，是深受儿童喜爱的家常快手菜。",
+    "categoryIds": ["11",
+      "7",
+      "2",
+      "20"
+    ],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "ingredients": "鸡翅中: 10个\n可乐: 300毫升 (半罐到一罐)\n生抽: 3汤匙 (约45毫升)\n老抽: 1/2茶匙 (约3毫升, 辅助上色)\n姜片: 5片\n食用油: 适量\n盐: 少量 (腌制用)",
+    "steps": [
+     
+      {
+        "text":"【前期备菜腌制】：鸡翅中洗净，在表面划两刀以便入味。加入少量盐和生抽，腌制10分钟。"
+      },
+      {
+        "text":"【焯水去腥】：将鸡翅中冷水下锅，加入姜片和少量料酒（可选）。大火烧开后煮3分钟，撇去浮沫。捞出鸡翅用温水冲洗干净，沥干。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step1.webp"
+      },
+      {
+        "text":"【煎制上色】：锅中倒入少量食用油，烧热。放入鸡翅，用中小火煎至两面金黄，同时可以逼出鸡翅中的少量油脂。放入姜片爆香。"
+      },
+      {
+        "text":"【调味炖煮】：倒入生抽和老抽，翻炒均匀，使鸡翅上色。倒入可乐，液面基本没过鸡翅即可。大火烧开后转中火，盖上锅盖焖煮15分钟。"
+      },
+      {
+        "text":"【收汁出锅】：开盖，转大火快速收汁。持续翻炒，直到汤汁变得浓稠、油亮，紧紧包裹在鸡翅上即可关火。注意收汁过程极易糊锅，需不停翻动。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234736",
+    "name": "清蒸多宝鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_duobaoyu.webp",
+    "brief": "粤菜经典，最大限度保留鱼肉的鲜嫩，原汁原味。",
+    "categoryIds": ["11",
+      "30",
+      "6"
+    ],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "新鲜多宝鱼 1条 (约500克)\n葱丝、姜丝 适量\n蒸鱼豉油 2汤匙\n花生油 适量",
+    "steps": [
+      
+      {
+        "text": "【处理】：多宝鱼去鳞去内脏洗净，在鱼身两侧斜切几刀。用葱段和姜片铺在鱼身上和鱼腹中。"
+      },
+      {
+        "text": "【蒸制】：蒸锅水烧开后，将鱼放入，大火蒸8-10分钟 (根据鱼大小调整时间)。"
+      },
+      {
+        "text": "【淋油】：取出蒸好的鱼，倒掉盘中多余的汤汁。重新铺上新鲜葱丝和姜丝，均匀淋上蒸鱼豉油。"
+      },
+      {
+        "text": "【爆香】：锅中将适量花生油烧至冒烟，趁热均匀淋在葱丝上，激发香味即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_duobaoyu_step1.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234727",
+    "name": "冬瓜排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/donggua_paigutang.webp",
+    "brief": "清热解暑，汤清味鲜，排骨软烂，夏季家常汤品。",
+    "categoryIds": ["11",
+      "3",
+      "7"
+    ],
+    "difficulty": "简单",
+    "time": "1小时10分钟",
+    "ingredients": "猪排骨 300克\n冬瓜 300克\n姜片 适量\n盐 适量\n葱花 少量",
+    "steps": [
+      
+      {
+        "text": "【准备食材】：将猪排骨洗净斩块，冬瓜去皮切块，姜切片，葱切花备用。"
+      },
+      {
+        "text": "【焯水】：排骨冷水下锅，加入姜片、料酒，烧开后撇去浮沫，捞出洗净备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_paigutang_step1.webp"
+      },
+      {
+        "text": "【炖汤】：排骨放入砂锅中，加入足量热水和姜片。大火烧开后转小火慢炖1小时。"
+      },
+      {
+        "text": "【加冬瓜】：加入冬瓜块，继续炖煮10-15分钟，直到冬瓜变透明，排骨软烂。"
+      },
+      {
+        "text": "【调味】：加入适量盐调味，撒上葱花即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_paigutang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234747",
+    "name": "蒸蛋羹",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhengdangeng.webp",
+    "brief": "高蛋白，口感嫩滑如布丁，制作简单，适合早餐。",
+    "categoryIds": [
+      "17",
+      "10"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "鸡蛋 2个\n温水/牛奶 180毫升 (蛋液的1.5倍)\n盐 少量\n生抽、香油 少量 (调味)",
+    "steps": [
+      
+      {
+        "text": "【打蛋】：鸡蛋打散，加入少量盐，分次加入温水或牛奶，边加边搅拌均匀。"
+      },
+      {
+        "text": "【过滤】：将蛋液用细筛网过滤2次，去除气泡和未打散的蛋清，保证蛋羹细腻。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/dangeng_step1.webp"
+      },
+      {
+        "text": "【蒸制】：将蛋液倒入碗中，盖上保鲜膜，用牙签扎几个小孔。蒸锅水烧开后，放入蛋液，转小火蒸10-12分钟。"
+      },
+      {
+        "text": "【调味】：蒸好后取出，淋上少量生抽和香油即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/dangeng_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "f3g4h5i6-j7k8-9l0m-n1o2-p3q4r5s6t7u",
+    "name": "排骨焖土豆块",
+    "imageSrc": "https:///shiyuji.xyz/img/recipes/paigu_men_tudou.webp",
+    "brief": "家常经典，土豆炖至边缘边缘化开，包裹着排骨的肉香，软糯入味。",
+    "categoryIds": ["7", "20","21"],
+    "difficulty": "简单",
+    "time": "50分钟",
+    "ingredients": "猪肋排: 500克\n黄心土豆: 2个\n生抽: 2勺\n老抽: 1勺\n冰糖: 4颗\n姜片/葱结/八角: 适量",
+    "steps": [
+      {"text":"【排骨净身】：排骨冷水入锅，加姜片和料酒，煮开后撇去浮沫，捞出用温水洗净，彻底沥干水分（防爆油）。"},
+      {
+        "text":"【煎制上色】：锅中热油，先将土豆块煎至表面微黄捞出（这样炖煮不散）。留底油下冰糖炒至琥珀色，下排骨快速翻炒，让每块排骨都裹上糖色。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step1.webp"
+      },
+      {"text":"【香料激发】：放入八角、姜片、葱结，倒入生抽和老抽翻炒出酱香味。倒入没过排骨的热水（切记用热水，肉质不柴）。"},
+      {"text":"【焖煮软烂】：大火烧开转中小火焖煮30分钟。随后下入土豆块，继续焖煮15-20分钟。此时土豆开始吸汤变软。"},
+      {
+        "text":"【收汁出锅】：最后打开盖子，转大火不断翻炒收汁。待汤汁变得浓稠并挂在排骨和土豆上时，撒上葱花装饰即可。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "v2a4z3y2-y3z4-0e1f-g2h3-i4j5k6l7m8n9",
+    "name": "香菇滑鸡饭",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/xianggu_huajifan.webp",
+    "brief": "鸡肉滑嫩，香菇入味，浓稠的汤汁拌饭非常美味。",
+    "categoryIds": [
+      "11",
+      "6",
+      "28"
+    ],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "ingredients": "鸡腿肉 300克 (去骨切块)\n干香菇 6朵 (泡发切片)\n姜片 适量\n蚝油 2汤匙\n老抽 1茶匙 (上色用)\n水淀粉 适量",
+    "steps": [
+      
+      {
+        "text": "【腌制】：鸡腿肉切块，后用生抽、料酒、淀粉和少量油抓匀腌制15分钟。"
+      },
+      {
+        "text": "【炒制】：锅中放油烧热，煸香姜片，倒入腌好的鸡肉块滑炒至变色，加入香菇片翻炒。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xianggu_huajifan_step1.webp"
+      },
+      {
+        "text": "【焖煮】：加入蚝油、老抽和适量水（或泡香菇的水），大火烧开后转小火焖煮10分钟，让鸡肉和香菇充分入味。"
+      },
+      {
+        "text": "【勾芡】：淋入水淀粉勾芡，汤汁变得浓稠油亮即可关火。盛出盖在热米饭上享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xianggu_huajifan_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "k0p3o2n1-n1o2-4u5v-w6x7-y8z9a0b1c2d3",
+    "name": "香椿炒鸡蛋",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/xiangchun_chaojidan.webp",
+    "brief": "香椿独特的清香与鸡蛋的鲜嫩完美结合，春季时令的美味。",
+    "categoryIds": ["24","11",
+      "25",
+      "7",
+      "18"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜香椿芽 100克\n鸡蛋 3个\n盐 适量\n食用油 适量",
+    "steps": [
+      
+      {
+        "text": "【处理香椿】：香椿芽洗净，放入沸水中焯水30秒，去除亚硝酸盐和涩味。捞出沥干水分，切碎。"
+      },
+      {
+        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。"
+      },
+      {
+        "text": "【炒制】：锅中放油烧热，倒入混合好的蛋液。快速划散，炒至蛋液凝固，香椿香味散发。"
+      },
+      {
+        "text": "【出锅】：炒至鸡蛋金黄蓬松即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234740",
+    "name": "辣炒蛤蜊",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lachao_geli.webp",
+    "brief": "海鲜快手菜，蛤蜊鲜美，汤汁微辣下酒。",
+    "categoryIds": ["11",
+      "30",
+      "2"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜蛤蜊 500克 (吐沙)\n葱姜蒜 适量\n干辣椒、花椒 少量\n啤酒 50毫升 (可选)\n生抽 1汤匙",
+    "steps": [
+
+      {
+        "text": "【吐沙】：蛤蜊放入清水中，加少量盐和油，静置1小时以上使其吐沙，洗净。"
+      },
+      {
+        "text": "【备料】：葱切段或切葱花，姜切片或切丝，蒜拍碎或切片，备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaogeli_step1.webp"
+      },
+      {
+        "text": "【爆香】：锅中放油烧热，放入葱姜蒜、干辣椒、花椒爆香。"
+      },
+      {
+        "text": "【快炒】：倒入蛤蜊，大火快速翻炒。当有蛤蜊开口时，加入少量料酒或啤酒。"
+      },
+      {
+        "text": "【调味】：加入生抽和少量盐调味，炒至所有蛤蜊开口即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaogeli_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "b3i0m9l8-l9m0-1r2s-t3a0",
+    "name": "黄焖鸡",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/huangmenji.webp",
+    "brief": "鸡肉软嫩，汤汁浓郁，非常适合搭配米饭的午餐。",
+    "categoryIds": ["28",
+      "11",
+      "20",
+      "12"
+    ],
+    "difficulty": "中等",
+    "time": "35分钟",
+    "ingredients": "鸡腿肉: 500克 (斩块)\n香菇: 6朵\n青红椒: 适量\n姜片、干辣椒: 适量\n黄豆酱: 2汤匙\n老抽、生抽: 适量",
+    "steps": [
+      
+      {
+        "text": "【处理鸡腿肉】：将500克鸡腿肉洗净，用厨房纸擦干水分。如果使用带骨鸡腿，用刀沿着骨头将肉切下，然后斩成大小均匀的块（每块约3-4厘米）；如果使用去骨鸡腿肉，直接斩成块即可。斩块时注意保持大小一致，便于均匀受热。"
+      },
+      {
+        "text": "【焯水】：锅中加水烧开，将鸡块放入沸水中，焯水1-2分钟，用勺子撇去浮沫，捞出鸡块用温水冲洗干净，沥干水分备用。焯水可以去除血水和腥味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huangmenji_step1.webp"
+      },
+      {
+        "text": "【煸炒】：锅中放少量油（约2汤匙），油热后放入姜片和干辣椒段，小火煸炒出香味。然后倒入焯好水的鸡块，中火翻炒2-3分钟至鸡块表面微黄，倒入2汤匙黄豆酱、1汤匙老抽、2汤匙生抽，继续翻炒均匀，使鸡块上色。"
+      },
+      {
+        "text": "【焖煮】：加入没过鸡块的水或高汤（约500-600毫升），放入洗净的香菇（如果是干香菇需提前泡发）。大火烧开后转小火，盖上锅盖焖煮20分钟，至鸡肉软烂入味。"
+      },
+      {
+        "text": "【收汁】：打开锅盖，加入切好的青红椒块，转大火收汁，不断翻炒至汤汁浓稠（约3-5分钟），汤汁能挂在鸡块上即可。关火后即可盛出，搭配米饭食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huangmenji_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "j9o6n5m4-m4n5-6e7f-g8h9-i0j1k2l3m4n5",
+    "name": "酸菜白肉炖粉条",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/suancai_bairou_dunfentiao.webp",
+    "brief": "酸菜爽口，白肉肥而不腻，汤头酸香醇厚，东北冬季经典。",
+    "categoryIds": [
+      "26",
+      "27",
+      "12"
+    ],
+    "difficulty": "中等",
+    "time": "1小时30分钟",
+    "ingredients": "带皮五花肉 500克\n酸菜 500克\n干红薯粉条 100克\n葱姜、八角 适量\n高汤或水 适量\n盐 适量",
+    "steps": [
+      
+      {
+        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
+      },
+      {
+        "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，然后用手或纱布挤干水分。将酸菜切成细丝或小段备用。"
+      },
+      {
+        "text": "【炒酸菜】：锅中放入少量食用油，小火加热后放入葱姜爆香，倒入处理好的酸菜，中火煸炒5-8分钟，炒出酸香味，直到酸菜变软、颜色略深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
+      },
+      {
+        "text": "【泡粉条】：干红薯粉条提前用温水浸泡30分钟，泡软后捞出沥干水分备用。"
+      },
+      {
+        "text": "【炖煮】：将炒好的酸菜、切好的五花肉片和泡软的粉条依次放入砂锅中，加入适量煮肉的原汤（汤量要没过食材），大火烧开后转小火慢炖1小时，让各种食材的味道充分融合。"
+      },
+      {
+        "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "x3d0c9b8-b9c0-1h2i-j3k4-l5m6n7o8p9q0",
+    "name": "西红柿蛋花汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_danhua_tang.webp",
+    "brief": "简单快手，酸甜可口，清淡解腻。",
+    "categoryIds": ["4","11",
+      "3",
+      "2"
+    ],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "番茄 1个\n鸡蛋 2个\n葱花 适量\n盐 适量\n水淀粉 适量 (可选)",
+    "steps": [
+     
+      {
+        "text": "【准备】：番茄切小块或用勺子压出汁水。鸡蛋打散。"
+      },
+      
+      {
+        "text": "【煮汤】：锅中放水烧开，放入番茄块，煮至软烂出汁。加入盐调味。"
+      },
+      {
+        "text": "【勾芡】：如果喜欢浓稠口感，可加入适量水淀粉勾薄芡。"
+      },
+      {
+        "text": "【打蛋花】：转小火，将打散的蛋液均匀地绕圈淋入汤中，待蛋花浮起后撒上葱花即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_danhuatang_step1.webp"
+      }
+    ]
+  },
+  {
+    "id": "27d0f3c5-f8e2-442a-8c11-1a3b90c1f5d6",
+    "name": "水煮牛肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shuizhu_niurou.webp",
+    "brief": "牛肉滑嫩，麻辣味厚，香气扑鼻的经典川菜代表。",
+    "categoryIds": ["20",
+      "5",
+      "11"
+    ],
+    "difficulty": "中等",
+    "time": "40分钟",
+    "ingredients": "牛里脊肉 300克\n豆芽 100克\n大白菜/油菜 150克\n干辣椒 30克\n花椒 15克\n郫县豆瓣酱 2汤匙\n姜蒜末 适量\n腌肉料（蛋清、淀粉、料酒） 适量\n高汤或水 适量\n食用油 适量",
+    "steps": [
+     
+      {
+        "text": "【腌制牛肉】：牛肉切薄片，用腌肉料（蛋清、淀粉、料酒）抓匀，腌制15分钟。"
+      },
+      {
+        "text": "【炒制底料】：锅中放油，炒香姜蒜末和豆瓣酱，加入高汤或水烧开。将豆芽和蔬菜放入汤中煮熟，捞出铺在盆底。"
+      },
+      {
+        "text": "【滑煮牛肉】：转小火，将腌好的牛肉片一片片放入汤中，煮至变色断生（约30秒至1分钟），连汤带肉倒入铺有蔬菜的盆中。"
+      },
+      {
+        "text": "【激油增香】：将干辣椒和花椒铺在牛肉上。另起锅烧热适量油，烧至冒烟（八成热），淋在辣椒和花椒上，发出“滋啦”声，即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shuizhu_niurou_step1.webp"
+      }
+    ]
+  },
+  {
+    "id": "d5k2o1n0-n1o2-3t4u-v5c2",
+    "name": "蒜蓉粉丝蒸扇贝",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/suanrong_fensi_shanbei.webp",
+    "brief": "海鲜鲜甜，蒜香浓郁，做法简单，午餐加餐首选。",
+    "categoryIds": [
+      "11",
+      "6",
+      "20"
+    ],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "新鲜扇贝: 6个\n粉丝: 50克\n蒜蓉: 3汤匙\n生抽: 1汤匙\n蚝油: 1茶匙\n葱花: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理扇贝】：将6个新鲜扇贝用刷子刷洗干净外壳。用小刀从扇贝的缝隙处插入，沿着贝壳边缘划开，将扇贝打开。用刀将扇贝肉从下壳上刮下，保留完整的扇贝肉。去除扇贝肉上的黑色内脏（沙囊）和鳃，只保留白色的扇贝肉和橙色的扇贝黄。用清水轻轻冲洗扇贝肉，去除残留的沙粒，沥干水分。将处理好的扇贝肉放回洗净的下壳中，摆放在盘中。"
+      },
+      {
+        "text": "【泡粉丝】：将克粉丝放入温水中浸泡约10-15分钟，至粉丝变软、可以用手轻松掐断即可。捞出粉丝，用剪刀剪成约5-6厘米长的段，沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanrong_fensi_shanbei_step1.webp"
+      },
+      {
+        "text": "【铺粉丝】：将泡软的粉丝均匀铺在每个扇贝肉上，粉丝可以稍微盘成小圈，便于吸收汤汁。"
+      },
+      {
+        "text": "【炒蒜蓉】：将3汤匙蒜蓉（约6-8瓣大蒜剁成蓉）放入小碗中。锅中放约2汤匙食用油，小火加热，倒入一半蒜蓉，小火炒至微黄出香味（约1-2分钟），注意不要炒焦。关火后加入剩余的蒜蓉（生蒜蓉），再加入1汤匙生抽、1茶匙蚝油、约2汤匙清水，搅拌均匀调成蒜蓉酱汁。"
+      },
+      {
+        "text": "【蒸制】：将调好的蒜蓉酱汁均匀铺在每个扇贝的粉丝和扇贝肉上。锅中加水烧开，将扇贝放入蒸锅，大火蒸8-10分钟（根据扇贝大小调整时间），至扇贝肉完全熟透、粉丝吸收汤汁变软即可。"
+      },
+      {
+        "text": "【出锅】：取出蒸好的扇贝，在每个扇贝上撒上适量葱花。锅中烧热约1汤匙食用油，将热油均匀淋在葱花上，激发香味即可上桌食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanrong_fensi_shanbei_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9233",
+    "name": "回锅肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/huiguorou.webp",
+    "brief": "焦香酥软，咸鲜辣香，经典川菜",
+    "categoryIds": ["11",
+      "5",
+      "7",
+      "20"
+    ],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "带皮五花肉 500克\n青蒜苗（或蒜苔） 200克\n郫县豆瓣酱 2汤匙 (30克)\n甜面酱 1茶匙 (5克)\n姜片 5片\n葱段 适量\n料酒 1汤匙 (15毫升)\n食用油 适量",
+    "steps": [
+      
+      {
+        "text":"【煮肉备菜】：带皮五花肉冷水下锅，加入姜片、葱段和料酒。大火烧开后转小火煮15-20分钟，煮至七八成熟（用筷子能轻松扎透）。青蒜苗切成斜段。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/huiguorou_step1.webp"
+      },
+      {
+        "text":"【放凉切片】：将煮好的五花肉捞出，自然放凉或冲冷水降温。切成约2毫米厚的薄片。"
+      },
+      {
+        "text":"【煸炒出油】：锅中不放油，放入肉片，开小火煸炒。不断翻炒，直到肉片卷曲（俗称灯盏窝）并吐出多余的油脂，将肉片推至锅边（约3-5分钟）。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/huiguorou_step2.webp"
+      },
+      {
+        "text":"【炒制底料】：在锅底的油中，放入郫县豆瓣酱和姜片，小火煸炒出红油和香味（约1分钟）。"
+      },
+      {
+        "text":"【调味合炒】：倒入肉片，加入甜面酱，快速翻炒均匀。倒入青蒜苗段，大火快速翻炒至青蒜苗断生（约30秒），即可出锅。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/huiguorou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9234",
+    "name": "辣子鸡丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lazi_jiding.webp",
+    "brief": "外酥里嫩，麻辣干香，聚会佐酒",
+    "categoryIds": ["11",
+      "5",
+      "20",
+      "13"
+    ],
+    "difficulty": "高级",
+    "time": "40分钟",
+    "ingredients": "鸡腿肉 500克\n干辣椒 50克\n花椒 2汤匙 (15克)\n姜蒜末 适量\n料酒 1汤匙 (15毫升)\n生抽 1汤匙 (15毫升)\n淀粉 适量\n食用油 适量 (多一些，用于炸制)",
+    "steps": [
+      
+      {
+        "text":"【切肉腌制】：鸡腿肉去骨切成小丁。加入料酒、生抽、少量盐、淀粉，抓匀腌制20分钟。"
+      },
+      {
+        "text":"【炸制鸡丁】：锅中倒入足量食用油，烧至六七成热（约160-180°C），放入鸡丁，中火炸至表面金黄酥脆（约5-8分钟），捞出。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/lazi_jiding_step1.webp"
+      },
+      {
+        "text":"【爆炒底料】：锅中留少量底油，放入姜蒜末爆香约30秒，接着放入干辣椒段和花椒，小火煸炒出麻辣香味（约1分钟），注意不要炒焦。"
+      },
+      {
+        "text":"【合炒调味】：倒入炸好的鸡丁，大火快速翻炒30秒，让鸡丁充分裹上辣椒和花椒。加入少量盐和糖调味（可选），翻炒均匀即可出锅。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/lazi_jiding_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "name": "莲藕排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lianou_paigu_tang.webp",
+    "brief": "湖北名菜，汤色奶白，莲藕粉糯，排骨酥烂，清甜滋补。",
+    "categoryIds": ["26",
+      "3",
+      "7",
+      "20",
+      "23"
+    ],
+    "difficulty": "简单",
+    "time": "1小时30分钟",
+    "ingredients": "排骨: 500克\n莲藕: 500克\n姜片: 5片\n料酒: 1汤匙\n葱结: 1个\n盐: 适量",
+    "steps": [
+      {"text":"【排骨焯水】：排骨洗净冷水下锅，加入姜片、料酒烧开撇去浮沫，捞出洗净备用。"},
+      {
+        "text":"【处理莲藕】：莲藕去皮切成滚刀块，洗去多余淀粉防止汤色变黑。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/lianou_paigutang_step1.webp"
+      },
+      {"text":"【炖煮】：砂锅中放入排骨、姜片、葱结和足量热水，大火烧开转小火炖40分钟。"},
+      {"text":"【加入莲藕】：放入莲藕块，继续中小火炖煮40-50分钟，至排骨和莲藕均软糯。"},
+      {
+        "text":"【调味出锅】：加入适量盐调味，拣出葱结即可盛出。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/lianou_paigutang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "e8a2d1c5-9b7f-4321-a123-b5c6d7e8f9a0",
+    "name": "红烧芋儿鸡",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_yuerji.webp",
+    "brief": "经典川式家常菜，芋头软糯粘滑，鸡肉麻辣鲜香，非常下饭。",
+    "categoryIds": ["5", "7", "20","21"],
+    "difficulty": "中等",
+    "time": "45分钟",
+    "ingredients": "三黄鸡/鸡腿: 600克\n小芋头: 400克\n郫县豆瓣酱: 2汤匙\n生姜/大蒜: 适量\n八角/桂皮/干辣椒: 少许\n青椒: 1个 (配色)\n老抽/生抽/冰糖: 适量",
+    "steps": [
+      
+      {
+        "text":"【食材预处理】：鸡肉切成大小均匀的块，冷水入锅加姜片焯水捞出；小芋头去皮洗净（若过大可对半切开），青椒切块备用。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/hongshao_yuerji_step1.webp"
+      },
+      {"text":"【煸炒香料】：热锅凉油，下入冰糖炒至枣红色，倒入鸡块快速翻炒上糖色。接着加入姜片、蒜片、八角、桂皮、干辣椒炒出香味。"},
+      {
+        "text":"【炒出红油】：加入2汤匙郫县豆瓣酱，转中小火反复煸炒，直到炒出红油且酱香四溢。这是川菜色泽红亮的关键步骤。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/hongshao_yuerji_step2.webp"
+      },
+      {"text":"【焖煮入味】：倒入没过食材的热水，调入生抽、老抽。大火烧开后下入芋头，转中小火盖盖焖煮20-25分钟，直至芋头软糯、鸡肉脱骨。"},
+      {
+        "text":"【收汁亮色】：打开锅盖，放入青椒块翻炒至断生。转大火收汁，让汤汁浓稠地裹在鸡块和芋头上即可出锅。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/hongshao_yuerji_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "f2e1d0c9-b8a7-4b6c-5d4e-3f2g1h0i9j8k",
+    "name": "荷兰豆炒腊肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/helandou_chaolarou.webp",
+    "brief": "翠绿的荷兰豆与红亮的腊肉碰撞，口感清脆咸鲜，是冬季和初春的热门菜。",
+    "categoryIds": ["7", "31", "20", "24"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "荷兰豆: 250克\n腊肉: 100克\n大蒜: 3瓣 (切片)\n生抽: 1/2汤匙\n盐/糖: 少许",
+    "steps": [
+      {
+        "text":"【腊肉处理】：腊肉若较硬，先放入蒸锅蒸10分钟变软，然后斜刀切成薄片。腊肉的油脂是这道菜的香味来源。"
+      },
+      {
+        "text":"【处理荷兰豆】：撕掉荷兰豆两侧的筋膜（老筋会影响口感），洗净沥干。建议提前烧开水加少许油盐，将荷兰豆焯水20秒捞出冲凉，以保持色泽翠绿。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/helandou_chaolarou_step1.webp"
+      },
+      {
+        "text": "【煸香油脂】：锅中放极少量的油，下腊肉片中小火煸炒，直到腊肉肥肉部分变得透明、边缘微卷，析出猪油。"
+      },
+      {
+        "text": "【快炒成菜】：下蒜片炒出香味，倒入荷兰豆大火快速翻炒。荷兰豆变色后，加入极少量的盐（腊肉已有咸味）和生抽、糖提鲜。"
+      },
+      {
+        "text":"【出锅】：大火颠锅翻炒均匀，保持豆子的脆感，不可久炒，立即装盘。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/helandou_chaolarou_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234714",
+    "name": "蟹粉豆腐煲",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiefen_doufubao.webp",
+    "brief": "秋季食蟹，蟹粉和豆腐的结合，汤汁浓郁，味道鲜美。",
+    "categoryIds": ["26",
+      "23",
+      "30"
+    ],
+    "difficulty": "高级",
+    "time": "40分钟",
+    "ingredients": "内酯豆腐 1盒\n新鲜螃蟹 2只 (取蟹黄、蟹肉)\n姜末 适量\n高汤 200毫升\n生抽、料酒 适量\n水淀粉 适量",
+    "steps": [
+      {
+        "text": "【取蟹粉】：螃蟹洗净，腹部朝上放入蒸锅，大火蒸15-20分钟至完全熟透。取出放凉后，先掰开蟹壳，用勺子刮出蟹黄；然后拆下蟹腿和蟹钳，用工具敲碎取出蟹肉；最后将蟹身对半掰开，用工具或手取出蟹身肉。将蟹黄和蟹肉混合备用。"
+      },
+      {
+        "text": "【处理豆腐】：内酯豆腐切成小块，放入沸水中焯水1分钟，去除豆腥味，捞出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiefen_doufubao_step1.webp"
+      },
+      {
+        "text": "【炒蟹粉】：锅中放油烧热，放入姜末煸香，倒入蟹黄和蟹肉，加入料酒，翻炒出蟹油。"
+      },
+      {
+        "text": "【煮煲】：加入高汤、生抽，烧开后放入豆腐块，小火炖煮5分钟。"
+      },
+      {
+        "text": "【勾芡】：倒入水淀粉勾薄芡，汤汁浓稠即可出锅，放入砂锅中，撒上葱花。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiefen_doufubao_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+    "name": "番茄炖牛腩",
+    "imageSrc": "https:///shiyuji.xyz/img/recipes/fanqie_dun_niunan.webp",
+    "brief": "酸甜开胃，牛腩软糯，汤汁浓郁，非常适合拌饭。",
+    "categoryIds": ["26",
+      "7",
+      "12",
+      "20",
+      "3"
+    ],
+    "difficulty": "中等",
+    "time": "2小时",
+    "ingredients": "牛腩: 500克\n番茄: 3个\n姜片/葱段: 适量\n八角: 1个\n生抽/老抽/冰糖: 适量",
+    "steps": [
+      {"text":"【牛腩预处理】：牛腩切块焯水撇去浮沫，捞出用温水冲净。"} ,
+      {
+        "text":"【炒制底料】：锅中热油，煸香葱、姜、八角，倒入牛腩翻炒，加入生抽、少量老抽上色。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/fanqie_dunniunan_step1.webp"
+      },
+      {"text":"【初次炖煮】：倒入足量热水浸过牛腩，大火烧开转小火炖1小时。"},
+      {"text":"【加入番茄】：2个番茄切块下锅，加入冰糖。继续炖40分钟至牛腩软烂。"},
+      {
+        "text":"【收汁出锅】：加入剩余的一个番茄块增加口感，加盐调味，大火略微收汁即可。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/fanqie_dunniunan_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "hong-shao-yu-001",
+    "name": "红烧鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshaoyu.webp",
+    "brief": "家常经典，鱼肉鲜嫩，汤汁浓郁入味。",
+    "categoryIds": ["7", "30", "11", "12","29"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "草鱼或鳊鱼: 1条\n姜片/蒜瓣/葱段: 适量\n生抽/老抽: 适量\n香醋/白糖: 少量\n料酒: 1汤匙",
+    "steps": [
+      {   
+        "text": "【煎制鱼身】：鱼洗净抹干水分，表面打花刀。热锅凉油，下鱼中小火煎至两面金黄。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step1.webp"
+      },
+      { 
+        "text": "【调味烧煮】：放入葱姜蒜爆香，淋入料酒、生抽、老抽，加入热水至鱼身一半处，加少许糖和醋调味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step2.webp"
+      },
+      { 
+        "text": "【收汁出锅】：大火烧开转中火焖煮10分钟，中间给鱼翻面一次，最后大火收浓汤汁，撒上葱花装饰。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "yutou-shaoya-001",
+    "name": "芋头烧鸭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yutou_shaoya.webp",
+    "brief": "芋头软糯吸收了鸭肉的油脂香，是深秋时节的温补美味。",
+    "categoryIds": ["20", "31", "23", "7","29"],
+    "difficulty": "中等",
+    "time": "50分钟",
+    "ingredients": "鸭子: 半只\n芋头: 300克\n柱侯酱/红腐乳: 各1块\n生姜/干辣椒: 适量\n料酒: 适量",
+    "steps": [
+      { 
+        "text": "【鸭肉去腥】：鸭子切块，冷水下锅加姜片料酒焯水，捞出洗净沥干。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step1.webp"
+      },
+      { 
+        "text": "【炒制上色】：锅中放少许油，下鸭块煸炒至出油微黄，加入姜片、干辣椒、柱侯酱翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step2.webp"
+      },
+      { 
+        "text": "【焖煮成菜】：加入热水没过食材，大火烧开转小火焖20分钟；放入切好的芋头块继续焖15-20分钟至芋头软糯，最后大火收汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+    "name": "鲫鱼豆腐汤",
+    "imageSrc": "https:///shiyuji.xyz/img/recipes/jiyu_doufu_tang.webp",
+    "brief": "汤色如鲜奶般浓郁，鱼肉鲜嫩，豆腐滑润，营养价值极高。",
+    "categoryIds": ["26",
+      "3",
+      "12",
+      "18",
+      "16"
+    ],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "鲫鱼: 1条\n嫩豆腐: 1块\n姜片/葱花: 适量\n料酒: 少量\n盐/白胡椒粉: 少许",
+    "steps": [
+      {"text":"【煎鱼】：鲫鱼洗净抹干水分，锅中热油撒少许盐（防粘），将鱼煎至两面金黄。"},
+      {
+        "text":"【冲入沸水】：在锅中直接加入足量开水（必须是开水），放入姜片和料酒，大火保持沸腾10分钟。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/jiyu_doufutang_step1.webp"
+      },
+      {"text":"【下豆腐】：待汤色变白后，放入切块的豆腐，转中小火继续煮10分钟。"},
+      {
+        "text":"【调味】：加入盐和白胡椒粉，撒上葱花即可出锅。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/jiyu_doufutang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+    "name": "老鸭粉丝汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/laoya_fensi_tang.webp",
+    "brief": "地道的江南风味，老鸭汤鲜美醇厚，配料丰富，口感层次分明。",
+    "categoryIds": ["26",
+      "3",
+      "13",
+      "20",
+      "12"
+    ],
+    "difficulty": "高级",
+    "time": "2小时",
+    "ingredients": "老鸭: 半只\n红薯粉丝: 1把\n鸭血/鸭胗/鸭肠: 适量\n油豆腐: 几块\n姜/料酒: 适量",
+    "steps": [
+      {
+        "text":"【慢炖鸭汤】：老鸭切块焯水，入砂锅加姜片、料酒和足量水，小火慢炖1.5-2小时至鸭肉酥烂。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/laoya_fensitang_step1.webp"
+      },
+      {"text":"【准备配料】：粉丝提前泡软，鸭血切块，鸭胗切片，鸭肠洗净切段焯熟。"},
+      {
+        "text":"【合煮】：在大锅鸭汤中放入油豆腐和鸭血煮5分钟。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/laoya_fensitang_step2.webp"
+      },
+      {"text":"【烫制粉丝】：最后放入粉丝烫煮1-2分钟至透明。"},
+      {
+        "text":"【装碗】：将粉丝捞入碗底，摆上鸭杂配菜，浇入老鸭汤，撒上香菜和白胡椒粉即可。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/laoya_fensitang_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
     "name": "莴笋炒肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/wosun_chaorou.webp",
@@ -1020,38 +1780,7 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234714",
-    "name": "蟹粉豆腐煲",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiefen_doufubao.webp",
-    "brief": "秋季食蟹，蟹粉和豆腐的结合，汤汁浓郁，味道鲜美。",
-    "categoryIds": ["26",
-      "23",
-      "30"
-    ],
-    "difficulty": "高级",
-    "time": "40分钟",
-    "ingredients": "内酯豆腐 1盒\n新鲜螃蟹 2只 (取蟹黄、蟹肉)\n姜末 适量\n高汤 200毫升\n生抽、料酒 适量\n水淀粉 适量",
-    "steps": [
-      {
-        "text": "【取蟹粉】：螃蟹洗净，腹部朝上放入蒸锅，大火蒸15-20分钟至完全熟透。取出放凉后，先掰开蟹壳，用勺子刮出蟹黄；然后拆下蟹腿和蟹钳，用工具敲碎取出蟹肉；最后将蟹身对半掰开，用工具或手取出蟹身肉。将蟹黄和蟹肉混合备用。"
-      },
-      {
-        "text": "【处理豆腐】：内酯豆腐切成小块，放入沸水中焯水1分钟，去除豆腥味，捞出。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiefen_doufubao_step1.webp"
-      },
-      {
-        "text": "【炒蟹粉】：锅中放油烧热，放入姜末煸香，倒入蟹黄和蟹肉，加入料酒，翻炒出蟹油。"
-      },
-      {
-        "text": "【煮煲】：加入高汤、生抽，烧开后放入豆腐块，小火炖煮5分钟。"
-      },
-      {
-        "text": "【勾芡】：倒入水淀粉勾薄芡，汤汁浓稠即可出锅，放入砂锅中，撒上葱花。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiefen_doufubao_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234717",
     "name": "虾仁滑蛋粥",
@@ -1289,39 +2018,7 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234727",
-    "name": "冬瓜排骨汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/donggua_paigutang.webp",
-    "brief": "清热解暑，汤清味鲜，排骨软烂，夏季家常汤品。",
-    "categoryIds": ["11",
-      "3",
-      "7"
-    ],
-    "difficulty": "简单",
-    "time": "1小时10分钟",
-    "ingredients": "猪排骨 300克\n冬瓜 300克\n姜片 适量\n盐 适量\n葱花 少量",
-    "steps": [
-      
-      {
-        "text": "【准备食材】：将猪排骨洗净斩块，冬瓜去皮切块，姜切片，葱切花备用。"
-      },
-      {
-        "text": "【焯水】：排骨冷水下锅，加入姜片、料酒，烧开后撇去浮沫，捞出洗净备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_paigutang_step1.webp"
-      },
-      {
-        "text": "【炖汤】：排骨放入砂锅中，加入足量热水和姜片。大火烧开后转小火慢炖1小时。"
-      },
-      {
-        "text": "【加冬瓜】：加入冬瓜块，继续炖煮10-15分钟，直到冬瓜变透明，排骨软烂。"
-      },
-      {
-        "text": "【调味】：加入适量盐调味，撒上葱花即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_paigutang_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234729",
     "name": "菌菇豆腐汤",
@@ -1418,35 +2115,7 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234736",
-    "name": "清蒸多宝鱼",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_duobaoyu.webp",
-    "brief": "粤菜经典，最大限度保留鱼肉的鲜嫩，原汁原味。",
-    "categoryIds": ["11",
-      "30",
-      "6"
-    ],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "ingredients": "新鲜多宝鱼 1条 (约500克)\n葱丝、姜丝 适量\n蒸鱼豉油 2汤匙\n花生油 适量",
-    "steps": [
-      
-      {
-        "text": "【处理】：多宝鱼去鳞去内脏洗净，在鱼身两侧斜切几刀。用葱段和姜片铺在鱼身上和鱼腹中。"
-      },
-      {
-        "text": "【蒸制】：蒸锅水烧开后，将鱼放入，大火蒸8-10分钟 (根据鱼大小调整时间)。"
-      },
-      {
-        "text": "【淋油】：取出蒸好的鱼，倒掉盘中多余的汤汁。重新铺上新鲜葱丝和姜丝，均匀淋上蒸鱼豉油。"
-      },
-      {
-        "text": "【爆香】：锅中将适量花生油烧至冒烟，趁热均匀淋在葱丝上，激发香味即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_duobaoyu_step1.webp"
-      }
-    ]
-  },
+
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234737",
     "name": "香辣爬爬虾",
@@ -1512,39 +2181,6 @@
     ]
   },
 
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234740",
-    "name": "辣炒蛤蜊",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/lachao_geli.webp",
-    "brief": "海鲜快手菜，蛤蜊鲜美，汤汁微辣下酒。",
-    "categoryIds": ["11",
-      "30",
-      "2"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "新鲜蛤蜊 500克 (吐沙)\n葱姜蒜 适量\n干辣椒、花椒 少量\n啤酒 50毫升 (可选)\n生抽 1汤匙",
-    "steps": [
-
-      {
-        "text": "【吐沙】：蛤蜊放入清水中，加少量盐和油，静置1小时以上使其吐沙，洗净。"
-      },
-      {
-        "text": "【备料】：葱切段或切葱花，姜切片或切丝，蒜拍碎或切片，备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaogeli_step1.webp"
-      },
-      {
-        "text": "【爆香】：锅中放油烧热，放入葱姜蒜、干辣椒、花椒爆香。"
-      },
-      {
-        "text": "【快炒】：倒入蛤蜊，大火快速翻炒。当有蛤蜊开口时，加入少量料酒或啤酒。"
-      },
-      {
-        "text": "【调味】：加入生抽和少量盐调味，炒至所有蛤蜊开口即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaogeli_step2.webp"
-      }
-    ]
-  },
 
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234744",
@@ -1609,36 +2245,7 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234747",
-    "name": "蒸蛋羹",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/zhengdangeng.webp",
-    "brief": "高蛋白，口感嫩滑如布丁，制作简单，适合早餐。",
-    "categoryIds": [
-      "17",
-      "10"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "鸡蛋 2个\n温水/牛奶 180毫升 (蛋液的1.5倍)\n盐 少量\n生抽、香油 少量 (调味)",
-    "steps": [
-      
-      {
-        "text": "【打蛋】：鸡蛋打散，加入少量盐，分次加入温水或牛奶，边加边搅拌均匀。"
-      },
-      {
-        "text": "【过滤】：将蛋液用细筛网过滤2次，去除气泡和未打散的蛋清，保证蛋羹细腻。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/dangeng_step1.webp"
-      },
-      {
-        "text": "【蒸制】：将蛋液倒入碗中，盖上保鲜膜，用牙签扎几个小孔。蒸锅水烧开后，放入蛋液，转小火蒸10-12分钟。"
-      },
-      {
-        "text": "【调味】：蒸好后取出，淋上少量生抽和香油即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/dangeng_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234748",
     "name": "烤三文鱼芦笋",
@@ -1797,37 +2404,7 @@
       }
     ]
   },
-  {
-    "id": "v2a4z3y2-y3z4-0e1f-g2h3-i4j5k6l7m8n9",
-    "name": "香菇滑鸡饭",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/xianggu_huajifan.webp",
-    "brief": "鸡肉滑嫩，香菇入味，浓稠的汤汁拌饭非常美味。",
-    "categoryIds": [
-      "11",
-      "6",
-      "28"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "鸡腿肉 300克 (去骨切块)\n干香菇 6朵 (泡发切片)\n姜片 适量\n蚝油 2汤匙\n老抽 1茶匙 (上色用)\n水淀粉 适量",
-    "steps": [
-      
-      {
-        "text": "【腌制】：鸡腿肉切块，后用生抽、料酒、淀粉和少量油抓匀腌制15分钟。"
-      },
-      {
-        "text": "【炒制】：锅中放油烧热，煸香姜片，倒入腌好的鸡肉块滑炒至变色，加入香菇片翻炒。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xianggu_huajifan_step1.webp"
-      },
-      {
-        "text": "【焖煮】：加入蚝油、老抽和适量水（或泡香菇的水），大火烧开后转小火焖煮10分钟，让鸡肉和香菇充分入味。"
-      },
-      {
-        "text": "【勾芡】：淋入水淀粉勾芡，汤汁变得浓稠油亮即可关火。盛出盖在热米饭上享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xianggu_huajifan_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "w3b5a4z3-z4a5-1f2g-h3i4-j5k6l7m8n9o0",
     "name": "韩式泡菜炒饭",
@@ -2587,36 +3164,7 @@
       }
     ]
   },
-  {
-    "id": "k0p3o2n1-n1o2-4u5v-w6x7-y8z9a0b1c2d3",
-    "name": "香椿炒鸡蛋",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/xiangchun_chaojidan.webp",
-    "brief": "香椿独特的清香与鸡蛋的鲜嫩完美结合，春季时令的美味。",
-    "categoryIds": ["24","11",
-      "25",
-      "7",
-      "18"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "新鲜香椿芽 100克\n鸡蛋 3个\n盐 适量\n食用油 适量",
-    "steps": [
-      
-      {
-        "text": "【处理香椿】：香椿芽洗净，放入沸水中焯水30秒，去除亚硝酸盐和涩味。捞出沥干水分，切碎。"
-      },
-      {
-        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。"
-      },
-      {
-        "text": "【炒制】：锅中放油烧热，倒入混合好的蛋液。快速划散，炒至蛋液凝固，香椿香味散发。"
-      },
-      {
-        "text": "【出锅】：炒至鸡蛋金黄蓬松即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
-      }
-    ]
-  },
+
   {
     "id": "l1q4p3o2-o2p3-5v6w-x7y8-z9a0b1c2d3e4",
     "name": "春笋炒腊肉",
@@ -2995,40 +3543,7 @@
       }
     ]
   },
-  {
-    "id": "b3i0m9l8-l9m0-1r2s-t3a0",
-    "name": "黄焖鸡",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/huangmenji.webp",
-    "brief": "鸡肉软嫩，汤汁浓郁，非常适合搭配米饭的午餐。",
-    "categoryIds": ["28",
-      "11",
-      "20",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "35分钟",
-    "ingredients": "鸡腿肉: 500克 (斩块)\n香菇: 6朵\n青红椒: 适量\n姜片、干辣椒: 适量\n黄豆酱: 2汤匙\n老抽、生抽: 适量",
-    "steps": [
-      
-      {
-        "text": "【处理鸡腿肉】：将500克鸡腿肉洗净，用厨房纸擦干水分。如果使用带骨鸡腿，用刀沿着骨头将肉切下，然后斩成大小均匀的块（每块约3-4厘米）；如果使用去骨鸡腿肉，直接斩成块即可。斩块时注意保持大小一致，便于均匀受热。"
-      },
-      {
-        "text": "【焯水】：锅中加水烧开，将鸡块放入沸水中，焯水1-2分钟，用勺子撇去浮沫，捞出鸡块用温水冲洗干净，沥干水分备用。焯水可以去除血水和腥味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/huangmenji_step1.webp"
-      },
-      {
-        "text": "【煸炒】：锅中放少量油（约2汤匙），油热后放入姜片和干辣椒段，小火煸炒出香味。然后倒入焯好水的鸡块，中火翻炒2-3分钟至鸡块表面微黄，倒入2汤匙黄豆酱、1汤匙老抽、2汤匙生抽，继续翻炒均匀，使鸡块上色。"
-      },
-      {
-        "text": "【焖煮】：加入没过鸡块的水或高汤（约500-600毫升），放入洗净的香菇（如果是干香菇需提前泡发）。大火烧开后转小火，盖上锅盖焖煮20分钟，至鸡肉软烂入味。"
-      },
-      {
-        "text": "【收汁】：打开锅盖，加入切好的青红椒块，转大火收汁，不断翻炒至汤汁浓稠（约3-5分钟），汤汁能挂在鸡块上即可。关火后即可盛出，搭配米饭食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/huangmenji_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "c4j1n0m9-m0n1-2s3t-u4b1",
     "name": "清炒虾仁",
@@ -3059,42 +3574,7 @@
       }
     ]
   },
-  {
-    "id": "d5k2o1n0-n1o2-3t4u-v5c2",
-    "name": "蒜蓉粉丝蒸扇贝",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/suanrong_fensi_shanbei.webp",
-    "brief": "海鲜鲜甜，蒜香浓郁，做法简单，午餐加餐首选。",
-    "categoryIds": [
-      "11",
-      "6",
-      "20"
-    ],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "ingredients": "新鲜扇贝: 6个\n粉丝: 50克\n蒜蓉: 3汤匙\n生抽: 1汤匙\n蚝油: 1茶匙\n葱花: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【处理扇贝】：将6个新鲜扇贝用刷子刷洗干净外壳。用小刀从扇贝的缝隙处插入，沿着贝壳边缘划开，将扇贝打开。用刀将扇贝肉从下壳上刮下，保留完整的扇贝肉。去除扇贝肉上的黑色内脏（沙囊）和鳃，只保留白色的扇贝肉和橙色的扇贝黄。用清水轻轻冲洗扇贝肉，去除残留的沙粒，沥干水分。将处理好的扇贝肉放回洗净的下壳中，摆放在盘中。"
-      },
-      {
-        "text": "【泡粉丝】：将克粉丝放入温水中浸泡约10-15分钟，至粉丝变软、可以用手轻松掐断即可。捞出粉丝，用剪刀剪成约5-6厘米长的段，沥干水分备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suanrong_fensi_shanbei_step1.webp"
-      },
-      {
-        "text": "【铺粉丝】：将泡软的粉丝均匀铺在每个扇贝肉上，粉丝可以稍微盘成小圈，便于吸收汤汁。"
-      },
-      {
-        "text": "【炒蒜蓉】：将3汤匙蒜蓉（约6-8瓣大蒜剁成蓉）放入小碗中。锅中放约2汤匙食用油，小火加热，倒入一半蒜蓉，小火炒至微黄出香味（约1-2分钟），注意不要炒焦。关火后加入剩余的蒜蓉（生蒜蓉），再加入1汤匙生抽、1茶匙蚝油、约2汤匙清水，搅拌均匀调成蒜蓉酱汁。"
-      },
-      {
-        "text": "【蒸制】：将调好的蒜蓉酱汁均匀铺在每个扇贝的粉丝和扇贝肉上。锅中加水烧开，将扇贝放入蒸锅，大火蒸8-10分钟（根据扇贝大小调整时间），至扇贝肉完全熟透、粉丝吸收汤汁变软即可。"
-      },
-      {
-        "text": "【出锅】：取出蒸好的扇贝，在每个扇贝上撒上适量葱花。锅中烧热约1汤匙食用油，将热油均匀淋在葱花上，激发香味即可上桌食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suanrong_fensi_shanbei_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "e6l3p2o1-o2p3-4u5v-w6d3",
     "name": "三杯鸡",
@@ -3875,44 +4355,7 @@
       }
     ]
   },
-  {
-    "id": "j9o6n5m4-m4n5-6e7f-g8h9-i0j1k2l3m4n5",
-    "name": "酸菜白肉炖粉条",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/suancai_bairou_dunfentiao.webp",
-    "brief": "酸菜爽口，白肉肥而不腻，汤头酸香醇厚，东北冬季经典。",
-    "categoryIds": [
-      "26",
-      "27",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "1小时30分钟",
-    "ingredients": "带皮五花肉 500克\n酸菜 500克\n干红薯粉条 100克\n葱姜、八角 适量\n高汤或水 适量\n盐 适量",
-    "steps": [
-      
-      {
-        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
-      },
-      {
-        "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，然后用手或纱布挤干水分。将酸菜切成细丝或小段备用。"
-      },
-      {
-        "text": "【炒酸菜】：锅中放入少量食用油，小火加热后放入葱姜爆香，倒入处理好的酸菜，中火煸炒5-8分钟，炒出酸香味，直到酸菜变软、颜色略深。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
-      },
-      {
-        "text": "【泡粉条】：干红薯粉条提前用温水浸泡30分钟，泡软后捞出沥干水分备用。"
-      },
-      {
-        "text": "【炖煮】：将炒好的酸菜、切好的五花肉片和泡软的粉条依次放入砂锅中，加入适量煮肉的原汤（汤量要没过食材），大火烧开后转小火慢炖1小时，让各种食材的味道充分融合。"
-      },
-      {
-        "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
-      }
-    ]
-  },
+
   {
     "id": "k0p7o6n5-n5o6-7f8g-h9i0-j1k2l3m4n5o6",
     "name": "清炒藕片",
@@ -4033,36 +4476,7 @@
       }
     ]
   },
- 
-  {
-    "id": "27d0f3c5-f8e2-442a-8c11-1a3b90c1f5d6",
-    "name": "水煮牛肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/shuizhu_niurou.webp",
-    "brief": "牛肉滑嫩，麻辣味厚，香气扑鼻的经典川菜代表。",
-    "categoryIds": ["20",
-      "5",
-      "11"
-    ],
-    "difficulty": "中等",
-    "time": "40分钟",
-    "ingredients": "牛里脊肉 300克\n豆芽 100克\n大白菜/油菜 150克\n干辣椒 30克\n花椒 15克\n郫县豆瓣酱 2汤匙\n姜蒜末 适量\n腌肉料（蛋清、淀粉、料酒） 适量\n高汤或水 适量\n食用油 适量",
-    "steps": [
-     
-      {
-        "text": "【腌制牛肉】：牛肉切薄片，用腌肉料（蛋清、淀粉、料酒）抓匀，腌制15分钟。"
-      },
-      {
-        "text": "【炒制底料】：锅中放油，炒香姜蒜末和豆瓣酱，加入高汤或水烧开。将豆芽和蔬菜放入汤中煮熟，捞出铺在盆底。"
-      },
-      {
-        "text": "【滑煮牛肉】：转小火，将腌好的牛肉片一片片放入汤中，煮至变色断生（约30秒至1分钟），连汤带肉倒入铺有蔬菜的盆中。"
-      },
-      {
-        "text": "【激油增香】：将干辣椒和花椒铺在牛肉上。另起锅烧热适量油，烧至冒烟（八成热），淋在辣椒和花椒上，发出“滋啦”声，即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shuizhu_niurou_step1.webp"
-      }
-    ]
-  },
+
   {
     "id": "3e9b14d2-c7f4-41e8-a8d6-6b21e0f3e2b7",
     "name": "樟茶鸭",
@@ -4675,36 +5089,6 @@
     ]
   },
   {
-    "id": "x3d0c9b8-b9c0-1h2i-j3k4-l5m6n7o8p9q0",
-    "name": "西红柿蛋花汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_danhua_tang.webp",
-    "brief": "简单快手，酸甜可口，清淡解腻。",
-    "categoryIds": ["4","11",
-      "3",
-      "2"
-    ],
-    "difficulty": "简单",
-    "time": "10分钟",
-    "ingredients": "番茄 1个\n鸡蛋 2个\n葱花 适量\n盐 适量\n水淀粉 适量 (可选)",
-    "steps": [
-     
-      {
-        "text": "【准备】：番茄切小块或用勺子压出汁水。鸡蛋打散。"
-      },
-      
-      {
-        "text": "【煮汤】：锅中放水烧开，放入番茄块，煮至软烂出汁。加入盐调味。"
-      },
-      {
-        "text": "【勾芡】：如果喜欢浓稠口感，可加入适量水淀粉勾薄芡。"
-      },
-      {
-        "text": "【打蛋花】：转小火，将打散的蛋液均匀地绕圈淋入汤中，待蛋花浮起后撒上葱花即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_danhuatang_step1.webp"
-      }
-    ]
-  },
-  {
     "id": "y4e1d0c9-c0d1-2i3j-k4l5-m6n7o8p9q0r1",
     "name": "虫草花老鸭汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/chongcaohua_laoya_tang.webp",
@@ -5249,74 +5633,7 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234606",
-    "name": "白灼虾",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/baizhuoxia.webp",
-    "brief": "以最简单的方式保留虾肉的极致鲜甜，粤菜对食材本味的尊重。",
-    "categoryIds": ["17","11",
-      "6",
-      "30",
-      "2"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "新鲜活虾（或鲜冻虾）: 500克\n姜片: 8片\n葱段: 适量 (约5段)\n料酒: 1汤匙 (约15毫升)\n【蘸料】：生抽 3汤匙、香油 1茶匙、新鲜姜丝 适量",
-    "steps": [
-      
-      {
-        "text":"【前期备菜】：新鲜活虾剪去虾须和虾枪，用清水冲洗干净，沥干水分。准备好焯水用的姜片和葱段。"
-      },
-      {
-        "text":"【煮制】：锅中烧开足量清水（确保能没过虾），放入姜片、葱段和料酒。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step1.webp"
-      },
-      {
-        "text":"【下虾测熟】：水开后转大火，迅速倒入鲜虾，保持大火煮制。从虾入锅开始计算，煮约2-3分钟。判断标准是虾身完全变红，并卷曲成U型，即可立即捞出。"
-      },
-      {
-        "text":"【降温】：将煮好的虾迅速放入冰水或冷开水中浸泡1分钟，可以使其肉质更加紧实弹牙。捞出，彻底沥干水分。"
-      },
-      {
-        "text":"【装盘与蘸料】：将虾摆盘。制作蘸料：将生抽、香油混合，放入新鲜姜丝。蘸食即可。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234607",
-    "name": "可乐鸡翅",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp",
-    "brief": "色泽红亮，咸甜适中，是深受儿童喜爱的家常快手菜。",
-    "categoryIds": ["11",
-      "7",
-      "2",
-      "20"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "鸡翅中: 10个\n可乐: 300毫升 (半罐到一罐)\n生抽: 3汤匙 (约45毫升)\n老抽: 1/2茶匙 (约3毫升, 辅助上色)\n姜片: 5片\n食用油: 适量\n盐: 少量 (腌制用)",
-    "steps": [
-     
-      {
-        "text":"【前期备菜腌制】：鸡翅中洗净，在表面划两刀以便入味。加入少量盐和生抽，腌制10分钟。"
-      },
-      {
-        "text":"【焯水去腥】：将鸡翅中冷水下锅，加入姜片和少量料酒（可选）。大火烧开后煮3分钟，撇去浮沫。捞出鸡翅用温水冲洗干净，沥干。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step1.webp"
-      },
-      {
-        "text":"【煎制上色】：锅中倒入少量食用油，烧热。放入鸡翅，用中小火煎至两面金黄，同时可以逼出鸡翅中的少量油脂。放入姜片爆香。"
-      },
-      {
-        "text":"【调味炖煮】：倒入生抽和老抽，翻炒均匀，使鸡翅上色。倒入可乐，液面基本没过鸡翅即可。大火烧开后转中火，盖上锅盖焖煮15分钟。"
-      },
-      {
-        "text":"【收汁出锅】：开盖，转大火快速收汁。持续翻炒，直到汤汁变得浓稠、油亮，紧紧包裹在鸡翅上即可关火。注意收汁过程极易糊锅，需不停翻动。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234608",
     "name": "葱烧海参",
@@ -6608,72 +6925,7 @@
       }
     ]
   },
-  {
-    "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9233",
-    "name": "回锅肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/huiguorou.webp",
-    "brief": "焦香酥软，咸鲜辣香，经典川菜",
-    "categoryIds": ["11",
-      "5",
-      "7",
-      "20"
-    ],
-    "difficulty": "中等",
-    "time": "30分钟",
-    "ingredients": "带皮五花肉 500克\n青蒜苗（或蒜苔） 200克\n郫县豆瓣酱 2汤匙 (30克)\n甜面酱 1茶匙 (5克)\n姜片 5片\n葱段 适量\n料酒 1汤匙 (15毫升)\n食用油 适量",
-    "steps": [
-      
-      {
-        "text":"【煮肉备菜】：带皮五花肉冷水下锅，加入姜片、葱段和料酒。大火烧开后转小火煮15-20分钟，煮至七八成熟（用筷子能轻松扎透）。青蒜苗切成斜段。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/huiguorou_step1.webp"
-      },
-      {
-        "text":"【放凉切片】：将煮好的五花肉捞出，自然放凉或冲冷水降温。切成约2毫米厚的薄片。"
-      },
-      {
-        "text":"【煸炒出油】：锅中不放油，放入肉片，开小火煸炒。不断翻炒，直到肉片卷曲（俗称灯盏窝）并吐出多余的油脂，将肉片推至锅边（约3-5分钟）。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/huiguorou_step2.webp"
-      },
-      {
-        "text":"【炒制底料】：在锅底的油中，放入郫县豆瓣酱和姜片，小火煸炒出红油和香味（约1分钟）。"
-      },
-      {
-        "text":"【调味合炒】：倒入肉片，加入甜面酱，快速翻炒均匀。倒入青蒜苗段，大火快速翻炒至青蒜苗断生（约30秒），即可出锅。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/huiguorou_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9234",
-    "name": "辣子鸡丁",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/lazi_jiding.webp",
-    "brief": "外酥里嫩，麻辣干香，聚会佐酒",
-    "categoryIds": ["11",
-      "5",
-      "20",
-      "13"
-    ],
-    "difficulty": "高级",
-    "time": "40分钟",
-    "ingredients": "鸡腿肉 500克\n干辣椒 50克\n花椒 2汤匙 (15克)\n姜蒜末 适量\n料酒 1汤匙 (15毫升)\n生抽 1汤匙 (15毫升)\n淀粉 适量\n食用油 适量 (多一些，用于炸制)",
-    "steps": [
-      
-      {
-        "text":"【切肉腌制】：鸡腿肉去骨切成小丁。加入料酒、生抽、少量盐、淀粉，抓匀腌制20分钟。"
-      },
-      {
-        "text":"【炸制鸡丁】：锅中倒入足量食用油，烧至六七成热（约160-180°C），放入鸡丁，中火炸至表面金黄酥脆（约5-8分钟），捞出。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/lazi_jiding_step1.webp"
-      },
-      {
-        "text":"【爆炒底料】：锅中留少量底油，放入姜蒜末爆香约30秒，接着放入干辣椒段和花椒，小火煸炒出麻辣香味（约1分钟），注意不要炒焦。"
-      },
-      {
-        "text":"【合炒调味】：倒入炸好的鸡丁，大火快速翻炒30秒，让鸡丁充分裹上辣椒和花椒。加入少量盐和糖调味（可选），翻炒均匀即可出锅。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/lazi_jiding_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234741",
     "name": "黑豆桑葚养肾汤",
@@ -8064,34 +8316,7 @@
       }
     ]
   },
-  {
-    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-    "name": "莲藕排骨汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/lianou_paigu_tang.webp",
-    "brief": "湖北名菜，汤色奶白，莲藕粉糯，排骨酥烂，清甜滋补。",
-    "categoryIds": ["26",
-      "3",
-      "7",
-      "20",
-      "23"
-    ],
-    "difficulty": "简单",
-    "time": "1小时30分钟",
-    "ingredients": "排骨: 500克\n莲藕: 500克\n姜片: 5片\n料酒: 1汤匙\n葱结: 1个\n盐: 适量",
-    "steps": [
-      {"text":"【排骨焯水】：排骨洗净冷水下锅，加入姜片、料酒烧开撇去浮沫，捞出洗净备用。"},
-      {
-        "text":"【处理莲藕】：莲藕去皮切成滚刀块，洗去多余淀粉防止汤色变黑。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/lianou_paigutang_step1.webp"
-      },
-      {"text":"【炖煮】：砂锅中放入排骨、姜片、葱结和足量热水，大火烧开转小火炖40分钟。"},
-      {"text":"【加入莲藕】：放入莲藕块，继续中小火炖煮40-50分钟，至排骨和莲藕均软糯。"},
-      {
-        "text":"【调味出锅】：加入适量盐调味，拣出葱结即可盛出。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/lianou_paigutang_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
     "name": "冰糖炖雪梨",
@@ -8118,93 +8343,7 @@
       }
     ]
   },
-  {
-    "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
-    "name": "番茄炖牛腩",
-    "imageSrc": "https:///shiyuji.xyz/img/recipes/fanqie_dun_niunan.webp",
-    "brief": "酸甜开胃，牛腩软糯，汤汁浓郁，非常适合拌饭。",
-    "categoryIds": ["26",
-      "7",
-      "12",
-      "20",
-      "3"
-    ],
-    "difficulty": "中等",
-    "time": "2小时",
-    "ingredients": "牛腩: 500克\n番茄: 3个\n姜片/葱段: 适量\n八角: 1个\n生抽/老抽/冰糖: 适量",
-    "steps": [
-      {"text":"【牛腩预处理】：牛腩切块焯水撇去浮沫，捞出用温水冲净。"} ,
-      {
-        "text":"【炒制底料】：锅中热油，煸香葱、姜、八角，倒入牛腩翻炒，加入生抽、少量老抽上色。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/fanqie_dunniunan_step1.webp"
-      },
-      {"text":"【初次炖煮】：倒入足量热水浸过牛腩，大火烧开转小火炖1小时。"},
-      {"text":"【加入番茄】：2个番茄切块下锅，加入冰糖。继续炖40分钟至牛腩软烂。"},
-      {
-        "text":"【收汁出锅】：加入剩余的一个番茄块增加口感，加盐调味，大火略微收汁即可。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/fanqie_dunniunan_step2.webp"
-      }
-    ]
-  },
 
-  {
-    "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
-    "name": "鲫鱼豆腐汤",
-    "imageSrc": "https:///shiyuji.xyz/img/recipes/jiyu_doufu_tang.webp",
-    "brief": "汤色如鲜奶般浓郁，鱼肉鲜嫩，豆腐滑润，营养价值极高。",
-    "categoryIds": ["26",
-      "3",
-      "12",
-      "18",
-      "16"
-    ],
-    "difficulty": "中等",
-    "time": "30分钟",
-    "ingredients": "鲫鱼: 1条\n嫩豆腐: 1块\n姜片/葱花: 适量\n料酒: 少量\n盐/白胡椒粉: 少许",
-    "steps": [
-      {"text":"【煎鱼】：鲫鱼洗净抹干水分，锅中热油撒少许盐（防粘），将鱼煎至两面金黄。"},
-      {
-        "text":"【冲入沸水】：在锅中直接加入足量开水（必须是开水），放入姜片和料酒，大火保持沸腾10分钟。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/jiyu_doufutang_step1.webp"
-      },
-      {"text":"【下豆腐】：待汤色变白后，放入切块的豆腐，转中小火继续煮10分钟。"},
-      {
-        "text":"【调味】：加入盐和白胡椒粉，撒上葱花即可出锅。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/jiyu_doufutang_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
-    "name": "老鸭粉丝汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/laoya_fensi_tang.webp",
-    "brief": "地道的江南风味，老鸭汤鲜美醇厚，配料丰富，口感层次分明。",
-    "categoryIds": ["26",
-      "3",
-      "13",
-      "20",
-      "12"
-    ],
-    "difficulty": "高级",
-    "time": "2小时",
-    "ingredients": "老鸭: 半只\n红薯粉丝: 1把\n鸭血/鸭胗/鸭肠: 适量\n油豆腐: 几块\n姜/料酒: 适量",
-    "steps": [
-      {
-        "text":"【慢炖鸭汤】：老鸭切块焯水，入砂锅加姜片、料酒和足量水，小火慢炖1.5-2小时至鸭肉酥烂。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/laoya_fensitang_step1.webp"
-      },
-      {"text":"【准备配料】：粉丝提前泡软，鸭血切块，鸭胗切片，鸭肠洗净切段焯熟。"},
-      {
-        "text":"【合煮】：在大锅鸭汤中放入油豆腐和鸭血煮5分钟。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/laoya_fensitang_step2.webp"
-      },
-      {"text":"【烫制粉丝】：最后放入粉丝烫煮1-2分钟至透明。"},
-      {
-        "text":"【装碗】：将粉丝捞入碗底，摆上鸭杂配菜，浇入老鸭汤，撒上香菜和白胡椒粉即可。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/laoya_fensitang_step3.webp"
-      }
-    ]
-  },
   {
     "id": "c620612d-862d-4d7a-8c9e-76e339d99801",
     "name": "荞麦凉面",
@@ -8251,62 +8390,7 @@
       }
     ]
   },
-  {
-    "id": "e8a2d1c5-9b7f-4321-a123-b5c6d7e8f9a0",
-    "name": "红烧芋儿鸡",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_yuerji.webp",
-    "brief": "经典川式家常菜，芋头软糯粘滑，鸡肉麻辣鲜香，非常下饭。",
-    "categoryIds": ["5", "7", "20","21"],
-    "difficulty": "中等",
-    "time": "45分钟",
-    "ingredients": "三黄鸡/鸡腿: 600克\n小芋头: 400克\n郫县豆瓣酱: 2汤匙\n生姜/大蒜: 适量\n八角/桂皮/干辣椒: 少许\n青椒: 1个 (配色)\n老抽/生抽/冰糖: 适量",
-    "steps": [
-      
-      {
-        "text":"【食材预处理】：鸡肉切成大小均匀的块，冷水入锅加姜片焯水捞出；小芋头去皮洗净（若过大可对半切开），青椒切块备用。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/hongshao_yuerji_step1.webp"
-      },
-      {"text":"【煸炒香料】：热锅凉油，下入冰糖炒至枣红色，倒入鸡块快速翻炒上糖色。接着加入姜片、蒜片、八角、桂皮、干辣椒炒出香味。"},
-      {
-        "text":"【炒出红油】：加入2汤匙郫县豆瓣酱，转中小火反复煸炒，直到炒出红油且酱香四溢。这是川菜色泽红亮的关键步骤。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/hongshao_yuerji_step2.webp"
-      },
-      {"text":"【焖煮入味】：倒入没过食材的热水，调入生抽、老抽。大火烧开后下入芋头，转中小火盖盖焖煮20-25分钟，直至芋头软糯、鸡肉脱骨。"},
-      {
-        "text":"【收汁亮色】：打开锅盖，放入青椒块翻炒至断生。转大火收汁，让汤汁浓稠地裹在鸡块和芋头上即可出锅。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/hongshao_yuerji_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "f2e1d0c9-b8a7-4b6c-5d4e-3f2g1h0i9j8k",
-    "name": "荷兰豆炒腊肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/helandou_chaolarou.webp",
-    "brief": "翠绿的荷兰豆与红亮的腊肉碰撞，口感清脆咸鲜，是冬季和初春的热门菜。",
-    "categoryIds": ["7", "31", "20", "24"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "荷兰豆: 250克\n腊肉: 100克\n大蒜: 3瓣 (切片)\n生抽: 1/2汤匙\n盐/糖: 少许",
-    "steps": [
-      {
-        "text":"【腊肉处理】：腊肉若较硬，先放入蒸锅蒸10分钟变软，然后斜刀切成薄片。腊肉的油脂是这道菜的香味来源。"
-      },
-      {
-        "text":"【处理荷兰豆】：撕掉荷兰豆两侧的筋膜（老筋会影响口感），洗净沥干。建议提前烧开水加少许油盐，将荷兰豆焯水20秒捞出冲凉，以保持色泽翠绿。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/helandou_chaolarou_step1.webp"
-      },
-      {
-        "text": "【煸香油脂】：锅中放极少量的油，下腊肉片中小火煸炒，直到腊肉肥肉部分变得透明、边缘微卷，析出猪油。"
-      },
-      {
-        "text": "【快炒成菜】：下蒜片炒出香味，倒入荷兰豆大火快速翻炒。荷兰豆变色后，加入极少量的盐（腊肉已有咸味）和生抽、糖提鲜。"
-      },
-      {
-        "text":"【出锅】：大火颠锅翻炒均匀，保持豆子的脆感，不可久炒，立即装盘。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/helandou_chaolarou_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "b3c4d5e6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
     "name": "黄金玉米烙",
@@ -8500,29 +8584,7 @@
       }
     ]
   },
-  {
-    "id": "f3g4h5i6-j7k8-9l0m-n1o2-p3q4r5s6t7u",
-    "name": "排骨焖土豆块",
-    "imageSrc": "https:///shiyuji.xyz/img/recipes/paigu_men_tudou.webp",
-    "brief": "家常经典，土豆炖至边缘边缘化开，包裹着排骨的肉香，软糯入味。",
-    "categoryIds": ["7", "20","21"],
-    "difficulty": "简单",
-    "time": "50分钟",
-    "ingredients": "猪肋排: 500克\n黄心土豆: 2个\n生抽: 2勺\n老抽: 1勺\n冰糖: 4颗\n姜片/葱结/八角: 适量",
-    "steps": [
-      {"text":"【排骨净身】：排骨冷水入锅，加姜片和料酒，煮开后撇去浮沫，捞出用温水洗净，彻底沥干水分（防爆油）。"},
-      {
-        "text":"【煎制上色】：锅中热油，先将土豆块煎至表面微黄捞出（这样炖煮不散）。留底油下冰糖炒至琥珀色，下排骨快速翻炒，让每块排骨都裹上糖色。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step1.webp"
-      },
-      {"text":"【香料激发】：放入八角、姜片、葱结，倒入生抽和老抽翻炒出酱香味。倒入没过排骨的热水（切记用热水，肉质不柴）。"},
-      {"text":"【焖煮软烂】：大火烧开转中小火焖煮30分钟。随后下入土豆块，继续焖煮15-20分钟。此时土豆开始吸汤变软。"},
-      {
-        "text":"【收汁出锅】：最后打开盖子，转大火不断翻炒收汁。待汤汁变得浓稠并挂在排骨和土豆上时，撒上葱花装饰即可。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/paigu_mentudou_step2.webp"
-      }
-    ]
-  },
+ 
   {
     "id": "a4b5c6d7-e8f9-0a1b-2c3d-4e5f6g7h8i9j",
     "name": "杂粮煎饼",
@@ -8707,54 +8769,7 @@
       }
     ]
   },
-  {
-    "id": "hong-shao-yu-001",
-    "name": "红烧鱼",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshaoyu.webp",
-    "brief": "家常经典，鱼肉鲜嫩，汤汁浓郁入味。",
-    "categoryIds": ["7", "30", "11", "12","29"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "ingredients": "草鱼或鳊鱼: 1条\n姜片/蒜瓣/葱段: 适量\n生抽/老抽: 适量\n香醋/白糖: 少量\n料酒: 1汤匙",
-    "steps": [
-      {   
-        "text": "【煎制鱼身】：鱼洗净抹干水分，表面打花刀。热锅凉油，下鱼中小火煎至两面金黄。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step1.webp"
-      },
-      { 
-        "text": "【调味烧煮】：放入葱姜蒜爆香，淋入料酒、生抽、老抽，加入热水至鱼身一半处，加少许糖和醋调味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step2.webp"
-      },
-      { 
-        "text": "【收汁出锅】：大火烧开转中火焖煮10分钟，中间给鱼翻面一次，最后大火收浓汤汁，撒上葱花装饰。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/hongshaoyu_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "yutou-shaoya-001",
-    "name": "芋头烧鸭",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/yutou_shaoya.webp",
-    "brief": "芋头软糯吸收了鸭肉的油脂香，是深秋时节的温补美味。",
-    "categoryIds": ["20", "31", "23", "7","29"],
-    "difficulty": "中等",
-    "time": "50分钟",
-    "ingredients": "鸭子: 半只\n芋头: 300克\n柱侯酱/红腐乳: 各1块\n生姜/干辣椒: 适量\n料酒: 适量",
-    "steps": [
-      { 
-        "text": "【鸭肉去腥】：鸭子切块，冷水下锅加姜片料酒焯水，捞出洗净沥干。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step1.webp"
-      },
-      { 
-        "text": "【炒制上色】：锅中放少许油，下鸭块煸炒至出油微黄，加入姜片、干辣椒、柱侯酱翻炒均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step2.webp"
-      },
-      { 
-        "text": "【焖煮成菜】：加入热水没过食材，大火烧开转小火焖20分钟；放入切好的芋头块继续焖15-20分钟至芋头软糯，最后大火收汁。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yutou_shaoya_step3.webp"
-      }
-    ]
-  },
+ 
   {
     "id": "hong-shao-zhuti-001",
     "name": "红烧猪蹄",
@@ -8776,6 +8791,33 @@
       { 
         "text": "【香料焖煮】：放入姜片和八角香料，加入生抽、老抽和足量热水。大火烧开转小火焖1.5小时至酥烂，最后加盐调味并大火收干汤汁。",
         "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_zhuti_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "aiye-doufu-tang-001",
+    "name": "艾叶豆腐汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/aiye_doufutang.webp",
+    "brief": "春日山野之味，艾叶的独特清香与豆腐的淡雅相融，排骨吊汤鲜而不腻，清火养阳。",
+    "categoryIds": ["24", "3", "7", "4"],
+    "difficulty": "简单",
+    "time": "55分钟",
+    "ingredients": "嫩艾叶/荠菜: 100克\n老豆腐: 1块\n排骨: 150克 (吊鲜味用)\n姜片: 3片\n盐: 适量",
+    "steps": [
+      {
+        "text": "【排骨吊鲜】：排骨冷水下锅焯水，撇去浮沫后捞出。将排骨和姜片放入锅中，加入足量清水，文火煮40分钟得到清汤，撇净浮油备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/aiye_doufutang_step1.webp"
+      },
+      {
+        "text": "【豆腐入汤】：老豆腐切成1.5厘米见方的小块，轻轻滑入煮好的排骨清汤中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/aiye_doufutang_step2.webp"
+      },
+      {
+        "text": "【芳香点睛】：将洗净的嫩艾叶或荠菜放入锅中，烫约30秒至叶片变为翠绿色即可。"
+      },
+      {
+        "text": "【极简调味】：仅加入少许食盐调味，搅拌均匀后即可关火起锅，保留草本的原始清香。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/aiye_doufutang_step3.webp"
       }
     ]
   }
