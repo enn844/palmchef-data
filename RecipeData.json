@@ -1,5 +1,206 @@
 [
   {
+    "id": "hao-you-ji-ding-chao-si-ding-001",
+    "name": "鸡丁炒四丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiding_chaosiding.webp",
+    "brief": "鸡丁嫩滑，土豆绵软，胡萝卜清甜，黄瓜脆爽，一勺蚝油将所有鲜美融合，是一道营养均衡、色彩缤纷的下饭家常菜。",
+    "categoryIds": ["7", "2", "20", "31","11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "鸡胸肉: 250克\n土豆: 1个 (约150克)\n胡萝卜: 半根 (约80克)\n黄瓜: 半根 (约80克)\n大蒜: 3瓣 (切片)\n蚝油: 2汤匙\n生抽: 1汤匙\n白糖: 1/2茶匙\n盐: 适量\n料酒: 1汤匙\n淀粉: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【食材切丁】：鸡胸肉洗净切成1.5厘米见方的小丁；土豆、胡萝卜、黄瓜分别去皮（或洗净），切成与鸡丁大小相近的丁。大蒜切片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_jiding_siding_step1.webp"
+      },
+      {
+        "text": "【腌制鸡丁】：鸡丁放入碗中，加入料酒、生抽、少许盐和淀粉，抓匀腌制10分钟，使鸡肉更嫩滑入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_jiding_siding_step2.webp"
+      },
+      {
+        "text": "【处理土豆胡萝卜】：锅中烧开水，放入土豆丁和胡萝卜丁焯水2-3分钟，煮至断生（筷子能轻轻扎透），捞出沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_jiding_siding_step3.webp"
+      },
+      {
+        "text": "【滑炒鸡丁】：锅中倒入适量食用油，烧至六成热（微微冒烟），放入腌好的鸡丁，快速划散，炒至鸡丁表面变白断生后，盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_jiding_siding_step4.webp"
+      },
+      {
+        "text": "【爆香合炒】：锅中留底油，放入蒜片爆香。倒入焯好的土豆丁、胡萝卜丁，中火翻炒1分钟。然后倒入滑炒好的鸡丁和黄瓜丁，转大火快速翻炒均匀。"
+      },
+      {
+        "text": "【调味出锅】：加入蚝油、白糖和适量盐，大火快速翻炒30秒，待所有食材均匀裹上酱汁后，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_jiding_siding_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "cong-shao-nen-dou-fu-001",
+    "name": "葱烧嫩豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/congshao_doufu.webp",
+    "brief": "选用嫩豆腐替代老豆腐，口感滑嫩如布丁，轻轻一抿便在口中化开。葱香浓郁，汤汁咸鲜，是一道老少皆宜的素菜下饭佳品。",
+    "categoryIds": ["7", "4", "2"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "嫩豆腐（南豆腐）: 1盒（约350克）\n大葱: 1根（约100克）\n大蒜: 2瓣（切末）\n生抽: 2汤匙\n蚝油: 1汤匙\n老抽: 1/4茶匙（上色用）\n白糖: 1/2茶匙\n盐: 适量\n清水: 半碗\n水淀粉: 1茶匙淀粉+2汤匙水（可选）\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理嫩豆腐】：嫩豆腐从盒中取出，切成约2厘米见方的小块。轻轻放入淡盐水中浸泡10分钟，可以帮助豆腐定型，不易煮碎。"
+      },
+      {
+        "text": "【处理大葱】：大葱洗净，斜刀切成约4厘米长的段。大蒜切末。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congshao_doufu_step1.webp"
+      },
+      {
+        "text": "【豆腐焯水】：锅中烧开水，将豆腐块轻轻滑入，焯水1分钟去除豆腥味，捞出沥干备用。（嫩豆腐不建议煎，直接烧制更安全）",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congshao_doufu_step2.webp"
+      },
+      {
+        "text": "【爆香大葱】：锅中倒入适量食用油，放入大葱段和蒜末，中火爆炒至大葱变软、边缘微焦，散发出浓郁的葱香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congshao_doufu_step3.webp"
+      },
+      {
+        "text": "【调味烧制】：加入生抽、蚝油、老抽、白糖和半碗清水，大火烧开。将焯好水的豆腐块轻轻滑入锅中，用铲背轻轻推匀，不要大力翻炒。"
+      },
+      {
+        "text": "【收汁出锅】：中小火煮3-5分钟让豆腐入味。如果喜欢汤汁浓稠，可淋入水淀粉勾薄芡，轻轻推匀后即可关火出锅。撒上少许葱花点缀更佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congshao_doufu_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "he-lan-dou-chao-xiang-chang-001",
+    "name": "荷兰豆炒香肠",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/helandou_chaoxiangchang.webp",
+    "brief": "翠绿的荷兰豆清脆爽口，红亮的香肠咸甜适中，两者简单快炒，色彩诱人，是一道十分钟就能上桌的懒人下饭菜。",
+    "categoryIds": ["7", "2", "20", "31"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "荷兰豆: 200克\n香肠（广式或川味）: 1根（约80克）\n大蒜: 3瓣（切片）\n盐: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理荷兰豆】：荷兰豆摘去两头尖角，撕去两侧的老筋，用清水洗净，沥干水分备用。"
+      },
+      {
+        "text": "【处理香肠】：香肠斜切成薄片，厚度约2-3毫米。大蒜切成薄片。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/helandou_chaoxiangchang_step1.webp"
+      },
+      {
+        "text": "【荷兰豆焯水（可选）】：锅中烧开水，滴入几滴油和少许盐，放入荷兰豆焯水30秒，捞出后立即过凉水，保持翠绿色泽和脆爽口感。（如果喜欢更清脆的口感，此步骤可以省略，直接生炒）",
+        "imageSrc": "https://shiyuji.xyz/img/steps/helandou_chaoxiangchang_step2.webp"
+      },
+      {
+        "text": "【煸炒香肠】：锅中倒入适量食用油，烧至微热，放入香肠片，小火煸炒至香肠出油、边缘微微卷起。"
+      },
+      {
+        "text": "【爆香合炒】：放入蒜片爆香，然后倒入荷兰豆，转大火快速翻炒1-2分钟。"
+      },
+      {
+        "text": "【调味出锅】：加入盐调味（香肠本身有咸味，盐量要少），快速翻炒均匀后即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/helandou_chaoxiangchang_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "bai-cai-dun-dou-fu-001",
+    "name": "白菜炖豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baicai_dundoufu.webp",
+    "brief": "白菜清甜软烂，豆腐吸饱了汤汁，简单调味却能炖出食材本身的鲜美。一锅热气腾腾，是秋冬季节餐桌上的暖心家常菜。",
+    "categoryIds": ["7", "4", "3", "31"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "大白菜: 300克（约4-5片）\n老豆腐（北豆腐）: 1块（约400克）\n干木耳: 5克（可选）\n生姜: 2片\n大葱: 1小段\n生抽: 1汤匙\n盐: 适量\n白胡椒粉: 少许\n食用油: 适量\n清水: 1碗",
+    "steps": [
+      {
+        "text": "【处理白菜】：大白菜洗净，将菜叶和菜帮分开。菜帮用刀斜切成片（更容易入味），菜叶用手撕成大片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baicai_dundoufu_step1.webp"
+      },
+      {
+        "text": "【处理豆腐】：老豆腐切成约2厘米厚的方块。干木耳提前用温水泡发，撕成小朵。"
+      },
+      {
+        "text": "【煎豆腐（可选）】：平底锅中倒少许油，将豆腐块煎至两面微黄，盛出备用。煎过的豆腐炖煮时更不易碎，也更能吸收汤汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baicai_dundoufu_step2.webp"
+      },
+      {
+        "text": "【煸炒白菜】：锅中倒油烧热，放入姜片和葱段爆香。先下入白菜帮，中火翻炒1-2分钟至变软，再下入白菜叶，翻炒至叶片塌软。"
+      },
+      {
+        "text": "【炖煮】：将煎好的豆腐和木耳放入锅中，加入1汤匙生抽和1碗清水（水量至食材的一半即可）。大火烧开后转中小火，盖上锅盖炖煮10分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baicai_dundoufu_step3.webp"
+      },
+      {
+        "text": "【调味出锅】：开盖后加入适量盐和少许白胡椒粉调味，轻轻推匀即可关火出锅。撒上少许葱花点缀更佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baicai_dundoufu_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "cha-ye-dan-001",
+    "name": "茶叶蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/chayedan.webp",
+    "brief": "蛋白上布满琥珀色裂纹，咸香入味，茶香浓郁，是早餐和日常零食的经典选择。",
+    "categoryIds": ["7", "13", "10"],
+    "difficulty": "简单",
+    "time": "约3小时（含室温浸泡）",
+    "ingredients": "鸡蛋: 8个\n红茶茶叶: 15克（或2个红茶包）\n八角: 2个\n桂皮: 1小段\n香叶: 2片\n花椒: 1小撮\n生抽: 3汤匙\n老抽: 2汤匙\n盐: 1汤匙\n冰糖: 10克\n清水: 适量",
+    "steps": [
+      {
+        "text": "【煮鸡蛋】：鸡蛋洗净，冷水下锅，水量要没过鸡蛋。中火煮开后，继续煮8分钟，将鸡蛋煮熟。"
+      },
+      {
+        "text": "【敲裂纹】：将煮好的鸡蛋捞出，放入冷水中浸泡2分钟降温。用勺子背或锅铲轻轻将蛋壳敲出均匀的裂纹，不要剥壳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chayedan_step1.webp"
+      },
+      {
+        "text": "【煮卤水】：锅中重新加入足量清水（约1000毫升），放入红茶、八角、桂皮、香叶、花椒、生抽、老抽、盐和冰糖，大火烧开，煮5分钟让香料味道充分释放。"
+      },
+      {
+        "text": "【卤制入味】：将敲好裂纹的鸡蛋放入卤水中，大火烧开后转小火，继续煮20分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chayedan_step2.webp"
+      },
+      {
+        "text": "【浸泡入味】：关火后不要将鸡蛋捞出，留在卤水中自然冷却，加盖在室温下继续浸泡至少2～3小时，期间可轻轻翻动几次，让味道渗透得更均匀。"
+      },
+      {
+        "text": "【享用】：剥壳即可食用。若已放凉，可将茶叶蛋连卤水一起小火加热至温热后再吃。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chayedan_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "zhi-shi-huo-tui-san-ming-zhi-001",
+    "name": "芝士火腿三明治",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhishi_huotui_sanmingzhi.webp",
+    "brief": "吐司烤至金黄酥脆，夹入咸香的火腿片和奶香浓郁的融化芝士，外酥里软，一口咬下还能拉出长长的芝士丝，是早餐或下午茶的经典选择。",
+    "categoryIds": ["10", "2", "22"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "吐司面包: 2片\n芝士片: 1-2片\n火腿片: 2片\n黄油: 10克（或蛋黄酱/番茄酱）",
+    "steps": [
+      {
+        "text": "【准备食材】：吐司面包两片，芝士片和火腿片从冰箱取出备用。如果喜欢更丰富的口感，可以准备少许生菜叶或番茄片。"
+      },
+      {
+        "text": "【涂抹黄油】：在吐司朝外的一面均匀涂抹一层薄薄的黄油（或蛋黄酱），这样煎出来会更香脆。"
+      },
+      {
+        "text": "【组装三明治】：在一片吐司上依次铺上火腿片和芝士片，盖上另一片吐司（涂抹黄油的一面朝外）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_sanmingzhi_step1.webp"
+      },
+      {
+        "text": "【煎制】：平底锅小火加热，无需放油。将组装好的三明治放入锅中，小火慢煎1-2分钟，直到底面金黄酥脆。"
+      },
+      {
+        "text": "【翻面】：用铲子小心翻面，继续煎另一面1-2分钟，至金黄酥脆、芝士完全融化。"
+      },
+      {
+        "text": "【出锅切分】：煎好的三明治取出，放在案板上沿对角线切开，成三角形即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_sanmingzhi_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234606",
     "name": "白灼虾",
     "imageSrc": "https://shiyuji.xyz/img/recipes/baizhuoxia.webp",
