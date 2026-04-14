@@ -559,6 +559,39 @@
     ]
   },
   {
+    "id": "mo-shi-ji-bao-001",
+    "name": "莫氏鸡煲",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jibao.webp",
+    "brief": "五指毛桃煲出浓郁的椰奶香气，土茯苓与茯苓祛湿健脾，鸡肉嫩滑入味，药香与肉香完美交融的居家养生鸡煲。",
+    "categoryIds": ["3", "7", "20", "19", "16"],
+    "difficulty": "中等",
+    "time": "1小时20分钟",
+    "ingredients": "走地鸡: 半只\n五指毛桃: 50克\n土茯苓: 50克\n茯苓: 20克\n黄豆: 30克 (提前浸泡)\n陈皮: 1瓣\n去核红枣: 3-5颗\n生姜: 3片\n盐: 适量\n食用油: 少量",
+    "steps": [
+      {
+        "text": "【药材萃取】：将五指毛桃、土茯苓、茯苓、黄豆、陈皮、红枣、生姜用清水洗净，放入锅中，加入足量冷水浸泡1小时。"
+      },
+      {
+        "text": "【煲制药汤】：将浸泡好的药材连水一起大火烧开，转小火慢煲1小时，充分释放药性，得到一锅色泽金黄、散发椰香的汤底。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/moshi_jibao_step1.webp"
+      },
+      {
+        "text": "【鸡肉腌制】：走地鸡斩成适口小块，加入少许盐和食用油抓匀，腌制10分钟。"
+      },
+      {
+        "text": "【生煲鸡肉】：将药汤转大火烧至沸腾，下入腌好的鸡块，保持大火煮5-8分钟，煮至鸡肉变色断生。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/moshi_jibao_step2.webp"
+      },
+      {
+        "text": "【焖煮锁鲜】：关火，盖上锅盖焖2分钟，让药香彻底渗入鸡肉，同时利用余温使鸡肉保持嫩滑口感。"
+      },
+      {
+        "text": "【调味出锅】：根据个人口味加入适量盐调味，搅拌均匀后即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/moshi_jibao_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "f7e8d9c0-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
     "name": "豌豆尖春笋汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/wandoujian_chunsuntang.webp",

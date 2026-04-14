@@ -4,6 +4,13 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "moshi_jibao",
+        "imageSrc": "https://shiyuji.xyz/img/article/moshi_jibao.webp",
+        "title": "从莫氏“祛湿七君子”看岭南智慧：为什么这一煲鸡汤能疏通全身？",
+        "brief": "五指毛桃、土茯苓、茯苓、黄豆、陈皮、红枣、生姜。莫叔公开的七味药方，背后竟藏着一套完整的身体‘代谢管理’逻辑。不仅是祛湿，更是全方位的脾胃大修整。",
+        "webUrl": "https://health-app.com/articles/moshi-seven-herbs"
+      },
+      {
         "id": "19",
         "imageSrc": "https://shiyuji.xyz/img/article/qingming.webp",
         "title": "清明 | 别在最该“断舍离”的节气，吞下满肚子的“春湿”",
