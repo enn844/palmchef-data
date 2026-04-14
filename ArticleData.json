@@ -129,6 +129,27 @@
     "title": "古籍智慧",
     "articles": [
       {
+        "id": "20",
+        "imageSrc": "https://shiyuji.xyz/img/article/xinhuo_qingtuan.webp",
+        "title": "清明新火：在艾草的微苦里，完成身体的“内存释放”",
+        "brief": "为什么要熄灭旧火？因为旧火代表着过去一年的“陈气”。吞下一口清凉软糯的青团，不是为了填饱肚子，而是为了平抑肝火，迎接春天的第一缕新火。",
+        "webUrl": "https://health-app.com/articles/qingming-xinhuo"
+      },
+      {
+        "id": "21",
+        "imageSrc": "https://shiyuji.xyz/img/article/xiuxi_tea.webp",
+        "title": "修禊茶事：借一盏明前雪，洗去灵魂深处的“冬垢”",
+        "brief": "古人在水边“修禊”以除不祥，我们在茶中洗濯灵魂。当通透的“水绿”遇上明前嫩芽，这是一场由内而外的“负离子洗礼”。",
+        "webUrl": "https://health-app.com/articles/xiuxi-tea"
+      },
+      {
+        "id": "22",
+        "imageSrc": "https://shiyuji.xyz/img/article/ying_hua_jiu.webp",
+        "title": "物候哲学：别做易怒的“鹰”，在这个春天化作温润的“鸠”",
+        "brief": "《月令》云“鹰化为鸠”。仲春时节，天地戾气消散。放弃那些重口的“鹰派饮食”，用一箸春笋与豆尖，让焦虑的心在风里变软。",
+        "webUrl": "https://health-app.com/articles/ying-hua-jiu"
+      },
+      {
         "id": "wangzengqi_003",
         "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_003.webp",
         "title": "臭豆腐与霉千张：嗅觉感官的逆向美学",
@@ -171,13 +192,6 @@
         "webUrl": "https://zh.wikipedia.org/wiki/李渔"
       },
       {
-        "id": "liyu_003",
-        "imageSrc": "https://shiyuji.xyz/img/article/liyu_003.webp",
-        "title": "器重于味：李渔的餐具色彩心理学",
-        "brief": "李渔认为，若器皿不佳，即便珍馐亦索然无味。本文结合神经科学中的“跨模态感知”，揭示餐具色彩如何在大脑中预设风味，并在入口前激活你的消化酶。",
-        "webUrl": "https://zh.wikipedia.org/wiki/闲情偶寄"
-      },
-      {
         "id": "liyu_004",
         "imageSrc": "https://shiyuji.xyz/img/article/liyu_004.webp",
         "title": "清汤挂面：李渔笔下的味觉信噪比",
@@ -217,20 +231,6 @@
         "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_002.webp",
         "title": "“戒外道”：200年前对“快餐化”的降维打击",
         "brief": "以汪曾祺式的雅致笔触，拆解袁枚对“味觉外道”的批判。结合现代营养学与食品物理学，揭示重口味背后的味蕾钝化危机，并提出一种真诚的“食材社交观”。",
-        "webUrl": "https://zh.wikipedia.org/wiki/随园食单"
-      },
-      {
-        "id": "art_yuanmei_003",
-        "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_003.webp",
-        "title": "火候的微观世界：袁枚眼中的蛋白质变性",
-        "brief": "火候不是时间，是热能传递的精准切割。本文结合美拉德反应与蛋白质变性原理，拆解袁枚“大火疾速”与“小火慢煨”的科学真相。",
-        "webUrl": "https://zh.wikipedia.org/wiki/随园食单"
-      },
-      {
-        "id": "art_yuanmei_004",
-        "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_004.webp",
-        "title": "“配搭须知”：食材的社交心理学",
-        "brief": "以袁枚“清者配清，浓者配浓”的搭配哲学为引，结合“鲜味协同作用”的现代科学，揭示食材间“君子”与“贤臣”的社交奥秘，构建一种全新的“食物社交观”。",
         "webUrl": "https://zh.wikipedia.org/wiki/随园食单"
       },
       {

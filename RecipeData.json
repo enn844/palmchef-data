@@ -559,6 +559,36 @@
     ]
   },
   {
+    "id": "f7e8d9c0-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "name": "豌豆尖春笋汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/wandoujian_chunsuntang.webp",
+    "brief": "春笋如脂，豌豆尖如玉，一清二白。猪油润色，高汤提鲜，极简至味，是春日舌尖上的一抹惊鸿。",
+    "categoryIds": ["24", "3", "2", "7", "31"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "嫩春笋: 2根\n新鲜豌豆尖: 1握\n猪油（或植物油）: 少量\n高汤/清水: 半碗\n盐: 适量",
+    "steps": [
+      {
+        "text": "【剥茧抽丝】：春笋去壳剥净，切去老根，纵向剖开后再切成极薄的片。薄切的笋片在后续烹饪中更能释放鲜甜，口感也更脆嫩。"
+      },
+      {
+        "text": "【去涩留鲜】：锅中烧开水，加入少许盐，将切好的春笋片放入沸水中焯水2-3分钟，去除草酸和涩味，捞出沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wandoujiantang_chunsuntang_step1.webp"
+      },
+      {
+        "text": "【猪油润底】：热锅中放入少量猪油（猪油能赋予汤品独特的醇厚香气，若无则用植物油代替），待油温微热时，倒入焯好水的春笋片，轻轻翻炒约30秒，让笋片均匀裹上油脂。"
+      },
+      {
+        "text": "【快手温烩】：倒入半碗高汤或清水，大火烧开后转小火，盖上锅盖焖煮1分钟，让春笋的鲜味充分释放到汤汁中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wandoujiantang_chunsuntang_step2.webp"
+      },
+      {
+        "text": "【点睛之笔】：将洗净的豌豆尖放入锅中，用筷子轻轻拨散。豌豆尖遇热即缩，保持翠绿时立刻关火，加入适量盐调味即可起锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wandoujian_chunsuntang_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "x3d0c9b8-b9c0-1h2i-j3k4-l5m6n7o8p9q0",
     "name": "西红柿蛋花汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_danhua_tang.webp",
