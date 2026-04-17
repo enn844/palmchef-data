@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zhaoyingzhou.shiyuji",
+      "sha256_cert_fingerprints": [
+        "61FCFC0E268BDF91C234DC5F55EBC1B9BC98026F277F53B87CD88A503DB83403"
+      ]
+    }
+  }
+]
