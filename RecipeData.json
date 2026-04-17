@@ -33,6 +33,97 @@
     ]
   },
   {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d6",
+    "name": "黄瓜烙",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/huanggualao.webp",
+    "brief": "潮汕特色小吃，外酥里嫩，黄瓜清甜，搭配肉末和蛋香，口感层次丰富。",
+    "categoryIds": ["13", "7", "2", "31"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "黄瓜: 2根（约400克）\n红薯粉: 80克\n生粉（玉米淀粉）: 20克\n鸡蛋: 2个\n火腿丁: 30克\n肉末: 50克\n葱花: 适量\n盐: 1茶匙\n胡椒粉: 少许\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理黄瓜】：黄瓜洗净，用擦丝器擦成细丝（或切成细丝），放入大碗中，加入少许盐抓匀，静置5分钟杀出水分。"
+      },
+      {
+        "text": "【调制粉浆】：将红薯粉和生粉混合均匀。黄瓜丝挤去多余水分（不要挤太干），放入碗中，加入肉末、火腿丁、葱花、盐、胡椒粉，打入鸡蛋，分次加入混合粉，搅拌均匀成浓稠面糊。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huanggualao_step1.webp"
+      },
+      {
+        "text": "【热锅煎制】：平底锅倒入适量食用油，烧至五成热。舀入一勺面糊，用铲子摊平成圆形小饼，厚度约0.5-0.8厘米。"
+      },
+      {
+        "text": "【翻面煎熟】：中小火煎约2-3分钟，至底面金黄定型后，小心翻面，继续煎另一面2-3分钟，至两面金黄酥脆。"
+      },
+      {
+        "text": "【出锅装盘】：将煎好的黄瓜烙取出，放在吸油纸上吸去多余油分，即可装盘享用。可搭配鱼露或酸甜酱食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huanggualao_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "f8e3d2c1-a4b5-4c6d-8e9f-0a1b2c3d4e5f",
+    "name": "潮汕反沙芋头",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fansha_yutou.webp",
+    "brief": "潮汕经典甜食，外层糖霜如雪，内里芋头粉糯香甜，入口即化。",
+    "categoryIds": ["14", "13", "7"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "荔浦芋头: 500克\n白糖: 150克\n清水: 50毫升\n葱花: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜切块】：芋头去皮，切成约2厘米见方的长条或滚刀块。注意戴手套防止过敏。"
+      },
+      {
+        "text": "【炸制芋头】：锅中倒入足量食用油，烧至六成热（约160°C，筷子插入冒小泡）。放入芋头块，中火炸约5-8分钟，至表面金黄、外酥里软，捞出沥油备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fansha_yutou_step1.webp"
+      },
+      {
+        "text": "【熬制糖浆】：另起一锅，加入白糖和清水，开中小火熬煮。期间不要搅拌，防止糖返砂失败。"
+      },
+      {
+        "text": "【判断糖浆状态】：待糖浆从大泡变成密集小泡，且略微粘稠时，用筷子蘸糖浆放入冷水中，若糖浆立刻凝固变硬且入口不粘牙，即为反沙的最佳状态。", 
+        "imageSrc": "https://shiyuji.xyz/img/steps/fansha_yutou_step2.webp"
+      },
+      {
+        "text": "【离火反沙】：立即关火，倒入炸好的芋头块和葱花，迅速用锅铲轻轻翻炒，使糖浆均匀裹在芋头上。随着温度下降，糖浆会迅速凝固成白色糖霜。"
+      },
+      {
+        "text": "【出锅装盘】：翻炒至芋头表面完全被白色糖霜包裹、粒粒分明即可出锅。趁热食用风味最佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fansha_yutou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+    "name": "土豆丝饼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudousibing.webp",
+    "brief": "金黄酥脆，外焦里嫩，简单快手的家常早餐饼。",
+    "categoryIds": ["7", "2", "10", "31"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "土豆: 2个（约300克）\n鸡蛋: 1个\n面粉: 30克\n葱花: 适量\n盐: 1/2茶匙\n五香粉: 少许\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理土豆】：土豆去皮，用擦丝器擦成细丝（或切成细丝），放入清水中浸泡5分钟洗去多余淀粉，捞出沥干水分。"
+      },
+      {
+        "text": "【调制面糊】：将沥干的土豆丝放入大碗中，加入鸡蛋、面粉、葱花、盐、五香粉，用筷子充分搅拌均匀，使每根土豆丝都裹上蛋液和面粉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudousibing_step1.webp"
+      },
+      {
+        "text": "【热锅煎制】：平底锅倒入适量食用油，烧至五成热。将土豆丝面糊倒入锅中，用铲子摊平压实，整理成圆饼状，厚度约0.5厘米。"
+      },
+      {
+        "text": "【翻面煎熟】：中小火煎约3-4分钟，至底面金黄定型后，小心翻面，继续煎另一面3-4分钟，至两面金黄酥脆、土豆丝熟透。"
+      },
+      {
+        "text": "【出锅切块】：将煎好的土豆丝饼取出，放在案板上切成三角块或方块，即可装盘享用。可搭配番茄酱或辣椒酱。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudousibing_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "3f8d9e2a-1b4c-4d7e-9a2b-3c5d6e7f8a9b",
     "name": "紫米鸡胸肉卷",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zimi_jixiongroujuan.webp",
