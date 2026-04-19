@@ -1,5 +1,42 @@
 [
   {
+    "id": "3f8d9e2a-1b4c-4d7e-9a2b-3c5d6e7f8a9c",
+    "name": "南瓜蔬菜汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/nangua_shucaitang.webp",
+    "brief": "贝贝南瓜的绵密甜糯与番茄的酸甜完美交融，海鲜菇提鲜，豆腐嫩滑，一锅汇集多种蔬菜的清甜，暖心暖胃的健康汤品。",
+    "categoryIds": ["3", "7", "4", "2", "31"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "ingredients": "贝贝南瓜: 1个（约300克）\n番茄: 2个\n海鲜菇: 100克\n嫩豆腐: 1盒（约300克）\n青菜（菠菜/油菜/小白菜）: 1小把\n大蒜: 2瓣（切片）\n盐: 适量\n白胡椒粉: 少许\n食用油: 适量\n清水: 800毫升",
+    "steps": [
+      {
+        "text": "【准备食材】：贝贝南瓜洗净，去瓤后带皮切成小块（南瓜皮富含膳食纤维，带皮煮更营养且不易煮烂）。番茄洗净切块，海鲜菇去根洗净切段，嫩豆腐切小块，青菜洗净切段，大蒜切片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nangua_shucaitang_step1.webp"
+      },
+      {
+        "text": "【煸炒底料】：锅中倒入适量食用油，烧热后放入蒜片爆香。倒入番茄块，中火翻炒至番茄变软出汁，用铲子按压番茄帮助释放更多茄汁。"
+      },
+      {
+        "text": "【加入南瓜】：将切好的贝贝南瓜块倒入锅中，与番茄一同翻炒1-2分钟，让南瓜均匀裹上番茄汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nangua_shucaitang_step2.webp"
+      },
+      {
+        "text": "【炖煮汤底】：加入800毫升清水，大火烧开后转中小火炖煮10-15分钟，至南瓜块变软熟透（用筷子能轻松扎透）。"
+      },
+      {
+        "text": "【加入菌菇豆腐】：放入海鲜菇和嫩豆腐块，轻轻推匀，继续煮3-5分钟，让海鲜菇的鲜味融入汤中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nangua_shucaitang_step3.webp"
+      },
+      {
+        "text": "【青菜收尾】：放入青菜段，烫煮30秒至叶片变软、颜色翠绿即可关火。"
+      },
+      {
+        "text": "【调味出锅】：加入适量盐和少许白胡椒粉调味，搅拌均匀后即可盛出享用。白胡椒粉能提升汤的鲜味层次，可根据个人口味增减。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nangua_shucaitang_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "wuzhimaotao-paigu-001",
     "name": "五指毛桃排骨汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/wuzhimaotao_paigutang.webp",
