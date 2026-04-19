@@ -4,6 +4,20 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "yanghua",
+        "imageSrc": "https://shiyuji.xyz/img/article/yanghua.webp",
+        "title": "细胞的“防锈协议”：如何在时间的氧化里，保持生命力的通透",
+        "brief": "自由基是细胞的“黑客”，氧化是岁月的“锈迹”。结合《本草纲目》智慧，用天然食材给细胞涂“防锈漆”，留住通透活力。",
+        "webUrl": "https://health-app.com/articles/antioxidant-001"
+      },
+      {
+        "id": "manxing_yanzheng",
+        "imageSrc": "https://shiyuji.xyz/img/article/manxing_yanzheng.webp",
+        "title": "体内的“无声之火”：慢性炎症，是一场波及全身的隐形负债",
+        "brief": "不发烧、不疼痛，慢性炎症却在悄悄消耗身体。揭秘岭南五指毛桃的抗炎智慧，解锁餐桌上的“防火巡检”指南。",
+        "webUrl": "https://health-app.com/articles/chronic-inflammation-001"
+      },
+      {
         "id": "moshi_jibao",
         "imageSrc": "https://shiyuji.xyz/img/article/moshi_jibao.webp",
         "title": "莫氏“祛湿七君子”的岭南智慧：为何这煲鸡汤能疏通全身",
@@ -128,6 +142,13 @@
     "id": "yuanmei_science_series_v2",
     "title": "古籍智慧",
     "articles": [
+      {
+        "id": "xinyuanxing_cusi",
+        "imageSrc": "https://shiyuji.xyz/img/article/xinyuanxing_cusi.webp",
+        "title": "心脏的“极端测试”：别让你的生命服务器在深夜宕机",
+        "brief": "高压时代，心脏成了最累的“主服务器”。过劳、冷暖交替都在透支它的内核，一文读懂心源性猝死的真相，教你用清淡饮食给心脏留缓存。",
+        "webUrl": "https://health-app.com/articles/heart-sudden-death-001"
+      },
       {
         "id": "qingming_xinhuo",
         "imageSrc": "https://shiyuji.xyz/img/article/qingming_xinhuo.webp",

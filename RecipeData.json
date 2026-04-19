@@ -1,5 +1,60 @@
 [
   {
+    "id": "wuzhimaotao-paigu-001",
+    "name": "五指毛桃排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/wuzhimaotao_paigutang.webp",
+    "brief": "补气健脾，汤色清亮，带有淡淡椰香，是化解体内“伏火”的养生汤品。",
+    "categoryIds": ["3", "7", "15", "16"],
+    "difficulty": "简单",
+    "time": "1小时40分钟",
+    "ingredients": "排骨: 500克\n五指毛桃: 30克\n土茯苓: 20克\n姜片: 3片\n盐: 适量",
+    "steps": [
+      {
+        "text": "【排骨焯水】：排骨洗净斩块，冷水下锅，加入姜片，大火烧开后撇去浮沫，捞出用温水冲洗干净。"
+      },
+      {
+        "text": "【药材清洗】：五指毛桃和土茯苓用清水冲洗干净，去除表面浮尘，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wuzhimaotao_paigu_tang_step1.webp"
+      },
+      {
+        "text": "【入锅炖煮】：将焯好水的排骨、五指毛桃、土茯苓和姜片一同放入砂锅中，加入足量热水（约2000毫升）。"
+      },
+      {
+        "text": "【慢火煲制】：大火烧开后转小火，盖上锅盖慢炖1.5小时，直至排骨软烂、汤色浓郁并散发出五指毛桃特有的椰香。"
+      },
+      {
+        "text": "【调味出锅】：加入适量盐调味，搅拌均匀即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wuzhimaotao_paigu_tang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "jianghuang-chaoxilanhua-001",
+    "name": "姜黄炒西兰花",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jianghuang_xilanhua.webp",
+    "brief": "抗炎杀菌，色泽金黄诱人，口感脆嫩，是一道健康的快手素菜。",
+    "categoryIds": ["31", "4", "2", "7", "17"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "西兰花: 300克\n姜黄粉: 1茶匙\n大蒜: 3瓣 (切片)\n橄榄油: 适量\n盐: 适量",
+    "steps": [
+      {
+        "text": "【处理西兰花】：西兰花掰成小朵，放入淡盐水中浸泡10分钟，洗净沥干。"
+      },
+      {
+        "text": "【焯水】：锅中烧开水，加入少许盐和几滴油，放入西兰花焯水1分钟，捞出过凉水，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jianghuang_xilanhua_step1.webp"
+      },
+      {
+        "text": "【爆香蒜片】：锅中倒入橄榄油，烧至五成热，放入蒜片小火煸炒出香味。"
+      },
+      {
+        "text": "【翻炒调味】：倒入焯好水的西兰花，转大火快速翻炒30秒。撒入姜黄粉和适量盐，继续快速翻炒均匀，使西兰花均匀裹上姜黄粉即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jianghuang_xilanhua_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "mo-shi-ji-bao-001",
     "name": "莫氏鸡煲（居家版）",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jibao.webp",
@@ -9330,6 +9385,89 @@
       {
         "text": "【极简调味】：仅加入少许食盐调味，搅拌均匀后即可关火起锅，保留草本的原始清香。",
         "imageSrc": "https://shiyuji.xyz/img/steps/aiye_doufutang_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "lianzi_baixin_zhou_001",
+    "name": "百合莲子养心粥",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lianzi_baihezhou.webp",
+    "brief": "养心安神、健脾益气，缓解熬夜、过劳带来的心神不宁、胸闷气短。",
+    "categoryIds": ["32", "3", "15", "16", "19"],
+    "difficulty": "简单",
+    "time": "45分钟",
+    "ingredients": "干百合: 20克 (提前泡发)\n干莲子: 15克 (去芯，提前泡发)\n大米: 50克\n冰糖: 10克 (可选)",
+    "steps": [
+      {
+        "text": "【备料浸泡】：大米淘洗干净，提前浸泡30分钟；干百合、干莲子分别洗净，用温水提前泡发（莲子需去芯）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lianzi_baihezhou_step1.webp"
+      },
+      {
+        "text": "【熬煮粥底】：锅中加入足量清水烧开，放入泡好的大米、百合、莲子，大火煮沸后转小火慢熬25-30分钟，至粥体浓稠。"
+      },
+      {
+        "text": "【调味焖制】：加入冰糖调味，搅拌均匀后再煮5分钟，关火焖10分钟即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lianzi_baihezhou_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "jicai_zhu_doufu_001",
+    "name": "荠菜煮豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jicai_zhudoufu.webp",
+    "brief": "春季时令佳肴，荠菜清香，豆腐滑嫩，清淡爽口。",
+    "categoryIds": ["24", "4", "7", "31", "3"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "新鲜荠菜: 100克\n老豆腐: 1块\n姜片: 2片\n食盐: 少许\n香油: 几滴",
+    "steps": [
+      {
+        "text": "【备菜处理】：荠菜洗净，放入沸水中焯水30秒，捞出后过凉水，挤干水分切段；老豆腐切成小块，放入沸水中焯水1分钟去除豆腥味，捞出沥干。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jicai_zhudoufu_step1.webp"
+      },
+      {
+        "text": "【煮制豆腐】：锅中加少许油，放入姜片爆香，加入适量清水烧开，放入豆腐块中小火煮10分钟，让豆腐充分吸收汤汁。"
+      },
+      {
+        "text": "【加入荠菜】：加入切好的荠菜段，继续煮3-5分钟，至荠菜熟软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jicai_zhudoufu_step2.webp"
+      },
+      {
+        "text": "【调味出锅】：加入适量食盐调味，滴入几滴香油，关火即可盛出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jicai_zhudoufu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "sang_shen_hei_gou_qi_tea_001",
+    "name": "桑葚黑枸杞茶",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sangshen_gouqicha.webp",
+    "brief": "花青素满满，富含抗氧化成分，护眼养颜，口感清甜微酸。",
+    "categoryIds": [
+      "3",
+      "14",
+      "18"
+    ],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "新鲜桑葚: 50克\n黑枸杞: 10克\n温水（不超过60℃）: 500毫升\n蜂蜜（可选）: 适量",
+    "steps": [
+      {
+        "text": "【清洗桑葚】：将新鲜桑葚放入淡盐水中浸泡5分钟，然后用流动的清水轻轻冲洗干净（动作要轻，避免洗破果皮），沥干水分备用。"
+      },
+      {
+        "text": "【温杯备料】：取一个玻璃杯或茶壶，用少量温水烫洗一遍提高杯温。将洗净的桑葚和黑枸杞一同放入杯中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sangshen_gouqicha_step1.webp"
+      },
+      {
+        "text": "【注水浸泡】：将烧开后放置片刻、降温至50-60℃的温水缓缓倒入杯中。注意水温不可过高，否则会破坏黑枸杞和桑葚中的花青素。"
+      },
+      {
+        "text": "【静置出味】：盖上盖子，静置浸泡5-8分钟，直至汤色逐渐变为蓝紫色或紫红色，黑枸杞充分舒展。"
+      },
+      {
+        "text": "【调味饮用】：待茶汤温热适口时即可饮用。若喜甜，可待水温降至40℃左右时加入适量蜂蜜搅拌均匀。桑葚和黑枸杞均可食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sangshen_gouqicha_step2.webp"
       }
     ]
   }
