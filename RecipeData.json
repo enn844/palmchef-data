@@ -5204,7 +5204,7 @@
     "name": "清蒸鲈鱼",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_luyu.webp",
     "brief": "最大限度保留鱼肉的鲜甜和嫩滑，清淡健康。",
-    "categoryIds": ["11",
+    "categoryIds": ["11","24",
       "6",
       "7"
     ],
@@ -5522,7 +5522,7 @@
     "name": "香菇油菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xianggu_youcai.webp",
     "brief": "鲜嫩碧绿，香菇滑嫩，口味清淡的健康快手素菜。",
-    "categoryIds": ["31","4",
+    "categoryIds": ["31","4","24","11",
       "2",
       "7"
     ],
@@ -8443,7 +8443,7 @@
     "name": "清炒春韭",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingchao_chunjiu.webp",
     "brief": "春季限定美味，口感脆嫩，辛香浓郁，是一道做法极简且富有春气息的快手菜。",
-    "categoryIds": ["4",
+    "categoryIds": ["4","12",
       "24",
       "31",
       "7",
@@ -8512,7 +8512,7 @@
     "name": "腌笃鲜（纯素版）",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yanduxian.webp",
     "brief": "经典江南名菜的纯素演绎，以鲜笋、咸笋和百叶结交织出不输肉类的醇厚鲜美。",
-    "categoryIds": ["31",
+    "categoryIds": ["31","12",
       "3",
       "4",
       "24"
