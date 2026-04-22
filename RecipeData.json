@@ -1,5 +1,200 @@
 [
   {
+    "id": "a1b2c3d4-e5f6-4g7h-8i9j-0k1l2m3n4o5r",
+    "name": "土豆炒牛肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_chaoniurou.webp",
+    "brief": "牛肉滑嫩，土豆条外焦里软，咸香入味，是一道营养均衡的快手下饭菜。",
+    "categoryIds": ["7", "20", "2", "11", "21"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "牛里脊肉: 250克\n土豆: 2个 (中等大小)\n大蒜: 3瓣\n生抽: 2汤匙\n老抽: 1/2汤匙\n料酒: 1汤匙\n白糖: 1/2茶匙\n盐: 适量\n黑胡椒粉: 少许\n玉米淀粉: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【准备食材】：牛里脊肉逆着纹理切成薄片；土豆去皮切成约0.8厘米粗细的长条，用清水浸泡去除多余淀粉；大蒜切片。"
+      },
+      {
+        "text": "【腌制牛肉】：牛肉片中加入1汤匙生抽、1汤匙料酒、少许黑胡椒粉、1茶匙玉米淀粉和1茶匙食用油，抓匀腌制15分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step1.webp"
+      },
+      {
+        "text": "【煎土豆条】：锅中倒油烧热，放入土豆条中火煎至表面金黄、边缘微焦，捞出备用。"
+      },
+      {
+        "text": "【滑炒牛肉】：锅中留底油，大火烧热，倒入腌好的牛肉片快速滑炒至变色，立即盛出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step2.webp"
+      },
+      {
+        "text": "【爆香合炒】：锅中再加少许油，放入蒜片爆香，然后倒入煎好的土豆条和牛肉片。"
+      },
+      {
+        "text": "【调味出锅】：加入1汤匙生抽、1/2汤匙老抽、1/2茶匙白糖和适量盐，大火快速翻炒均匀，即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
+    "name": "猪油炒圆白菜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhuyou_chaoyuanbaicai.webp",
+    "brief": "用猪油爆炒的圆白菜，脆嫩爽口，油香四溢，是一道简单又下饭的家常素菜。",
+    "categoryIds": ["31", "7", "2"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "圆白菜（卷心菜）: 400克\n猪油: 2汤匙（约30克）\n蒜末: 3瓣\n盐: 1/2茶匙\n生抽: 1汤匙（可选）",
+    "steps": [
+      {
+        "text": "【备菜】：圆白菜洗净，沥干水分，切成约1厘米宽的条。蒜瓣去皮切成末。"
+      },
+      {
+        "text": "【热锅化油】：锅中放入猪油，开中火烧至猪油融化并微微冒烟（约六成热）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhuyou_chaoyuanbaicai_step1.webp"
+      },
+      {
+        "text": "【爆香蒜末】：下入蒜末，快速翻炒约15秒，炒出香味，注意不要炒焦。"
+      },
+      {
+        "text": "【大火快炒】：倒入切好的圆白菜条，转大火快速翻炒，使菜条均匀裹上油脂。炒约1-2分钟，至圆白菜断生、颜色变翠绿。"
+      },
+      {
+        "text": "【调味出锅】：加入盐和生抽（可选），继续大火翻炒30秒，待调料均匀即可关火盛出。(可根据个人口感喜好调整炒制时间)",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhuyou_chaoyuanbaicai_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "name": "糖醋里脊",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_liji.webp",
+    "brief": "色泽红亮，外酥里嫩，酸甜适口，是经典的家常美味。",
+    "categoryIds": ["7", "2", "20", "11", "8"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "猪里脊肉: 300克\n盐: 1/2茶匙\n料酒: 1汤匙\n白胡椒粉: 1/4茶匙\n鸡蛋清: 1个\n玉米淀粉: 适量\n食用油: 适量\n【糖醋汁】:\n番茄酱: 3汤匙\n白糖: 2汤匙\n白醋: 1汤匙\n生抽: 1/2汤匙\n水淀粉: 1汤匙\n清水: 2汤匙",
+    "steps": [
+      {
+        "text": "【切肉腌制】：猪里脊肉切成约1厘米粗的长条，加入盐、料酒、白胡椒粉、鸡蛋清抓匀，腌制15分钟。"
+      },
+      {
+        "text": "【裹粉】：将腌好的肉条均匀裹上一层玉米淀粉，轻轻拍掉多余粉末，确保每根肉条都干爽。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_liji_step1.webp"
+      },
+      {
+        "text": "【初炸定型】：锅中倒入足量油，烧至六成热（约160°C，筷子插入冒细泡），逐根下入肉条，中火炸至微黄定型后捞出。"
+      },
+      {
+        "text": "【复炸酥脆】：将油温升至八成热（约190°C），倒入肉条复炸30秒至金黄酥脆，捞出沥油备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_liji_step2.webp"
+      },
+      {
+        "text": "【调制糖醋汁】：小碗中混合番茄酱、白糖、白醋、生抽、水淀粉和清水，搅拌均匀。"
+      },
+      {
+        "text": "【裹汁出锅】：锅中留少量底油，倒入糖醋汁，小火熬至浓稠起泡。迅速倒入炸好的里脊肉，快速翻炒，使每根肉条均匀裹上酱汁即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_liji_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "qingchao-bocai-001",
+    "name": "清炒菠菜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingchao_bocai.webp",
+    "brief": "色泽碧绿，口感脆嫩，蒜香浓郁，是一道清爽健康的快手家常素菜。",
+    "categoryIds": ["31", "4", "7", "2"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "新鲜菠菜: 400克\n大蒜: 4瓣 (切片)\n食用油: 2汤匙\n盐: 1/2茶匙\n鸡精: 少量 (可选)",
+    "steps": [
+      {
+        "text": "【前期备菜】：菠菜去根，洗净泥沙，沥干水分。大蒜去皮切成薄片。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingchao_bocai_step1.webp"
+      },
+      {
+        "text": "【焯水（可选）】：锅中烧开水，加入少许盐和几滴油，放入菠菜焯烫20秒，立即捞出过凉水，挤干水分备用。此步可去除草酸，保持翠绿。"
+      },
+      {
+        "text": "【爆香蒜片】：锅中倒入食用油，烧至五成热，放入蒜片，小火煸炒出香味（约30秒）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingchao_bocai_step2.webp"
+      },
+      {
+        "text": "【快速翻炒】：转大火，倒入菠菜，快速翻炒约1分钟，至菠菜变软、体积缩小。"
+      },
+      {
+        "text": "【调味出锅】：加入盐和鸡精（可选），翻炒均匀后立即关火，盛出装盘。(想要口感软可以加水多炒一会)",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingchao_bocai_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234607",
+    "name": "可乐鸡翅",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp",
+    "brief": "色泽红亮，咸甜适中，是深受儿童喜爱的家常快手菜。",
+    "categoryIds": ["11",
+      "7",
+      "2",
+      "20"
+    ],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "ingredients": "鸡翅中: 10个\n可乐: 300毫升 (半罐到一罐)\n生抽: 3汤匙 (约45毫升)\n老抽: 1/2茶匙 (约3毫升, 辅助上色)\n姜片: 5片\n食用油: 适量\n盐: 少量 (腌制用)",
+    "steps": [
+     
+      {
+        "text":"【前期备菜腌制】：鸡翅中洗净，在表面划两刀以便入味。加入少量盐和生抽，腌制10分钟。"
+      },
+      {
+        "text":"【焯水去腥】：将鸡翅中冷水下锅，加入姜片和少量料酒（可选）。大火烧开后煮3分钟，撇去浮沫。捞出鸡翅用温水冲洗干净，沥干。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step1.webp"
+      },
+      {
+        "text":"【煎制上色】：锅中倒入少量食用油，烧热。放入鸡翅，用中小火煎至两面金黄，同时可以逼出鸡翅中的少量油脂。放入姜片爆香。"
+      },
+      {
+        "text":"【调味炖煮】：倒入生抽和老抽，翻炒均匀，使鸡翅上色。倒入可乐，液面基本没过鸡翅即可。大火烧开后转中火，盖上锅盖焖煮15分钟。"
+      },
+      {
+        "text":"【收汁出锅】：开盖，转大火快速收汁。持续翻炒，直到汤汁变得浓稠、油亮，紧紧包裹在鸡翅上即可关火。注意收汁过程极易糊锅，需不停翻动。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
+    "name": "重庆小酥肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaosurou.webp",
+    "brief": "外酥里嫩，麻香浓郁，是川渝地区火锅必备的经典小吃，也可直接当零食。",
+    "categoryIds": ["5", "13", "20", "2"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "猪里脊肉: 300克\n鸡蛋: 2个\n红薯淀粉: 80克\n花椒粒: 10克（炒香碾碎）\n盐: 1茶匙\n料酒: 1汤匙\n姜末: 1茶匙\n白胡椒粉: 1/2茶匙\n食用油: 适量（用于炸制）",
+    "steps": [
+      {
+        "text": "【处理花椒】：干锅小火将花椒粒炒香（约2分钟），倒出晾凉后用擀面杖碾碎，不用太细，保留颗粒感。"
+      },
+      {
+        "text": "【腌制肉条】：猪里脊肉切成小指粗细的长条（约5厘米长、1厘米宽）。加入料酒、姜末、白胡椒粉、一半的花椒碎和少许盐，抓匀腌制15分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaosurou_step1.webp"
+      },
+      {
+        "text": "【调炸糊】：大碗中打入鸡蛋，加入红薯淀粉、剩余花椒碎和适量盐，搅拌成浓稠且能拉丝的糊状（如果太干可加少量水）。"
+      },
+      {
+        "text": "【挂糊】：将腌好的肉条倒入炸糊中，用筷子翻拌，确保每条肉都均匀裹满面糊。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaosurou_step2.webp"
+      },
+      {
+        "text": "【初炸】：锅中倒足量油，烧至六成热（约160°C，筷子插入冒密集小泡）。逐条下入肉条，保持中火炸至定型、表面微黄，捞出沥油。"
+      },
+      {
+        "text": "【复炸】：将油温升至八成热（约190°C），倒入全部小酥肉复炸30-40秒，直到表面金黄酥脆，迅速捞出控油。"
+      },
+      {
+        "text": "【装盘】：趁热撒上少许花椒粉或辣椒面（可选），即可食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaosurou_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "3f8d9e2a-1b4c-4d7e-9a2b-3c5d6e7f8a9c",
     "name": "南瓜蔬菜汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/nangua_shucaitang.webp",
@@ -592,40 +787,6 @@
       {
         "text":"【装盘与蘸料】：将虾摆盘。制作蘸料：将生抽、香油混合，放入新鲜姜丝。蘸食即可。",
         "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234607",
-    "name": "可乐鸡翅",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp",
-    "brief": "色泽红亮，咸甜适中，是深受儿童喜爱的家常快手菜。",
-    "categoryIds": ["11",
-      "7",
-      "2",
-      "20"
-    ],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "ingredients": "鸡翅中: 10个\n可乐: 300毫升 (半罐到一罐)\n生抽: 3汤匙 (约45毫升)\n老抽: 1/2茶匙 (约3毫升, 辅助上色)\n姜片: 5片\n食用油: 适量\n盐: 少量 (腌制用)",
-    "steps": [
-     
-      {
-        "text":"【前期备菜腌制】：鸡翅中洗净，在表面划两刀以便入味。加入少量盐和生抽，腌制10分钟。"
-      },
-      {
-        "text":"【焯水去腥】：将鸡翅中冷水下锅，加入姜片和少量料酒（可选）。大火烧开后煮3分钟，撇去浮沫。捞出鸡翅用温水冲洗干净，沥干。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step1.webp"
-      },
-      {
-        "text":"【煎制上色】：锅中倒入少量食用油，烧热。放入鸡翅，用中小火煎至两面金黄，同时可以逼出鸡翅中的少量油脂。放入姜片爆香。"
-      },
-      {
-        "text":"【调味炖煮】：倒入生抽和老抽，翻炒均匀，使鸡翅上色。倒入可乐，液面基本没过鸡翅即可。大火烧开后转中火，盖上锅盖焖煮15分钟。"
-      },
-      {
-        "text":"【收汁出锅】：开盖，转大火快速收汁。持续翻炒，直到汤汁变得浓稠、油亮，紧紧包裹在鸡翅上即可关火。注意收汁过程极易糊锅，需不停翻动。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/keleji_step2.webp"
       }
     ]
   },
