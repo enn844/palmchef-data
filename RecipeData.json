@@ -1,5 +1,122 @@
 [
   {
+    "id": "hongshao-daiyu-001",
+    "name": "红烧带鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_daiyu.webp",
+    "brief": "家常红烧风味，带鱼外酥里嫩，咸鲜微甜，汤汁浓郁下饭。",
+    "categoryIds": ["30", "7", "2", "11"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "ingredients": "带鱼: 500克\n姜片: 5片\n葱段: 适量\n料酒: 2汤匙\n香菜: 适量\n花椒面: 1/2茶匙\n红烧酱油: 1汤匙\n海天香醋: 1汤匙\n白糖: 1茶匙\n盐: 适量\n食用油: 适量\n淀粉: 少许",
+    "steps": [
+      {
+        "text": "【前期备菜腌制】：带鱼去头去内脏，洗净切段，用厨房纸吸干水分。加入姜片、葱段、料酒、花椒面，抓匀腌制15分钟去腥。"
+      },
+      {
+        "text": "【煎制带鱼】：腌制好的带鱼段两面薄薄拍上一层淀粉。锅中倒油烧至六成热，放入带鱼段，中小火煎至两面金黄酥脆，盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_daiyu_step1.webp"
+      },
+      {
+        "text": "【爆香调味】：锅中留底油，放入姜片、葱段爆香。加入红烧酱油、香醋、白糖、适量盐和半碗清水，大火烧开。"
+      },
+      {
+        "text": "【焖煮收汁】：放入煎好的带鱼段，转中小火焖煮5-8分钟，让带鱼充分吸收汤汁。最后大火收汁至浓稠。"
+      },
+      {
+        "text": "【出锅装盘】：撒上香菜段，即可盛出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_daiyu_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "qingjiao-rousi-001",
+    "name": "青椒肉丝",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_rousi.webp",
+    "brief": "经典家常小炒，青椒脆嫩，肉丝滑嫩，咸香适口，下饭利器。",
+    "categoryIds": ["20", "7", "2", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "猪里脊肉: 200克\n青椒: 2个\n蒜末: 2瓣\n盐: 适量\n食用油: 适量\n酱油: 1汤匙\n淀粉: 1茶匙\n味精: 少许",
+    "steps": [
+      {
+        "text": "【处理青椒】：青椒去蒂去籽，切成细丝。锅中烧开水，放入青椒丝焯水30秒，捞出沥干备用（可保持脆绿）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousi_step1.webp"
+      },
+      {
+        "text": "【腌制肉丝】：猪里脊肉切细丝，加入少许盐、1汤匙食用油、1汤匙酱油、1茶匙淀粉，抓匀腌制10分钟。"
+      },
+      {
+        "text": "【滑炒肉丝】：热锅倒入适量油，大火烧至六成热，下入肉丝快速滑炒至变色断生，立即盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousi_step2.webp"
+      },
+      {
+        "text": "【爆香合炒】：锅中留底油，放入蒜末爆香。加入焯过水的青椒丝，快速翻炒几下。"
+      },
+      {
+        "text": "【调味出锅】：倒入炒好的肉丝，加入适量盐和少许味精，大火快速翻炒均匀。根据个人口感可适当延长炒制时间，确保肉丝熟透入味，即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousi_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9220",
+    "name": "干锅花菜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/ganguo_huacai.webp",
+    "brief": "干香微焦，麻辣开胃，花菜脆嫩，肉片咸香，是下饭聚餐的经典川味干锅菜。",
+    "categoryIds": ["11", "5", "7", "31", "2"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "花菜（菜花）: 400克\n五花肉: 150克\n青椒: 1个\n红椒: 1个\n大蒜: 3瓣\n姜: 1小块\n葱: 1根\n蚝油: 1汤匙\n老抽: 1茶匙\n料酒: 1汤匙\n盐: 适量\n鸡精: 少许\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜切配】：花菜切成小朵，洗净沥干。青红椒切丝，葱姜切碎，大蒜切片。五花肉切成薄片，加入蚝油、老抽、料酒和少许盐，抓匀腌制10分钟。"
+      },
+      {
+        "text": "【煸炒肉片】：锅中倒适量油，烧至五成热，下入腌制好的五花肉片，中小火煸炒至肉片变色、微微出油，边缘卷曲。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ganguo_huacai_step1.webp"
+      },
+      {
+        "text": "【爆香小料】：加入大蒜片和姜丝，继续翻炒出香味。"
+      },
+      {
+        "text": "【加入主料】：倒入花菜块和青红椒丝，转大火快速翻炒，均匀受热。加入适量盐调味，继续翻炒至花菜表面微焦、开始出水。"
+      },
+      {
+        "text": "【收汁提鲜】：待锅中汤汁快收干时，加入少许鸡精，快速翻炒均匀，即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ganguo_huacai_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234723",
+    "name": "蚝油生菜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/haoyou_shengcai.webp",
+    "brief": "清爽脆嫩，蚝油汁咸鲜，制作简单快速。",
+    "categoryIds": ["31","17","12","7",
+      "4",
+      "2"
+    ],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "生菜 300克\n蚝油 2汤匙\n生抽 1汤匙\n蒜蓉 1汤匙\n白糖 1/2茶匙\n淀粉 少量",
+    "steps": [
+
+      {
+        "text": "【处理食材】：生菜洗净，撕成适当大小的片状；大蒜剁成蒜蓉备用；将少量淀粉和清水混合均匀调成水淀粉备用。"
+      },
+      {
+        "text": "【焯水】：生菜放入沸水中焯水30秒，立即捞出，沥干水分，铺在盘底。"
+      },
+      {
+        "text": "【调汁】：锅中放少量油，放入蒜蓉爆香。加入蚝油、生抽、白糖和少量清水，煮开。"
+      },
+      {
+        "text": "【勾芡淋汁】：淋入水淀粉勾薄芡，汤汁浓稠后，均匀淋在生菜上即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_shengcai_step1.webp"
+      }
+    ]
+  },
+  {
     "id": "a1b2c3d4-e5f6-4g7h-8i9j-0k1l2m3n4o5r",
     "name": "土豆炒牛肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_chaoniurou.webp",
@@ -324,7 +441,7 @@
     "name": "黄瓜烙",
     "imageSrc": "https://shiyuji.xyz/img/recipes/huanggualao.webp",
     "brief": "潮汕特色小吃，外酥里嫩，黄瓜清甜，搭配肉末和蛋香，口感层次丰富。",
-    "categoryIds": ["13", "7", "2", "31"],
+    "categoryIds": ["13", "2", "31"],
     "difficulty": "简单",
     "time": "20分钟",
     "ingredients": "黄瓜: 2根（约400克）\n红薯粉: 80克\n生粉（玉米淀粉）: 20克\n鸡蛋: 2个\n火腿丁: 30克\n肉末: 50克\n葱花: 适量\n盐: 1茶匙\n胡椒粉: 少许\n食用油: 适量",
@@ -696,7 +813,7 @@
     "name": "茶叶蛋",
     "imageSrc": "https://shiyuji.xyz/img/recipes/chayedan.webp",
     "brief": "蛋白上布满琥珀色裂纹，咸香入味，茶香浓郁，是早餐和日常零食的经典选择。",
-    "categoryIds": ["7", "13", "10"],
+    "categoryIds": ["13", "10"],
     "difficulty": "简单",
     "time": "约3小时（含室温浸泡）",
     "ingredients": "鸡蛋: 8个\n红茶茶叶: 15克（或2个红茶包）\n八角: 2个\n桂皮: 1小段\n香叶: 2片\n花椒: 1小撮\n生抽: 3汤匙\n老抽: 2汤匙\n盐: 1汤匙\n冰糖: 10克\n清水: 适量",
@@ -2692,35 +2809,6 @@
       {
         "text": "【调味】：倒入西兰花，大火快速翻炒。加入盐调味，最后放入另一半生蒜蓉，翻炒均匀即可出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/suanrong_xilanhua_step1.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234723",
-    "name": "蚝油生菜",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/haoyou_shengcai.webp",
-    "brief": "清爽脆嫩，蚝油汁咸鲜，制作简单快速。",
-    "categoryIds": ["31","17","12",
-      "4",
-      "2"
-    ],
-    "difficulty": "简单",
-    "time": "10分钟",
-    "ingredients": "生菜 300克\n蚝油 2汤匙\n生抽 1汤匙\n蒜蓉 1汤匙\n白糖 1/2茶匙\n淀粉 少量",
-    "steps": [
-
-      {
-        "text": "【处理食材】：生菜洗净，撕成适当大小的片状；大蒜剁成蒜蓉备用；将少量淀粉和清水混合均匀调成水淀粉备用。"
-      },
-      {
-        "text": "【焯水】：生菜放入沸水中焯水30秒，立即捞出，沥干水分，铺在盘底。"
-      },
-      {
-        "text": "【调汁】：锅中放少量油，放入蒜蓉爆香。加入蚝油、生抽、白糖和少量清水，煮开。"
-      },
-      {
-        "text": "【勾芡淋汁】：淋入水淀粉勾薄芡，汤汁浓稠后，均匀淋在生菜上即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_shengcai_step1.webp"
       }
     ]
   },
@@ -7267,45 +7355,6 @@
     ]
   },
   {
-    "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9220",
-    "name": "干锅花菜",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/ganguo_huacai.webp",
-    "brief": "干香微焦，麻辣开胃，重口味聚餐",
-    "categoryIds": ["11",
-      "4",
-      "5",
-      "31"
-    ],
-    "difficulty": "中等",
-    "time": "35分钟",
-    "ingredients": "花菜（菜花） 500克\n干辣椒 10-15个\n花椒 1茶匙 (5克)\n蒜片 4瓣\n生抽 1汤匙 (15毫升)\n盐 适量\n孜然粉 1/2茶匙 (可选)\n食用油 适量",
-    "steps": [
-     
-      {
-        "text":"【备菜处理】：花菜掰成小朵，洗净。干辣椒剪成段，去除部分籽。大蒜切片。",
-        "imageSrc":"https:///shiyuji.xyz/img/steps/ganguo_huacai_step1.webp"
-      },
-      {
-        "text":"【花菜预处理】：锅中水烧开，放入花菜焯水1分钟，捞出沥干水分，或入六成热（约180°C）油锅中炸至花菜表面微焦，捞出沥油。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/ganguo_huacai_step2.webp"
-      },
-      {
-        "text":"【爆香底料】：锅中热油（约2汤匙），放入干辣椒段、花椒（1茶匙，约5克）、蒜片，小火煸炒出麻辣香味（约1分钟）。"
-      },
-      {
-        "text":"【煸炒花菜】：倒入处理好的花菜，转大火快速翻炒。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/ganguo_huacai_step3.webp"
-      },
-      {
-        "text":"【调味收干】：加入1汤匙生抽（约15毫升）、适量盐和1/2茶匙孜然粉（可选）调味。继续大火煸炒3-5分钟，直到花菜干香入味，水分收干。"
-      },
-      {
-        "text":"【上桌】：将炒好的花菜倒入预热好的干锅中，底部垫洋葱丝（可选），边加热边食用。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/ganguo_huacai_step4.webp"
-      }
-    ]
-  },
-  {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9221",
     "name": "手撕包菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shousi_baocai.webp",
@@ -9005,7 +9054,6 @@
     "brief": "佛手理气止痛，玫瑰疏肝解郁，搭配白芍养血柔肝，是一道疏肝理气、舒缓情绪的养生汤品。",
     "categoryIds": [
       "3",
-      "7",
       "15"
     ],
     "difficulty": "简单",
