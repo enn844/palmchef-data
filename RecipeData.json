@@ -9716,5 +9716,28 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/sangshen_gouqicha_step2.webp"
       }
     ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c4d",
+    "name": "蓝莓酸奶",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lanmei_suannai.webp",
+    "brief": "无需加热，保留蓝莓花青素，酸奶与坚果的优质蛋白和Omega-3协同护脑，冷食如冰淇淋般绵密。",
+    "categoryIds": ["10", "14", "22", "17"],
+    "difficulty": "简单",
+    "time": "5分钟",
+    "ingredients": "高山蓝莓: 120g（表皮覆有白霜者最佳）\n自制希腊酸奶: 150g（提供蛋白质基底）\n野生核桃仁: 3枚（提供Omega-3，协同护脑）",
+    "steps": [
+      {
+        "text": "【准备食材】：高山蓝莓用流水轻轻冲洗（保留白霜），沥干水分；自制希腊酸奶提前从冰箱取出；野生核桃仁掰成小块备用。"
+      },
+      {
+        "text": "【物理融合】：将整颗蓝莓拌入厚重的希腊酸奶中，用勺子轻压几颗蓝莓，使其汁液自然渗出，形成如水墨般的黛蓝色纹路。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanmei_suannai_step1.webp"
+      },
+      {
+        "text": "【点缀坚果】：撒上核桃仁碎，即可直接食用。冷藏静置5分钟风味更佳，口感如冰淇淋般绵密。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanmei_suannai_step2.webp"
+      }
+    ]
   }
 ]
