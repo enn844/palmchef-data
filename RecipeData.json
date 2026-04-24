@@ -1,5 +1,123 @@
 [
   {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234606",
+    "name": "白灼虾",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baizhuoxia.webp",
+    "brief": "以最简单的方式保留虾肉的极致鲜甜，粤菜对食材本味的尊重。",
+    "categoryIds": ["17","11",
+      "6",
+      "30",
+      "2"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜活虾（或鲜冻虾）: 500克\n姜片: 8片\n葱段: 适量 (约5段)\n料酒: 1汤匙 (约15毫升)\n【蘸料】：生抽 3汤匙、香油 1茶匙、新鲜姜丝 适量",
+    "steps": [
+      
+      {
+        "text":"【前期备菜】：新鲜活虾剪去虾须和虾枪，用清水冲洗干净，沥干水分。准备好焯水用的姜片和葱段。"
+      },
+      {
+        "text":"【煮制】：锅中烧开足量清水（确保能没过虾），放入姜片、葱段和料酒。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step1.webp"
+      },
+      {
+        "text":"【下虾测熟】：水开后转大火，迅速倒入鲜虾，保持大火煮制。从虾入锅开始计算，煮约2-3分钟。判断标准是虾身完全变红，并卷曲成U型，即可立即捞出。"
+      },
+      {
+        "text":"【降温】：将煮好的虾迅速放入冰水或冷开水中浸泡1分钟，可以使其肉质更加紧实弹牙。捞出，彻底沥干水分。"
+      },
+      {
+        "text":"【装盘与蘸料】：将虾摆盘。制作蘸料：将生抽、香油混合，放入新鲜姜丝。蘸食即可。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234605",
+    "name": "麻婆豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/mapo_doufu.webp",
+    "brief": "麻辣鲜香，烫口滑嫩，超级下饭的川菜经典代表作。",
+    "categoryIds": ["26",
+      "5",
+      "7",
+      "12"
+    ],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "豆腐（嫩豆腐或北豆腐）: 400克\n牛肉末（或猪肉末）: 50克 (可选)\n郫县豆瓣酱: 2汤匙\n豆豉: 1汤匙\n花椒粉: 1/2茶匙 (出锅后撒)\n辣椒面: 少量 (可选)\n蒜末/姜末: 各1茶匙\n葱花: 适量\n水淀粉: 1汤匙淀粉加3汤匙水\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：豆腐切成1.5厘米见方的小块。将豆腐块放入加了少量盐的开水中焯水1分钟（去豆腥味，并增加豆腐韧性），轻轻捞出，沥干水分。蒜末、姜末、郫县豆瓣酱和豆豉准备好。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mapo_doufu_step1.webp"
+      },
+      {
+        "text": "【炒制底料】：锅中热油，先煸炒肉末至变色（可选）。接着，加入郫县豆瓣酱，用小火炒出红油和浓郁的香味，再加入豆豉、姜末和蒜末，继续炒香（约1分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mapo_doufu_step2.webp"
+      },
+      {
+        "text": "【烧制豆腐】：倒入高汤或清水，烧开。轻轻放入豆腐块，不要剧烈翻动，以防豆腐碎裂。转中小火，煨煮5分钟，让豆腐充分吸收汤汁的麻辣味。"
+      },
+      {
+        "text": "【勾芡调味】：倒入水淀粉，快速轻轻推动锅中的豆腐，使汤汁变得浓稠（如果不够浓可再次少量勾芡）。"
+      },
+      {
+        "text": "【出锅点睛】：汤汁浓稠后，关火，将豆腐盛入碗中。撒上适量花椒粉和葱花，即可上桌。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mapo_doufu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "cong-dan-bing-001",
+    "name": "煎葱蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/congdan.webp",
+    "brief": "外酥里嫩，葱香浓郁，制作简单快速的营养早餐。",
+    "categoryIds": ["10", "2", "28", "7"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "鸡蛋: 3个\n小葱: 3根（切葱花）\n盐: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【调蛋液】：葱洗净切末。取一个大碗，打入鸡蛋，加入葱花，少量盐，搅拌均匀；",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congdan_step1.webp"
+      },
+      {
+        "text": "【煎制蛋饼】：平底锅烧热，倒入少量油，烧至八成热后，倒入葱蛋液，迅速转动锅子使面糊均匀铺成圆形薄饼。"
+      },
+      {
+        "text": "【翻面煎熟】：中小火煎约1-2分钟，待葱蛋金黄、表面基本凝固后，翻面再煎1分钟，至两面金黄即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congdan_step2.webp"
+      }
+    ]
+  }, 
+  {
+    "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+    "name": "平菇炒肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/pinggu_chaorou.webp",
+    "brief": "平菇滑嫩鲜美，肉片焦香，汤汁浓郁，是一道鲜香下饭的家常小炒。",
+    "categoryIds": ["7", "2", "20", "31","11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "猪瘦肉: 200克\n平菇: 300克\n青椒: 1个\n蒜末: 2瓣\n生抽: 1汤匙\n料酒: 1汤匙\n淀粉: 1茶匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理食材】：猪肉切片，加生抽、料酒、淀粉抓匀腌制10分钟。平菇撕成小朵洗净，青椒切块。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pinggu_chaorou_step1.webp"
+      },
+      {
+        "text": "【滑炒肉片】：锅中倒油烧热，放入肉片滑炒至变色，盛出备用。"
+      },
+      {
+        "text": "【炒平菇】：锅中留底油，爆香蒜末，倒入平菇大火翻炒至出水变软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pinggu_chaorou_step2.webp"
+      },
+      {
+        "text": "【合炒出锅】：倒入肉片和青椒块，加入盐调味，大火翻炒均匀即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pinggu_chaorou_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "hongshao-daiyu-001",
     "name": "红烧带鱼",
     "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_daiyu.webp",
@@ -59,6 +177,73 @@
     ]
   },
   {
+    "id": "a1b2c3d4-e5f6-4g7h-8i9j-0k1l2m3n4o5r",
+    "name": "土豆炒牛肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_chaoniurou.webp",
+    "brief": "牛肉滑嫩，土豆条外焦里软，咸香入味，是一道营养均衡的快手下饭菜。",
+    "categoryIds": ["7", "20", "2", "11", "21"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "牛里脊肉: 250克\n土豆: 2个 (中等大小)\n大蒜: 3瓣\n生抽: 2汤匙\n老抽: 1/2汤匙\n料酒: 1汤匙\n白糖: 1/2茶匙\n盐: 适量\n黑胡椒粉: 少许\n玉米淀粉: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【准备食材】：牛里脊肉逆着纹理切成薄片；土豆去皮切成约0.8厘米粗细的长条，用清水浸泡去除多余淀粉；大蒜切片。"
+      },
+      {
+        "text": "【腌制牛肉】：牛肉片中加入1汤匙生抽、1汤匙料酒、少许黑胡椒粉、1茶匙玉米淀粉和1茶匙食用油，抓匀腌制15分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step1.webp"
+      },
+      {
+        "text": "【煎土豆条】：锅中倒油烧热，放入土豆条中火煎至表面金黄、边缘微焦，捞出备用。"
+      },
+      {
+        "text": "【滑炒牛肉】：锅中留底油，大火烧热，倒入腌好的牛肉片快速滑炒至变色，立即盛出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step2.webp"
+      },
+      {
+        "text": "【爆香合炒】：锅中再加少许油，放入蒜片爆香，然后倒入煎好的土豆条和牛肉片。"
+      },
+      {
+        "text": "【调味出锅】：加入1汤匙生抽、1/2汤匙老抽、1/2茶匙白糖和适量盐，大火快速翻炒均匀，即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "chaoshan-xiancai-chaoroupian-001",
+    "name": "咸菜炒猪肉片",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiancai_chaorou.webp",
+    "brief": "潮汕家常风味，咸菜酸咸爽脆，猪肉片滑嫩，开胃下饭。",
+    "categoryIds": ["6", "7", "20", "2"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "猪里脊肉: 200克\n潮汕咸菜(腌荠菜): 150克\n蒜瓣: 3瓣（切片）\n生抽: 1汤匙\n淀粉: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理咸菜】：潮汕咸菜（腌荠菜）用清水冲洗一下（避免过咸），挤干水分后切成细条。"
+      },
+      {
+        "text": "【腌制肉片】：猪里脊肉切成薄片，加入生抽、淀粉和少许食用油，抓匀腌制10分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiancai_zhurou_step1.webp"
+      },
+      {
+        "text": "【煸炒肉片】：锅中倒油烧热，放入腌好的肉片，快速滑炒至变色断生，盛出备用。"
+      },
+      {
+        "text": "【炒咸菜】：锅中留底油，放入蒜片爆香，再加入咸菜条，中火翻炒1-2分钟，炒出咸菜的香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiancai_zhurou_step2.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入炒好的肉片，快速翻炒均匀。由于咸菜本身有咸味，加盐要适量。"
+      },
+      {
+        "text": "【出锅装盘】：加入适量水，翻炒约30秒后即可关火，盛出装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiancai_zhurou_step3.webp"
+      }
+    ]
+  },
+ 
+  {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9220",
     "name": "干锅花菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/ganguo_huacai.webp",
@@ -113,39 +298,6 @@
       {
         "text": "【勾芡淋汁】：淋入水淀粉勾薄芡，汤汁浓稠后，均匀淋在生菜上即可。",
         "imageSrc": "https://shiyuji.xyz/img/steps/haoyou_shengcai_step1.webp"
-      }
-    ]
-  },
-  {
-    "id": "a1b2c3d4-e5f6-4g7h-8i9j-0k1l2m3n4o5r",
-    "name": "土豆炒牛肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_chaoniurou.webp",
-    "brief": "牛肉滑嫩，土豆条外焦里软，咸香入味，是一道营养均衡的快手下饭菜。",
-    "categoryIds": ["7", "20", "2", "11", "21"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "ingredients": "牛里脊肉: 250克\n土豆: 2个 (中等大小)\n大蒜: 3瓣\n生抽: 2汤匙\n老抽: 1/2汤匙\n料酒: 1汤匙\n白糖: 1/2茶匙\n盐: 适量\n黑胡椒粉: 少许\n玉米淀粉: 1茶匙\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【准备食材】：牛里脊肉逆着纹理切成薄片；土豆去皮切成约0.8厘米粗细的长条，用清水浸泡去除多余淀粉；大蒜切片。"
-      },
-      {
-        "text": "【腌制牛肉】：牛肉片中加入1汤匙生抽、1汤匙料酒、少许黑胡椒粉、1茶匙玉米淀粉和1茶匙食用油，抓匀腌制15分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step1.webp"
-      },
-      {
-        "text": "【煎土豆条】：锅中倒油烧热，放入土豆条中火煎至表面金黄、边缘微焦，捞出备用。"
-      },
-      {
-        "text": "【滑炒牛肉】：锅中留底油，大火烧热，倒入腌好的牛肉片快速滑炒至变色，立即盛出。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step2.webp"
-      },
-      {
-        "text": "【爆香合炒】：锅中再加少许油，放入蒜片爆香，然后倒入煎好的土豆条和牛肉片。"
-      },
-      {
-        "text": "【调味出锅】：加入1汤匙生抽、1/2汤匙老抽、1/2茶匙白糖和适量盐，大火快速翻炒均匀，即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaoniurou_step3.webp"
       }
     ]
   },
@@ -870,40 +1022,6 @@
       {
         "text": "【出锅切分】：煎好的三明治取出，放在案板上沿对角线切开，成三角形即可装盘享用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_sanmingzhi_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234606",
-    "name": "白灼虾",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/baizhuoxia.webp",
-    "brief": "以最简单的方式保留虾肉的极致鲜甜，粤菜对食材本味的尊重。",
-    "categoryIds": ["17","11",
-      "6",
-      "30",
-      "2"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "新鲜活虾（或鲜冻虾）: 500克\n姜片: 8片\n葱段: 适量 (约5段)\n料酒: 1汤匙 (约15毫升)\n【蘸料】：生抽 3汤匙、香油 1茶匙、新鲜姜丝 适量",
-    "steps": [
-      
-      {
-        "text":"【前期备菜】：新鲜活虾剪去虾须和虾枪，用清水冲洗干净，沥干水分。准备好焯水用的姜片和葱段。"
-      },
-      {
-        "text":"【煮制】：锅中烧开足量清水（确保能没过虾），放入姜片、葱段和料酒。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step1.webp"
-      },
-      {
-        "text":"【下虾测熟】：水开后转大火，迅速倒入鲜虾，保持大火煮制。从虾入锅开始计算，煮约2-3分钟。判断标准是虾身完全变红，并卷曲成U型，即可立即捞出。"
-      },
-      {
-        "text":"【降温】：将煮好的虾迅速放入冰水或冷开水中浸泡1分钟，可以使其肉质更加紧实弹牙。捞出，彻底沥干水分。"
-      },
-      {
-        "text":"【装盘与蘸料】：将虾摆盘。制作蘸料：将生抽、香油混合，放入新鲜姜丝。蘸食即可。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/baizhuoxia_step2.webp"
       }
     ]
   },
@@ -1720,33 +1838,6 @@
     ]
   },
   {
-    "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
-    "name": "平菇炒肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/pinggu_chaorou.webp",
-    "brief": "平菇滑嫩鲜美，肉片焦香，汤汁浓郁，是一道鲜香下饭的家常小炒。",
-    "categoryIds": ["7", "2", "20", "31","11"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "猪瘦肉: 200克\n平菇: 300克\n青椒: 1个\n蒜末: 2瓣\n生抽: 1汤匙\n料酒: 1汤匙\n淀粉: 1茶匙\n盐: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【处理食材】：猪肉切片，加生抽、料酒、淀粉抓匀腌制10分钟。平菇撕成小朵洗净，青椒切块。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/pinggu_chaorou_step1.webp"
-      },
-      {
-        "text": "【滑炒肉片】：锅中倒油烧热，放入肉片滑炒至变色，盛出备用。"
-      },
-      {
-        "text": "【炒平菇】：锅中留底油，爆香蒜末，倒入平菇大火翻炒至出水变软。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/pinggu_chaorou_step2.webp"
-      },
-      {
-        "text": "【合炒出锅】：倒入肉片和青椒块，加入盐调味，大火翻炒均匀即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/pinggu_chaorou_step3.webp"
-      }
-    ]
-  },
-  {
     "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
     "name": "芥兰炒牛肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jielan_chaoniurou.webp",
@@ -1824,40 +1915,6 @@
       {
         "text": "【焖煮收汁】：倒入茄条，加入生抽、老抽、蚝油、白糖和半碗清水，大火烧开转小火焖煮3分钟，淋入水淀粉勾芡，撒上葱花即可。",
         "imageSrc": "https://shiyuji.xyz/img/steps/roumo_qiezi_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234605",
-    "name": "麻婆豆腐",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/mapo_doufu.webp",
-    "brief": "麻辣鲜香，烫口滑嫩，超级下饭的川菜经典代表作。",
-    "categoryIds": ["26",
-      "5",
-      "7",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "30分钟",
-    "ingredients": "豆腐（嫩豆腐或北豆腐）: 400克\n牛肉末（或猪肉末）: 50克 (可选)\n郫县豆瓣酱: 2汤匙\n豆豉: 1汤匙\n花椒粉: 1/2茶匙 (出锅后撒)\n辣椒面: 少量 (可选)\n蒜末/姜末: 各1茶匙\n葱花: 适量\n水淀粉: 1汤匙淀粉加3汤匙水\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【前期备菜】：豆腐切成1.5厘米见方的小块。将豆腐块放入加了少量盐的开水中焯水1分钟（去豆腥味，并增加豆腐韧性），轻轻捞出，沥干水分。蒜末、姜末、郫县豆瓣酱和豆豉准备好。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/mapo_doufu_step1.webp"
-      },
-      {
-        "text": "【炒制底料】：锅中热油，先煸炒肉末至变色（可选）。接着，加入郫县豆瓣酱，用小火炒出红油和浓郁的香味，再加入豆豉、姜末和蒜末，继续炒香（约1分钟）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/mapo_doufu_step2.webp"
-      },
-      {
-        "text": "【烧制豆腐】：倒入高汤或清水，烧开。轻轻放入豆腐块，不要剧烈翻动，以防豆腐碎裂。转中小火，煨煮5分钟，让豆腐充分吸收汤汁的麻辣味。"
-      },
-      {
-        "text": "【勾芡调味】：倒入水淀粉，快速轻轻推动锅中的豆腐，使汤汁变得浓稠（如果不够浓可再次少量勾芡）。"
-      },
-      {
-        "text": "【出锅点睛】：汤汁浓稠后，关火，将豆腐盛入碗中。撒上适量花椒粉和葱花，即可上桌。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/mapo_doufu_step3.webp"
       }
     ]
   },
