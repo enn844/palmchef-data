@@ -143,6 +143,13 @@
     "title": "古籍智慧",
     "articles": [
       {
+        "id": "lanmei",
+        "imageSrc": "https://shiyuji.xyz/img/article/lanmei.webp",
+        "title": "蓝莓：那一抹深邃的“黛蓝”，是给视网膜的温柔补丁",
+        "brief": "从飞行员秘密食谱到现代人屏幕救星。蓝莓中的花青素是生命系统里最精准的视觉优化协议，对抗细胞的‘像素降级’。",
+        "webUrl": "https://health-app.com/articles/blueberry-retina-patch"
+      },
+      {
         "id": "xinyuanxing_cusi",
         "imageSrc": "https://shiyuji.xyz/img/article/xinyuanxing_cusi.webp",
         "title": "心脏的“极端测试”：别让你的生命服务器在深夜宕机",
