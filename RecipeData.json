@@ -58,71 +58,6 @@
     ]
   },
   {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251235001",
-    "name": "懒人焖排骨",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menpaigu.webp",
-    "brief": "电饭煲一键搞定，排骨软烂入味，简单省事。",
-    "categoryIds": ["7", "20", "2", "12"],
-    "difficulty": "简单",
-    "time": "40分钟",
-    "ingredients": "排骨: 500克\n生抽: 2汤匙\n老抽: 1汤匙\n蒜末: 1汤匙\n姜末: 1汤匙\n花生油: 适量\n姜片: 5片",
-    "steps": [
-      {
-        "text": "【准备腌制】：排骨切块，用清水洗净后沥干水分。加入生抽、老抽、蒜末、姜末，抓匀腌制30分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menpaigu_step1.webp"
-      },
-      {
-        "text": "【电饭煲铺底】：电饭煲内胆底部刷一层花生油，铺上姜片。"
-      },
-      {
-        "text": "【放入排骨】：将腌制好的排骨连同料汁一起倒入电饭煲中，铺平。"
-      },
-      {
-        "text": "【焖煮】：盖上盖子，按下煮饭键。待程序结束后，打开锅盖，如果汤汁较多可以再按一次快煮键收汁。即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menpaigu_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
-    "name": "青椒酿肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangrou.webp",
-    "brief": "青椒的清香与肉末的鲜嫩完美融合，煎至虎皮状后裹上酱汁，咸香入味，超级下饭。",
-    "categoryIds": [
-      "7",
-      "2",
-      "20",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "ingredients": "青椒: 4个\n猪梅花肉（或五花肉）: 200克\n生抽: 2汤匙\n老抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 2茶匙\n葱姜水: 3汤匙\n盐: 适量\n清水: 半碗\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【调制肉馅】：猪肉剁成肉末，加入1汤匙生抽、1汤匙料酒、1/2茶匙白胡椒粉、1茶匙淀粉、少许盐，分次加入葱姜水，顺时针搅拌至上劲，腌制15分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step1.webp"
-      },
-      {
-        "text": "【处理青椒】：青椒洗净，切去蒂部，切成约4厘米长的段，用筷子或小勺挖去内部的籽。"
-      },
-      {
-        "text": "【塞入肉馅】：将腌制好的肉馅用小勺塞入青椒段中，两端抹平，确保肉馅填实。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step2.webp"
-      },
-      {
-        "text": "【调配酱汁】：取小碗，加入1汤匙生抽、1汤匙老抽、1汤匙蚝油、1茶匙淀粉、适量盐和半碗清水，搅拌均匀备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step3.webp"
-      },
-      {
-        "text": "【煎至虎皮】：平底锅中倒入适量食用油，油热后放入塞好肉馅的青椒段，中火煎至青椒表面出现虎皮状焦斑，翻面继续煎至另一面也呈虎皮状，肉馅表面微黄。"
-      },
-      {
-        "text": "【焖煮收汁】：将先前调好的酱汁倒入锅中，大火烧开后转中小火，盖上锅盖焖煮5分钟，让青椒和肉馅充分入味。最后开盖转大火收汁，待汤汁浓稠后即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step4.webp"
-      }
-    ]
-  },
-  {
     "id": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
     "name": "白菜炒肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/baicai_chaorou.webp",
@@ -214,35 +149,6 @@
       {
         "text": "【出锅】：最后加入葱段，快速翻炒几下即可出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/chaohuajia_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o8",
-    "name": "玉米胡萝卜排骨汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qingdun_paigutang.webp",
-    "brief": "汤汁清澈，肉质酥烂，鲜香滋补的传统汤品。",
-    "categoryIds": ["11",
-      "3",
-      "26"
-    ],
-    "difficulty": "中等",
-    "time": "1小时30分钟",
-    "ingredients": "猪肋排/筒骨 500克\n玉米 1根 (切段)\n胡萝卜 1根 (切块)\n姜片 适量\n料酒 适量\n盐 适量",
-    "steps": [
-      
-      {
-        "text": "【焯水】：排骨冷水下锅，加入姜片和料酒，大火煮开后撇去浮沫，捞出排骨洗净。"
-      },
-      {
-        "text": "【炖汤】：将排骨、玉米段和胡萝卜块放入砂锅中，加入足量热水，大火烧开后转最小火慢炖1.5小时。"
-      },
-      {
-        "text": "【调味】：在出锅前10分钟加入盐调味。"
-      },
-      {
-        "text": "【出锅】：撒上葱花或香菜即可食用，汤汁清淡醇厚。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingdun_paigutang_step1.webp"
       }
     ]
   },
@@ -10012,6 +9918,100 @@
       {
         "text": "【点缀坚果】：撒上核桃仁碎，即可直接食用。冷藏静置5分钟风味更佳，口感如冰淇淋般绵密。",
         "imageSrc": "https://shiyuji.xyz/img/steps/lanmei_suannai_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251235001",
+    "name": "懒人焖排骨",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menpaigu.webp",
+    "brief": "电饭煲一键搞定，排骨软烂入味，简单省事。",
+    "categoryIds": ["7", "20", "2", "12"],
+    "difficulty": "简单",
+    "time": "40分钟",
+    "ingredients": "排骨: 500克\n生抽: 2汤匙\n老抽: 1汤匙\n蒜末: 1汤匙\n姜末: 1汤匙\n花生油: 适量\n姜片: 5片",
+    "steps": [
+      {
+        "text": "【准备腌制】：排骨切块，用清水洗净后沥干水分。加入生抽、老抽、蒜末、姜末，抓匀腌制30分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menpaigu_step1.webp"
+      },
+      {
+        "text": "【电饭煲铺底】：电饭煲内胆底部刷一层花生油，铺上姜片。"
+      },
+      {
+        "text": "【放入排骨】：将腌制好的排骨连同料汁一起倒入电饭煲中，铺平。"
+      },
+      {
+        "text": "【焖煮】：盖上盖子，按下煮饭键。待程序结束后，打开锅盖，如果汤汁较多可以再按一次快煮键收汁。即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menpaigu_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c22",
+    "name": "青椒酿肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangrou.webp",
+    "brief": "青椒的清香与肉末的鲜嫩完美融合，煎至虎皮状后裹上酱汁，咸香入味，超级下饭。",
+    "categoryIds": [
+      "7",
+      "2",
+      "20",
+      "12"
+    ],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "青椒: 4个\n猪梅花肉（或五花肉）: 200克\n生抽: 2汤匙\n老抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 2茶匙\n葱姜水: 3汤匙\n盐: 适量\n清水: 半碗\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【调制肉馅】：猪肉剁成肉末，加入1汤匙生抽、1汤匙料酒、1/2茶匙白胡椒粉、1茶匙淀粉、少许盐，分次加入葱姜水，顺时针搅拌至上劲，腌制15分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step1.webp"
+      },
+      {
+        "text": "【处理青椒】：青椒洗净，切去蒂部，切成约4厘米长的段，用筷子或小勺挖去内部的籽。"
+      },
+      {
+        "text": "【塞入肉馅】：将腌制好的肉馅用小勺塞入青椒段中，两端抹平，确保肉馅填实。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step2.webp"
+      },
+      {
+        "text": "【调配酱汁】：取小碗，加入1汤匙生抽、1汤匙老抽、1汤匙蚝油、1茶匙淀粉、适量盐和半碗清水，搅拌均匀备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step3.webp"
+      },
+      {
+        "text": "【煎至虎皮】：平底锅中倒入适量食用油，油热后放入塞好肉馅的青椒段，中火煎至青椒表面出现虎皮状焦斑，翻面继续煎至另一面也呈虎皮状，肉馅表面微黄。"
+      },
+      {
+        "text": "【焖煮收汁】：将先前调好的酱汁倒入锅中，大火烧开后转中小火，盖上锅盖焖煮5分钟，让青椒和肉馅充分入味。最后开盖转大火收汁，待汤汁浓稠后即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o8",
+    "name": "玉米胡萝卜排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingdun_paigutang.webp",
+    "brief": "汤汁清澈，肉质酥烂，鲜香滋补的传统汤品。",
+    "categoryIds": ["11",
+      "3",
+      "26"
+    ],
+    "difficulty": "中等",
+    "time": "1小时30分钟",
+    "ingredients": "猪肋排/筒骨 500克\n玉米 1根 (切段)\n胡萝卜 1根 (切块)\n姜片 适量\n料酒 适量\n盐 适量",
+    "steps": [
+      
+      {
+        "text": "【焯水】：排骨冷水下锅，加入姜片和料酒，大火煮开后撇去浮沫，捞出排骨洗净。"
+      },
+      {
+        "text": "【炖汤】：将排骨、玉米段和胡萝卜块放入砂锅中，加入足量热水，大火烧开后转最小火慢炖1.5小时。"
+      },
+      {
+        "text": "【调味】：在出锅前10分钟加入盐调味。"
+      },
+      {
+        "text": "【出锅】：撒上葱花或香菜即可食用，汤汁清淡醇厚。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingdun_paigutang_step1.webp"
       }
     ]
   }
