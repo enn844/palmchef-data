@@ -1,5 +1,126 @@
 [
   {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234802",
+    "name": "排骨炖豆角",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/paigu_dundoujiao.webp",
+    "brief": "东北铁锅炖代表菜，排骨酥烂脱骨，豆角吸满肉汁，酱香浓郁，暖心暖胃。",
+    "categoryIds": ["20", "27", "7", "12", "26", "2"],
+    "difficulty": "中等",
+    "time": "1小时10分钟",
+    "ingredients": "猪肋排: 500克 (斩成3-4厘米段)\n油豆角（或四季豆）: 400克 (去筋，掰成段)\n土豆: 1个 (约200克, 切滚刀块，可选)\n姜片: 5片\n葱段: 适量\n蒜瓣: 4瓣 (拍碎)\n八角: 2个\n生抽: 3汤匙\n老抽: 1汤匙\n料酒: 2汤匙\n白糖: 1茶匙\n盐: 适量\n食用油: 适量\n清水或高汤: 足量 (没过食材)",
+    "steps": [
+      {
+        "text": "【前期备菜】：排骨用冷水浸泡30分钟去血水，中途换水一次。豆角去筋，掰成约5厘米长的段。土豆去皮切滚刀块。姜切片，葱切段，蒜拍碎。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paigu_dundoujiao_step1.webp"
+      },
+      {
+        "text": "【排骨焯水】：排骨冷水下锅，加入2片姜和1汤匙料酒。大火煮沸后撇去浮沫，继续煮2分钟。捞出排骨，用温水冲洗干净，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paigu_dundoujiao_step2.webp"
+      },
+      {
+        "text": "【煸炒上色】：锅中倒油烧热，放入姜片、葱段、八角爆香。倒入排骨，中火煸炒至表面微黄。加入生抽、老抽、白糖和剩余料酒，翻炒均匀使排骨上色。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paigu_dundoujiao_step3.webp"
+      },
+      {
+        "text": "【炖煮排骨】：倒入足量热水（没过排骨约2厘米），大火烧开后转小火，盖上锅盖炖煮30分钟。"
+      },
+      {
+        "text": "【加入豆角土豆】：放入豆角段和土豆块（如用），翻拌均匀。继续小火炖煮20-25分钟，至豆角软烂、土豆绵软、排骨脱骨。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paigu_dundoujiao_step4.webp"
+      },
+      {
+        "text": "【收汁出锅】：加入拍碎的蒜瓣和适量盐调味。转大火收汁，留少量浓稠汤汁。关火，撒上葱花即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paigu_dundoujiao_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234801",
+    "name": "地三鲜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/disanxian.webp",
+    "brief": "东北经典家常菜，土豆绵软、茄子入味、青椒脆甜，咸鲜浓郁，超级下饭。",
+    "categoryIds": ["31", "27", "7", "2", "4", "12"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "土豆: 2个 (约300克, 去皮切滚刀块)\n茄子: 1根 (约250克, 切滚刀块)\n青椒: 1个 (约100克, 手撕或切块)\n蒜末: 4瓣 (切末)\n生抽: 2汤匙\n老抽: 1/2茶匙 (上色)\n白糖: 1茶匙\n盐: 适量\n水淀粉: 1汤匙淀粉+3汤匙水\n食用油: 适量 (用于炸制)",
+    "steps": [
+      {
+        "text": "【切制备菜】：土豆去皮，与茄子一同切成滚刀块（大小均匀）。青椒去籽手撕成块或切块。蒜瓣切成末。茄子块加入少量盐腌制10分钟，挤去多余水分，防止吸油过多。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/disanxian_step1.webp"
+      },
+      {
+        "text": "【食材过油】：锅中倒入足量食用油，烧至六成热（约160°C）。先下入土豆块，中火炸至表面金黄、边缘微焦（约4-5分钟），捞出控油。再下入茄子块，炸至表皮皱缩、变软（约2-3分钟），捞出控油。最后将青椒块快速过油10-15秒，捞出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/disanxian_step2.webp"
+      },
+      {
+        "text": "【爆香调味】：锅中留底油，放入蒜末小火爆香（约30秒）。将炸好的土豆、茄子、青椒一同倒回锅中，转大火快速翻炒均匀。"
+      },
+      {
+        "text": "【勾芡出锅】：沿锅边淋入生抽、老抽，撒入白糖和适量盐。快速翻炒使调料均匀。淋入调好的水淀粉，大火翻炒至汤汁浓稠、均匀包裹在食材上，立即关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/disanxian_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "酸菜牛肉-001",
+    "name": "酸菜牛肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/suancai_chaoniurou.webp",
+    "brief": "酸菜脆爽开胃，牛肉滑嫩入味，酸香微辣，是一道非常下饭的家常快手菜。",
+    "categoryIds": ["7", "2", "20"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "腌牛肉: 250克 (切薄片)\n酸菜茎: 200克 (切薄片)\n葱节: 适量\n辣椒: 适量 (切段或圈)\n蒜蓉: 适量\n糖: 适量\n醋: 适量\n湿淀粉: 适量\n油: 适量\n绍酒: 适量\n盐: 适量\n麻油: 适量\n汤: 适量",
+    "steps": [
+      {
+        "text": "【调芡汁】：取一个小碗，加入适量汤、糖、醋和湿淀粉，搅拌均匀，调成碗芡备用。"
+      },
+      {
+        "text": "【滑炒牛肉】：锅中倒入足量油，烧至六成热，放入腌好的牛肉片，快速划散，炒至牛肉变色断生后，捞出沥油备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_chaoniurou_step1.webp"
+      },
+      {
+        "text": "【爆香配料】：锅中留少许底油，放入葱节、辣椒段和蒜蓉，小火煸炒出香味。"
+      },
+      {
+        "text": "【炒制酸菜】：将切好的酸菜薄片倒入锅中，转中火翻炒，炒出酸菜的香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_chaoniurou_step2.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入滑炒好的牛肉片，快速翻炒均匀，沿锅边淋入绍酒，激发出香味。"
+      },
+      {
+        "text": "【勾芡出锅】：将调好的碗芡再次搅匀，淋入锅中，大火快速翻炒至汤汁浓稠，均匀包裹在食材上。最后淋入麻油，翻炒均匀即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_chaoniurou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
+    "name": "炒空心菜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/kongxincai.webp",
+    "brief": "翠绿爽口，蒜香浓郁，是一道简单快手的家常绿叶蔬菜。",
+    "categoryIds": ["7", "2", "31", "4"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "空心菜: 1000克\n瘦猪肉: 100克 (可选，切末)\n盐: 1克\n糖: 3克\n食用油: 40克\n蒜末: 适量 (根据个人口味添加，食谱未列出)",
+    "steps": [
+      {
+        "text": "【前期备菜】：空心菜洗净，摘去老叶和老梗，掐成段。瘦猪肉切成细末。"
+      },
+      {
+        "text": "【煸炒肉末】：砂锅内倒入食用油，烧热后放入猪肉末，煸炒至变色散开。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kongxincai_step1.webp"
+      },
+      {
+        "text": "【调味翻炒】：加入盐和糖，略炒均匀，然后放入空心菜，开大火快速翻炒。"
+      },
+      {
+        "text": "【出锅】：炒至空心菜变软、颜色翠绿即可出锅，全程大火快炒可保持口感脆嫩。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kongxincai_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234800",
     "name": "脆皮鸡翅",
     "imageSrc": "https://shiyuji.xyz/img/recipes/cuipi_jichi.webp",
