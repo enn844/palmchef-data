@@ -35,7 +35,7 @@
     ]
   },
   {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234801",
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234804",
     "name": "地三鲜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/disanxian.webp",
     "brief": "东北经典家常菜，土豆绵软、茄子入味、青椒脆甜，咸鲜浓郁，超级下饭。",
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "id": "b1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
     "name": "炒花甲",
     "imageSrc": "https://shiyuji.xyz/img/recipes/chaohuajia.webp",
     "brief": "花甲鲜嫩多汁，搭配小米辣的香辣和葱姜蒜的辛香，简单快炒，鲜美可口。",
@@ -524,7 +524,6 @@
     "time": "10分钟",
     "ingredients": "生菜 300克\n蚝油 2汤匙\n生抽 1汤匙\n蒜蓉 1汤匙\n白糖 1/2茶匙\n淀粉 少量",
     "steps": [
-
       {
         "text": "【处理食材】：生菜洗净，撕成适当大小的片状；大蒜剁成蒜蓉备用；将少量淀粉和清水混合均匀调成水淀粉备用。"
       },
