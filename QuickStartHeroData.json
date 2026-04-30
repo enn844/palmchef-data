@@ -2,16 +2,13 @@
   "sectionTitle": "遇见好味道",
   "cards": [
     {
-      "recipeId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c4d",
-      "tags": ["入味", "下饭"]
+      "recipeId": "lianzi_baixin_zhou_001"
     },
     {
-      "recipeId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c22",
-      "tags": ["家常"]
+      "recipeId": "jicai_zhu_doufu_001"
     },
     {
-      "recipeId": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o8",
-      "tags": ["汤羹", "清淡"]
+      "recipeId": "sang_shen_hei_gou_qi_tea_001"
     }
   ]
 }
