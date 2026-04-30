@@ -27,37 +27,6 @@
     ]
   },
   {
-    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
-    "name": "圆白菜炒肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/yuanbaicai_chaorou.webp",
-    "brief": "圆白菜脆嫩，肉片滑嫩，微辣咸鲜，起锅前的一点点醋提鲜解腻，是一道简单快手的家常下饭菜。",
-    "categoryIds": ["31", "20", "7", "2"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "圆白菜（卷心菜）: 300克\n瘦肉: 150克\n姜末: 1茶匙\n郫县豆瓣酱: 1汤匙\n酱油: 1汤匙\n淀粉或红薯粉: 1茶匙\n花椒: 几粒\n盐: 适量\n醋: 几滴\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【备菜】：圆白菜洗净，切成小块后放入冷水中浸泡备用（可使其口感更脆）。瘦肉切成薄片。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step1.webp"
-      },
-      {
-        "text": "【腌制肉片】：将切好的肉片放入碗中，加入姜末、豆瓣酱、酱油，充分拌匀。再加入淀粉或红薯粉，抓匀腌制5分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step2.webp"
-      },
-      {
-        "text": "【炒制】：锅中倒油，烧至冒烟时放入几粒花椒，炸出香味后捞出（或保留）。放入腌制好的肉片，快速滑炒至五分熟（肉片变色）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step3.webp"
-      },
-      {
-        "text": "【合炒】：将沥干水分的圆白菜块下锅，转大火继续翻炒至圆白菜变软（约2-3分钟）。"
-      },
-      {
-        "text": "【调味出锅】：加入适量盐炒匀，起锅前沿着锅边淋入几滴醋，快速翻炒几下即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step4.webp"
-      }
-    ]
-  },
-  {
     "id": "a1b2c3d4-e5f6-7890-1234-56789abcdef0",
     "name": "白菜炒肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/baicai_chaorou.webp",
@@ -361,7 +330,37 @@
       }
     ]
   },
- 
+  {
+    "id": "c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+    "name": "圆白菜炒肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yuanbaicai_chaorou.webp",
+    "brief": "圆白菜脆嫩，肉片滑嫩，微辣咸鲜，起锅前的一点点醋提鲜解腻，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["31", "20", "7", "2"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "圆白菜（卷心菜）: 300克\n瘦肉: 150克\n姜末: 1茶匙\n郫县豆瓣酱: 1汤匙\n酱油: 1汤匙\n淀粉或红薯粉: 1茶匙\n花椒: 几粒\n盐: 适量\n醋: 几滴\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜】：圆白菜洗净，切成小块后放入冷水中浸泡备用（可使其口感更脆）。瘦肉切成薄片。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step1.webp"
+      },
+      {
+        "text": "【腌制肉片】：将切好的肉片放入碗中，加入姜末、豆瓣酱、酱油，充分拌匀。再加入淀粉或红薯粉，抓匀腌制5分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step2.webp"
+      },
+      {
+        "text": "【炒制】：锅中倒油，烧至冒烟时放入几粒花椒，炸出香味后捞出（或保留）。放入腌制好的肉片，快速滑炒至五分熟（肉片变色）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step3.webp"
+      },
+      {
+        "text": "【合炒】：将沥干水分的圆白菜块下锅，转大火继续翻炒至圆白菜变软（约2-3分钟）。"
+      },
+      {
+        "text": "【调味出锅】：加入适量盐炒匀，起锅前沿着锅边淋入几滴醋，快速翻炒几下即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuanbaicai_chaorou_step4.webp"
+      }
+    ]
+  },
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9220",
     "name": "干锅花菜",
