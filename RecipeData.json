@@ -1,5 +1,77 @@
 [
   {
+    "id": "mayi-shangshu-001",
+    "name": "蚂蚁上树",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/mayi_shangshu.webp",
+    "brief": "色泽红亮，肉末贴在粉丝上，形似蚂蚁爬在树枝上，口感软糯，香辣下饭。",
+    "categoryIds": [
+      "7",
+      "5",
+      "2"
+    ],
+    "difficulty": "中等",
+    "time": "20分钟",
+    "ingredients": "粉丝: 100克\n猪肉末: 75克\n高汤（或清水）: 150克\n植物油: 适量 (约750毫升，实耗50克)\n酱油: 20克\n料酒: 13克\n郫县豆瓣酱: 13克\n葱花: 5克\n姜末: 3克\n蒜末: 3克\n味精: 3克\n辣椒粉: 1克",
+    "steps": [
+      {
+        "text": "【前期备菜】：粉丝用温水泡软，沥干水分备用。葱、姜、蒜分别切成细末。郫县豆瓣酱剁碎备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mayi_shangshu_step1.webp"
+      },
+      {
+        "text": "【炸制粉丝】：炒锅烧热，倒入足量植物油，烧至六七成热（约180°C，油面微冒青烟）。下入泡软并沥干的粉丝，用筷子迅速划散，炸至粉丝膨胀、浮起、表面发泡时，立即捞出沥油。注意控制火候，避免炸焦。"
+      },
+      {
+        "text": "【炒制肉末】：锅中留底油（约30毫升），烧至五成热，下入猪肉末，用中火煸炒至肉末变白、吐油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mayi_shangshu_step2.webp"
+      },
+      {
+        "text": "【爆香调料】：加入剁碎的郫县豆瓣酱，小火煸炒出红油。然后加入姜末、蒜末、辣椒粉，继续煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mayi_shangshu_step3.webp"
+      },
+      {
+        "text": "【烧制入味】：烹入料酒，加入酱油和高汤（或清水），大火烧开。将炸好的粉丝放入锅中，用铲子轻轻翻拌，使粉丝均匀吸收汤汁。转中小火，加盖焖煮2-3分钟，让粉丝充分入味。"
+      },
+      {
+        "text": "【收汁出锅】：待锅中汤汁基本收干时，撒入味精和葱花，快速翻炒均匀，即可出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mayi_shangshu_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "zha-qie-he-2024-001",
+    "name": "炸茄盒",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qiehe.webp",
+    "brief": "外焦里嫩，鲜香适口，茄子夹着蘑菇鸡蛋馅，裹上面包渣炸至金黄，口感酥脆。",
+    "categoryIds": [
+      "7",
+      "2",
+      "31",
+      "12"
+    ],
+    "difficulty": "中等",
+    "time": "35分钟",
+    "ingredients": "茄子: 400克\n蘑菇: 50克\n洋葱: 25克\n面粉: 25克\n鸡蛋: 3个\n面包渣: 75克\n香菜: 13克\n植物油: 125克\n精盐: 适量\n胡椒面: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：茄子洗净削皮，一切两开，将一半放平（凸部向上），用刀切下但不切断，形成夹层。洋葱去皮切成细末；蘑菇洗净切碎末；香菜洗净切碎末。鸡蛋2个打散备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step1.webp"
+      },
+      {
+        "text": "【炒制馅料】：煎盘烧热倒入适量植物油，油热后下入洋葱末炒香，加入蘑菇碎末翻炒，倒入打散的2个鸡蛋液，撒上精盐和胡椒面，快速翻炒成馅料，盛出晾凉待用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step2.webp"
+      },
+      {
+        "text": "【填馅裹粉】：将切好的茄子夹层掰开，用餐刀把炒好的馅料均匀抹入。全部抹完后撒上少许盐和胡椒面，先蘸上一层面粉，再在剩余1个打散的鸡蛋液中蘸匀，最后捞出放到面包渣上，用双手轻轻压实，使面包渣均匀裹住茄子。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step3.webp"
+        
+      },
+      {
+        "text": "【炸制出锅】：炸锅烧热倒入足量植物油，烧至油起烟时（约七成热），下入裹好面包渣的茄子，中火炸至两面金黄酥脆。如内部未完全熟透，可放入预热好的烤炉中烘烤片刻，即可取出食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234802",
     "name": "排骨炖豆角",
     "imageSrc": "https://shiyuji.xyz/img/recipes/paigu_dundoujiao.webp",
