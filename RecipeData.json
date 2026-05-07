@@ -1,5 +1,39 @@
 [
   {
+    "id": "a3b4c5d6-e7f8-4a9b-8c0d-1e2f3a4b5c6d",
+    "name": "小炒牛肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_niurou.webp",
+    "brief": "牛肉滑嫩，香辣开胃，是一道经典快捷的下饭菜。",
+    "categoryIds": ["20", "7", "5", "2", "11", "12"],
+    "difficulty": "中等",
+    "time": "20分钟",
+    "ingredients": "牛里脊肉: 250克\n青尖椒: 3个\n红小米辣: 5个\n姜: 1小块\n大蒜: 4瓣\n香菜: 2根\n生抽: 2汤匙\n老抽: 1/2茶匙\n蚝油: 1汤匙\n料酒: 1汤匙\n淀粉: 1茶匙\n白胡椒粉: 1/2茶匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【牛肉处理】：牛里脊肉洗净，逆着纹理切成薄片。加入1汤匙生抽、1/2汤匙料酒、1茶匙淀粉、1/2茶匙白胡椒粉和1汤匙食用油，抓匀腌制10分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step1.webp"
+      },
+      {
+        "text": "【备菜切配】：青尖椒和红小米辣洗净切圈，姜切丝，大蒜切片，香菜切段。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step2.webp"
+      },
+      {
+        "text": "【滑炒牛肉】：热锅倒入足量油，烧至六成热（约160°C），下入腌好的牛肉片，快速滑炒30秒至变色断生，盛出备用。"
+      },
+      {
+        "text": "【爆香配料】：锅中留底油，放入姜丝、蒜片和青红辣椒圈，大火爆香约30秒。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step3.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入滑好的牛肉，加入1汤匙生抽、1汤匙蚝油和1/2茶匙老抽，大火快速翻炒均匀。"
+      },
+      {
+        "text": "【出锅装盘】：撒入香菜段，尝味后可补少许盐，快速翻炒几下即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "a1b2c3d4-e5f6-4a7b-8c9d-1e1f2a3b4c5d",
     "name": "丝瓜炒虾仁",
     "imageSrc": "https://shiyuji.xyz/img/recipes/sigua_chaoxiaren.webp",
