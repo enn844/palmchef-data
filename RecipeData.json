@@ -1,5 +1,66 @@
 [
   {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "name": "丝瓜炒虾仁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sigua_chaoxiaren.webp",
+    "brief": "清淡鲜嫩，丝瓜翠绿爽滑，虾仁Q弹鲜美，是一道快手健康的家常菜。",
+    "categoryIds": ["31", "30", "7", "2"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "丝瓜: 1根（约300克）\n鲜虾仁: 200克\n大蒜: 3瓣（切片）\n姜丝: 少许\n盐: 适量\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理虾仁】：鲜虾去头去壳，挑出虾线，洗净沥干。加入少许盐、料酒、白胡椒粉和淀粉抓匀，腌制10分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sigua_chaoxiaren_step1.webp"
+      },
+      {
+        "text": "【处理丝瓜】：丝瓜去皮，切成滚刀块或厚片。切好后可放入淡盐水中浸泡防止氧化变黑。"
+      },
+      {
+        "text": "【滑炒虾仁】：锅中倒入适量油，烧至六成热，放入腌好的虾仁快速滑炒至变色卷曲，盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sigua_chaoxiaren_step2.webp"
+      },
+      {
+        "text": "【炒制丝瓜】：锅中留底油，放入蒜片和姜丝爆香，倒入丝瓜块大火快速翻炒，炒至丝瓜变软出水。"
+      },
+      {
+        "text": "【合炒调味】：加入滑炒好的虾仁，继续翻炒均匀。加入适量盐调味，快速翻炒几下即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sigua_chaoxiaren_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "name": "低脂土豆泥",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudouni.webp",
+    "brief": "绵密顺滑，奶香浓郁，低卡饱腹的健康主食替代。",
+    "categoryIds": ["17", "4", "21"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "土豆: 300克\n脱脂牛奶: 50毫升\n无糖酸奶: 20克\n盐: 1/2茶匙\n黑胡椒粉: 少量\n葱花: 少量 (点缀)",
+    "steps": [
+      {
+        "text": "【土豆蒸熟】：土豆去皮洗净，切成均匀的厚片，放入蒸锅大火蒸15-20分钟，用筷子能轻松扎透即可。"
+      },
+      {
+        "text": "【压成泥状】：将蒸熟的土豆片趁热放入大碗中，用压泥器或勺子反复碾压成细腻的泥状，尽量无颗粒。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudouni_step1.webp"
+      },
+      {
+        "text": "【调制奶液】：将脱脂牛奶用微波炉或小火加热至温热（约40°C），分次加入土豆泥中，边加边顺一个方向搅拌，让牛奶充分吸收。"
+      },
+      {
+        "text": "【调味增滑】：加入无糖酸奶（增加顺滑感）、盐和黑胡椒粉，继续搅拌均匀至绵密顺滑。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudouni_step2.webp"
+      },
+      {
+        "text": "【装盘点缀】：将土豆泥盛入碗中，用勺子背面抹平，撒上少许葱花或额外黑胡椒粉即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudouni_step3.webp"
+      }
+    ]
+  },
+  
+  {
     "id": "mayi-shangshu-001",
     "name": "蚂蚁上树",
     "imageSrc": "https://shiyuji.xyz/img/recipes/mayi_shangshu.webp",
@@ -1305,17 +1366,17 @@
     "name": "白菜炖豆腐",
     "imageSrc": "https://shiyuji.xyz/img/recipes/baicai_dundoufu.webp",
     "brief": "白菜清甜软烂，豆腐吸饱了汤汁，简单调味却能炖出食材本身的鲜美。一锅热气腾腾，是秋冬季节餐桌上的暖心家常菜。",
-    "categoryIds": ["7", "4", "3", "31"],
+    "categoryIds": ["7", "4", "3", "31","17"],
     "difficulty": "简单",
     "time": "25分钟",
-    "ingredients": "大白菜: 300克（约4-5片）\n老豆腐（北豆腐）: 1块（约400克）\n干木耳: 5克（可选）\n生姜: 2片\n大葱: 1小段\n生抽: 1汤匙\n盐: 适量\n白胡椒粉: 少许\n食用油: 适量\n清水: 1碗",
+    "ingredients": "大白菜: 300克（约4-5片）\n嫩豆腐: 1块（约400克）\n干木耳: 5克（可选）\n生姜: 2片\n大葱: 1小段\n生抽: 1汤匙\n盐: 适量\n白胡椒粉: 少许\n食用油: 适量\n清水: 1碗",
     "steps": [
       {
         "text": "【处理白菜】：大白菜洗净，将菜叶和菜帮分开。菜帮用刀斜切成片（更容易入味），菜叶用手撕成大片备用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/baicai_dundoufu_step1.webp"
       },
       {
-        "text": "【处理豆腐】：老豆腐切成约2厘米厚的方块。干木耳提前用温水泡发，撕成小朵。"
+        "text": "【处理豆腐】：豆腐切成约2厘米厚的方块。干木耳提前用温水泡发，撕成小朵。"
       },
       {
         "text": "【煎豆腐（可选）】：平底锅中倒少许油，将豆腐块煎至两面微黄，盛出备用。煎过的豆腐炖煮时更不易碎，也更能吸收汤汁。",
@@ -3341,7 +3402,7 @@
     "name": "菌菇豆腐汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jungu_doufutang.webp",
     "brief": "清淡鲜美，营养丰富，菌菇的天然鲜味突出。",
-    "categoryIds": ["11",
+    "categoryIds": ["11","17",
       "3",
       "18"
     ],
@@ -5917,7 +5978,7 @@
     "name": "清蒸鲈鱼",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_luyu.webp",
     "brief": "最大限度保留鱼肉的鲜甜和嫩滑，清淡健康。",
-    "categoryIds": ["11","24",
+    "categoryIds": ["11","24","17",
       "6",
       "7"
     ],
@@ -6867,7 +6928,7 @@
     "name": "清淡海鲜冬瓜汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/haixian_donggua_tang.webp",
     "brief": "口味清淡，汤鲜味浓，具有消暑利湿功效的家常汤羹。",
-    "categoryIds": ["12",
+    "categoryIds": ["12","17",
       "3",
       "7",
       "30",
@@ -8083,7 +8144,7 @@
     "name": "香干炒芹菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xianggan_chaoqincai.webp",
     "brief": "脆爽劲道，营养搭配，快手家常菜",
-    "categoryIds": ["31",
+    "categoryIds": ["31","17",
       "4",
       "7",
       "2"
@@ -9812,7 +9873,7 @@
     "name": "糙米南瓜盅",
     "imageSrc": "https:///shiyuji.xyz/img/recipes/caomi_nanguazong.webp",
     "brief": "将浓郁的南瓜香锁在糙米中，造型别致，是粗粮细作的健康典范。",
-    "categoryIds": ["28", "12", "23","21","31","4"],
+    "categoryIds": ["28", "12", "23","21","31","4","17"],
     "difficulty": "中等",
     "time": "50分钟",
     "ingredients": "贝贝南瓜: 1个\n糙米: 60克\n糯米: 20克（增加软糯度）\n腊肉丁/玉米粒: 少许（增香）",
@@ -10252,7 +10313,33 @@
       },
       {
         "text": "【点睛润燥】：启动料理机，搅打至细腻顺滑的奶昔状。待温度降至40°C以下，加入一勺天然椴树蜜，继续搅打5秒即可倒出饮用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chungen_runchangyin_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/huanggua_danhuatang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "cucumber-egg-soup-001",
+    "name": "黄瓜蛋花汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/huanggua_danhuatang.webp",
+    "brief": "清淡爽口，蛋花如云，黄瓜清香，简单快手的家常汤品。",
+    "categoryIds": ["3", "2", "7", "4","17"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "黄瓜: 1根\n鸡蛋: 2个\n姜丝: 适量\n盐: 适量\n香油: 几滴\n清水: 600毫升",
+    "steps": [
+      {
+        "text": "【备菜】：黄瓜洗净切成细丝；鸡蛋打入碗中搅散备用。"
+      },
+      {
+        "text": "【煮汤】：锅中加入清水，放入姜丝，大火烧开。水开后下入黄瓜片，煮约1分钟至黄瓜变软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huanggua_danhuatang_step1.webp"
+      },
+      {
+        "text": "【淋蛋花】：保持大火，将蛋液呈细流状慢慢淋入锅中，同时用筷子在锅中快速划圈，形成漂亮的蛋花。"
+      },
+      {
+        "text": "【调味出锅】：加入适量盐调味，关火后滴入几滴香油，即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huanggua_danhuatang_step2.webp"
       }
     ]
   }
