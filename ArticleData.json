@@ -4,6 +4,13 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "caoben_qingying",
+        "imageSrc": "https://shiyuji.xyz/img/article/caoben_qingying.webp",
+        "title": "草本里的轻盈方：从《本草纲目》看消积与利水",
+        "brief": "利用谷雨到立夏期间最鲜活的食材，进行一次自然的“数据清理”。深挖《本草纲目》消积化滞的智慧，解锁脾胃的“内存优化”协议。",
+        "webUrl": "https://health-app.com/articles/herbal-metabolism-001"
+      },
+      {
         "id": "changdao_qingdaofu",
         "imageSrc": "https://shiyuji.xyz/img/article/changdao_qingdaofu.webp",
         "title": "肠道“清道夫”：用三道春季时令，修补你的消化补丁",
@@ -149,6 +156,13 @@
     "id": "yuanmei_science_series_v2",
     "title": "古籍智慧",
     "articles": [
+      {
+        "id": "yuanmei_24jieqi",
+        "imageSrc": "https://shiyuji.xyz/img/article/yuanmei_24jieqi.webp",
+        "title": "从袁枚到二十四节气：如何通过“顺时而食”重塑身体代谢协议",
+        "brief": "减脂不是对食物的“放逐”，而是一场关于“物性”的回归。跟袁枚学做减法，借二十四节气的律动，重塑你的底层代谢协议。",
+        "webUrl": "https://health-app.com/articles/yuanmei-metabolism-001"
+      },
       {
         "id": "lanmei",
         "imageSrc": "https://shiyuji.xyz/img/article/lanmei.webp",

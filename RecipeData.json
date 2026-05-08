@@ -1,5 +1,66 @@
 [
   {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "四色牛肉拼饭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/niurou_pinfan.webp",
+    "brief": "低脂高蛋白的减脂拼饭，牛肉嫩滑，圆白菜脆爽，鸡蛋丝增香，营养均衡。",
+    "categoryIds": ["17", "2", "11", "20"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "牛里脊肉: 150克\n圆白菜: 100克\n鸡蛋: 2个\n生抽: 1汤匙\n淀粉: 1茶匙\n黑胡椒海盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "牛肉切粒，加入生抽、淀粉、黑胡椒海盐和少许油，抓匀腌制15分钟。圆白菜切丝洗净",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurou_pinfan_step1.webp"
+      
+      },
+      {
+        "text": "锅中少油，大火烧热，放入腌好的牛肉粒快速翻炒至刚熟，盛出备用。"
+      },
+      {
+        "text": "锅中再放少油，放入圆白菜丝翻炒至变软，加适量黑胡椒海盐调味，盛出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurou_pinfan_step2.webp"
+      },
+      {
+        "text": "碗中打入鸡蛋，加少许盐打散，锅中少油煎熟成蛋饼，取出切丝。"
+      },
+      {
+        "text": "将米饭盛入碗中，依次铺上炒好的牛肉粒、圆白菜丝和蛋丝，即可享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurou_pinfan_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "e4a1b2c3-d4e5-4f6g-7h8i-9j0k1l2m3n4o",
+    "name": "时蔬卷",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shishujuan.webp",
+    "brief": "清新爽口的蔬菜卷，外皮软韧，内馅鲜美，低脂健康，适合早餐或轻食。",
+    "categoryIds": ["4", "2", "7", "10", "31","17"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "胡萝卜: 1根\n西葫芦: 1根\n干木耳: 10克（泡发）\n鸡蛋: 2个\n馄饨皮: 15-20张\n盐: 适量\n白胡椒粉: 少许\n香油: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜腌水】：胡萝卜、西葫芦洗净擦成细丝，放入碗中加1勺盐抓匀，腌制10分钟杀出水分。木耳提前用温水泡发，洗净后切成细丝。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shishujuan_step1.webp"
+      },
+      {
+        "text": "【炒制蛋碎】：鸡蛋打散，锅中倒少许油烧热，倒入蛋液快速划散炒熟，用铲子切碎成小粒，盛出备用。"
+      },
+      {
+        "text": "【挤干拌馅】：将腌好的胡萝卜西葫芦丝用纱布或手用力挤干多余水分，放入大碗。加入木耳丝、鸡蛋碎，调入少许盐、白胡椒粉和香油，充分搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shishujuan_step2.webp"
+      },
+      {
+        "text": "【包卷成型】：取一张馄饨皮，放上适量馅料（约1汤匙），从一端卷起，两边向内折收口，末端抹少许水封口，卷成紧实的长条卷。依次做好所有时蔬卷。"
+      },
+      {
+        "text": "【蒸制出锅】：蒸笼铺上油纸或刷薄油，码入时蔬卷，水开后上锅，大火蒸8-10分钟即可。可直接食用，或搭配香醋、辣椒油蘸食。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shishujuan_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "a3b4c5d6-e7f8-4a9b-8c0d-1e2f3a4b5c6d",
     "name": "小炒牛肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_niurou.webp",
@@ -10406,6 +10467,59 @@
       {
         "text": "【调味出锅】：加入适量盐调味，关火后滴入几滴香油，即可盛出享用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/huanggua_danhuatang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234811",
+    "name": "三味轻身饮",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sanwei_qingshenyin.webp",
+    "brief": "谷雨时令养生饮，茯苓祛湿，陈皮理气，山楂开胃。",
+    "categoryIds": ["17",
+      "24",
+      "3",
+      "16"
+    ],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "茯苓: 15g\n陈皮: 3g\n山楂干: 5g\n纯净水: 500ml",
+    "steps": [
+      {
+        "text": "净料：将茯苓、陈皮、山楂用流动的清水洗净。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sanwei_qingshenyin_step1.webp"
+      },
+      {
+        "text": "焖泡/煎煮：若在办公室，可放入焖烧杯用沸水冲泡20分钟；若居家，文火煎煮10分钟药效更佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sanwei_qingshenyin_step2.webp"
+      },
+      {
+        "text": "纯净饮用：拒绝添加冰糖或蜂蜜，静静品味草本自带的微酸与陈香。"
+      }
+    ]
+  },
+  {
+    "id": "suishan-qingxian-jiaobaisi-001",
+    "name": "清鲜茭白丝",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiaobaisi.webp",
+    "brief": "味要入骨，色要清雅。茭白切丝极速快炒，清脆如春笋，干贝提供天然鲜味，极简调味尽显本味。",
+    "categoryIds": ["31", "7", "2","17"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "嫩茭白: 250克\n干贝: 3-5粒\n橄榄油: 5毫升\n青豆: 20克\n食盐: 适量",
+    "steps": [
+      {
+        "text": "【极简处理】：茭白剥去老皮，切成均匀的细丝（约0.3厘米见方），利用细丝表面积最大化提升入味效率。"
+      },
+      {
+        "text": "【鲜味吊取】：干贝提前用温水泡发30分钟至软，撕成细丝，沥干水分。锅中放入橄榄油，小火将干贝丝煸炒出浓郁鲜香。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaobaisi_step1.webp"
+      },
+      {
+        "text": "【火候控制】：转大火，倒入茭白丝，快速翻炒约1分钟至断生，保持其清脆口感，拒绝软烂。"
+      },
+      {
+        "text": "【极简调味】：加入青豆快速翻炒几下，仅加入微量食盐调味，翻炒均匀后即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaobaisi_step2.webp"
       }
     ]
   }
