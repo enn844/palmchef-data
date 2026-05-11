@@ -9,7 +9,6 @@
   "baseUrl": "https://shiyuji.xyz",
   "imageBaseUrl": "https://shiyuji.xyz/img",
 
-  "latestAppVersion": "1.0.6",
   "appUpdateUrl": "https://appgallery.huawei.com/app/detail?id=com.zhaoyingzhou.shiyuji",
   "description": "修复已知问题，优化用户体验"
 }
