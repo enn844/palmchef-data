@@ -1,5 +1,45 @@
 [
   {
+    "id": "lan-ren-men-fan-2025-001",
+    "name": "懒人焖饭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menfan.webp",
+    "brief": "饭菜一锅出，懒人必学。香菇腊肠咸香，米饭吸饱酱汁，粒粒分明，省时省力。",
+    "categoryIds": [
+      "7",
+      "2",
+      "28",
+      "11"
+    ],
+    "difficulty": "简单",
+    "time": "40分钟",
+    "ingredients": "大米: 200克\n干香菇: 5朵\n胡萝卜: 1根 (约100克)\n香肠: 1根 (约100克)\n豌豆: 50克\n洋葱: 半个 (约80克)\n蒜末: 3瓣 (切末)\n生抽: 3汤匙\n老抽: 1汤匙\n蚝油: 1汤匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理食材】：干香菇提前用温水泡发，泡软后切成小丁（泡香菇的水留用）。胡萝卜、香肠、洋葱分别洗净切成大小均匀的小丁。豌豆洗净沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step1.webp"
+      },
+      {
+        "text": "【炒制底料】：锅中热油，放入蒜末爆香，炒出香味后加入洋葱丁，中火翻炒至洋葱变软透明。"
+      },
+      {
+        "text": "【翻炒配菜】：加入胡萝卜丁和香肠丁，继续翻炒1-2分钟至断生，再加入豌豆翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step2.webp"
+      },
+      {
+        "text": "【调味关火】：在锅中加入3勺生抽、1勺老抽、1勺蚝油和适量盐，快速翻炒使所有食材均匀裹上酱汁，炒匀后关火备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step3.webp"
+      },
+      {
+        "text": "【入锅焖饭】：大米淘洗干净，放入电饭煲内胆中，加入平时煮饭量的清水（可用泡香菇的水替代部分清水，更添鲜味）。将炒好的所有配菜均匀铺在米上，不需搅拌。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step4.webp"
+      },
+      {
+        "text": "【一键煮饭】：盖上电饭煲盖子，按下正常煮饭键。待程序结束后，打开锅盖，用饭勺将饭菜搅拌均匀，即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step5.webp"
+      }
+    ]
+  },
+  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234888",
     "name": "爆炒鱿鱼",
     "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_youyu.webp",
@@ -1055,6 +1095,40 @@
       {
         "text": "【调味出锅】：加入盐和鸡精（可选），翻炒均匀后立即关火，盛出装盘。(想要口感软可以加水多炒一会)",
         "imageSrc": "https://shiyuji.xyz/img/steps/qingchao_bocai_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "yumi-huotui-ding-001",
+    "name": "玉米火腿丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yumi_huotuiding.webp",
+    "brief": "色彩缤纷，口感丰富，玉米清甜，火腿咸香，简单快手的家常小炒。",
+    "categoryIds": ["7", "2", "31", "20"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜玉米: 1根 (剥粒)\n火腿: 100克 (切丁)\n番茄: 1个 (切丁)\n黄瓜: 半根 (切丁)\n蒜末: 2瓣\n辣椒: 1个 (可选，切圈)\n蚝油: 1汤匙\n生抽: 1汤匙\n食用油: 适量\n水: 适量",
+    "steps": [
+      {
+        "text": "【备菜】：玉米剥粒，番茄、火腿、黄瓜分别切成小丁，蒜切末，辣椒切圈备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yumi_huotuiding_step1.webp"
+      },
+      {
+        "text": "【爆香】：锅中热油，下入蒜末和辣椒圈（不喜辣可不放）小火爆香。"
+      },
+      {
+        "text": "【炒火腿】：放入火腿丁，中火翻炒至表面微焦，炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yumi_huotuiding_step2.webp"
+      },
+      {
+        "text": "【炒番茄】：加入番茄丁，翻炒至番茄变软出汁。"
+      },
+      {
+        "text": "【焖煮玉米】：倒入玉米粒，翻炒至表面微焦，加入适量水，盖上锅盖焖煮至玉米熟透。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yumi_huotuiding_step3.webp"
+      },
+      {
+        "text": "【调味出锅】：放入黄瓜丁，加入蚝油和生抽，大火快速翻炒均匀即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yumi_huotuiding_step4.webp"
       }
     ]
   },
