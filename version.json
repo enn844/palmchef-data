@@ -1,11 +1,15 @@
 {
-  "version": "1.0.5",
-  "timestamp":1778468505,
+  "version": "1.0.6",
+  "timestamp": 1778468505,
   "recipeDataVersion": "1.0.1772438337",
   "categoryDataVersion": "1.0.1772438337",
   "recipeDataUrl": "RecipeData.json",
   "categoryDataUrl": "CategoryData.json",
   "articleDataUrl": "ArticleData.json",
   "baseUrl": "https://shiyuji.xyz",
-  "imageBaseUrl": "https://shiyuji.xyz/img"
+  "imageBaseUrl": "https://shiyuji.xyz/img",
+
+  "latestAppVersion": "1.0.6",
+  "appUpdateUrl": "https://appgallery.huawei.com/app/detail?id=com.zhaoyingzhou.shiyuji",
+  "description": "1.0.6 更新说明（可写多行在客户端一行展示时注意长度）"
 }
