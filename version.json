@@ -11,5 +11,5 @@
 
   "latestAppVersion": "1.0.6",
   "appUpdateUrl": "https://appgallery.huawei.com/app/detail?id=com.zhaoyingzhou.shiyuji",
-  "description": "1.0.6 更新说明（可写多行在客户端一行展示时注意长度）"
+  "description": "修复已知问题，优化用户体验"
 }
