@@ -822,7 +822,7 @@
     "name": "煎葱蛋",
     "imageSrc": "https://shiyuji.xyz/img/recipes/congdan.webp",
     "brief": "外酥里嫩，葱香浓郁，制作简单快速的营养早餐。",
-    "categoryIds": ["10", "2", "28", "7"],
+    "categoryIds": ["10", "2", "7"],
     "difficulty": "简单",
     "time": "15分钟",
     "ingredients": "鸡蛋: 3个\n小葱: 3根（切葱花）\n盐: 1/2茶匙\n食用油: 适量",
