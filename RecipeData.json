@@ -1,5 +1,80 @@
 [
   {
+    "id": "fengwei-qiezi-001",
+    "name": "风味茄子",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fengwei_qiezi.webp",
+    "brief": "外酥里嫩，麻辣酸甜，口感层次丰富，是一道极具特色的下饭素菜。",
+    "categoryIds": ["31", "5", "7", "2"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "长茄子: 2根\n玉米淀粉: 适量\n花椒: 1小把\n大蒜: 4瓣 (切末)\n香菜: 2根 (切段)\n白芝麻: 适量\n生抽: 1汤匙\n香醋: 1汤匙\n蚝油: 1/2汤匙\n白糖: 2汤匙\n鸡精: 1/2茶匙\n盐: 适量\n清水: 少许",
+    "steps": [
+      {
+        "text": "【处理茄子】：茄子去蒂，从中间剖开，去除内瓤（可使口感更脆）。将茄子斜着切成均匀的小段，放入清水中浸泡洗净，捞出沥干水分。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step1.webp"      
+      },
+      {
+        "text": "【多次上粉】：将沥干的茄子段放入盆中，撒入玉米淀粉，轻轻抓匀，使每块茄子都薄薄沾上一层粉。喷少许水，再次撒入玉米淀粉抓匀。重复“喷水、上粉”步骤共三次，确保淀粉牢固地包裹在茄子表面，形成酥脆的外壳。"
+      },
+      {
+        "text": "【炸制定型】：锅中倒入足量食用油，烧至六成热（约160-180°C）。将上好粉的茄子段逐个下入锅中，先不要搅动，炸至定型、外壳微黄后，再用筷子轻轻拨散，防止脱粉。继续炸至表面金黄酥脆，捞出沥油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step2.webp"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，加入生抽、香醋、蚝油、白糖（量要多，是酸甜味的关键）、鸡精和少许清水，搅拌均匀成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step3.webp"
+      },
+      {
+        "text": "【炒香底料】：锅中留少量底油，小火放入花椒，煸炒出麻辣香味。接着放入蒜末，翻炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step4.webp"
+      },
+      {
+        "text": "【熬制酱汁】：将调好的酱汁倒入锅中，转中火熬煮，不停搅拌，直至酱汁变得浓稠、冒大泡。"
+      },
+      {
+        "text": "【翻炒出锅】：迅速倒入炸好的茄子段，快速翻炒均匀，使每一块茄子都裹上浓稠的酱汁。关火前撒入香菜段和白芝麻，快速翻匀，立即出锅装盘，保持外壳酥脆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "shengcai-xieliu-tudou-mu-ni-sha-la-001",
+    "name": "生菜蟹柳土豆泥沙拉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shengcai_xieliu_tudouni_shala.webp",
+    "brief": "口感丰富，绵密的土豆泥搭配鲜甜的蟹柳和爽脆的生菜，低脂健康，饱腹感强。",
+    "categoryIds": [
+      "17",
+      "9",
+      "2",
+      "31",
+      "4"
+    ],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "鸡蛋: 1个\n土豆: 1个 (中等大小)\n胡萝卜: 半根\n生菜: 50克\n蟹柳: 3-4根\n藜麦: 20克\n油醋汁: 适量\n黑胡椒海盐: 适量",
+    "steps": [
+      {
+        "text": "【准备食材】：鸡蛋冷水下锅，水开后煮8分钟，捞出过凉水备用。土豆和胡萝卜去皮，切成大小均匀的小块。藜麦用清水淘洗干净。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step1.webp"
+      },
+      {
+        "text": "【煮熟主料】：锅中烧开水，将土豆块和胡萝卜块放入，煮约10-15分钟，直到用筷子能轻松扎透，捞出沥干。将藜麦放入沸水中，中小火煮约15分钟，直到藜麦冒出白色小圈（胚芽），捞出沥干放凉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step2.webp"
+      },
+      {
+        "text": "【混合搅拌】：将煮熟的鸡蛋、土豆和胡萝卜一同放入大碗中，用叉子或压泥器将其碾碎。蟹柳用手撕成细丝后加入碗中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step3.webp"
+      },
+      {
+        "text": "【组装沙拉】：将洗净沥干的生菜撕成适口的小块，放入装有混合泥的碗中。倒入煮好的藜麦。"
+      },
+      {
+        "text": "【调味拌匀】：淋入适量油醋汁，撒上黑胡椒海盐调味。用勺子或手（戴手套）将所有食材充分抓拌均匀，即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "lan-ren-men-fan-2025-001",
     "name": "懒人焖饭",
     "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menfan.webp",
