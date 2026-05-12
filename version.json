@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
-  "timestamp": 1778551490,
+  "timestamp": 1778577338,
   "recipeDataVersion": "1.0.1772438337",
   "categoryDataVersion": "1.0.1772438337",
   "recipeDataUrl": "RecipeData.json",
@@ -8,7 +8,6 @@
   "articleDataUrl": "ArticleData.json",
   "baseUrl": "https://shiyuji.xyz",
   "imageBaseUrl": "https://shiyuji.xyz/img",
-
   "appUpdateUrl": "https://appgallery.huawei.com/app/detail?id=com.zhaoyingzhou.shiyuji",
   "description": "更新说明：修复已知问题，优化体验"
 }
