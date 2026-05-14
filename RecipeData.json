@@ -1,31 +1,5 @@
 [
-  {
-    "id": "jiang-rou-001",
-    "name": "酱肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/jiangrou.webp",
-    "brief": "酱香浓郁，五花肉肥而不腻，搭配蒜叶辣椒，咸鲜下饭的家常快手菜。",
-    "categoryIds": ["7", "20", "2", "12"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "ingredients": "五花肉: 300克 (切薄片)\n青椒: 2个 (切丝)\n蒜叶: 1把 (切段)\n姜: 3片 (切末)\n蒜: 3瓣 (切末)\n黄酒: 1汤匙\n生抽: 1汤匙\n黄豆酱: 1汤匙\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【备菜切配】：五花肉洗净，切成均匀的薄片。青椒去籽切丝，蒜叶洗净切段，姜蒜切末备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/jiangrou_step1.webp"
-      },
-      {
-        "text": "【煸炒出油】：锅中倒入适量食用油，烧热后放入姜蒜末爆香。倒入五花肉片，中火翻炒至肉片变色、油脂析出（约2-3分钟）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/jiangrou_step2.webp"
-      },
-      {
-        "text": "【调味上色】：加入黄酒、生抽和一大勺黄豆酱，迅速翻炒均匀，使肉片裹满酱汁并上色。"
-      },
-      {
-        "text": "【加入配菜】：放入青椒丝和蒜叶段，转大火快速翻炒几下，待青椒断生、蒜叶变软即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/jiangrou_step3.webp"
-      }
-    ]
-  },
+
   {
     "id": "jiamo-shrimp-001",
     "name": "芥末虾球",
