@@ -1,5 +1,98 @@
 [
   {
+    "id": "jiang-rou-001",
+    "name": "酱肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiangrou.webp",
+    "brief": "酱香浓郁，五花肉肥而不腻，搭配蒜叶辣椒，咸鲜下饭的家常快手菜。",
+    "categoryIds": ["7", "20", "2", "12"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "五花肉: 300克 (切薄片)\n青椒: 2个 (切丝)\n蒜叶: 1把 (切段)\n姜: 3片 (切末)\n蒜: 3瓣 (切末)\n黄酒: 1汤匙\n生抽: 1汤匙\n黄豆酱: 1汤匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜切配】：五花肉洗净，切成均匀的薄片。青椒去籽切丝，蒜叶洗净切段，姜蒜切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiangrou_step1.webp"
+      },
+      {
+        "text": "【煸炒出油】：锅中倒入适量食用油，烧热后放入姜蒜末爆香。倒入五花肉片，中火翻炒至肉片变色、油脂析出（约2-3分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiangrou_step2.webp"
+      },
+      {
+        "text": "【调味上色】：加入黄酒、生抽和一大勺黄豆酱，迅速翻炒均匀，使肉片裹满酱汁并上色。"
+      },
+      {
+        "text": "【加入配菜】：放入青椒丝和蒜叶段，转大火快速翻炒几下，待青椒断生、蒜叶变软即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiangrou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "jiamo-shrimp-001",
+    "name": "芥末虾球",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiemo_xiaqiu.webp",
+    "brief": "外酥里嫩，芥末酱的辛辣与沙拉酱的香甜完美融合，口感层次丰富，是一道色香味俱全的西式fusion菜品。",
+    "categoryIds": ["30", "2", "12", "29"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "大虾: 300克 (去壳去虾线)\n盐: 1/2茶匙\n白胡椒粉: 1/4茶匙\n葱姜水: 1汤匙\n面粉: 2汤匙\n玉米淀粉: 2汤匙\n鸡蛋: 1个\n清水: 适量\n食用油: 适量 (用于炸制和拌面糊)\n蜂蜜芥末酱: 2汤匙\n蛋黄沙拉酱: 2汤匙\n欧芹碎: 少许 (装饰用)",
+    "steps": [
+      {
+        "text": "【处理大虾】：将大虾去壳去虾线，洗净后沥干水分。放入碗中，加入盐、白胡椒粉和葱姜水，抓拌均匀，腌制10分钟去腥入味。"
+      },
+      {
+        "text": "【调制面糊】：取一个大碗，将面粉和玉米淀粉按1:1的比例混合，加入一个鸡蛋和少许盐，分次加入清水，搅拌成均匀浓稠的面糊（以能挂在虾身上为宜）。最后加入1茶匙食用油搅拌均匀，可使炸出的外壳更酥脆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiemo_xiaqiu_step1.webp"
+      },
+      {
+        "text": "【调制酱汁】：在小碗中将蜂蜜芥末酱和蛋黄沙拉酱按1:1的比例混合，搅拌均匀成细腻顺滑的芥末沙拉酱，备用。"
+      },
+      {
+        "text": "【裹糊油炸】：锅中倒入足量食用油，烧至六成热（约160-180°C）。将腌制好的虾仁均匀裹上面糊，逐个下入油锅中，中火炸至表面微黄定型后捞出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiemo_xiaqiu_step2.webp"
+      },
+      {
+        "text": "【复炸酥脆】：将油温升高至七八成热（约200°C），放入炸过一次的虾球，快速复炸20-30秒，至表面金黄酥脆，捞出沥干油分。复炸是保持外壳长久酥脆的关键。"
+      },
+      {
+        "text": "【裹酱装盘】：将炸好的虾球放入一个大碗中，淋上调制好的芥末沙拉酱，快速翻拌均匀，使每一颗虾球都均匀裹上酱汁。装盘后撒上少许欧芹碎点缀即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiemo_xiaqiu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "c4d8e9f0-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "name": "肉末土豆盖饭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_tudou_gaifan.webp",
+    "brief": "土豆焦香软糯，肉末酱香浓郁，汤汁拌饭一绝的快手家常盖饭。",
+    "categoryIds": ["7", "2", "20", "11", "28"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "土豆: 2个（切丁）\n猪肉末: 150克\n西红柿: 1个（切丁）\n葱姜蒜: 适量\n生抽: 2汤匙\n老抽: 1/2汤匙\n盐: 适量\n鸡精: 少许\n白糖: 1/2茶匙\n清水: 适量\n食用油: 适量\n葱花: 1小把",
+    "steps": [
+      {
+        "text": "【煎土豆】：锅中倒油烧热，放入土豆丁，中火煎至表面焦黄、边缘微酥，盛出备用。"
+      },
+      {
+        "text": "【炒肉末】：锅留底油，放入猪肉末，大火炒散炒熟，至肉末变色出油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_tudou_gaifan_step1.webp"
+      },
+      {
+        "text": "【爆香调料】：在肉末中加入葱姜蒜，翻炒出香味。"
+      },
+      {
+        "text": "【炒西红柿】：放入西红柿丁，炒至软烂出汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_tudou_gaifan_step2.webp"
+      },
+      {
+        "text": "【调味炖煮】：倒入煎好的土豆丁，加入生抽、老抽、盐、鸡精、白糖，翻炒均匀。倒入适量清水，小火炖5分钟至汤汁浓郁。"
+      },
+      {
+        "text": "【出锅】：撒上一小把葱花，翻炒均匀后关火，盖在热米饭上即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_tudou_gaifan_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "fengwei-qiezi-001",
     "name": "风味茄子",
     "imageSrc": "https://shiyuji.xyz/img/recipes/fengwei_qiezi.webp",
@@ -10771,6 +10864,58 @@
       {
         "text": "【极简调味】：加入青豆快速翻炒几下，仅加入微量食盐调味，翻炒均匀后即可关火出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/jiaobaisi_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "sang-shen-hei-zhi-ma-run-fa-yin-001",
+    "name": "桑葚黑芝麻润发饮",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sangshen_heizhima_runfayin.webp",
+    "brief": "给透支的生命，补回那一抹乌黑的生机。",
+    "categoryIds": ["3", "14", "19"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "ingredients": "干桑葚: 10g（约15粒）\n熟黑芝麻粉: 15g（约一大勺）\n核桃仁: 2枚（掰碎）\n温开水/热牛奶: 250ml",
+    "steps": [
+      {
+        "text": "【洗润】：将干桑葚用温水略微冲洗，去除浮灰。"
+      },
+      {
+        "text": "【调和】：将黑芝麻粉倒入杯中，先用少量温水调成糊状，防止结块。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sangshen_heizhima_runfayin_step1.webp"
+      },
+      {
+        "text": "【注入】：倒入剩余的温水或热牛奶，加入桑葚与核桃碎。"
+      },
+      {
+        "text": "【浸泡】：静置3分钟，待桑葚吸水变软，核桃油脂微微渗出即可饮用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sangshen_heizhima_runfayin_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "cu-zhi-hei-dou-yang-fa-can-001",
+    "name": "醋制黑豆",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/cuzhi_heidou.webp",
+    "brief": "给透支的生命，补回那一抹乌黑的生机。以醋泡黑豆为核心，辅以桑葚核桃，滋养肝肾，乌发明目。",
+    "categoryIds": ["21", "15", "18", "19", "10"],
+    "difficulty": "简单",
+    "time": "7天（含浸泡时间）",
+    "ingredients": "黑豆: 50克\n干桑葚: 10克（约15粒）\n核桃仁: 2枚（掰碎）\n陈醋（老恒和醋）: 适量（需没过黑豆）\n温开水或米粥: 适量（调和食用）",
+    "steps": [
+      {
+        "text": "【干炒豆香】：将黑豆用清水洗净，彻底晾干水分。放入无油的炒锅中，开中小火慢慢翻炒，直至黑豆表皮微微裂开，能闻到浓郁的豆香味飘出，关火盛出晾凉。"
+      },
+      {
+        "text": "【醋渍封存】：准备一个干净无水的玻璃瓶。将炒好并完全冷却的黑豆放入瓶中，倒入足量的陈醋，确保液面完全没过黑豆。盖上瓶盖，密封严实，放置在阴凉避光处浸泡一周（7天），让黑豆充分吸收醋汁，豆质变软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/cuzhi_heidou_step1.webp"
+      },
+      {
+        "text": "【每日调和】：每日食用时，用干净无油的筷子取出醋泡黑豆8-10粒放入碗中。加入干桑葚和掰碎的核桃仁。"
+      },
+      {
+        "text": "【佐餐服用】：往碗中注入适量温开水（或直接拌入早晨刚煮好的热米粥中），搅拌均匀即可一同食用。建议长期坚持作为早餐或零食，滋养效果更佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/cuzhi_heidou_step2.webp"
       }
     ]
   }
