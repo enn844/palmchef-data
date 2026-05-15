@@ -1,5 +1,35 @@
 [
-
+  {
+    "id": "xia-hua-niang-kou-mo-001",
+    "name": "虾滑酿口蘑",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_niang_koumo.webp",
+    "brief": "口蘑的鲜嫩多汁与虾滑的Q弹完美结合，每一口都是鲜美的迸发，造型精致且老少皆宜。",
+    "categoryIds": ["7", "2", "30", "12"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "口蘑: 12个（大小均匀）\n虾滑: 150克（成品或自制）\n胡萝卜: 1小段（约20克，切碎）\n豌豆粒: 适量（装饰用）\n生抽: 1汤匙\n蚝油: 1茶匙\n水淀粉: 1汤匙淀粉加3汤匙水\n葱花: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：口蘑洗净，用手轻轻掰去口蘑蒂（保留完整蘑菇伞状），用厨房纸吸干内部水分。胡萝卜切碎末，与虾滑混合拌匀，增加口感与色彩。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step1.webp"
+      },
+      {
+        "text": "【酿制虾滑】：将混合好的虾滑填入每个口蘑的凹陷处，用勺子抹平表面，顶部轻轻按压一颗豌豆粒做装饰。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step2.webp"
+      },
+      {
+        "text": "【煎制定型】：平底锅倒少量油，烧至五成热。将酿好的口蘑虾滑面朝下放入锅中，中小火煎2分钟，至虾滑表面金黄定型后翻面。"
+      },
+      {
+        "text": "【焖煮入味】：翻面后，沿锅边淋入生抽、蚝油和少许清水（约50毫升），盖上锅盖，中小火焖煮3-4分钟，让口蘑充分吸收汤汁并熟透。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step3.webp"
+      },
+      {
+        "text": "【勾芡出锅】：将口蘑盛出摆盘。锅中剩余汤汁烧开，淋入水淀粉勾薄芡，待汤汁浓稠后，均匀浇在虾滑酿口蘑上，撒上葱花即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step4.webp"
+      }
+    ]
+  },
   {
     "id": "jiamo-shrimp-001",
     "name": "芥末虾球",
