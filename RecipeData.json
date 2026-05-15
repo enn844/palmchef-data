@@ -1,8 +1,46 @@
 [
   {
+    "id": "garlic-butter-chicken-thighs-001",
+    "name": "蒜香黄油鸡腿肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/suanxiang_huangyou_jituirou.webp",
+    "brief": "鸡腿肉外酥里嫩，裹满浓郁蒜香黄油酱汁，口感丰富，是下饭或佐酒的绝佳选择。",
+    "categoryIds": [
+      "20",
+      "7",
+      "12",
+      "2"
+    ],
+    "difficulty": "中等",
+    "time": "50分钟",
+    "ingredients": "鸡腿: 2-3只 (去骨)\n姜片: 5片\n生抽: 2勺 (约30毫升，腌制用) + 1勺 (约15毫升，酱汁用)\n蚝油: 1勺 (约15毫升)\n盐: 小半勺 (约2克)\n黑胡椒: 适量\n淀粉: 适量 (裹粉用)\n黄油: 30克\n蒜末: 大量 (约一头蒜或更多)\n蜂蜜: 1勺 (约15毫升)\n食用油: 适量 (油炸用)",
+    "steps": [
+      {
+        "text": "【前期备菜与腌制】：鸡腿洗净，用刀去除骨头（或购买去骨鸡腿肉）。在肉厚的地方划几刀断筋，防止煎炸时收缩。将处理好的鸡腿肉放入碗中，加入5片姜片、2勺生抽、1勺蚝油、小半勺盐和适量黑胡椒粉，抓匀腌制30分钟，让鸡肉充分入味。"
+      },
+      {
+        "text": "【裹粉准备】：将腌制好的鸡腿肉从料汁中取出，两面均匀地裹上一层干淀粉。轻轻拍掉多余粉末，备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanxiang_huangyou_jituirou_step1.webp"
+      },
+      {
+        "text": "【油炸鸡腿】：锅中倒入足量食用油，烧至六成热（约160-180°C，筷子放入周围冒密集小泡）。放入裹好淀粉的鸡腿肉，中小火炸至两面金黄、外壳酥脆，约5-7分钟（视肉块大小调整）。捞出，沥干油分，稍微放凉后切成方便食用的小块。"
+      },
+      {
+        "text": "【制作蒜香黄油酱汁】：准备一个干净的小锅或平底锅，开小火。放入30克黄油，加热至完全融化。加入大量蒜末（建议一整头大蒜的量），小火慢慢炸香，注意不要炸焦，炸至蒜末呈金黄色、蒜香四溢时即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanxiang_huangyou_jituirou_step2.webp"
+      },
+      {
+        "text": "【调味并裹酱】：在炸好的蒜油中，加入1勺生抽和1勺蜂蜜，继续用小火加热并搅拌均匀，煮至酱汁略微冒泡、变得浓稠。"
+      },
+      {
+        "text": "【出锅装盘】：将切好的炸鸡腿块倒入酱汁锅中，快速翻拌，使每一块鸡肉都均匀地裹上浓郁的蒜香黄油酱汁。关火，出锅装盘，可撒上少许葱花或欧芹碎点缀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanxiang_huangyou_jituirou_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "xia-hua-niang-kou-mo-001",
     "name": "虾滑酿口蘑",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_niang_koumo.webp",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_koumo.webp",
     "brief": "口蘑的鲜嫩多汁与虾滑的Q弹完美结合，每一口都是鲜美的迸发，造型精致且老少皆宜。",
     "categoryIds": ["7", "2", "30", "12"],
     "difficulty": "中等",
@@ -10,23 +48,22 @@
     "ingredients": "口蘑: 12个（大小均匀）\n虾滑: 150克（成品或自制）\n胡萝卜: 1小段（约20克，切碎）\n豌豆粒: 适量（装饰用）\n生抽: 1汤匙\n蚝油: 1茶匙\n水淀粉: 1汤匙淀粉加3汤匙水\n葱花: 适量\n食用油: 适量",
     "steps": [
       {
-        "text": "【前期备菜】：口蘑洗净，用手轻轻掰去口蘑蒂（保留完整蘑菇伞状），用厨房纸吸干内部水分。胡萝卜切碎末，与虾滑混合拌匀，增加口感与色彩。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step1.webp"
+        "text": "【前期备菜】：口蘑洗净，用手轻轻掰去口蘑蒂（保留完整蘑菇伞状），用厨房纸吸干内部水分。胡萝卜切碎末，与虾滑混合拌匀，增加口感与色彩。"
       },
       {
         "text": "【酿制虾滑】：将混合好的虾滑填入每个口蘑的凹陷处，用勺子抹平表面，顶部轻轻按压一颗豌豆粒做装饰。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step1.webp"
       },
       {
-        "text": "【煎制定型】：平底锅倒少量油，烧至五成热。将酿好的口蘑虾滑面朝下放入锅中，中小火煎2分钟，至虾滑表面金黄定型后翻面。"
+        "text": "【煎制定型】：平底锅倒少量油，烧至五成热。将酿好的口蘑虾滑面朝下放入锅中，中小火煎2分钟，至虾滑表面金黄定型后翻面。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step2.webp"
       },
       {
-        "text": "【焖煮入味】：翻面后，沿锅边淋入生抽、蚝油和少许清水（约50毫升），盖上锅盖，中小火焖煮3-4分钟，让口蘑充分吸收汤汁并熟透。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step3.webp"
+        "text": "【焖煮入味】：翻面后，沿锅边淋入生抽、蚝油和少许清水（约50毫升），盖上锅盖，中小火焖煮3-4分钟，让口蘑充分吸收汤汁并熟透。"
       },
       {
         "text": "【勾芡出锅】：将口蘑盛出摆盘。锅中剩余汤汁烧开，淋入水淀粉勾薄芡，待汤汁浓稠后，均匀浇在虾滑酿口蘑上，撒上葱花即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_niang_koumo_step4.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step3.webp"
       }
     ]
   },
