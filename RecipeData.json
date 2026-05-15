@@ -10959,5 +10959,35 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/cuzhi_heidou_step2.webp"
       }
     ]
+  },
+  {
+    "id": "g1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "name": "随园清补红枣山药汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongzao_shanyaotang.webp",
+    "brief": "给清淡的日子，补回那一抹温润的红意。",
+    "categoryIds": [
+      "3",
+      "15",
+      "16"
+    ],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "ingredients": "山药: 150g (切段)\n干红枣: 5-8枚 (去核)\n枸杞: 10g (约15粒)\n生姜: 1片 (拇指大小)\n红糖: 15g (根据口味增减)\n清水: 1000ml",
+    "steps": [
+      {
+        "text": "【备料】：将山药去皮切成滚刀块，红枣洗净去核。"
+      },
+      {
+        "text": "【入锅】：锅中加入1000ml水，先放入生姜和山药，大火烧开转小火。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongzao_shanyaotang_step1.webp"
+      },
+      {
+        "text": "【慢熬】：加入红枣，盖上盖子焖煮20分钟，直到山药变得粉糯。"
+      },
+      {
+        "text": "【收尾】：最后5分钟撒入枸杞和红糖，待糖化开即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongzao_shanyaotang_step2.webp"
+      }
+    ]
   }
 ]
