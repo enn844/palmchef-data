@@ -3,19 +3,19 @@
   "cards": [
     {
       "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9228",
-      "recipeNmae": "红烧冬瓜"
+      "recipeName": "红烧冬瓜"
     },
     {
       "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9231",
-      "recipeNmae": "翠玉白菜卷"
+      "recipeName": "翠玉白菜卷"
     },
     {
       "recipeId": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
-      "recipeNmae": "冰糖炖雪梨"
+      "recipeName": "冰糖炖雪梨"
     },
     {
       "recipeId": "c1d2e3f4-g5h6-7i8j-9k0l-m1n2o3p4q5r6",
-      "recipeNmae": "燕麦牛奶蒸蛋"
+      "recipeName": "燕麦牛奶蒸蛋"
     }
   ]
 }
