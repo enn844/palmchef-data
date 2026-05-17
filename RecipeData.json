@@ -1,5 +1,70 @@
 [
   {
+    "id": "qingjiao-xianxia-001",
+    "name": "青椒酿虾滑",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangxiahua.webp",
+    "brief": "青椒的清香微辣与虾滑的鲜甜弹牙完美结合，酱汁浓郁，是一道美味又下饭的家常菜。",
+    "categoryIds": ["7", "20", "12", "2"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "青椒（胖直、不太辣）: 4-5个\n虾滑: 200克\n大蒜: 6瓣\n生抽: 4汤匙（约60毫升，西瓜勺）\n蚝油: 2汤匙（约30毫升）\n白糖: 1汤匙（约15克）\n白胡椒粉: 1茶匙（约5克）\n淀粉: 1汤匙（约15克）\n清水: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：青椒洗净，切掉两头，切成约3-4厘米长的段，用筷子或小勺挖去内芯和籽。大蒜去皮切成薄片。虾滑提前解冻备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step1.webp"
+      },
+      {
+        "text": "【酿入虾滑】：将解冻好的虾滑装入裱花袋或保鲜袋中，剪一个小口。将虾滑挤入处理好的青椒段中，用筷子轻轻压实填满，两端抹平。"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，依次加入4勺生抽、2勺蚝油、1勺白糖、1勺白胡椒粉、1勺淀粉和适量清水（约100毫升），用勺子充分搅拌均匀，调成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step2.webp"
+      },
+      {
+        "text": "【煎制青椒】：平底锅倒入适量食用油，油热后下入蒜片，小火炒出香味。将酿好虾滑的青椒段放入锅中，中小火慢煎，期间用筷子翻面，煎至青椒两面出现虎皮（焦黄）且变软。"
+      },
+      {
+        "text": "【焖煮入味】：将调好的酱汁再次搅拌后均匀倒入锅中，转小火，盖上锅盖焖煮3分钟，让青椒和虾滑充分吸收酱汁的味道。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step3.webp"
+      },
+      {
+        "text": "【收汁出锅】：开盖，转大火收汁，不断翻动青椒段防止粘锅。待汤汁变得浓稠并包裹在青椒表面时，关火出锅。将锅中剩余的浓稠汤汁浇在青椒段上即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
+    "name": "肉末嫩豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_nendoufu.webp",
+    "brief": "滑嫩豆腐吸饱了香菇肉末的鲜香酱汁，微辣开胃，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["4", "7", "2", "31"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "嫩豆腐: 1盒（约350克）\n猪肉末: 100克\n干香菇: 3朵（提前泡发）\n蒜末: 2瓣\n朝天椒: 1-2个\n酱油: 2汤匙\n白胡椒粉: 少许\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：干香菇用温水提前泡发至软（约20-30分钟），泡香菇的水留用。将泡软的香菇挤干水分，切成小丁。嫩豆腐从盒中取出，切成约2厘米见方的小块。蒜切末，朝天椒切圈备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step1.webp"
+      },
+      {
+        "text": "【炒制肉末】：锅中放少许食用油，烧热后下入猪肉末，中火煸炒至变色出油。加入切好的香菇丁、蒜末和朝天椒圈，继续翻炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step2.webp"
+      },
+      {
+        "text": "【加入香菇水】：加入少许盐和酱油调味，翻炒均匀。然后倒入半碗泡发香菇留下的香菇水（约100-150毫升），大火煮至烧开。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step3.webp"
+      },
+      {
+        "text": "【滑入豆腐】：将切好的嫩豆腐块轻轻滑入锅中，用勺子背面或锅铲轻轻推匀，避免用力翻动以防豆腐碎裂。加入2汤匙酱油和少许白胡椒粉调味。"
+      },
+      {
+        "text": "【烧开出锅】：转中火，不用盖锅盖，煮约3-5分钟，让豆腐充分吸收汤汁的味道。待酱汁烧开、略微收浓后，即可关火出锅。装盘后撒上少许葱花点缀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "garlic-butter-chicken-thighs-001",
     "name": "蒜香黄油鸡腿肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/suanxiang_huangyou_jituirou.webp",
@@ -1052,7 +1117,7 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousi_step2.webp"
       },
       {
-        "text": "【爆香合炒】：锅中留底油，放入蒜末爆香。加入焯过水的青椒丝，快速翻炒几下。"
+        "text": "【爆香合炒】：锅中留少量底油，放入蒜末爆香。加入焯过水的青椒丝，炒软。"
       },
       {
         "text": "【调味出锅】：倒入炒好的肉丝，加入适量盐和少许味精，大火快速翻炒均匀。根据个人口感可适当延长炒制时间，确保肉丝熟透入味，即可出锅。",
