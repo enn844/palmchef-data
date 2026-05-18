@@ -1,8 +1,38 @@
 [
   {
+    "id": "qinghongjiao-xingbaogu-huotui-001",
+    "name": "青红椒炒杏鲍菇火腿条",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp",
+    "brief": "色彩鲜艳，口感丰富，杏鲍菇筋道似肉，搭配火腿咸香，快手家常小炒。",
+    "categoryIds": ["31", "20", "7", "2", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "青椒: 1个 (切丝)\n红椒: 1个 (切丝)\n杏鲍菇: 2个 (切丝)\n火腿肠: 2根 (切条)\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1/2汤匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：青椒、红椒洗净去籽，切成细丝。杏鲍菇洗净，先切成薄片，再改刀成细丝。火腿肠切成与杏鲍菇粗细相当的条状。蒜瓣切成蒜末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step1.webp"
+      },
+      {
+        "text": "【煸炒杏鲍菇】：锅中烧热适量油，放入杏鲍菇丝，中火煸炒。杏鲍菇刚开始会出水，继续翻炒至水分收干、表面微黄，盛出备用。这一步能去除杏鲍菇的生涩味，并激发出其特有的鲜香。"
+      },
+      {
+        "text": "【爆香配料】：锅中留底油，放入蒜末爆香。然后加入火腿条，翻炒约1分钟，至火腿表面微焦，香味溢出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step2.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入青红椒丝炒软。接着倒入煸好的杏鲍菇丝，加入生抽、蚝油和少许盐，继续大火翻炒均匀。"
+      },
+      {
+        "text": "【出锅装盘】：所有食材翻炒均匀，入味后即可关火出锅。全程大火快炒，保持青红椒的清脆口感和鲜艳色泽。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "basque-cheesecake-001",
     "name": "巴斯克蛋糕",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/basque_cheesecake.webp",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/basike_dangao.webp",
     "brief": "起源于西班牙巴斯克地区的标志性蛋糕，表面焦黑粗犷，内芯细腻顺滑，芝士香气浓郁，入口即化。",
     "categoryIds": ["14", "22"],
     "difficulty": "中等",
@@ -14,35 +44,35 @@
       },
       {
         "text": "【软化奶酪】：奶油奶酪提前30分钟从冰箱取出、室温软化、将软化好奶油奶酪放入大碗中，用打蛋器搅拌至顺滑无颗粒的状态。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step1.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step1.webp"
       },
       {
         "text": "【混合糖与奶酪】：将细砂糖加入奶酪糊中，继续用打蛋器搅拌均匀，直至糖完全融化，奶酪糊变得顺滑细腻。"
       },
       {
         "text": "【分次加入蛋液】：将2个鸡蛋和1个蛋黄打散成蛋液。分少量多次地将蛋液加入奶酪糊中，每次加入后都要充分搅拌均匀，避免出现分离或结块，直到所有蛋液加完，面糊呈现顺滑状态。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step2.webp"
       },
       {
         "text": "【加入淡奶油】：将淡奶油一点点地加入奶酪糊中，一边加一边不停搅拌，防止结块，直到完全混合，面糊顺滑细腻。"
       },
       {
         "text": "【加入粉类】：将玉米淀粉或低筋面粉过筛后加入奶酪糊中，用打蛋器搅拌均匀，蛋糕糊即制作完成。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step3.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step3.webp"
       },
       {
         "text": "【过筛入模】：将蛋糕糊过筛一遍，倒入铺好油纸的6寸活底模具中，轻轻震几下震出大气泡，用刮刀将表面刮平。"
       },
       {
         "text": "【烘烤】：将模具放入预热好的烤箱中层，以220°C烘烤20-25分钟。烘烤过程中需观察表面上色情况，边缘焦黑、中心轻微晃动为最佳状态，不要烤得太焦。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step4.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step4.webp"
       },
       {
         "text": "【冷却定型】：烤完后从烤箱取出，室温放凉至完全冷却。蛋糕中心会自然凹陷，这是正常现象。"
       },
       {
         "text": "【冷藏享用】：将完全冷却的巴斯克蛋糕放入冰箱，冷藏过夜（至少4小时）。冷藏后口感更佳，切块即可食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step5.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step5.webp"
       }
     ]
   },
