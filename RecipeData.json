@@ -1,5 +1,93 @@
 [
   {
+    "id": "basque-cheesecake-001",
+    "name": "巴斯克蛋糕",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/basque_cheesecake.webp",
+    "brief": "起源于西班牙巴斯克地区的标志性蛋糕，表面焦黑粗犷，内芯细腻顺滑，芝士香气浓郁，入口即化。",
+    "categoryIds": ["14", "22"],
+    "difficulty": "中等",
+    "time": "50分钟 (不含冷藏)",
+    "ingredients": "奶油奶酪: 250克 (提前30分钟从冰箱取出软化)\n细砂糖: 60克\n鸡蛋: 2个\n蛋黄: 1个\n淡奶油: 120克\n玉米淀粉或低筋面粉: 10克",
+    "steps": [
+      {
+        "text": "【准备模具】：取一张大于6寸模具的油纸，铺在模具内，整理油纸使其贴合模具底部和四周，超出模具的部分可以向下折或撕掉，备用。烤箱开始预热至220°C。"
+      },
+      {
+        "text": "【软化奶酪】：奶油奶酪提前30分钟从冰箱取出、室温软化、将软化好奶油奶酪放入大碗中，用打蛋器搅拌至顺滑无颗粒的状态。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step1.webp"
+      },
+      {
+        "text": "【混合糖与奶酪】：将细砂糖加入奶酪糊中，继续用打蛋器搅拌均匀，直至糖完全融化，奶酪糊变得顺滑细腻。"
+      },
+      {
+        "text": "【分次加入蛋液】：将2个鸡蛋和1个蛋黄打散成蛋液。分少量多次地将蛋液加入奶酪糊中，每次加入后都要充分搅拌均匀，避免出现分离或结块，直到所有蛋液加完，面糊呈现顺滑状态。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step2.webp"
+      },
+      {
+        "text": "【加入淡奶油】：将淡奶油一点点地加入奶酪糊中，一边加一边不停搅拌，防止结块，直到完全混合，面糊顺滑细腻。"
+      },
+      {
+        "text": "【加入粉类】：将玉米淀粉或低筋面粉过筛后加入奶酪糊中，用打蛋器搅拌均匀，蛋糕糊即制作完成。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step3.webp"
+      },
+      {
+        "text": "【过筛入模】：将蛋糕糊过筛一遍，倒入铺好油纸的6寸活底模具中，轻轻震几下震出大气泡，用刮刀将表面刮平。"
+      },
+      {
+        "text": "【烘烤】：将模具放入预热好的烤箱中层，以220°C烘烤20-25分钟。烘烤过程中需观察表面上色情况，边缘焦黑、中心轻微晃动为最佳状态，不要烤得太焦。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step4.webp"
+      },
+      {
+        "text": "【冷却定型】：烤完后从烤箱取出，室温放凉至完全冷却。蛋糕中心会自然凹陷，这是正常现象。"
+      },
+      {
+        "text": "【冷藏享用】：将完全冷却的巴斯克蛋糕放入冰箱，冷藏过夜（至少4小时）。冷藏后口感更佳，切块即可食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basque_cheesecake_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "qingzheng-ouding-rouwan-001",
+    "name": "清蒸藕丁肉丸子",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/ouding_rouwan.webp",
+    "brief": "肉质鲜嫩多汁，藕丁清脆爽口，搭配西红柿酱汁，酸甜开胃，老少皆宜。",
+    "categoryIds": ["7", "20", "31", "4", "12"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "猪前腿肉: 300克 (剁成肉泥)\n莲藕: 100克 (去皮剁碎)\n胡萝卜: 半根 (剁碎)\n西红柿: 1个 (去皮切碎)\n生姜末: 适量\n葱花: 适量\n生抽: 2汤匙 (酱汁用)\n蚝油: 1汤匙 (酱汁用)\n玉米淀粉: 适量 (肉馅用)\n淀粉: 1汤匙 (酱汁用)\n盐: 适量\n清水: 半碗",
+    "steps": [
+      {
+        "text": "【前期备菜】：猪前腿肉剁成肉泥；莲藕去皮、胡萝卜洗净，分别剁成细碎末；西红柿去皮切碎备用。姜切末，葱切花。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step1.webp"
+      },
+      {
+        "text": "【调制肉馅】：将肉泥放入大碗中，加入姜末、葱花、适量盐、生抽、蚝油，朝一个方向搅拌均匀至上劲。再加入玉米淀粉和剁好的藕碎、胡萝卜碎，继续搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step2.webp"
+      },
+      {
+        "text": "【准备蒸盘】：取一个深碗或蒸盘，将胡萝卜切成薄片，均匀铺在碗底。"
+      },
+      {
+        "text": "【制作肉丸】：将调好的肉馅用手团成大小均匀的肉丸，轻轻放在胡萝卜片上。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step3.webp"
+      },
+      {
+        "text": "【蒸制】：蒸锅水烧开后，放入肉丸，大火蒸15分钟至熟透。"
+      },
+      {
+        "text": "【调制酱汁】：小碗中加入生抽2勺、蚝油1勺、淀粉1勺、清水半碗，搅拌均匀成淀粉汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_ouding_rouwan_step4.webp"
+      },
+      {
+        "text": "【炒制酱汁】：锅中放少许油，倒入西红柿碎，翻炒至软烂出汁。将调好的淀粉汁倒入锅中，小火煮至汤汁浓稠后关火（肉馅已有咸味，酱汁不需额外加盐）。"
+      },
+      {
+        "text": "【淋汁出锅】：将蒸好的肉丸取出，把煮好的西红柿酱汁均匀淋在肉丸上，撒上少许葱花点缀即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step5.webp"
+      }
+    ]
+  },
+  {
     "id": "qingjiao-xianxia-001",
     "name": "青椒酿虾滑",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangxiahua.webp",
