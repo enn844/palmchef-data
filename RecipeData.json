@@ -1,5 +1,75 @@
 [
   {
+    "id": "milk-mlt-20240520-001",
+    "name": "牛奶麻辣烫",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/niunai_malatang.webp",
+    "brief": "汤底浓郁丝滑，麻辣中带着奶香，涮煮各种食材，是一人食或家庭聚餐的暖心锅物。",
+    "categoryIds": ["5", "7", "12", "26"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "土豆: 1个 (切片)\n西兰花: 半朵 (切小朵洗净)\n火腿: 一根 (切片)\n肥牛卷: 150克 (提前焯水)\n猪瘦肉: 100克 (切片洗净)\n混合蔬菜: 适量\n河粉（或面条/粉丝）: 1份\n牛肉丸: 5-6个\n牛奶: 200毫升\n清水: 300毫升\n葱姜蒜末: 适量\n郫县豆瓣酱: 1汤匙\n火锅底料: 1小块\n食用油: 适量\n上述食材量是2个人的量，具体多少可以根据个人饭量调整，食材可以自由搭配",
+    "steps": [
+      {
+        "text": "【炒制底料】：锅中倒油烧热，放入葱姜蒜末爆香。加入郫县豆瓣酱和火锅底料，小火翻炒出红油和浓郁的香料味。"
+      },
+      {
+        "text": "【熬煮汤底】：倒入清水，大火煮开后续煮3分钟左右，让香料味道充分释放。用漏勺捞出料渣，使汤底更清澈。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niunai_malatang_step1.webp"
+      },
+      {
+        "text": "【加入牛奶】：缓缓倒入牛奶（牛奶与水的比例约为1:1.5），大火煮开，用勺子撇去表面浮沫。"
+      },
+      {
+        "text": "【下入耐煮食材】：先放入牛肉丸、土豆片、西兰花等不易熟的食材，煮到个人喜欢的软硬程度。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niunai_malatang_step2.webp"
+      },
+      {
+        "text": "【下入易熟食材】：接着放入火腿片、猪肉片、各类蔬菜等易熟食材，猪肉变色即可，蔬菜喜欢软的可以多煮会、"
+      },
+      {
+        "text": "【加入主食出锅】：待食材基本熟透后，放入河粉或面，煮至河粉变软透明、面条无硬芯，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niunai_malatang_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "yan-su-ji-001",
+    "name": "盐酥鸡",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yansuji.webp",
+    "brief": "台湾经典小吃，外酥里嫩，蒜香浓郁，搭配九层塔香气扑鼻。",
+    "categoryIds": ["13", "2", "20"],
+    "difficulty": "中等",
+    "time": "45分钟（含腌制）",
+    "ingredients": "鸡腿: 2只（去骨带皮）\n酱油: 1汤匙\n米酒: 1/2汤匙\n大蒜: 3瓣（切蒜蓉）\n姜粉（或姜片）: 1/2茶匙\n白胡椒粉: 1茶匙\n五香粉: 1茶匙\n盐: 1/2茶匙\n脆浆材料: 面粉+淀粉（比例5:1）共60g、泡打粉2g、五香粉1/2茶匙、盐1小撮、水适量\n裹粉材料: 粗颗粒红薯粉、粘米粉（可选）混合\n九层塔叶: 1把\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【鸡肉腌制】：鸡腿去骨，保留鸡皮，切成大小均匀的小块。加入酱油、米酒、蒜蓉、姜粉、白胡椒粉、五香粉和盐，抓匀腌制30分钟入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step1.webp"
+      },
+      {
+        "text": "【调制脆浆】：将面粉、淀粉、泡打粉、五香粉和盐混合，分次加入适量水，搅拌均匀至面糊呈能断续滴下的浓稠状态（不可过稀）。"
+      },
+      {
+        "text": "【上浆裹粉】：将腌好的鸡肉块与脆浆拌匀，使每块鸡肉均匀上浆。然后放入混合好的裹粉（粗颗粒红薯粉+粘米粉）中，轻轻按压，让鸡肉表面均匀沾满干粉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step2.webp"
+      },
+      {
+        "text": "【第一次炸制】：锅中倒入足量食用油，烧至六成热（约160°C，筷子插入冒小泡）。放入裹好粉的鸡块，中火炸至表面微黄、约六成熟（约2-3分钟），捞出沥油。"
+      },
+      {
+        "text": "【复炸酥脆】：将油温升至八成热（约180-200°C，油面略有油烟）。放入鸡块复炸约1分钟，至表面金黄酥脆，立即捞出沥油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step3.webp"
+      },
+      {
+        "text": "【炸九层塔】：将洗净并彻底晾干的九层塔叶放入热油中，炸约10秒至叶片卷起变脆，迅速捞出。"
+      },
+      {
+        "text": "【出锅装盘】：将炸好的盐酥鸡和九层塔叶混合拌匀，撒上少许椒盐或辣椒粉即可食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "qinghongjiao-xingbaogu-huotui-001",
     "name": "青红椒炒杏鲍菇火腿条",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp",
@@ -152,7 +222,7 @@
     ]
   },
   {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234995",
     "name": "肉末嫩豆腐",
     "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_nendoufu.webp",
     "brief": "滑嫩豆腐吸饱了香菇肉末的鲜香酱汁，微辣开胃，是一道简单快手的家常下饭菜。",
@@ -11170,6 +11240,36 @@
       {
         "text": "【收尾】：最后5分钟撒入枸杞和红糖，待糖化开即可。",
         "imageSrc": "https://shiyuji.xyz/img/steps/hongzao_shanyaotang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251235999",
+    "name": "榴莲壳煲鸡汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/liulianke_baojitang.webp",
+    "brief": "物性相克，老祖宗的平衡智慧全在壳里。榴莲肉性热，但榴莲的白瓤壳却能清热降火，与土鸡联手，便是最高级的温补平衡。",
+    "categoryIds": ["3", "7", "20", "26"],
+    "difficulty": "中等",
+    "time": "1小时50分钟",
+    "ingredients": "榴莲壳（只取白色瓤部分）: 200克 (切大块)\n走地鸡/土鸡: 1/2只 (约500克，剁块)\n生姜: 1块 (拍扁)\n枸杞: 10粒\n红枣: 3枚 (去核)\n盐: 4克\n清水: 1500毫升",
+    "steps": [
+      {
+        "text": "【取瓤】：用刀小心切下榴莲壳内层白色的瓤（去掉外层带刺的青皮），洗净切成大块备用。"
+      },
+      {
+        "text": "【焯水】：鸡肉块冷水下锅，放入半块生姜，大火煮开撇去浮沫，捞出冲洗干净。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liulianke_baojitang_step1.webp"
+      },
+      {
+        "text": "【慢炖】：将焯好水的鸡肉、榴莲白瓤块、剩余的半块生姜以及红枣放入砂锅中，注入1500毫升清水。"
+      },
+      {
+        "text": "【火候】：大火烧开后转小火，盖上锅盖慢炖1.5小时，此时汤汁会呈现出淡淡的乳白色。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liulianke_baojitang_step2.webp"
+      },
+      {
+        "text": "【点缀】：出锅前5分钟，加入枸杞以及盐调味，搅拌均匀即可锁住鲜美。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liulianke_baojitang_step3.webp"
       }
     ]
   }
