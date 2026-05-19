@@ -20,9 +20,9 @@
     "iconSrc": "app.media.ic_soup"
   },
   {
-    "id": "24",
-    "name": "春季时令",
-    "iconSrc": "app.media.ic_spring_seasonal"
+    "id": "25",
+    "name": "夏季时令",
+    "iconSrc": "app.media.ic_summer_seasonal"
   },
   {
     "id": "20",
@@ -104,22 +104,23 @@
     "name": "减脂健身",
     "iconSrc": "app.media.ic_fitness"
   },
-
+  {
+    "id": "24",
+    "name": "春季时令",
+    "iconSrc": "app.media.ic_spring_seasonal"
+  },
   {
     "id": "23",
     "name": "秋季时令",
     "iconSrc": "app.media.ic_autumn_seasonal"
   },
-  {
-    "id": "25",
-    "name": "夏季时令",
-    "iconSrc": "app.media.ic_summer_seasonal"
-  },
+
   {
     "id": "26",
     "name": "冬季时令",
     "iconSrc": "app.media.ic_winter_seasonal"
   },
+  
   {
     "id": "15",
     "name": "补血益气",
