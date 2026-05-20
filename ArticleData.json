@@ -4,6 +4,13 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "xiaodou",
+        "imageSrc": "https://shiyuji.xyz/img/article/xiaodou.webp",
+        "title": "肌肤的留白：那些在脸上草率落笔的“不速之客”",
+        "brief": "痘痘不是皮肤的叛逆，而是体内秩序的一场失序。结合明代《外科正宗》与现代代谢逻辑，听听老祖宗和身体的几句对白。",
+        "webUrl": "https://health-app.com/articles/xiaodou-logic-001"
+      },
+      {
         "id": "liulian",
         "imageSrc": "https://shiyuji.xyz/img/article/liulian.webp",
         "title": "食物界的“重载运行”：榴莲的硫化物、热量释放与气血大修整",
@@ -30,6 +37,13 @@
         "title": "熬夜后的“续命”哲学：给年轻人的精神与肠胃指南",
         "brief": "现在的年轻人，总爱在半夜里找一点“自我的光亮”。可这光亮要是烧得太旺，人就容易干枯。别让熬夜的“阴火”，透支了你的生命内存。",
         "webUrl": "https://health-app.com/articles/stay-up-late-rescue-001"
+      },
+      {
+        "id": "yanghua",
+        "imageSrc": "https://shiyuji.xyz/img/article/yanghua.webp",
+        "title": "细胞的“防锈协议”：如何在时间的氧化里，保持生命力的通透",
+        "brief": "自由基是细胞的“黑客”，氧化是岁月的“锈迹”。结合《本草纲目》智慧，用天然食材给细胞涂“防锈漆”，留住通透活力。",
+        "webUrl": "https://health-app.com/articles/antioxidant-001"
       },
       {
         "id": "4",
@@ -66,13 +80,7 @@
         "brief": "立夏习俗“见青”，不仅是舌尖的鲜活，更是身心的清理。蚕豆与豌豆的极致鲜美，正是一场季节性的“数据清理”，帮我们将春天的郁结化作夏日的壮大。",
         "webUrl": "https://health-app.com/articles/lixia-001"
       },
-      {
-        "id": "yanghua",
-        "imageSrc": "https://shiyuji.xyz/img/article/yanghua.webp",
-        "title": "细胞的“防锈协议”：如何在时间的氧化里，保持生命力的通透",
-        "brief": "自由基是细胞的“黑客”，氧化是岁月的“锈迹”。结合《本草纲目》智慧，用天然食材给细胞涂“防锈漆”，留住通透活力。",
-        "webUrl": "https://health-app.com/articles/antioxidant-001"
-      },
+
       {
         "id": "manxing_yanzheng",
         "imageSrc": "https://shiyuji.xyz/img/article/manxing_yanzheng.webp",
@@ -117,13 +125,7 @@
         "brief": "如果你正因职场坎坷而心力交瘁，不妨看看苏东坡。他的一生不是在被贬，就是在被贬的路上，但他却靠着“食疗”活出了中国文人最高级的松弛感。",
         "webUrl": "https://health-app.com/articles/dongpo-health-001"
       },
-      {
-        "id": "10",
-        "imageSrc": "https://shiyuji.xyz/img/article/jishiteng.webp",
-        "title": "追踪《本草纲目》：一味鸡屎藤，如何从乡间野草到网红甜品",
-        "brief": "名字听起来让人退避三舍，味道却让人欲罢不能。带你走进“鸡屎藤”的反差世界，看这味本草如何治愈都市人的脾胃与焦虑。",
-        "webUrl": "https://health-app.com/articles/jishiteng-001"
-      },
+
       {
         "id": "11",
         "imageSrc": "https://shiyuji.xyz/img/article/qiexiang.webp",
@@ -172,6 +174,13 @@
     "id": "yuanmei_science_series_v2",
     "title": "古籍智慧",
     "articles": [
+      {
+        "id": "10",
+        "imageSrc": "https://shiyuji.xyz/img/article/jishiteng.webp",
+        "title": "追踪《本草纲目》：一味鸡屎藤，如何从乡间野草到网红甜品",
+        "brief": "名字听起来让人退避三舍，味道却让人欲罢不能。带你走进“鸡屎藤”的反差世界，看这味本草如何治愈都市人的脾胃与焦虑。",
+        "webUrl": "https://health-app.com/articles/jishiteng-001"
+      },
       {
         "id": "wangzengqi_001",
         "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_001.webp",

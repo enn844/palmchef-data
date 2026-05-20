@@ -11384,5 +11384,31 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/liulianke_baojitang_step3.webp"
       }
     ]
+  },
+  {
+    "id": "e8f2c7a1-9b4d-4e6f-8a2c-1d3e5b7f9a2d",
+    "name": "土茯苓绿豆清肌饮",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tufuling_lvdouyin.webp",
+    "brief": "借一碗草木的通透，抚平皮肤上焦灼的文字。",
+    "categoryIds": ["25", "3", "17", "16"],
+    "difficulty": "简单",
+    "time": "45分钟",
+    "ingredients": "干土茯苓: 15g\n绿豆: 30g (提前浸泡2小时)\n干百合: 10g (约15片)\n陈醋: 2滴 (可选)\n清水: 800ml",
+    "steps": [
+      {
+        "text": "【洗润】：将土茯苓和干百合用温水略微冲洗，去除表面浮灰。"
+      },
+      {
+        "text": "【同煮】：锅中注入800ml清水，放入土茯苓与浸泡好的绿豆，大火烧开。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tufuling_lvdouyin_step1.webp"
+      },
+      {
+        "text": "【文火】：转小火慢煮30分钟，直到绿豆微微开花，加入百合再煮10分钟。"
+      },
+      {
+        "text": "【点睛】：关火前可依个人习惯滴入2滴陈醋，搅拌均匀，滤出汤汁饮用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tufuling_lvdouyin_step2.webp"
+      }
+    ]
   }
 ]
