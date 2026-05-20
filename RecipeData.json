@@ -1,5 +1,104 @@
 [
   {
+    "id": "cook-ricecake-001",
+    "name": "猪肉煮年糕",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhurou_zhuniangao.webp",
+    "brief": "软糯Q弹的年糕搭配鲜香猪肉，汤浓味美，家常温暖一锅出。",
+    "categoryIds": ["7", "2", "28", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "ingredients": "年糕片: 200克\n猪肉（五花肉或前腿肉）: 100克\n蒜头: 2瓣\n干辣椒: 2个\n白菜: 3片（梗叶分开）\n葱段: 适量\n生抽: 1汤匙\n老抽: 1/2茶匙\n盐: 适量\n鸡精: 少许\n清水: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【准备食材】：猪肉洗净切成薄片，用少许生抽和盐抓匀腌制5分钟。白菜洗净，菜梗切条，菜叶撕成大片。年糕片提前用温水稍微浸泡一下（不泡也行）。蒜头拍碎，干辣椒切段。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step1.webp"
+      },
+      {
+        "text": "【炒肉煸香】：锅中倒油烧热，下入腌制好的猪肉片，中火翻炒至变色、表面微焦出油，炒出肉香。"
+      },
+      {
+        "text": "【爆香底料】：放入拍碎的蒜头、干辣椒段和白菜梗，大火快速翻炒15秒，炝出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step2.webp"
+      },
+      {
+        "text": "【炒年糕调味】：倒入年糕片，快速翻炒均匀。加入盐、生抽和少许老抽，翻炒至上色。"
+      },
+      {
+        "text": "【焖煮入味】：倒入适量清水（大约半没过食材），盖上锅盖，中小火焖煮2分钟，让年糕吸足汤汁、变软糯。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step3.webp"
+      },
+      {
+        "text": "【收汁加菜】：打开锅盖，放入白菜叶和葱段，开大火翻炒30秒，使菜叶断生。喜欢更软糯口感可多炒一会儿。"
+      },
+      {
+        "text": "【最后提鲜】：撒入少许鸡精，快速翻炒均匀，汤汁收至浓稠即可出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "sandwich-egg-meatfloss-001",
+    "name": "鸡蛋肉松三明治",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jidan_rousong_sanmingzhi.webp",
+    "brief": "简单快手的营养早餐，鸡蛋沙拉与咸香肉松的完美搭配，口感丰富，饱腹感强。",
+    "categoryIds": ["10", "11", "33", "2"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "ingredients": "吐司片: 2-3片\n鸡蛋: 2个\n肉松: 2汤匙\n甜玉米粒: 2汤匙 (可选)\n沙拉酱: 2汤匙",
+    "steps": [
+      {
+        "text": "【煮蛋备料】：鸡蛋煮熟（水开后煮8-10分钟），捞出放入冷水中冷却，剥去蛋壳。甜玉米粒如果是生的，需焯水煮熟后沥干；如果是即食罐头，则沥干水分即可。"
+      },
+      {
+        "text": "【制作鸡蛋沙拉】：将煮好的鸡蛋放入碗中，用勺子或叉子捣碎成小块或泥状。加入沙拉酱、肉松和玉米粒，充分搅拌均匀，成为鸡蛋肉松沙拉馅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jidan_rousong_sanmingzhi_step1.webp"
+      },
+      {
+        "text": "【铺馅组装】：取一片吐司，将调好的鸡蛋肉松沙拉均匀地铺在吐司上，用勺子背面抹平。盖上另一片吐司。如果喜欢更丰富的口感，可以做成三层（吐司-馅料-吐司-馅料-吐司）。"
+      },
+      {
+        "text": "【定型切块】：用手轻轻按压三明治，使其紧实。用刀切去四边吐司皮（可选），再沿对角线切成两个三角形或切成四个小方形。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jidan_rousong_sanmingzhi_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "kugua-paigu-tang-2026-001",
+    "name": "苦瓜排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_paigutang.webp",
+    "brief": "汤色清亮微黄，苦瓜回甘，排骨酥烂，黄豆绵软，是夏季清热解暑的经典老火汤。",
+    "categoryIds": ["3", "7", "20", "25"],
+    "difficulty": "简单",
+    "time": "1小时40分钟",
+    "badge": ["热"],
+    "ingredients": "猪排骨: 400克\n苦瓜: 1根 (约250克)\n干黄豆: 50克\n姜片: 5片\n料酒: 1汤匙\n盐: 适量",
+    "steps": [
+      {
+        "text": "【黄豆泡发】：干黄豆提前用清水浸泡2小时以上，使其充分吸水膨胀，方便炖煮软烂。"
+      },
+      {
+        "text": "【排骨焯水】：排骨斩成小块，冷水下锅，加入2片姜和料酒。大火煮沸后撇去浮沫，捞出排骨用温水冲洗干净，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_paigutang_step1.webp"
+      },
+      {
+        "text": "【处理苦瓜】：苦瓜洗净，对半切开，用勺子挖去内瓤和白膜（白膜是苦味主要来源，去得越干净苦味越轻）。切成约2厘米厚的块。"
+      },
+      {
+        "text": "【炖煮汤底】：将焯好的排骨、泡好的黄豆和剩余姜片放入砂锅，加入足量热水（约2000毫升）。大火烧开后转小火，加盖慢炖1小时。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_paigutang_step2.webp"
+      },
+      {
+        "text": "【加入苦瓜】：打开锅盖，放入切好的苦瓜块，继续小火炖煮20-30分钟，至苦瓜变软、颜色转为深绿，黄豆绵软。"
+      },
+      {
+        "text": "【调味出锅】：加入适量盐调味，搅拌均匀后即可关火盛出。此汤不宜添加过多调料，以保持原汁原味的清甜回甘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_paigutang_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "milk-mlt-20240520-001",
     "name": "牛奶麻辣烫",
     "imageSrc": "https://shiyuji.xyz/img/recipes/niunai_malatang.webp",
@@ -2179,6 +2278,7 @@
     "categoryIds": ["13", "10"],
     "difficulty": "简单",
     "time": "约3小时（含室温浸泡）",
+    "badge": ["荐"],
     "ingredients": "鸡蛋: 8个\n红茶茶叶: 15克（或2个红茶包）\n八角: 2个\n桂皮: 1小段\n香叶: 2片\n花椒: 1小撮\n生抽: 3汤匙\n老抽: 2汤匙\n盐: 1汤匙\n冰糖: 10克\n清水: 适量",
     "steps": [
       {
