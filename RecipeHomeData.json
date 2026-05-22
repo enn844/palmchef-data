@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "cheese-ham-toast-001",
+    "name": "芝士火腿葱香岩烧吐司",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhishi_huotui_tusi.webp",
+    "brief": "外酥里嫩，奶香浓郁，芝士与火腿的完美融合，搭配肉松和香葱，口感丰富，快手早餐首选。",
+    "categoryIds": ["10", "2", "22"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "ingredients": "吐司片: 3-4片\n芝士片: 2-3片\n黄油: 20克\n鸡蛋: 1个\n火腿丁: 30克\n肉松: 20克\n小葱: 1根 (切葱花)\n白芝麻: 适量\n沙拉酱: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：将火腿切成小丁，小葱洗净切成葱花备用。取一片吐司，在表面均匀涂抹一层薄薄的沙拉酱，然后撒上一层肉松，稍微按压使其贴合。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step1.webp"
+      },
+      {
+        "text": "【制作芝士酱】：取一个小锅或平底锅，放入芝士片和黄油，开最小火加热，不断搅拌直至两者完全融化，形成顺滑的液体。关火后放置一旁，稍微冷却至不烫手的温度。"
+      },
+      {
+        "text": "【混合酱料】：将鸡蛋打入碗中打散，将冷却好的芝士黄油液缓缓倒入蛋液中，边倒边迅速搅拌均匀。然后加入切好的火腿丁，继续搅拌均匀，制成岩烧酱汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step2.webp"
+      },
+      {
+        "text": "【涂抹酱汁】：将准备好的吐司片放在烤盘上（铺油纸）。用勺子将调好的芝士火腿酱汁均匀地涂抹在吐司表面，边缘也要涂到，厚度尽量均匀。"
+      },
+      {
+        "text": "【撒料烘烤】：在涂抹好酱汁的吐司表面撒上适量的葱花和白芝麻。将烤盘放入预热好的烤箱中层，以180°C烘烤约15分钟，直到吐司表面呈现出诱人的金黄色，酱汁鼓起小泡即可出炉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a81-1736-4074-a0e4-b7b251234888",
+    "name": "豆沙包",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/doushabao.webp",
+    "brief": "松软白嫩的面皮包裹着细腻绵密的红豆沙，甜而不腻，是经典的传统中式点心。",
+    "categoryIds": ["28", "10", "14", "7"],
+    "difficulty": "中等",
+    "time": "2小时",
+    "badge": ["新"],
+    "ingredients": "中筋面粉: 300克\n温水: 150毫升 (约35-40°C)\n干酵母: 3克\n白糖: 20克 (和面用)\n红豆沙: 300克 (市售或自制)\n食用油: 5克",
+    "steps": [
+      {
+        "text": "【和面】：将中筋面粉、白糖、干酵母混合均匀。分次加入温水，边加边用筷子搅拌成絮状。加入食用油，然后用手揉成一个光滑、不粘手的面团。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step1.webp"
+      },
+      {
+        "text": "【一次发酵】：将面团放入盆中，盖上保鲜膜或湿布，放在温暖处（约28-30°C）发酵至两倍大（约1小时）。手指蘸面粉戳洞不回缩即为发酵完成。"
+      },
+      {
+        "text": "【排气分剂】：将发酵好的面团取出，放在撒了薄粉的案板上，用力揉压排气，直至面团恢复至原来的大小。将面团搓成长条，切成大小均匀的剂子（每个约40克）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step2.webp"
+      },
+      {
+        "text": "【包入豆沙】：将剂子擀成中间厚、边缘薄的圆形面皮。取一份豆沙（约30克）搓圆，放在面皮中央。用虎口将面皮向上收拢，捏紧收口，收口朝下搓圆整形。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step3.webp"
+      },
+      {
+        "text": "【二次醒发】：将包好的豆沙包放入蒸屉（底部垫油纸或刷油防粘），盖上盖子，进行二次醒发15-20分钟。醒发至豆沙包体积明显变大，手感轻盈。"
+      },
+      {
+        "text": "【蒸制】：蒸锅中加足量水，大火烧开。将蒸屉放入，转中大火蒸12-15分钟。关火后不要立即开盖，焖3-5分钟再缓缓揭盖，防止豆沙包塌陷回缩。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "dousha-001",
+    "name": "经典豆沙馅",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/doushaxian.webp",
+    "brief": "香甜绵密，口感顺滑，适合做包子、月饼、青团、面包等中式点心的百搭馅料。",
+    "categoryIds": ["14", "7", "28"],
+    "difficulty": "中等",
+    "time": "1小时30分钟",
+    "badge": ["新"],
+    "ingredients": "红豆: 300克\n冰糖/红糖: 120克 (根据甜度调整)\n猪油/玉米油: 80克\n清水: 适量",
+    "steps": [
+      {
+        "text": "【浸泡红豆】：红豆洗净，用清水浸泡至少4小时（或过夜），使豆子充分吸水膨胀，便于煮烂。"
+      },
+      {
+        "text": "【煮制豆沙】：将泡好的红豆放入锅中，加入足量清水（约高出红豆2指），大火烧开后转小火慢煮1小时，直到红豆软烂、用手一捏即碎。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step1.webp"
+      },
+      {
+        "text": "【打碎过筛】：将煮好的红豆连同少量汤汁分次放入料理机中打成细腻的豆泥。若追求极致顺滑，可用细筛网过滤掉豆皮。"
+      },
+      {
+        "text": "【炒制豆沙】：将豆泥倒入不粘锅中，加入冰糖和猪油（或玉米油），开中小火不断翻炒。炒制过程中豆沙会逐渐变浓稠、颜色加深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step2.webp"
+      },
+      {
+        "text": "【收干出锅】：炒至豆沙成团、不粘锅底、表面油亮且能抱团时即可关火。盛出放凉后使用或密封冷藏保存。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
+    "name": "葱香焖鸡",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/congxiang_menji.webp",
+    "brief": "葱香浓郁，鸡肉嫩滑入味，酱汁醇厚，是一道简单快手的家常焖菜。",
+    "categoryIds": ["2", "7", "12", "20"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "ingredients": "鸡腿/鸡翅: 500克 (切块)\n葱段: 1把\n姜片: 8片\n食用油: 1/4碗\n生抽: 2汤匙\n老抽: 1汤匙\n淀粉 1茶匙\n食用油 适量\n料酒: 1汤匙\n糖: 1茶匙\n水: 半碗",
+    "steps": [
+      {
+        "text": "【腌制鸡肉】：鸡腿和鸡翅洗净切块，加入1汤匙料酒、4片姜片、1汤匙生抽、少许白胡椒粉、食用油、淀粉和姜片，抓匀腌制15分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congxiang_menji_step1.webp"
+      },
+      {
+        "text": "【煸香葱姜】：锅中倒入约1/4碗食用油，放入一把葱段和4片姜片，开小火慢慢煎炸，直到葱段颜色发黄、香味充分释放出来。"
+      },
+      {
+        "text": "【翻炒鸡块】：将焯好水的鸡块倒入锅中，转中火略微翻炒，炒至鸡块表面微黄、微微上色。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congxiang_menji_step2.webp"
+      },
+      {
+        "text": "【调味焖煮】：加入2汤匙生抽、1汤匙老抽、1茶匙糖，快速翻炒均匀，使每一块鸡肉都裹上酱汁。然后倒入半碗水，大火煮沸。"
+      },
+      {
+        "text": "【收汁出锅】：保持大火，不断翻炒，待汤汁收至浓稠、均匀包裹在鸡块上时即可关火出锅。全程无需额外加盐，酱油的咸味已足够。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/congxiang_menji_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "f8e2d1c3-5b6a-4e9d-8c2f-1a3b5c7d9e0f",
+    "name": "香煎猪排",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangjian_zhupai.webp",
+    "brief": "外焦里嫩，黑椒咸香，梅头肉煎制后肉汁丰盈，简单快手的家常肉菜。",
+    "categoryIds": ["7", "2", "20"],
+    "difficulty": "简单",
+    "time": "25分钟（不含腌制时间）",
+    "badge": ["新"],
+    "ingredients": "梅头肉: 1000克（2斤，去肥肉切片）\n生抽: 5-6汤匙\n蚝油: 1汤匙\n老抽: 适量\n白糖: 适量\n黑胡椒: 适量\n玉米淀粉: 适量\n食用油: 适量（锁水用，另备煎制用油）",
+    "steps": [
+      {
+        "text": "【前期备菜】：将两斤梅头肉去掉肥肉，切成薄片。用刀背面将每块肉轻轻剁一下，使肉质更松软，便于入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step1.webp"
+      },
+      {
+        "text": "【腌制肉片】：将切好的梅头肉放入大碗中，加入5-6汤匙生抽、1汤匙蚝油、适量老抽上色、适量白糖提鲜、适量黑胡椒增香，再加入适量玉米淀粉，用手抓匀，使每片肉都裹上腌料。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step2.webp"
+      },
+      {
+        "text": "【加水锁水】：分次加入适量水，边加边抓拌，让肉片吸收水分。最后淋入一些食用油，拌匀锁住水分，腌制四五个小时（可提前一晚冷藏腌制）。"
+      },
+      {
+        "text": "【煎制猪排】：锅中淋少许油，加热后放入腌制好的梅头肉片，中小火慢煎。煎至一面金黄后翻面，直到两面都煎到有点焦黄、肉八九分熟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step3.webp"
+      },
+      {
+        "text": "【加水收汁】：在锅中加入少量水，盖上锅盖焖煎片刻，开盖后翻面，继续煎至水分收干、表面微焦即可出锅。"
+      },
+      {
+        "text": "【切条装盘】：将煎好的猪排切成条状，摆盘即可上桌享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "cook-ricecake-001",
+    "name": "猪肉煮年糕",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhurou_zhuniangao.webp",
+    "brief": "软糯Q弹的年糕搭配鲜香猪肉，汤浓味美，家常温暖一锅出。",
+    "categoryIds": ["7", "2", "28", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "ingredients": "年糕片: 200克\n猪肉（五花肉或前腿肉）: 100克\n蒜头: 2瓣\n干辣椒: 2个\n白菜: 3片（梗叶分开）\n葱段: 适量\n生抽: 1汤匙\n老抽: 1/2茶匙\n盐: 适量\n鸡精: 少许\n清水: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【准备食材】：猪肉洗净切成薄片，用少许生抽和盐抓匀腌制5分钟。白菜洗净，菜梗切条，菜叶撕成大片。年糕片提前用温水稍微浸泡一下（不泡也行）。蒜头拍碎，干辣椒切段。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step1.webp"
+      },
+      {
+        "text": "【炒肉煸香】：锅中倒油烧热，下入腌制好的猪肉片，中火翻炒至变色、表面微焦出油，炒出肉香。"
+      },
+      {
+        "text": "【爆香底料】：放入拍碎的蒜头、干辣椒段和白菜梗，大火快速翻炒15秒，炝出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step2.webp"
+      },
+      {
+        "text": "【炒年糕调味】：倒入年糕片，快速翻炒均匀。加入盐、生抽和少许老抽，翻炒至上色。"
+      },
+      {
+        "text": "【焖煮入味】：倒入适量清水（大约半没过食材），盖上锅盖，中小火焖煮2分钟，让年糕吸足汤汁、变软糯。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step3.webp"
+      },
+      {
+        "text": "【收汁加菜】：打开锅盖，放入白菜叶和葱段，开大火翻炒30秒，使菜叶断生。喜欢更软糯口感可多炒一会儿。"
+      },
+      {
+        "text": "【最后提鲜】：撒入少许鸡精，快速翻炒均匀，汤汁收至浓稠即可出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhurou_zhuniangao_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "sandwich-egg-meatfloss-001",
+    "name": "鸡蛋肉松三明治",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jidan_rousong_sanmingzhi.webp",
+    "brief": "简单快手的营养早餐，鸡蛋沙拉与咸香肉松的完美搭配，口感丰富，饱腹感强。",
+    "categoryIds": ["10", "11", "33", "2"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "ingredients": "吐司片: 2-3片\n鸡蛋: 2个\n肉松: 2汤匙\n甜玉米粒: 2汤匙 (可选)\n沙拉酱: 2汤匙",
+    "steps": [
+      {
+        "text": "【煮蛋备料】：鸡蛋煮熟（水开后煮8-10分钟），捞出放入冷水中冷却，剥去蛋壳。甜玉米粒如果是生的，需焯水煮熟后沥干；如果是即食罐头，则沥干水分即可。"
+      },
+      {
+        "text": "【制作鸡蛋沙拉】：将煮好的鸡蛋放入碗中，用勺子或叉子捣碎成小块或泥状。加入沙拉酱、肉松和玉米粒，充分搅拌均匀，成为鸡蛋肉松沙拉馅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jidan_rousong_sanmingzhi_step1.webp"
+      },
+      {
+        "text": "【铺馅组装】：取一片吐司，将调好的鸡蛋肉松沙拉均匀地铺在吐司上，用勺子背面抹平。盖上另一片吐司。如果喜欢更丰富的口感，可以做成三层（吐司-馅料-吐司-馅料-吐司）。"
+      },
+      {
+        "text": "【定型切块】：用手轻轻按压三明治，使其紧实。用刀切去四边吐司皮（可选），再沿对角线切成两个三角形或切成四个小方形。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jidan_rousong_sanmingzhi_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "kugua-paigu-tang-2026-001",
+    "name": "苦瓜排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_paigutang.webp",
+    "brief": "汤色清亮微黄，苦瓜回甘，排骨酥烂，黄豆绵软，是夏季清热解暑的经典老火汤。",
+    "categoryIds": ["3", "7", "20", "25"],
+    "difficulty": "简单",
+    "time": "1小时40分钟",
+    "badge": ["热"],
+    "ingredients": "猪排骨: 400克\n苦瓜: 1根 (约250克)\n干黄豆: 50克\n姜片: 5片\n料酒: 1汤匙\n盐: 适量",
+    "steps": [
+      {
+        "text": "【黄豆泡发】：干黄豆提前用清水浸泡2小时以上，使其充分吸水膨胀，方便炖煮软烂。"
+      },
+      {
+        "text": "【排骨焯水】：排骨斩成小块，冷水下锅，加入2片姜和料酒。大火煮沸后撇去浮沫，捞出排骨用温水冲洗干净，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_paigutang_step1.webp"
+      },
+      {
+        "text": "【处理苦瓜】：苦瓜洗净，对半切开，用勺子挖去内瓤和白膜（白膜是苦味主要来源，去得越干净苦味越轻）。切成约2厘米厚的块。"
+      },
+      {
+        "text": "【炖煮汤底】：将焯好的排骨、泡好的黄豆和剩余姜片放入砂锅，加入足量热水（约2000毫升）。大火烧开后转小火，加盖慢炖1小时。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_paigutang_step2.webp"
+      },
+      {
+        "text": "【加入苦瓜】：打开锅盖，放入切好的苦瓜块，继续小火炖煮20-30分钟，至苦瓜变软、颜色转为深绿，黄豆绵软。"
+      },
+      {
+        "text": "【调味出锅】：加入适量盐调味，搅拌均匀后即可关火盛出。此汤不宜添加过多调料，以保持原汁原味的清甜回甘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_paigutang_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "milk-mlt-20240520-001",
+    "name": "牛奶麻辣烫",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/niunai_malatang.webp",
+    "brief": "汤底浓郁丝滑，麻辣中带着奶香，涮煮各种食材，是一人食或家庭聚餐的暖心锅物。",
+    "categoryIds": ["5", "12", "26"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "badge": ["新","荐"],
+    "ingredients": "土豆: 1个 (切片)\n西兰花: 半朵 (切小朵洗净)\n火腿: 一根 (切片)\n肥牛卷: 150克 (提前焯水)\n猪瘦肉: 100克 (切片洗净)\n混合蔬菜: 适量\n河粉（或面条/粉丝）: 1份\n牛肉丸: 5-6个\n牛奶: 200毫升\n清水: 300毫升\n葱姜蒜末: 适量\n郫县豆瓣酱: 1汤匙\n火锅底料: 1小块\n食用油: 适量\n上述食材量是2个人的量，具体多少可以根据个人饭量调整，食材可以自由搭配",
+    "steps": [
+      {
+        "text": "【炒制底料】：锅中倒油烧热，放入葱姜蒜末爆香。加入郫县豆瓣酱和火锅底料，小火翻炒出红油和浓郁的香料味。"
+      },
+      {
+        "text": "【熬煮汤底】：倒入清水，大火煮开后续煮3分钟左右，让香料味道充分释放。用漏勺捞出料渣，使汤底更清澈。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niunai_malatang_step1.webp"
+      },
+      {
+        "text": "【加入牛奶】：缓缓倒入牛奶（牛奶与水的比例约为1:1.5），大火煮开，用勺子撇去表面浮沫。"
+      },
+      {
+        "text": "【下入耐煮食材】：先放入牛肉丸、土豆片、西兰花等不易熟的食材，煮到个人喜欢的软硬程度。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niunai_malatang_step2.webp"
+      },
+      {
+        "text": "【下入易熟食材】：接着放入火腿片、猪肉片、各类蔬菜等易熟食材，猪肉变色即可，蔬菜喜欢软的可以多煮会、"
+      },
+      {
+        "text": "【加入主食出锅】：待食材基本熟透后，放入河粉或面，煮至河粉变软透明、面条无硬芯，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niunai_malatang_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "yan-su-ji-001",
+    "name": "盐酥鸡",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yansuji.webp",
+    "brief": "台湾经典小吃，外酥里嫩，蒜香浓郁，搭配九层塔香气扑鼻。",
+    "categoryIds": ["13", "2", "20"],
+    "difficulty": "中等",
+    "time": "45分钟（含腌制）",
+    "badge": ["新"],
+    "ingredients": "鸡腿: 2只（去骨带皮）\n酱油: 1汤匙\n米酒: 1/2汤匙\n大蒜: 3瓣（切蒜蓉）\n姜粉（或姜片）: 1/2茶匙\n白胡椒粉: 1茶匙\n五香粉: 1茶匙\n盐: 1/2茶匙\n脆浆材料: 面粉+淀粉（比例5:1）共60g、泡打粉2g、五香粉1/2茶匙、盐1小撮、水适量\n裹粉材料: 粗颗粒红薯粉、粘米粉（可选）混合\n九层塔叶: 1把\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【鸡肉腌制】：鸡腿去骨，保留鸡皮，切成大小均匀的小块。加入酱油、米酒、蒜蓉、姜粉、白胡椒粉、五香粉和盐，抓匀腌制30分钟入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step1.webp"
+      },
+      {
+        "text": "【调制脆浆】：将面粉、淀粉、泡打粉、五香粉和盐混合，分次加入适量水，搅拌均匀至面糊呈能断续滴下的浓稠状态（不可过稀）。"
+      },
+      {
+        "text": "【上浆裹粉】：将腌好的鸡肉块与脆浆拌匀，使每块鸡肉均匀上浆。然后放入混合好的裹粉（粗颗粒红薯粉+粘米粉）中，轻轻按压，让鸡肉表面均匀沾满干粉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step2.webp"
+      },
+      {
+        "text": "【第一次炸制】：锅中倒入足量食用油，烧至六成热（约160°C，筷子插入冒小泡）。放入裹好粉的鸡块，中火炸至表面微黄、约六成熟（约2-3分钟），捞出沥油。"
+      },
+      {
+        "text": "【复炸酥脆】：将油温升至八成热（约180-200°C，油面略有油烟）。放入鸡块复炸约1分钟，至表面金黄酥脆，立即捞出沥油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step3.webp"
+      },
+      {
+        "text": "【炸九层塔】：将洗净并彻底晾干的九层塔叶放入热油中，炸约10秒至叶片卷起变脆，迅速捞出。"
+      },
+      {
+        "text": "【出锅装盘】：将炸好的盐酥鸡和九层塔叶混合拌匀，撒上少许椒盐或辣椒粉即可食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "qinghongjiao-xingbaogu-huotui-001",
+    "name": "青红椒炒杏鲍菇火腿条",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp",
+    "brief": "色彩鲜艳，口感丰富，杏鲍菇筋道似肉，搭配火腿咸香，快手家常小炒。",
+    "categoryIds": ["31", "20", "7", "2", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["热"],
+    "ingredients": "青椒: 1个 (切丝)\n红椒: 1个 (切丝)\n杏鲍菇: 2个 (切丝)\n火腿肠: 2根 (切条)\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1/2汤匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：青椒、红椒洗净去籽，切成细丝。杏鲍菇洗净，先切成薄片，再改刀成细丝。火腿肠切成与杏鲍菇粗细相当的条状。蒜瓣切成蒜末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step1.webp"
+      },
+      {
+        "text": "【煸炒杏鲍菇】：锅中烧热适量油，放入杏鲍菇丝，中火煸炒。杏鲍菇刚开始会出水，继续翻炒至水分收干、表面微黄，盛出备用。这一步能去除杏鲍菇的生涩味，并激发出其特有的鲜香。"
+      },
+      {
+        "text": "【爆香配料】：锅中留底油，放入蒜末爆香。然后加入火腿条，翻炒约1分钟，至火腿表面微焦，香味溢出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step2.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入青红椒丝炒软。接着倒入煸好的杏鲍菇丝，加入生抽、蚝油和少许盐，继续大火翻炒均匀。"
+      },
+      {
+        "text": "【出锅装盘】：所有食材翻炒均匀，入味后即可关火出锅。全程大火快炒，保持青红椒的清脆口感和鲜艳色泽。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "basque-cheesecake-001",
+    "name": "巴斯克蛋糕",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/basike_dangao.webp",
+    "brief": "起源于西班牙巴斯克地区的标志性蛋糕，表面焦黑粗犷，内芯细腻顺滑，芝士香气浓郁，入口即化。",
+    "categoryIds": ["14", "22"],
+    "difficulty": "中等",
+    "time": "50分钟 (不含冷藏)",
+    "ingredients": "奶油奶酪: 250克 (提前30分钟从冰箱取出软化)\n细砂糖: 60克\n鸡蛋: 2个\n蛋黄: 1个\n淡奶油: 120克\n玉米淀粉或低筋面粉: 10克",
+    "steps": [
+      {
+        "text": "【准备模具】：取一张大于6寸模具的油纸，铺在模具内，整理油纸使其贴合模具底部和四周，超出模具的部分可以向下折或撕掉，备用。烤箱开始预热至220°C。"
+      },
+      {
+        "text": "【软化奶酪】：奶油奶酪提前30分钟从冰箱取出、室温软化、将软化好奶油奶酪放入大碗中，用打蛋器搅拌至顺滑无颗粒的状态。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step1.webp"
+      },
+      {
+        "text": "【混合糖与奶酪】：将细砂糖加入奶酪糊中，继续用打蛋器搅拌均匀，直至糖完全融化，奶酪糊变得顺滑细腻。"
+      },
+      {
+        "text": "【分次加入蛋液】：将2个鸡蛋和1个蛋黄打散成蛋液。分少量多次地将蛋液加入奶酪糊中，每次加入后都要充分搅拌均匀，避免出现分离或结块，直到所有蛋液加完，面糊呈现顺滑状态。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step2.webp"
+      },
+      {
+        "text": "【加入淡奶油】：将淡奶油一点点地加入奶酪糊中，一边加一边不停搅拌，防止结块，直到完全混合，面糊顺滑细腻。"
+      },
+      {
+        "text": "【加入粉类】：将玉米淀粉或低筋面粉过筛后加入奶酪糊中，用打蛋器搅拌均匀，蛋糕糊即制作完成。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step3.webp"
+      },
+      {
+        "text": "【过筛入模】：将蛋糕糊过筛一遍，倒入铺好油纸的6寸活底模具中，轻轻震几下震出大气泡，用刮刀将表面刮平。"
+      },
+      {
+        "text": "【烘烤】：将模具放入预热好的烤箱中层，以220°C烘烤20-25分钟。烘烤过程中需观察表面上色情况，边缘焦黑、中心轻微晃动为最佳状态，不要烤得太焦。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step4.webp"
+      },
+      {
+        "text": "【冷却定型】：烤完后从烤箱取出，室温放凉至完全冷却。蛋糕中心会自然凹陷，这是正常现象。"
+      },
+      {
+        "text": "【冷藏享用】：将完全冷却的巴斯克蛋糕放入冰箱，冷藏过夜（至少4小时）。冷藏后口感更佳，切块即可食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "qingzheng-ouding-rouwan-001",
+    "name": "清蒸藕丁肉丸子",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/ouding_rouwan.webp",
+    "brief": "肉质鲜嫩多汁，藕丁清脆爽口，搭配西红柿酱汁，酸甜开胃，老少皆宜。",
+    "categoryIds": ["7", "20", "31", "4", "12"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "猪前腿肉: 300克 (剁成肉泥)\n莲藕: 100克 (去皮剁碎)\n胡萝卜: 半根 (剁碎)\n西红柿: 1个 (去皮切碎)\n生姜末: 适量\n葱花: 适量\n生抽: 2汤匙 (酱汁用)\n蚝油: 1汤匙 (酱汁用)\n玉米淀粉: 适量 (肉馅用)\n淀粉: 1汤匙 (酱汁用)\n盐: 适量\n清水: 半碗",
+    "steps": [
+      {
+        "text": "【前期备菜】：猪前腿肉剁成肉泥；莲藕去皮、胡萝卜洗净，分别剁成细碎末；西红柿去皮切碎备用。姜切末，葱切花。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step1.webp"
+      },
+      {
+        "text": "【调制肉馅】：将肉泥放入大碗中，加入姜末、葱花、适量盐、生抽、蚝油，朝一个方向搅拌均匀至上劲。再加入玉米淀粉和剁好的藕碎、胡萝卜碎，继续搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step2.webp"
+      },
+      {
+        "text": "【准备蒸盘】：取一个深碗或蒸盘，将胡萝卜切成薄片，均匀铺在碗底。"
+      },
+      {
+        "text": "【制作肉丸】：将调好的肉馅用手团成大小均匀的肉丸，轻轻放在胡萝卜片上。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step3.webp"
+      },
+      {
+        "text": "【蒸制】：蒸锅水烧开后，放入肉丸，大火蒸15分钟至熟透。"
+      },
+      {
+        "text": "【调制酱汁】：小碗中加入生抽2勺、蚝油1勺、淀粉1勺、清水半碗，搅拌均匀成淀粉汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_ouding_rouwan_step4.webp"
+      },
+      {
+        "text": "【炒制酱汁】：锅中放少许油，倒入西红柿碎，翻炒至软烂出汁。将调好的淀粉汁倒入锅中，小火煮至汤汁浓稠后关火（肉馅已有咸味，酱汁不需额外加盐）。"
+      },
+      {
+        "text": "【淋汁出锅】：将蒸好的肉丸取出，把煮好的西红柿酱汁均匀淋在肉丸上，撒上少许葱花点缀即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "qingjiao-xianxia-001",
+    "name": "青椒酿虾滑",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangxiahua.webp",
+    "brief": "青椒的清香微辣与虾滑的鲜甜弹牙完美结合，酱汁浓郁，是一道美味又下饭的家常菜。",
+    "categoryIds": ["7", "20", "12", "2"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "badge": ["热"],
+    "ingredients": "青椒（胖直、不太辣）: 4-5个\n虾滑: 200克\n大蒜: 6瓣\n生抽: 4汤匙（约60毫升，西瓜勺）\n蚝油: 2汤匙（约30毫升）\n白糖: 1汤匙（约15克）\n白胡椒粉: 1茶匙（约5克）\n淀粉: 1汤匙（约15克）\n清水: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：青椒洗净，切掉两头，切成约3-4厘米长的段，用筷子或小勺挖去内芯和籽。大蒜去皮切成薄片。虾滑提前解冻备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step1.webp"
+      },
+      {
+        "text": "【酿入虾滑】：将解冻好的虾滑装入裱花袋或保鲜袋中，剪一个小口。将虾滑挤入处理好的青椒段中，用筷子轻轻压实填满，两端抹平。"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，依次加入4勺生抽、2勺蚝油、1勺白糖、1勺白胡椒粉、1勺淀粉和适量清水（约100毫升），用勺子充分搅拌均匀，调成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step2.webp"
+      },
+      {
+        "text": "【煎制青椒】：平底锅倒入适量食用油，油热后下入蒜片，小火炒出香味。将酿好虾滑的青椒段放入锅中，中小火慢煎，期间用筷子翻面，煎至青椒两面出现虎皮（焦黄）且变软。"
+      },
+      {
+        "text": "【焖煮入味】：将调好的酱汁再次搅拌后均匀倒入锅中，转小火，盖上锅盖焖煮3分钟，让青椒和虾滑充分吸收酱汁的味道。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step3.webp"
+      },
+      {
+        "text": "【收汁出锅】：开盖，转大火收汁，不断翻动青椒段防止粘锅。待汤汁变得浓稠并包裹在青椒表面时，关火出锅。将锅中剩余的浓稠汤汁浇在青椒段上即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234995",
+    "name": "肉末嫩豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_nendoufu.webp",
+    "brief": "滑嫩豆腐吸饱了香菇肉末的鲜香酱汁，微辣开胃，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["4", "7", "2", "31"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "嫩豆腐: 1盒（约350克）\n猪肉末: 100克\n干香菇: 3朵（提前泡发）\n蒜末: 2瓣\n朝天椒: 1-2个\n酱油: 2汤匙\n白胡椒粉: 少许\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：干香菇用温水提前泡发至软（约20-30分钟），泡香菇的水留用。将泡软的香菇挤干水分，切成小丁。嫩豆腐从盒中取出，切成约2厘米见方的小块。蒜切末，朝天椒切圈备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step1.webp"
+      },
+      {
+        "text": "【炒制肉末】：锅中放少许食用油，烧热后下入猪肉末，中火煸炒至变色出油。加入切好的香菇丁、蒜末和朝天椒圈，继续翻炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step2.webp"
+      },
+      {
+        "text": "【加入香菇水】：加入少许盐和酱油调味，翻炒均匀。然后倒入半碗泡发香菇留下的香菇水（约100-150毫升），大火煮至烧开。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step3.webp"
+      },
+      {
+        "text": "【滑入豆腐】：将切好的嫩豆腐块轻轻滑入锅中，用勺子背面或锅铲轻轻推匀，避免用力翻动以防豆腐碎裂。加入2汤匙酱油和少许白胡椒粉调味。"
+      },
+      {
+        "text": "【烧开出锅】：转中火，不用盖锅盖，煮约3-5分钟，让豆腐充分吸收汤汁的味道。待酱汁烧开、略微收浓后，即可关火出锅。装盘后撒上少许葱花点缀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_nendoufu_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "garlic-butter-chicken-thighs-001",
+    "name": "蒜香黄油鸡腿肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/suanxiang_huangyou_jituirou.webp",
+    "brief": "鸡腿肉外酥里嫩，裹满浓郁蒜香黄油酱汁，口感丰富，是下饭或佐酒的绝佳选择。",
+    "categoryIds": [
+      "20",
+      "7",
+      "12",
+      "2"
+    ],
+    "difficulty": "中等",
+    "time": "50分钟",
+    "ingredients": "鸡腿: 2-3只 (去骨)\n姜片: 5片\n生抽: 2勺 (约30毫升，腌制用) + 1勺 (约15毫升，酱汁用)\n蚝油: 1勺 (约15毫升)\n盐: 小半勺 (约2克)\n黑胡椒: 适量\n淀粉: 适量 (裹粉用)\n黄油: 30克\n蒜末: 大量 (约一头蒜或更多)\n蜂蜜: 1勺 (约15毫升)\n食用油: 适量 (油炸用)",
+    "steps": [
+      {
+        "text": "【前期备菜与腌制】：鸡腿洗净，用刀去除骨头（或购买去骨鸡腿肉）。在肉厚的地方划几刀断筋，防止煎炸时收缩。将处理好的鸡腿肉放入碗中，加入5片姜片、2勺生抽、1勺蚝油、小半勺盐和适量黑胡椒粉，抓匀腌制30分钟，让鸡肉充分入味。"
+      },
+      {
+        "text": "【裹粉准备】：将腌制好的鸡腿肉从料汁中取出，两面均匀地裹上一层干淀粉。轻轻拍掉多余粉末，备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanxiang_huangyou_jituirou_step1.webp"
+      },
+      {
+        "text": "【油炸鸡腿】：锅中倒入足量食用油，烧至六成热（约160-180°C，筷子放入周围冒密集小泡）。放入裹好淀粉的鸡腿肉，中小火炸至两面金黄、外壳酥脆，约5-7分钟（视肉块大小调整）。捞出，沥干油分，稍微放凉后切成方便食用的小块。"
+      },
+      {
+        "text": "【制作蒜香黄油酱汁】：准备一个干净的小锅或平底锅，开小火。放入30克黄油，加热至完全融化。加入大量蒜末（建议一整头大蒜的量），小火慢慢炸香，注意不要炸焦，炸至蒜末呈金黄色、蒜香四溢时即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanxiang_huangyou_jituirou_step2.webp"
+      },
+      {
+        "text": "【调味并裹酱】：在炸好的蒜油中，加入1勺生抽和1勺蜂蜜，继续用小火加热并搅拌均匀，煮至酱汁略微冒泡、变得浓稠。"
+      },
+      {
+        "text": "【出锅装盘】：将切好的炸鸡腿块倒入酱汁锅中，快速翻拌，使每一块鸡肉都均匀地裹上浓郁的蒜香黄油酱汁。关火，出锅装盘，可撒上少许葱花或欧芹碎点缀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanxiang_huangyou_jituirou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "xia-hua-niang-kou-mo-001",
+    "name": "虾滑酿口蘑",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_koumo.webp",
+    "brief": "口蘑的鲜嫩多汁与虾滑的Q弹完美结合，每一口都是鲜美的迸发，造型精致且老少皆宜。",
+    "categoryIds": ["7", "2", "30", "12"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "badge": ["热"],
+    "ingredients": "口蘑: 12个（大小均匀）\n虾滑: 150克（成品或自制）\n胡萝卜: 1小段（约20克，切碎）\n豌豆粒: 适量（装饰用）\n生抽: 1汤匙\n蚝油: 1茶匙\n水淀粉: 1汤匙淀粉加3汤匙水\n葱花: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：口蘑洗净，用手轻轻掰去口蘑蒂（保留完整蘑菇伞状），用厨房纸吸干内部水分。胡萝卜切碎末，与虾滑混合拌匀，增加口感与色彩。"
+      },
+      {
+        "text": "【酿制虾滑】：将混合好的虾滑填入每个口蘑的凹陷处，用勺子抹平表面，顶部轻轻按压一颗豌豆粒做装饰。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step1.webp"
+      },
+      {
+        "text": "【煎制定型】：平底锅倒少量油，烧至五成热。将酿好的口蘑虾滑面朝下放入锅中，中小火煎2分钟，至虾滑表面金黄定型后翻面。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step2.webp"
+      },
+      {
+        "text": "【焖煮入味】：翻面后，沿锅边淋入生抽、蚝油和少许清水（约50毫升），盖上锅盖，中小火焖煮3-4分钟，让口蘑充分吸收汤汁并熟透。"
+      },
+      {
+        "text": "【勾芡出锅】：将口蘑盛出摆盘。锅中剩余汤汁烧开，淋入水淀粉勾薄芡，待汤汁浓稠后，均匀浇在虾滑酿口蘑上，撒上葱花即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "jiamo-shrimp-001",
+    "name": "芥末虾球",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiemo_xiaqiu.webp",
+    "brief": "外酥里嫩，芥末酱的辛辣与沙拉酱的香甜完美融合，口感层次丰富，是一道色香味俱全的西式fusion菜品。",
+    "categoryIds": ["30", "2", "12", "29"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "大虾: 300克 (去壳去虾线)\n盐: 1/2茶匙\n白胡椒粉: 1/4茶匙\n葱姜水: 1汤匙\n面粉: 2汤匙\n玉米淀粉: 2汤匙\n鸡蛋: 1个\n清水: 适量\n食用油: 适量 (用于炸制和拌面糊)\n蜂蜜芥末酱: 2汤匙\n蛋黄沙拉酱: 2汤匙\n欧芹碎: 少许 (装饰用)",
+    "steps": [
+      {
+        "text": "【处理大虾】：将大虾去壳去虾线，洗净后沥干水分。放入碗中，加入盐、白胡椒粉和葱姜水，抓拌均匀，腌制10分钟去腥入味。"
+      },
+      {
+        "text": "【调制面糊】：取一个大碗，将面粉和玉米淀粉按1:1的比例混合，加入一个鸡蛋和少许盐，分次加入清水，搅拌成均匀浓稠的面糊（以能挂在虾身上为宜）。最后加入1茶匙食用油搅拌均匀，可使炸出的外壳更酥脆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiemo_xiaqiu_step1.webp"
+      },
+      {
+        "text": "【调制酱汁】：在小碗中将蜂蜜芥末酱和蛋黄沙拉酱按1:1的比例混合，搅拌均匀成细腻顺滑的芥末沙拉酱，备用。"
+      },
+      {
+        "text": "【裹糊油炸】：锅中倒入足量食用油，烧至六成热（约160-180°C）。将腌制好的虾仁均匀裹上面糊，逐个下入油锅中，中火炸至表面微黄定型后捞出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiemo_xiaqiu_step2.webp"
+      },
+      {
+        "text": "【复炸酥脆】：将油温升高至七八成热（约200°C），放入炸过一次的虾球，快速复炸20-30秒，至表面金黄酥脆，捞出沥干油分。复炸是保持外壳长久酥脆的关键。"
+      },
+      {
+        "text": "【裹酱装盘】：将炸好的虾球放入一个大碗中，淋上调制好的芥末沙拉酱，快速翻拌均匀，使每一颗虾球都均匀裹上酱汁。装盘后撒上少许欧芹碎点缀即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiemo_xiaqiu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "c4d8e9f0-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "name": "肉末土豆盖饭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_tudou_gaifan.webp",
+    "brief": "土豆焦香软糯，肉末酱香浓郁，汤汁拌饭一绝的快手家常盖饭。",
+    "categoryIds": ["7", "2", "20", "11", "28"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "土豆: 2个（切丁）\n猪肉末: 150克\n西红柿: 1个（切丁）\n葱姜蒜: 适量\n生抽: 2汤匙\n老抽: 1/2汤匙\n盐: 适量\n鸡精: 少许\n白糖: 1/2茶匙\n清水: 适量\n食用油: 适量\n葱花: 1小把",
+    "steps": [
+      {
+        "text": "【煎土豆】：锅中倒油烧热，放入土豆丁，中火煎至表面焦黄、边缘微酥，盛出备用。"
+      },
+      {
+        "text": "【炒肉末】：锅留底油，放入猪肉末，大火炒散炒熟，至肉末变色出油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_tudou_gaifan_step1.webp"
+      },
+      {
+        "text": "【爆香调料】：在肉末中加入葱姜蒜，翻炒出香味。"
+      },
+      {
+        "text": "【炒西红柿】：放入西红柿丁，炒至软烂出汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_tudou_gaifan_step2.webp"
+      },
+      {
+        "text": "【调味炖煮】：倒入煎好的土豆丁，加入生抽、老抽、盐、鸡精、白糖，翻炒均匀。倒入适量清水，小火炖5分钟至汤汁浓郁。"
+      },
+      {
+        "text": "【出锅】：撒上一小把葱花，翻炒均匀后关火，盖在热米饭上即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_tudou_gaifan_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "fengwei-qiezi-001",
+    "name": "风味茄子",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fengwei_qiezi.webp",
+    "brief": "外酥里嫩，麻辣酸甜，口感层次丰富，是一道极具特色的下饭素菜。",
+    "categoryIds": ["31", "5", "7", "2"],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "ingredients": "长茄子: 2根\n玉米淀粉: 适量\n花椒: 1小把\n大蒜: 4瓣 (切末)\n香菜: 2根 (切段)\n白芝麻: 适量\n生抽: 1汤匙\n香醋: 1汤匙\n蚝油: 1/2汤匙\n白糖: 2汤匙\n鸡精: 1/2茶匙\n盐: 适量\n清水: 少许",
+    "steps": [
+      {
+        "text": "【处理茄子】：茄子去蒂，从中间剖开，去除内瓤（可使口感更脆）。将茄子斜着切成均匀的小段，放入清水中浸泡洗净，捞出沥干水分。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step1.webp"      
+      },
+      {
+        "text": "【多次上粉】：将沥干的茄子段放入盆中，撒入玉米淀粉，轻轻抓匀，使每块茄子都薄薄沾上一层粉。喷少许水，再次撒入玉米淀粉抓匀。重复“喷水、上粉”步骤共三次，确保淀粉牢固地包裹在茄子表面，形成酥脆的外壳。"
+      },
+      {
+        "text": "【炸制定型】：锅中倒入足量食用油，烧至六成热（约160-180°C）。将上好粉的茄子段逐个下入锅中，先不要搅动，炸至定型、外壳微黄后，再用筷子轻轻拨散，防止脱粉。继续炸至表面金黄酥脆，捞出沥油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step2.webp"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，加入生抽、香醋、蚝油、白糖（量要多，是酸甜味的关键）、鸡精和少许清水，搅拌均匀成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step3.webp"
+      },
+      {
+        "text": "【炒香底料】：锅中留少量底油，小火放入花椒，煸炒出麻辣香味。接着放入蒜末，翻炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step4.webp"
+      },
+      {
+        "text": "【熬制酱汁】：将调好的酱汁倒入锅中，转中火熬煮，不停搅拌，直至酱汁变得浓稠、冒大泡。"
+      },
+      {
+        "text": "【翻炒出锅】：迅速倒入炸好的茄子段，快速翻炒均匀，使每一块茄子都裹上浓稠的酱汁。关火前撒入香菜段和白芝麻，快速翻匀，立即出锅装盘，保持外壳酥脆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fengwei_qiezi_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "shengcai-xieliu-tudou-mu-ni-sha-la-001",
+    "name": "生菜蟹柳土豆泥沙拉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shengcai_xieliu_tudouni_shala.webp",
+    "brief": "口感丰富，绵密的土豆泥搭配鲜甜的蟹柳和爽脆的生菜，低脂健康，饱腹感强。",
+    "categoryIds": [
+      "17",
+      "9",
+      "2",
+      "31",
+      "4"
+    ],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["热"],
+    "ingredients": "鸡蛋: 1个\n土豆: 1个 (中等大小)\n胡萝卜: 半根\n生菜: 50克\n蟹柳: 3-4根\n藜麦: 20克\n油醋汁: 适量\n黑胡椒海盐: 适量",
+    "steps": [
+      {
+        "text": "【准备食材】：鸡蛋冷水下锅，水开后煮8分钟，捞出过凉水备用。土豆和胡萝卜去皮，切成大小均匀的小块。藜麦用清水淘洗干净。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step1.webp"
+      },
+      {
+        "text": "【煮熟主料】：锅中烧开水，将土豆块和胡萝卜块放入，煮约10-15分钟，直到用筷子能轻松扎透，捞出沥干。将藜麦放入沸水中，中小火煮约15分钟，直到藜麦冒出白色小圈（胚芽），捞出沥干放凉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step2.webp"
+      },
+      {
+        "text": "【混合搅拌】：将煮熟的鸡蛋、土豆和胡萝卜一同放入大碗中，用叉子或压泥器将其碾碎。蟹柳用手撕成细丝后加入碗中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step3.webp"
+      },
+      {
+        "text": "【组装沙拉】：将洗净沥干的生菜撕成适口的小块，放入装有混合泥的碗中。倒入煮好的藜麦。"
+      },
+      {
+        "text": "【调味拌匀】：淋入适量油醋汁，撒上黑胡椒海盐调味。用勺子或手（戴手套）将所有食材充分抓拌均匀，即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "lan-ren-men-fan-2025-001",
+    "name": "懒人焖饭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menfan.webp",
+    "brief": "饭菜一锅出，懒人必学。香菇腊肠咸香，米饭吸饱酱汁，粒粒分明，省时省力。",
+    "categoryIds": [
+      "7",
+      "2",
+      "28",
+      "11"
+    ],
+    "difficulty": "简单",
+    "time": "40分钟",
+    "ingredients": "大米: 200克\n干香菇: 5朵\n胡萝卜: 1根 (约100克)\n香肠: 1根 (约100克)\n豌豆: 50克\n洋葱: 半个 (约80克)\n蒜末: 3瓣 (切末)\n生抽: 3汤匙\n老抽: 1汤匙\n蚝油: 1汤匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理食材】：干香菇提前用温水泡发，泡软后切成小丁（泡香菇的水留用）。胡萝卜、香肠、洋葱分别洗净切成大小均匀的小丁。豌豆洗净沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step1.webp"
+      },
+      {
+        "text": "【炒制底料】：锅中热油，放入蒜末爆香，炒出香味后加入洋葱丁，中火翻炒至洋葱变软透明。"
+      },
+      {
+        "text": "【翻炒配菜】：加入胡萝卜丁和香肠丁，继续翻炒1-2分钟至断生，再加入豌豆翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step2.webp"
+      },
+      {
+        "text": "【调味关火】：在锅中加入3勺生抽、1勺老抽、1勺蚝油和适量盐，快速翻炒使所有食材均匀裹上酱汁，炒匀后关火备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step3.webp"
+      },
+      {
+        "text": "【入锅焖饭】：大米淘洗干净，放入电饭煲内胆中，加入平时煮饭量的清水（可用泡香菇的水替代部分清水，更添鲜味）。将炒好的所有配菜均匀铺在米上，不需搅拌。"
+      },
+      {
+        "text": "【一键煮饭】：盖上电饭煲盖子，按下正常煮饭键。待程序结束后，打开锅盖，用饭勺将饭菜搅拌均匀，即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/lanren_menfan_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234888",
+    "name": "爆炒鱿鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_youyu.webp",
+    "brief": "口感脆嫩爽滑，火候恰到好处，搭配青红椒爆炒，咸鲜微辣，是一道经典的家常海鲜快手菜。",
+    "categoryIds": ["30", "7", "2", "12"],
+    "difficulty": "中等",
+    "time": "20分钟",
+    "ingredients": "新鲜鱿鱼: 2条 (约400克)\n青椒: 1个 (切块，可选)\n红椒: 1个 (切块，可选)\n洋葱: 1/4个 (切块)\n姜片: 3片\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【撕皮处理】：将新鲜的鱿鱼放入清水中洗净。用手揪住鱿鱼头部，将内脏和软骨一起拉出。用手撕掉鱿鱼背面（较宽的那一面）那层带紫色或黑色斑点的薄膜（鱿鱼皮），这一层皮腥味较重，撕掉后口感更洁白脆嫩。将鱿鱼头部的眼睛和嘴部的硬喙（鹦鹉嘴）挤掉，洗净沥干。"
+      },
+      {
+        "text": "【切刀花改刀】：将鱿鱼身沿着中线摊开铺平。在其内壁（撕皮后的那一面，光滑面朝上）斜刀45度切出平行条纹，深度约为鱿鱼肉厚的三分之二，注意不要切断。然后将鱿鱼旋转90度，同样地用斜刀切出平行的条纹，与之前的条纹交叉形成菱形网格（即十字花刀）。最后将打好花刀的鱿鱼切成约4-5厘米见方的块。鱿鱼须切段备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step1.webp"
+      },
+      {
+        "text": "【焯水定型】：锅中烧开水，放入姜片和1汤匙料酒。水开后，倒入切好的鱿鱼块。鱿鱼遇到热水会迅速卷曲成漂亮的麦穗状或鱿鱼卷。焯烫约20-30秒，鱿鱼卷颜色变白后立刻捞出，沥干水分备用。注意不要焯烫过久，否则口感会变老变硬。"
+      },
+      {
+        "text": "【爆香快炒】：热锅倒入适量食用油，油热后放入姜片、蒜末和洋葱块，大火爆香。接着放入青椒块和红椒块，快速翻炒约30秒至断生。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step2.webp"
+      },
+      {
+        "text": "【调味勾芡】：倒入焯好水的鱿鱼卷，加入生抽、蚝油、少许白糖和适量盐。大火快速翻炒均匀，让所有食材都裹上酱汁。如果想要汤汁更浓郁，可以淋入少许水淀粉（1茶匙淀粉加2汤匙水）勾薄芡，大火翻炒几下即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "a2b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
+    "name": "香酥曲奇",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_quqi.webp",
+    "brief": "奶香浓郁，酥松掉渣，入口即化的经典黄油曲奇。",
+    "categoryIds": ["14", "22"],
+    "difficulty": "中等",
+    "time": "30分钟",
+    "ingredients": "无盐黄油: 200克 (室温软化)\n糖粉: 65克\n细砂糖: 20克\n盐: 1克\n牛奶: 30克 (室温)\n低筋面粉: 150克\n杏仁粉: 40克",
+    "steps": [
+      {
+        "text": "【黄油打发】：将室温软化的无盐黄油放入打蛋盆中，用电动打蛋器低速打散。加入糖粉、细砂糖和盐，中高速打发至黄油颜色变浅、体积蓬松如羽毛状。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_quqi_step1.webp"
+      },
+      {
+        "text": "【加入液体】：分两次加入室温牛奶，每次加入后都用打蛋器搅打均匀，使牛奶与黄油完全融合，形成顺滑的膏状。"
+      },
+      {
+        "text": "【混合粉类】：将低筋面粉和杏仁粉混合，过筛加入打发好的黄油中。用刮刀以切拌和翻拌的手法混合至无干粉状态，不要过度搅拌，以免面粉起筋影响酥脆口感。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_quqi_step2.webp"
+      },
+      {
+        "text": "【裱花成型】：将面糊装入带有8齿菊花嘴的裱花袋中。在铺有油纸的烤盘上，垂直向上约1厘米高度，匀速挤出贴合烤盘的花型曲奇，每个曲奇之间留出适当间隙。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_quqi_step3.webp"
+      },
+      {
+        "text": "【烘烤】：将挤好的曲奇连同烤盘放入冰箱冷藏20分钟（有助于花纹定型）。烤箱需提前预热至160°C（上下火）。取出冷藏好的曲奇，放入预热好的烤箱中层，烘烤20-25分钟，直至曲奇边缘呈均匀的金黄色。"
+      },
+      {
+        "text": "【冷却】：烤好后立即取出，将曲奇连带油纸移至晾网架上彻底放凉。曲奇刚出炉时是软的，完全冷却后会变得非常酥脆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_quqi_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "a8f2e9b1-7c4d-4e5a-9b8c-f12345678999",
+    "name": "西红柿鸡蛋面",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_jidanmian.webp",
+    "brief": "酸甜开胃，汤汁浓郁，面条劲道，是一碗国民级的快手早餐或暖心面食。",
+    "categoryIds": ["7", "2", "12", "28"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "面条（鲜面或挂面）: 200克\n鸡蛋: 3个\n西红柿: 2个（中等大小）\n葱花: 适量\n蒜末: 2瓣\n番茄酱: 1汤匙（可选，增色提味）\n生抽: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜】：西红柿洗净，顶部划十字刀，用开水烫一下去皮，切成小丁。鸡蛋打入碗中，加少许盐打散备用。葱切葱花，蒜切末。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step1.webp"
+      },
+      {
+        "text": "【炒蛋】：热锅倒油，油温五成热时倒入蛋液，快速划散，炒至鸡蛋八成熟（金黄蓬松）后盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step2.webp"
+      },
+      {
+        "text": "【炒番茄底料】：锅中留底油，放入蒜末爆香，倒入西红柿丁，中大火翻炒至西红柿变软出汁。用铲子按压西红柿，使其更容易软烂。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step3.webp"
+      },
+      {
+        "text": "【调味】：加入番茄酱（可选）翻炒均匀，倒入生抽、白糖和适量盐调味，继续翻炒成浓郁的番茄酱汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step4.webp"
+      },
+      {
+        "text": "【合煮】：倒入炒好的鸡蛋，快速翻炒均匀，让鸡蛋裹满番茄汁。加入适量热水（约300-400毫升），大火煮开，转小火煮2分钟，让汤汁更浓郁，关火撒上大部分葱花。"
+      },
+      {
+        "text": "【煮面】：另起一锅，水烧开后下入面条，煮至面条无硬芯，捞出过凉水（或直接沥干）放入碗中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step5.webp"
+      },
+      {
+        "text": "【装碗】：将煮好的西红柿鸡蛋卤浇在面条上，撒上剩余的葱花，拌匀即可享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step6.webp"
+      }
+    ]
+  },
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "四色牛肉拼饭",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/niurou_pinfan.webp",
+    "brief": "低脂高蛋白的减脂拼饭，牛肉嫩滑，圆白菜脆爽，鸡蛋丝增香，营养均衡。",
+    "categoryIds": ["17", "2", "11", "20"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "牛里脊肉: 150克\n圆白菜: 100克\n鸡蛋: 2个\n生抽: 1汤匙\n淀粉: 1茶匙\n黑胡椒海盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "牛肉切粒，加入生抽、淀粉、黑胡椒海盐和少许油，抓匀腌制15分钟。圆白菜切丝洗净",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurou_pinfan_step1.webp"
+      
+      },
+      {
+        "text": "锅中少油，大火烧热，放入腌好的牛肉粒快速翻炒至刚熟，盛出备用。"
+      },
+      {
+        "text": "锅中再放少油，放入圆白菜丝翻炒至变软，加适量黑胡椒海盐调味，盛出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurou_pinfan_step2.webp"
+      },
+      {
+        "text": "碗中打入鸡蛋，加少许盐打散，锅中少油煎熟成蛋饼，取出切丝。"
+      },
+      {
+        "text": "将米饭(减脂可换成糙米饭)盛入碗中，依次铺上炒好的牛肉粒、圆白菜丝和蛋丝，即可享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurou_pinfan_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "e4a1b2c3-d4e5-4f6g-7h8i-9j0k1l2m3n4o",
+    "name": "时蔬卷",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shishujuan.webp",
+    "brief": "清新爽口的蔬菜卷，外皮软韧，内馅鲜美，低脂健康，适合早餐或轻食。",
+    "categoryIds": ["4", "2", "7", "10", "31","17"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "胡萝卜: 1根\n西葫芦: 1根\n干木耳: 10克（泡发）\n鸡蛋: 2个\n馄饨皮: 15-20张\n盐: 适量\n白胡椒粉: 少许\n香油: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜腌水】：胡萝卜、西葫芦洗净擦成细丝，放入碗中加1勺盐抓匀，腌制10分钟杀出水分。木耳提前用温水泡发，洗净后切成细丝。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shishujuan_step1.webp"
+      },
+      {
+        "text": "【炒制蛋碎】：鸡蛋打散，锅中倒少许油烧热，倒入蛋液快速划散炒熟，用铲子切碎成小粒，盛出备用。"
+      },
+      {
+        "text": "【挤干拌馅】：将腌好的胡萝卜西葫芦丝用纱布或手用力挤干多余水分，放入大碗。加入木耳丝、鸡蛋碎，调入少许盐、白胡椒粉和香油，充分搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shishujuan_step2.webp"
+      },
+      {
+        "text": "【包卷成型】：取一张馄饨皮，放上适量馅料（约1汤匙），从一端卷起，两边向内折收口，末端抹少许水封口，卷成紧实的长条卷。依次做好所有时蔬卷。"
+      },
+      {
+        "text": "【蒸制出锅】：蒸笼铺上油纸或刷薄油，码入时蔬卷，水开后上锅，大火蒸8-10分钟即可。可直接食用，或搭配香醋、辣椒油蘸食。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shishujuan_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "a3b4c5d6-e7f8-4a9b-8c0d-1e2f3a4b5c6d",
+    "name": "小炒牛肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_niurou.webp",
+    "brief": "牛肉滑嫩，香辣开胃，是一道经典快捷的下饭菜。",
+    "categoryIds": ["20", "7", "5", "2", "11", "12"],
+    "difficulty": "中等",
+    "time": "20分钟",
+    "ingredients": "牛里脊肉: 250克\n青尖椒: 3个\n红小米辣: 5个\n姜: 1小块\n大蒜: 4瓣\n香菜: 2根\n生抽: 2汤匙\n老抽: 1/2茶匙\n蚝油: 1汤匙\n料酒: 1汤匙\n淀粉: 1茶匙\n白胡椒粉: 1/2茶匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【牛肉处理】：牛里脊肉洗净，逆着纹理切成薄片。加入1汤匙生抽、1/2汤匙料酒、1茶匙淀粉、1/2茶匙白胡椒粉和1汤匙食用油，抓匀腌制10分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step1.webp"
+      },
+      {
+        "text": "【备菜切配】：青尖椒和红小米辣洗净切圈，姜切丝，大蒜切片，香菜切段。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step2.webp"
+      },
+      {
+        "text": "【滑炒牛肉】：热锅倒入足量油，烧至六成热（约160°C），下入腌好的牛肉片，快速滑炒30秒至变色断生，盛出备用。"
+      },
+      {
+        "text": "【爆香配料】：锅中留底油，放入姜丝、蒜片和青红辣椒圈，大火爆香约30秒。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step3.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入滑好的牛肉，加入1汤匙生抽、1汤匙蚝油和1/2茶匙老抽，大火快速翻炒均匀。"
+      },
+      {
+        "text": "【出锅装盘】：撒入香菜段，尝味后可补少许盐，快速翻炒几下即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_niurou_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-4a7b-8c9d-1e1f2a3b4c5d",
+    "name": "丝瓜炒虾仁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sigua_chaoxiaren.webp",
+    "brief": "清淡鲜嫩，丝瓜翠绿爽滑，虾仁Q弹鲜美，是一道快手健康的家常菜。",
+    "categoryIds": ["31", "30", "7", "2"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "丝瓜: 1根（约300克）\n鲜虾仁: 200克\n大蒜: 3瓣（切片）\n姜丝: 少许\n盐: 适量\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理虾仁】：鲜虾去头去壳，挑出虾线，洗净沥干。加入少许盐、料酒、白胡椒粉和淀粉抓匀，腌制10分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sigua_chaoxiaren_step1.webp"
+      },
+      {
+        "text": "【处理丝瓜】：丝瓜去皮，切成滚刀块或厚片。切好后可放入淡盐水中浸泡防止氧化变黑。"
+      },
+      {
+        "text": "【滑炒虾仁】：锅中倒入适量油，烧至六成热，放入腌好的虾仁快速滑炒至变色卷曲，盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sigua_chaoxiaren_step2.webp"
+      },
+      {
+        "text": "【炒制丝瓜】：锅中留底油，放入蒜片和姜丝爆香，倒入丝瓜块大火快速翻炒，炒至丝瓜变软出水。"
+      },
+      {
+        "text": "【合炒调味】：加入滑炒好的虾仁，继续翻炒均匀。加入适量盐调味，快速翻炒几下即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sigua_chaoxiaren_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e6f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "name": "低脂土豆泥",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudouni.webp",
+    "brief": "绵密顺滑，奶香浓郁，低卡饱腹的健康主食替代。",
+    "categoryIds": ["17", "4", "21"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["荐"],
+    "ingredients": "土豆: 300克\n脱脂牛奶: 50毫升\n无糖酸奶: 20克\n盐: 1/2茶匙\n黑胡椒粉: 少量\n葱花: 少量 (点缀)",
+    "steps": [
+      {
+        "text": "【土豆蒸熟】：土豆去皮洗净，切成均匀的厚片，放入蒸锅大火蒸15-20分钟，用筷子能轻松扎透即可。"
+      },
+      {
+        "text": "【压成泥状】：将蒸熟的土豆片趁热放入大碗中，用压泥器或勺子反复碾压成细腻的泥状，尽量无颗粒。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudouni_step1.webp"
+      },
+      {
+        "text": "【调制奶液】：将脱脂牛奶用微波炉或小火加热至温热（约40°C），分次加入土豆泥中，边加边顺一个方向搅拌，让牛奶充分吸收。"
+      },
+      {
+        "text": "【调味增滑】：加入无糖酸奶（增加顺滑感）、盐和黑胡椒粉，继续搅拌均匀至绵密顺滑。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudouni_step2.webp"
+      },
+      {
+        "text": "【装盘点缀】：将土豆泥盛入碗中，用勺子背面抹平，撒上少许葱花或额外黑胡椒粉即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudouni_step3.webp"
+      }
+    ]
+  }
+]
