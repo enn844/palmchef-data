@@ -25,15 +25,16 @@
     "iconSrc": "app.media.ic_summer_seasonal"
   },
   {
-    "id": "13",
-    "name": "地方小吃",
-    "iconSrc": "app.media.ic_local_snack"
-  },
-  {
     "id": "14",
     "name": "甜品",
     "iconSrc": "app.media.ic_dessert"
   },
+  {
+    "id": "13",
+    "name": "地方小吃",
+    "iconSrc": "app.media.ic_local_snack"
+  },
+
   {
     "id": "20",
     "name": "肉类",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "cheese-ham-toast-001",
+    "name": "芝士火腿葱香岩烧吐司",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhishi_huotui_tusi.webp",
+    "brief": "外酥里嫩，奶香浓郁，芝士与火腿的完美融合，搭配肉松和香葱，口感丰富，快手早餐首选。",
+    "categoryIds": ["10", "2", "22"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "吐司片: 3-4片\n芝士片: 2-3片\n黄油: 20克\n鸡蛋: 1个\n火腿丁: 30克\n肉松: 20克\n小葱: 1根 (切葱花)\n白芝麻: 适量\n沙拉酱: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：将火腿切成小丁，小葱洗净切成葱花备用。取一片吐司，在表面均匀涂抹一层薄薄的沙拉酱，然后撒上一层肉松，稍微按压使其贴合。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step1.webp"
+      },
+      {
+        "text": "【制作芝士酱】：取一个小锅或平底锅，放入芝士片和黄油，开最小火加热，不断搅拌直至两者完全融化，形成顺滑的液体。关火后放置一旁，稍微冷却至不烫手的温度。"
+      },
+      {
+        "text": "【混合酱料】：将鸡蛋打入碗中打散，将冷却好的芝士黄油液缓缓倒入蛋液中，边倒边迅速搅拌均匀。然后加入切好的火腿丁，继续搅拌均匀，制成岩烧酱汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step2.webp"
+      },
+      {
+        "text": "【涂抹酱汁】：将准备好的吐司片放在烤盘上（铺油纸）。用勺子将调好的芝士火腿酱汁均匀地涂抹在吐司表面，边缘也要涂到，厚度尽量均匀。"
+      },
+      {
+        "text": "【撒料烘烤】：在涂抹好酱汁的吐司表面撒上适量的葱花和白芝麻。将烤盘放入预热好的烤箱中层，以180°C烘烤约15分钟，直到吐司表面呈现出诱人的金黄色，酱汁鼓起小泡即可出炉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
     "name": "葱香焖鸡",
     "imageSrc": "https://shiyuji.xyz/img/recipes/congxiang_menji.webp",
