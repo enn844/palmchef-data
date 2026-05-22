@@ -25,6 +25,16 @@
     "iconSrc": "app.media.ic_summer_seasonal"
   },
   {
+    "id": "13",
+    "name": "地方小吃",
+    "iconSrc": "app.media.ic_local_snack"
+  },
+  {
+    "id": "14",
+    "name": "甜品",
+    "iconSrc": "app.media.ic_dessert"
+  },
+  {
     "id": "20",
     "name": "肉类",
     "iconSrc": "app.media.ic_meat"
@@ -84,16 +94,7 @@
     "name": "鲁菜",
     "iconSrc": "app.media.ic_shandong_cuisine"
   },
-  {
-    "id": "13",
-    "name": "地方小吃",
-    "iconSrc": "app.media.ic_local_snack"
-  },
-  {
-    "id": "14",
-    "name": "甜品",
-    "iconSrc": "app.media.ic_dessert"
-  },
+
   {
     "id": "22",
     "name": "奶制品",
