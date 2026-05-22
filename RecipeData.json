@@ -1,5 +1,39 @@
 [
   {
+    "id": "f8e2d1c3-5b6a-4e9d-8c2f-1a3b5c7d9e0f",
+    "name": "香煎猪排",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangjian_zhupai.webp",
+    "brief": "外焦里嫩，黑椒咸香，梅头肉煎制后肉汁丰盈，简单快手的家常肉菜。",
+    "categoryIds": ["7", "2", "20"],
+    "difficulty": "简单",
+    "time": "25分钟（不含腌制时间）",
+    "ingredients": "梅头肉: 1000克（2斤，去肥肉切片）\n生抽: 5-6汤匙\n蚝油: 1汤匙\n老抽: 适量\n白糖: 适量\n黑胡椒: 适量\n玉米淀粉: 适量\n食用油: 适量（锁水用，另备煎制用油）",
+    "steps": [
+      {
+        "text": "【前期备菜】：将两斤梅头肉去掉肥肉，切成薄片。用刀背面将每块肉轻轻剁一下，使肉质更松软，便于入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step1.webp"
+      },
+      {
+        "text": "【腌制肉片】：将切好的梅头肉放入大碗中，加入5-6汤匙生抽、1汤匙蚝油、适量老抽上色、适量白糖提鲜、适量黑胡椒增香，再加入适量玉米淀粉，用手抓匀，使每片肉都裹上腌料。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step2.webp"
+      },
+      {
+        "text": "【加水锁水】：分次加入适量水，边加边抓拌，让肉片吸收水分。最后淋入一些食用油，拌匀锁住水分，腌制四五个小时（可提前一晚冷藏腌制）。"
+      },
+      {
+        "text": "【煎制猪排】：锅中淋少许油，加热后放入腌制好的梅头肉片，中小火慢煎。煎至一面金黄后翻面，直到两面都煎到有点焦黄、肉八九分熟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step3.webp"
+      },
+      {
+        "text": "【加水收汁】：在锅中加入少量水，盖上锅盖焖煎片刻，开盖后翻面，继续煎至水分收干、表面微焦即可出锅。"
+      },
+      {
+        "text": "【切条装盘】：将煎好的猪排切成条状，摆盘即可上桌享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "cook-ricecake-001",
     "name": "猪肉煮年糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhurou_zhuniangao.webp",
