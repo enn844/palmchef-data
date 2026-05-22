@@ -6,6 +6,7 @@
   "recipeDataUrl": "",
   "categoryDataUrl": "",
   "articleDataUrl": "",
+  "homeRecipeDataUrl": "",
   "baseUrl": "",
   "imageBaseUrl": "",
   "appUpdateUrl": "https://appgallery.huawei.com/app/detail?id=com.zhaoyingzhou.shiyuji",
