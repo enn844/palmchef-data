@@ -3,15 +3,18 @@
   "cards": [
     {
       "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234607",
-      "recipeName": "可乐鸡翅"
+      "recipeName": "可乐鸡翅",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp"
     },
     {
       "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234997",
-      "recipeName": "猪油炒圆白菜"
+      "recipeName": "猪油炒圆白菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/zhuyou_chaoyuanbaicai.webp"
     },
     {
       "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234628",
-      "recipeName": "白米饭"
+      "recipeName": "白米饭",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/mifan.webp"
     }
   ]
 }
