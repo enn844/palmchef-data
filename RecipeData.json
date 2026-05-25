@@ -35,6 +35,35 @@
     ]
   },
   {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234632",
+    "name": "三文鱼牛油果泥",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sanwenyu_niuyouguoni.webp",
+    "brief": "富含优质蛋白质和DHA，口感软糯，适合添加辅食初期的婴儿。",
+    "categoryIds": [
+      "33"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜三文鱼: 50克 (去皮去刺)\n牛油果: 1/4个 (成熟)\n配方奶或温水: 适量 (调节稠度)",
+    "steps": [
+      
+      {
+        "text":"【处理三文鱼】：三文鱼去皮去刺，切小块。放入蒸锅中，大火蒸8-10分钟，确保完全蒸熟。"
+      },
+      {
+        "text":"【处理牛油果】：牛油果去皮去核。用勺子将牛油果肉取出，压成细腻的泥状。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/sanwenyu_niuyouguoni_step1.webp"
+      },
+      {
+        "text":"【混合】：将蒸熟的三文鱼取出，用勺子或辅食机碾成细腻的泥状，确保没有鱼刺和硬块。"
+      },
+      {
+        "text":"【调稠】：将三文鱼泥和牛油果泥混合均匀。根据宝宝的月龄和吞咽能力，加入适量配方奶或温水，搅拌至合适的稠度即可喂食。",
+        "imageSrc":"https://shiyuji.xyz/img/steps/sanwenyu_niuyouguoni_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "j9o6n5m4-m4n5-6e7f-g8h9-i0j1k2l3m4n5",
     "name": "酸菜白肉炖粉条",
     "imageSrc":"https://shiyuji.xyz/img/recipes/suancai_bairou_dunfentiao.webp",
@@ -48,7 +77,6 @@
     "time": "1小时30分钟",
     "ingredients": "带皮五花肉 500克\n酸菜 500克\n干红薯粉条 100克\n葱姜、八角 适量\n高汤或水 适量\n盐 适量",
     "steps": [
-      
       {
         "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
@@ -135,71 +163,37 @@
     ]
   },
   {
-    "id": "d81e1a81-1736-4074-a0e4-b7b251234888",
-    "name": "豆沙包",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/doushabao.webp",
-    "brief": "松软白嫩的面皮包裹着细腻绵密的红豆沙，甜而不腻，是经典的传统中式点心。",
-    "categoryIds": ["28", "10", "14", "7"],
+    "id": "xia-hua-niang-kou-mo-001",
+    "name": "虾滑酿口蘑",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_koumo.webp",
+    "brief": "口蘑的鲜嫩多汁与虾滑的Q弹完美结合，每一口都是鲜美的迸发，造型精致且老少皆宜。",
+    "categoryIds": ["7", "2", "30", "12"],
     "difficulty": "中等",
-    "time": "2小时",
-    "badge": ["新"],
-    "ingredients": "中筋面粉: 300克\n温水: 150毫升 (约35-40°C)\n干酵母: 3克\n白糖: 20克 (和面用)\n红豆沙: 300克 (市售或自制)\n食用油: 5克",
+    "time": "25分钟",
+    "badge": ["热"],
+    "ingredients": "口蘑: 12个（大小均匀）\n虾滑: 150克（成品或自制）\n胡萝卜: 1小段（约20克，切碎）\n豌豆粒: 适量（装饰用）\n生抽: 1汤匙\n蚝油: 1茶匙\n水淀粉: 1汤匙淀粉加3汤匙水\n葱花: 适量\n食用油: 适量",
     "steps": [
       {
-        "text": "【和面】：将中筋面粉、白糖、干酵母混合均匀。分次加入温水，边加边用筷子搅拌成絮状。加入食用油，然后用手揉成一个光滑、不粘手的面团。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step1.webp"
+        "text": "【前期备菜】：口蘑洗净，用手轻轻掰去口蘑蒂（保留完整蘑菇伞状），用厨房纸吸干内部水分。胡萝卜切碎末，与虾滑混合拌匀，增加口感与色彩。"
       },
       {
-        "text": "【一次发酵】：将面团放入盆中，盖上保鲜膜或湿布，放在温暖处（约28-30°C）发酵至两倍大（约1小时）。手指蘸面粉戳洞不回缩即为发酵完成。"
+        "text": "【酿制虾滑】：将混合好的虾滑填入每个口蘑的凹陷处，用勺子抹平表面，顶部轻轻按压一颗豌豆粒做装饰。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step1.webp"
       },
       {
-        "text": "【排气分剂】：将发酵好的面团取出，放在撒了薄粉的案板上，用力揉压排气，直至面团恢复至原来的大小。将面团搓成长条，切成大小均匀的剂子（每个约40克）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step2.webp"
+        "text": "【煎制定型】：平底锅倒少量油，烧至五成热。将酿好的口蘑虾滑面朝下放入锅中，中小火煎2分钟，至虾滑表面金黄定型后翻面。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step2.webp"
       },
       {
-        "text": "【包入豆沙】：将剂子擀成中间厚、边缘薄的圆形面皮。取一份豆沙（约30克）搓圆，放在面皮中央。用虎口将面皮向上收拢，捏紧收口，收口朝下搓圆整形。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step3.webp"
+        "text": "【焖煮入味】：翻面后，沿锅边淋入生抽、蚝油和少许清水（约50毫升），盖上锅盖，中小火焖煮3-4分钟，让口蘑充分吸收汤汁并熟透。"
       },
       {
-        "text": "【二次醒发】：将包好的豆沙包放入蒸屉（底部垫油纸或刷油防粘），盖上盖子，进行二次醒发15-20分钟。醒发至豆沙包体积明显变大，手感轻盈。"
-      },
-      {
-        "text": "【蒸制】：蒸锅中加足量水，大火烧开。将蒸屉放入，转中大火蒸12-15分钟。关火后不要立即开盖，焖3-5分钟再缓缓揭盖，防止豆沙包塌陷回缩。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step4.webp"
+        "text": "【勾芡出锅】：将口蘑盛出摆盘。锅中剩余汤汁烧开，淋入水淀粉勾薄芡，待汤汁浓稠后，均匀浇在虾滑酿口蘑上，撒上葱花即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step3.webp"
       }
     ]
   },
-  {
-    "id": "dousha-001",
-    "name": "经典豆沙馅",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/doushaxian.webp",
-    "brief": "香甜绵密，口感顺滑，适合做包子、月饼、青团、面包等中式点心的百搭馅料。",
-    "categoryIds": ["14", "7", "28"],
-    "difficulty": "中等",
-    "time": "1小时30分钟",
-    "badge": ["新"],
-    "ingredients": "红豆: 300克\n冰糖/红糖: 120克 (根据甜度调整)\n猪油/玉米油: 80克\n清水: 适量",
-    "steps": [
-      {
-        "text": "【浸泡红豆】：红豆洗净，用清水浸泡至少4小时（或过夜），使豆子充分吸水膨胀，便于煮烂。"
-      },
-      {
-        "text": "【煮制豆沙】：将泡好的红豆放入锅中，加入足量清水（约高出红豆2指），大火烧开后转小火慢煮1小时，直到红豆软烂、用手一捏即碎。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step1.webp"
-      },
-      {
-        "text": "【打碎过筛】：将煮好的红豆连同少量汤汁分次放入料理机中打成细腻的豆泥。若追求极致顺滑，可用细筛网过滤掉豆皮。"
-      },
-      {
-        "text": "【炒制豆沙】：将豆泥倒入不粘锅中，加入冰糖和猪油（或玉米油），开中小火不断翻炒。炒制过程中豆沙会逐渐变浓稠、颜色加深。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step2.webp"
-      },
-      {
-        "text": "【收干出锅】：炒至豆沙成团、不粘锅底、表面油亮且能抱团时即可关火。盛出放凉后使用或密封冷藏保存。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step3.webp"
-      }
-    ]
-  },
+
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234999",
     "name": "葱香焖鸡",
@@ -623,37 +617,6 @@
       {
         "text": "【出锅装盘】：将切好的炸鸡腿块倒入酱汁锅中，快速翻拌，使每一块鸡肉都均匀地裹上浓郁的蒜香黄油酱汁。关火，出锅装盘，可撒上少许葱花或欧芹碎点缀。",
         "imageSrc": "https://shiyuji.xyz/img/steps/suanxiang_huangyou_jituirou_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "xia-hua-niang-kou-mo-001",
-    "name": "虾滑酿口蘑",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_koumo.webp",
-    "brief": "口蘑的鲜嫩多汁与虾滑的Q弹完美结合，每一口都是鲜美的迸发，造型精致且老少皆宜。",
-    "categoryIds": ["7", "2", "30", "12"],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "badge": ["热"],
-    "ingredients": "口蘑: 12个（大小均匀）\n虾滑: 150克（成品或自制）\n胡萝卜: 1小段（约20克，切碎）\n豌豆粒: 适量（装饰用）\n生抽: 1汤匙\n蚝油: 1茶匙\n水淀粉: 1汤匙淀粉加3汤匙水\n葱花: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【前期备菜】：口蘑洗净，用手轻轻掰去口蘑蒂（保留完整蘑菇伞状），用厨房纸吸干内部水分。胡萝卜切碎末，与虾滑混合拌匀，增加口感与色彩。"
-      },
-      {
-        "text": "【酿制虾滑】：将混合好的虾滑填入每个口蘑的凹陷处，用勺子抹平表面，顶部轻轻按压一颗豌豆粒做装饰。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step1.webp"
-      },
-      {
-        "text": "【煎制定型】：平底锅倒少量油，烧至五成热。将酿好的口蘑虾滑面朝下放入锅中，中小火煎2分钟，至虾滑表面金黄定型后翻面。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step2.webp"
-      },
-      {
-        "text": "【焖煮入味】：翻面后，沿锅边淋入生抽、蚝油和少许清水（约50毫升），盖上锅盖，中小火焖煮3-4分钟，让口蘑充分吸收汤汁并熟透。"
-      },
-      {
-        "text": "【勾芡出锅】：将口蘑盛出摆盘。锅中剩余汤汁烧开，淋入水淀粉勾薄芡，待汤汁浓稠后，均匀浇在虾滑酿口蘑上，撒上葱花即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step3.webp"
       }
     ]
   },
@@ -8567,7 +8530,72 @@
       }
     ]
   },
-
+  {
+    "id": "d81e1a81-1736-4074-a0e4-b7b251234888",
+    "name": "豆沙包",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/doushabao.webp",
+    "brief": "松软白嫩的面皮包裹着细腻绵密的红豆沙，甜而不腻，是经典的传统中式点心。",
+    "categoryIds": ["28", "10", "14", "7"],
+    "difficulty": "中等",
+    "time": "2小时",
+    "badge": ["新"],
+    "ingredients": "中筋面粉: 300克\n温水: 150毫升 (约35-40°C)\n干酵母: 3克\n白糖: 20克 (和面用)\n红豆沙: 300克 (市售或自制)\n食用油: 5克",
+    "steps": [
+      {
+        "text": "【和面】：将中筋面粉、白糖、干酵母混合均匀。分次加入温水，边加边用筷子搅拌成絮状。加入食用油，然后用手揉成一个光滑、不粘手的面团。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step1.webp"
+      },
+      {
+        "text": "【一次发酵】：将面团放入盆中，盖上保鲜膜或湿布，放在温暖处（约28-30°C）发酵至两倍大（约1小时）。手指蘸面粉戳洞不回缩即为发酵完成。"
+      },
+      {
+        "text": "【排气分剂】：将发酵好的面团取出，放在撒了薄粉的案板上，用力揉压排气，直至面团恢复至原来的大小。将面团搓成长条，切成大小均匀的剂子（每个约40克）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step2.webp"
+      },
+      {
+        "text": "【包入豆沙】：将剂子擀成中间厚、边缘薄的圆形面皮。取一份豆沙（约30克）搓圆，放在面皮中央。用虎口将面皮向上收拢，捏紧收口，收口朝下搓圆整形。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step3.webp"
+      },
+      {
+        "text": "【二次醒发】：将包好的豆沙包放入蒸屉（底部垫油纸或刷油防粘），盖上盖子，进行二次醒发15-20分钟。醒发至豆沙包体积明显变大，手感轻盈。"
+      },
+      {
+        "text": "【蒸制】：蒸锅中加足量水，大火烧开。将蒸屉放入，转中大火蒸12-15分钟。关火后不要立即开盖，焖3-5分钟再缓缓揭盖，防止豆沙包塌陷回缩。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushabao_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "dousha-001",
+    "name": "经典豆沙馅",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/doushaxian.webp",
+    "brief": "香甜绵密，口感顺滑，适合做包子、月饼、青团、面包等中式点心的百搭馅料。",
+    "categoryIds": ["14", "7", "28"],
+    "difficulty": "中等",
+    "time": "1小时30分钟",
+    "badge": ["新"],
+    "ingredients": "红豆: 300克\n冰糖/红糖: 120克 (根据甜度调整)\n猪油/玉米油: 80克\n清水: 适量",
+    "steps": [
+      {
+        "text": "【浸泡红豆】：红豆洗净，用清水浸泡至少4小时（或过夜），使豆子充分吸水膨胀，便于煮烂。"
+      },
+      {
+        "text": "【煮制豆沙】：将泡好的红豆放入锅中，加入足量清水（约高出红豆2指），大火烧开后转小火慢煮1小时，直到红豆软烂、用手一捏即碎。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step1.webp"
+      },
+      {
+        "text": "【打碎过筛】：将煮好的红豆连同少量汤汁分次放入料理机中打成细腻的豆泥。若追求极致顺滑，可用细筛网过滤掉豆皮。"
+      },
+      {
+        "text": "【炒制豆沙】：将豆泥倒入不粘锅中，加入冰糖和猪油（或玉米油），开中小火不断翻炒。炒制过程中豆沙会逐渐变浓稠、颜色加深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step2.webp"
+      },
+      {
+        "text": "【收干出锅】：炒至豆沙成团、不粘锅底、表面油亮且能抱团时即可关火。盛出放凉后使用或密封冷藏保存。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/doushaxian_step3.webp"
+      }
+    ]
+  },
 
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234628",
@@ -8693,35 +8721,7 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234632",
-    "name": "三文鱼牛油果泥",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/sanwenyu_niuyouguoni.webp",
-    "brief": "富含优质蛋白质和DHA，口感软糯，适合添加辅食初期的婴儿。",
-    "categoryIds": [
-      "33"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "新鲜三文鱼: 50克 (去皮去刺)\n牛油果: 1/4个 (成熟)\n配方奶或温水: 适量 (调节稠度)",
-    "steps": [
-      
-      {
-        "text":"【处理三文鱼】：三文鱼去皮去刺，切小块。放入蒸锅中，大火蒸8-10分钟，确保完全蒸熟。"
-      },
-      {
-        "text":"【处理牛油果】：牛油果去皮去核。用勺子将牛油果肉取出，压成细腻的泥状。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/sanwenyu_niuyouguoni_step1.webp"
-      },
-      {
-        "text":"【混合】：将蒸熟的三文鱼取出，用勺子或辅食机碾成细腻的泥状，确保没有鱼刺和硬块。"
-      },
-      {
-        "text":"【调稠】：将三文鱼泥和牛油果泥混合均匀。根据宝宝的月龄和吞咽能力，加入适量配方奶或温水，搅拌至合适的稠度即可喂食。",
-        "imageSrc":"https://shiyuji.xyz/img/steps/sanwenyu_niuyouguoni_step2.webp"
-      }
-    ]
-  },
+
 
   {
     "id": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9214",
