@@ -1,8 +1,11 @@
 {
   "version": "1.0.7",
-  "timestamp":1779437618,
+  "timestamp":1779679201,
   "recipeDataVersion": "1.0.1772438337",
   "categoryDataVersion": "1.0.1772438337",
+  "heroDataVersion": "1.0.1772438337",
+  "articleDataVersion": "1.0.1772438337",
+  "homeArticleDataVersion": "1.0.1772438337",
   "recipeDataUrl": "",
   "categoryDataUrl": "",
   "articleDataUrl": "",
