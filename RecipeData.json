@@ -35,6 +35,75 @@
     ]
   },
   {
+    "id": "j9o6n5m4-m4n5-6e7f-g8h9-i0j1k2l3m4n5",
+    "name": "酸菜白肉炖粉条",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/suancai_bairou_dunfentiao.webp",
+    "brief": "酸菜爽口，白肉肥而不腻，汤头酸香醇厚，东北冬季经典。",
+    "categoryIds": [
+      "26",
+      "27",
+      "12"
+    ],
+    "difficulty": "中等",
+    "time": "1小时30分钟",
+    "ingredients": "带皮五花肉 500克\n酸菜 500克\n干红薯粉条 100克\n葱姜、八角 适量\n高汤或水 适量\n盐 适量",
+    "steps": [
+      
+      {
+        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
+      },
+      {
+        "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，然后用手或纱布挤干水分。将酸菜切成细丝或小段备用。"
+      },
+      {
+        "text": "【炒酸菜】：锅中放入少量食用油，小火加热后放入葱姜爆香，倒入处理好的酸菜，中火煸炒5-8分钟，炒出酸香味，直到酸菜变软、颜色略深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
+      },
+      {
+        "text": "【泡粉条】：干红薯粉条提前用温水浸泡30分钟，泡软后捞出沥干水分备用。"
+      },
+      {
+        "text": "【炖煮】：将炒好的酸菜、切好的五花肉片和泡软的粉条依次放入砂锅中，加入适量煮肉的原汤（汤量要没过食材），大火烧开后转小火慢炖1小时，让各种食材的味道充分融合。"
+      },
+      {
+        "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "k0p3o2n1-n1o2-4u5v-w6x7-y8z9a0b1c2d3",
+    "name": "香椿炒鸡蛋",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/xiangchun_chaojidan.webp",
+    "brief": "香椿独特的清香与鸡蛋的鲜嫩完美结合，春季时令的美味。",
+    "categoryIds": ["24","11",
+      "25",
+      "7",
+      "18"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜香椿芽 100克\n鸡蛋 3个\n盐 适量\n食用油 适量",
+    "steps": [
+      
+      {
+        "text": "【处理香椿】：香椿芽洗净，放入沸水中焯水30秒，去除亚硝酸盐和涩味。捞出沥干水分，切碎。"
+      },
+      {
+        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
+      },
+      {
+        "text": "【炒制】：锅中放油烧热，倒入混合好的蛋液。快速划散，炒至蛋液凝固，香椿香味散发。"
+      },
+      {
+        "text": "【出锅】：炒至鸡蛋金黄蓬松即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "cheese-ham-toast-001",
     "name": "芝士火腿葱香岩烧吐司",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhishi_huotui_tusi.webp",
@@ -2654,37 +2723,7 @@
       }
     ]
   },
-  {
-    "id": "k0p3o2n1-n1o2-4u5v-w6x7-y8z9a0b1c2d3",
-    "name": "香椿炒鸡蛋",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/xiangchun_chaojidan.webp",
-    "brief": "香椿独特的清香与鸡蛋的鲜嫩完美结合，春季时令的美味。",
-    "categoryIds": ["24","11",
-      "25",
-      "7",
-      "18"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "新鲜香椿芽 100克\n鸡蛋 3个\n盐 适量\n食用油 适量",
-    "steps": [
-      
-      {
-        "text": "【处理香椿】：香椿芽洗净，放入沸水中焯水30秒，去除亚硝酸盐和涩味。捞出沥干水分，切碎。"
-      },
-      {
-        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
-      },
-      {
-        "text": "【炒制】：锅中放油烧热，倒入混合好的蛋液。快速划散，炒至蛋液凝固，香椿香味散发。"
-      },
-      {
-        "text": "【出锅】：炒至鸡蛋金黄蓬松即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step2.webp"
-      }
-    ]
-  },
+ 
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234740",
     "name": "辣炒蛤蜊",
@@ -2752,44 +2791,7 @@
       }
     ]
   },
-  {
-    "id": "j9o6n5m4-m4n5-6e7f-g8h9-i0j1k2l3m4n5",
-    "name": "酸菜白肉炖粉条",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/suancai_bairou_dunfentiao.webp",
-    "brief": "酸菜爽口，白肉肥而不腻，汤头酸香醇厚，东北冬季经典。",
-    "categoryIds": [
-      "26",
-      "27",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "1小时30分钟",
-    "ingredients": "带皮五花肉 500克\n酸菜 500克\n干红薯粉条 100克\n葱姜、八角 适量\n高汤或水 适量\n盐 适量",
-    "steps": [
-      
-      {
-        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
-      },
-      {
-        "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，然后用手或纱布挤干水分。将酸菜切成细丝或小段备用。"
-      },
-      {
-        "text": "【炒酸菜】：锅中放入少量食用油，小火加热后放入葱姜爆香，倒入处理好的酸菜，中火煸炒5-8分钟，炒出酸香味，直到酸菜变软、颜色略深。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
-      },
-      {
-        "text": "【泡粉条】：干红薯粉条提前用温水浸泡30分钟，泡软后捞出沥干水分备用。"
-      },
-      {
-        "text": "【炖煮】：将炒好的酸菜、切好的五花肉片和泡软的粉条依次放入砂锅中，加入适量煮肉的原汤（汤量要没过食材），大火烧开后转小火慢炖1小时，让各种食材的味道充分融合。"
-      },
-      {
-        "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
-      }
-    ]
-  },
+ 
 
   {
     "id": "f7e8d9c0-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
