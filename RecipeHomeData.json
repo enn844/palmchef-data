@@ -35,6 +35,75 @@
     ]
   },
   {
+    "id": "j9o6n5m4-m4n5-6e7f-g8h9-i0j1k2l3m4n5",
+    "name": "酸菜白肉炖粉条",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/suancai_bairou_dunfentiao.webp",
+    "brief": "酸菜爽口，白肉肥而不腻，汤头酸香醇厚，东北冬季经典。",
+    "categoryIds": [
+      "26",
+      "27",
+      "12"
+    ],
+    "difficulty": "中等",
+    "time": "1小时30分钟",
+    "ingredients": "带皮五花肉 500克\n酸菜 500克\n干红薯粉条 100克\n葱姜、八角 适量\n高汤或水 适量\n盐 适量",
+    "steps": [
+      
+      {
+        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
+      },
+      {
+        "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，然后用手或纱布挤干水分。将酸菜切成细丝或小段备用。"
+      },
+      {
+        "text": "【炒酸菜】：锅中放入少量食用油，小火加热后放入葱姜爆香，倒入处理好的酸菜，中火煸炒5-8分钟，炒出酸香味，直到酸菜变软、颜色略深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
+      },
+      {
+        "text": "【泡粉条】：干红薯粉条提前用温水浸泡30分钟，泡软后捞出沥干水分备用。"
+      },
+      {
+        "text": "【炖煮】：将炒好的酸菜、切好的五花肉片和泡软的粉条依次放入砂锅中，加入适量煮肉的原汤（汤量要没过食材），大火烧开后转小火慢炖1小时，让各种食材的味道充分融合。"
+      },
+      {
+        "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "k0p3o2n1-n1o2-4u5v-w6x7-y8z9a0b1c2d3",
+    "name": "香椿炒鸡蛋",
+    "imageSrc":"https://shiyuji.xyz/img/recipes/xiangchun_chaojidan.webp",
+    "brief": "香椿独特的清香与鸡蛋的鲜嫩完美结合，春季时令的美味。",
+    "categoryIds": ["24","11",
+      "25",
+      "7",
+      "18"
+    ],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "新鲜香椿芽 100克\n鸡蛋 3个\n盐 适量\n食用油 适量",
+    "steps": [
+      
+      {
+        "text": "【处理香椿】：香椿芽洗净，放入沸水中焯水30秒，去除亚硝酸盐和涩味。捞出沥干水分，切碎。"
+      },
+      {
+        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
+      },
+      {
+        "text": "【炒制】：锅中放油烧热，倒入混合好的蛋液。快速划散，炒至蛋液凝固，香椿香味散发。"
+      },
+      {
+        "text": "【出锅】：炒至鸡蛋金黄蓬松即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "cheese-ham-toast-001",
     "name": "芝士火腿葱香岩烧吐司",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhishi_huotui_tusi.webp",
@@ -446,47 +515,6 @@
       }
     ]
   },
-  {
-    "id": "qingzheng-ouding-rouwan-001",
-    "name": "清蒸藕丁肉丸子",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/ouding_rouwan.webp",
-    "brief": "肉质鲜嫩多汁，藕丁清脆爽口，搭配西红柿酱汁，酸甜开胃，老少皆宜。",
-    "categoryIds": ["7", "20", "31", "4", "12"],
-    "difficulty": "中等",
-    "time": "30分钟",
-    "ingredients": "猪前腿肉: 300克 (剁成肉泥)\n莲藕: 100克 (去皮剁碎)\n胡萝卜: 半根 (剁碎)\n西红柿: 1个 (去皮切碎)\n生姜末: 适量\n葱花: 适量\n生抽: 2汤匙 (酱汁用)\n蚝油: 1汤匙 (酱汁用)\n玉米淀粉: 适量 (肉馅用)\n淀粉: 1汤匙 (酱汁用)\n盐: 适量\n清水: 半碗",
-    "steps": [
-      {
-        "text": "【前期备菜】：猪前腿肉剁成肉泥；莲藕去皮、胡萝卜洗净，分别剁成细碎末；西红柿去皮切碎备用。姜切末，葱切花。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step1.webp"
-      },
-      {
-        "text": "【调制肉馅】：将肉泥放入大碗中，加入姜末、葱花、适量盐、生抽、蚝油，朝一个方向搅拌均匀至上劲。再加入玉米淀粉和剁好的藕碎、胡萝卜碎，继续搅拌均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step2.webp"
-      },
-      {
-        "text": "【准备蒸盘】：取一个深碗或蒸盘，将胡萝卜切成薄片，均匀铺在碗底。"
-      },
-      {
-        "text": "【制作肉丸】：将调好的肉馅用手团成大小均匀的肉丸，轻轻放在胡萝卜片上。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step3.webp"
-      },
-      {
-        "text": "【蒸制】：蒸锅水烧开后，放入肉丸，大火蒸15分钟至熟透。"
-      },
-      {
-        "text": "【调制酱汁】：小碗中加入生抽2勺、蚝油1勺、淀粉1勺、清水半碗，搅拌均匀成淀粉汁备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_ouding_rouwan_step4.webp"
-      },
-      {
-        "text": "【炒制酱汁】：锅中放少许油，倒入西红柿碎，翻炒至软烂出汁。将调好的淀粉汁倒入锅中，小火煮至汤汁浓稠后关火（肉馅已有咸味，酱汁不需额外加盐）。"
-      },
-      {
-        "text": "【淋汁出锅】：将蒸好的肉丸取出，把煮好的西红柿酱汁均匀淋在肉丸上，撒上少许葱花点缀即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step5.webp"
-      }
-    ]
-  },
 
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234995",
@@ -830,45 +858,6 @@
       {
         "text": "【冷却】：烤好后立即取出，将曲奇连带油纸移至晾网架上彻底放凉。曲奇刚出炉时是软的，完全冷却后会变得非常酥脆。",
         "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_quqi_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "a8f2e9b1-7c4d-4e5a-9b8c-f12345678999",
-    "name": "西红柿鸡蛋面",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_jidanmian.webp",
-    "brief": "酸甜开胃，汤汁浓郁，面条劲道，是一碗国民级的快手早餐或暖心面食。",
-    "categoryIds": ["7", "2", "12", "28"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "ingredients": "面条（鲜面或挂面）: 200克\n鸡蛋: 3个\n西红柿: 2个（中等大小）\n葱花: 适量\n蒜末: 2瓣\n番茄酱: 1汤匙（可选，增色提味）\n生抽: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【备菜】：西红柿洗净，顶部划十字刀，用开水烫一下去皮，切成小丁。鸡蛋打入碗中，加少许盐打散备用。葱切葱花，蒜切末。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step1.webp"
-      },
-      {
-        "text": "【炒蛋】：热锅倒油，油温五成热时倒入蛋液，快速划散，炒至鸡蛋八成熟（金黄蓬松）后盛出备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step2.webp"
-      },
-      {
-        "text": "【炒番茄底料】：锅中留底油，放入蒜末爆香，倒入西红柿丁，中大火翻炒至西红柿变软出汁。用铲子按压西红柿，使其更容易软烂。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step3.webp"
-      },
-      {
-        "text": "【调味】：加入番茄酱（可选）翻炒均匀，倒入生抽、白糖和适量盐调味，继续翻炒成浓郁的番茄酱汁。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step4.webp"
-      },
-      {
-        "text": "【合煮】：倒入炒好的鸡蛋，快速翻炒均匀，让鸡蛋裹满番茄汁。加入适量热水（约300-400毫升），大火煮开，转小火煮2分钟，让汤汁更浓郁，关火撒上大部分葱花。"
-      },
-      {
-        "text": "【煮面】：另起一锅，水烧开后下入面条，煮至面条无硬芯，捞出过凉水（或直接沥干）放入碗中。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step5.webp"
-      },
-      {
-        "text": "【装碗】：将煮好的西红柿鸡蛋卤浇在面条上，撒上剩余的葱花，拌匀即可享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xihongshi_jidanmian_step6.webp"
       }
     ]
   },
