@@ -1,5 +1,67 @@
 [
   {
+    "id": "qinghongjiao-xingbaogu-huotui-001",
+    "name": "青红椒炒杏鲍菇火腿条",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp",
+    "brief": "色彩鲜艳，口感丰富，杏鲍菇筋道似肉，搭配火腿咸香，快手家常小炒。",
+    "categoryIds": ["31", "20", "7", "2", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["热"],
+    "ingredients": "青椒: 1个 (切丝)\n红椒: 1个 (切丝)\n杏鲍菇: 2个 (切丝)\n火腿肠: 2根 (切条)\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1/2汤匙\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【前期备菜】：青椒、红椒洗净去籽，切成细丝。杏鲍菇洗净，先切成薄片，再改刀成细丝。火腿肠切成与杏鲍菇粗细相当的条状。蒜瓣切成蒜末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step1.webp"
+      },
+      {
+        "text": "【煸炒杏鲍菇】：锅中烧热适量油，放入杏鲍菇丝，中火煸炒。杏鲍菇刚开始会出水，继续翻炒至水分收干、表面微黄，盛出备用。这一步能去除杏鲍菇的生涩味，并激发出其特有的鲜香。"
+      },
+      {
+        "text": "【爆香配料】：锅中留底油，放入蒜末爆香。然后加入火腿条，翻炒约1分钟，至火腿表面微焦，香味溢出。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step2.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入青红椒丝炒软。接着倒入煸好的杏鲍菇丝，加入生抽、蚝油和少许盐，继续大火翻炒均匀。"
+      },
+      {
+        "text": "【出锅装盘】：所有食材翻炒均匀，入味后即可关火出锅。全程大火快炒，保持青红椒的清脆口感和鲜艳色泽。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234888",
+    "name": "爆炒鱿鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_youyu.webp",
+    "brief": "口感脆嫩爽滑，火候恰到好处，搭配青红椒爆炒，咸鲜微辣，是一道经典的家常海鲜快手菜。",
+    "categoryIds": ["30", "7", "2", "12"],
+    "difficulty": "中等",
+    "time": "20分钟",
+    "badge": ["荐"],
+    "ingredients": "新鲜鱿鱼: 2条 (约400克)\n青椒: 1个 (切块，可选)\n红椒: 1个 (切块，可选)\n洋葱: 1/4个 (切块)\n姜片: 3片\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【撕皮处理】：将新鲜的鱿鱼放入清水中洗净。用手揪住鱿鱼头部，将内脏和软骨一起拉出。用手撕掉鱿鱼背面（较宽的那一面）那层带紫色或黑色斑点的薄膜（鱿鱼皮），这一层皮腥味较重，撕掉后口感更洁白脆嫩。将鱿鱼头部的眼睛和嘴部的硬喙（鹦鹉嘴）挤掉，洗净沥干。"
+      },
+      {
+        "text": "【切刀花改刀】：将鱿鱼身沿着中线摊开铺平。在其内壁（撕皮后的那一面，光滑面朝上）斜刀45度切出平行条纹，深度约为鱿鱼肉厚的三分之二，注意不要切断。然后将鱿鱼旋转90度，同样地用斜刀切出平行的条纹，与之前的条纹交叉形成菱形网格（即十字花刀）。最后将打好花刀的鱿鱼切成约4-5厘米见方的块。鱿鱼须切段备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step1.webp"
+      },
+      {
+        "text": "【焯水定型】：锅中烧开水，放入姜片和1汤匙料酒。水开后，倒入切好的鱿鱼块。鱿鱼遇到热水会迅速卷曲成漂亮的麦穗状或鱿鱼卷。焯烫约20-30秒，鱿鱼卷颜色变白后立刻捞出，沥干水分备用。注意不要焯烫过久，否则口感会变老变硬。"
+      },
+      {
+        "text": "【爆香快炒】：热锅倒入适量食用油，油热后放入姜片、蒜末和洋葱块，大火爆香。接着放入青椒块和红椒块，快速翻炒约30秒至断生。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step2.webp"
+      },
+      {
+        "text": "【调味勾芡】：倒入焯好水的鱿鱼卷，加入生抽、蚝油、少许白糖和适量盐。大火快速翻炒均匀，让所有食材都裹上酱汁。如果想要汤汁更浓郁，可以淋入少许水淀粉（1茶匙淀粉加2汤匙水）勾薄芡，大火翻炒几下即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "qingjiao-xianxia-001",
     "name": "青椒酿虾滑",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangxiahua.webp",
@@ -433,37 +495,6 @@
     ]
   },
   {
-    "id": "qinghongjiao-xingbaogu-huotui-001",
-    "name": "青红椒炒杏鲍菇火腿条",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp",
-    "brief": "色彩鲜艳，口感丰富，杏鲍菇筋道似肉，搭配火腿咸香，快手家常小炒。",
-    "categoryIds": ["31", "20", "7", "2", "12"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "badge": ["热"],
-    "ingredients": "青椒: 1个 (切丝)\n红椒: 1个 (切丝)\n杏鲍菇: 2个 (切丝)\n火腿肠: 2根 (切条)\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1/2汤匙\n盐: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【前期备菜】：青椒、红椒洗净去籽，切成细丝。杏鲍菇洗净，先切成薄片，再改刀成细丝。火腿肠切成与杏鲍菇粗细相当的条状。蒜瓣切成蒜末备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step1.webp"
-      },
-      {
-        "text": "【煸炒杏鲍菇】：锅中烧热适量油，放入杏鲍菇丝，中火煸炒。杏鲍菇刚开始会出水，继续翻炒至水分收干、表面微黄，盛出备用。这一步能去除杏鲍菇的生涩味，并激发出其特有的鲜香。"
-      },
-      {
-        "text": "【爆香配料】：锅中留底油，放入蒜末爆香。然后加入火腿条，翻炒约1分钟，至火腿表面微焦，香味溢出。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step2.webp"
-      },
-      {
-        "text": "【合炒调味】：倒入青红椒丝炒软。接着倒入煸好的杏鲍菇丝，加入生抽、蚝油和少许盐，继续大火翻炒均匀。"
-      },
-      {
-        "text": "【出锅装盘】：所有食材翻炒均匀，入味后即可关火出锅。全程大火快炒，保持青红椒的清脆口感和鲜艳色泽。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step3.webp"
-      }
-    ]
-  },
-  {
     "id": "basque-cheesecake-001",
     "name": "巴斯克蛋糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/basike_dangao.webp",
@@ -792,36 +823,7 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234888",
-    "name": "爆炒鱿鱼",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_youyu.webp",
-    "brief": "口感脆嫩爽滑，火候恰到好处，搭配青红椒爆炒，咸鲜微辣，是一道经典的家常海鲜快手菜。",
-    "categoryIds": ["30", "7", "2", "12"],
-    "difficulty": "中等",
-    "time": "20分钟",
-    "ingredients": "新鲜鱿鱼: 2条 (约400克)\n青椒: 1个 (切块，可选)\n红椒: 1个 (切块，可选)\n洋葱: 1/4个 (切块)\n姜片: 3片\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【撕皮处理】：将新鲜的鱿鱼放入清水中洗净。用手揪住鱿鱼头部，将内脏和软骨一起拉出。用手撕掉鱿鱼背面（较宽的那一面）那层带紫色或黑色斑点的薄膜（鱿鱼皮），这一层皮腥味较重，撕掉后口感更洁白脆嫩。将鱿鱼头部的眼睛和嘴部的硬喙（鹦鹉嘴）挤掉，洗净沥干。"
-      },
-      {
-        "text": "【切刀花改刀】：将鱿鱼身沿着中线摊开铺平。在其内壁（撕皮后的那一面，光滑面朝上）斜刀45度切出平行条纹，深度约为鱿鱼肉厚的三分之二，注意不要切断。然后将鱿鱼旋转90度，同样地用斜刀切出平行的条纹，与之前的条纹交叉形成菱形网格（即十字花刀）。最后将打好花刀的鱿鱼切成约4-5厘米见方的块。鱿鱼须切段备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step1.webp"
-      },
-      {
-        "text": "【焯水定型】：锅中烧开水，放入姜片和1汤匙料酒。水开后，倒入切好的鱿鱼块。鱿鱼遇到热水会迅速卷曲成漂亮的麦穗状或鱿鱼卷。焯烫约20-30秒，鱿鱼卷颜色变白后立刻捞出，沥干水分备用。注意不要焯烫过久，否则口感会变老变硬。"
-      },
-      {
-        "text": "【爆香快炒】：热锅倒入适量食用油，油热后放入姜片、蒜末和洋葱块，大火爆香。接着放入青椒块和红椒块，快速翻炒约30秒至断生。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step2.webp"
-      },
-      {
-        "text": "【调味勾芡】：倒入焯好水的鱿鱼卷，加入生抽、蚝油、少许白糖和适量盐。大火快速翻炒均匀，让所有食材都裹上酱汁。如果想要汤汁更浓郁，可以淋入少许水淀粉（1茶匙淀粉加2汤匙水）勾薄芡，大火翻炒几下即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_youyu_step3.webp"
-      }
-    ]
-  },
+
   {
     "id": "a2b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
     "name": "香酥曲奇",
