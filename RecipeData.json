@@ -1,5 +1,36 @@
 [
   {
+    "id": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o1",
+    "name": "公瑾抱蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/gongjin_baodan.webp",
+    "brief": "蒜香浓郁，酸甜开胃，鸡蛋焦香入味，是一道创意快手家常菜。",
+    "categoryIds": ["7", "2", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "ingredients": "鸡蛋: 3个\n蒜片: 适量\n生抽: 2汤匙\n老抽: 1/2汤匙\n白糖: 1汤匙\n番茄酱: 1汤匙\n白醋: 1汤匙\n白芝麻: 适量",
+    "steps": [
+      {
+        "text": "【调制料汁】：取一个小碗，加入两勺生抽、半勺老抽、一勺白糖、一勺番茄酱和一勺白醋，用筷子或小勺充分搅拌均匀，形成色泽红亮、酸甜平衡的料汁，放置一旁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/gongjin_baodan_step1.webp"
+      },
+      {
+        "text": "【煸炒蒜片】：锅中倒入适量食用油，开中小火烧至油温微热（约五成热）。放入蒜片，小火慢慢煸炒，直至蒜片边缘呈微焦黄色、散发出浓郁的蒜香味，注意不要炒糊。"
+      },
+      {
+        "text": "【煎制定型】：将火力转为中火，保持锅底温度，直接把三个鸡蛋逐个磕入锅中（不要打散），保持鸡蛋的完整形态。用锅铲轻轻调整蛋白，使其自然铺开。中小火慢煎约1-2分钟，直到蛋白完全凝固、边缘微焦，蛋黄处于半熟或全熟状态（根据个人喜好）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/gongjin_baodan_step2.webp"
+      },
+      {
+        "text": "【焖煮入味】：待鸡蛋煎至底面金黄定型后，将调好的料汁均匀地淋在鸡蛋表面。立即盖上锅盖，调成小火，焖煮约2分钟，让鸡蛋充分吸收料汁的酸甜咸香。"
+      },
+      {
+        "text": "【出锅装盘】：开盖后，转大火快速收一下汁（约10-15秒），让汤汁略微浓稠。撒上适量白芝麻点缀增香，即可关火出锅，将公瑾抱蛋滑入盘中，趁热食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/gongjin_baodan_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "shangtang-wawacai-001",
     "name": "上汤娃娃菜",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shangtang_wawacai.webp",
@@ -302,33 +333,29 @@
     ]
   },
   {
-    "id": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o1",
-    "name": "公瑾抱蛋",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/gongjin_baodan.webp",
-    "brief": "蒜香浓郁，酸甜开胃，鸡蛋焦香入味，是一道创意快手家常菜。",
-    "categoryIds": ["7", "2", "12"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "badge": ["新"],
-    "ingredients": "鸡蛋: 3个\n蒜片: 适量\n生抽: 2汤匙\n老抽: 1/2汤匙\n白糖: 1汤匙\n番茄酱: 1汤匙\n白醋: 1汤匙\n白芝麻: 适量",
+    "id": "v3b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o2",
+    "name": "糖醋排骨",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_paigu.webp",
+    "brief": "酸甜适口，外酥里嫩，色泽红亮，老少皆宜的经典家常菜。",
+    "categoryIds": ["7", "20", "12"],
+    "difficulty": "中等",
+    "time": "60分钟",
+    "ingredients": "猪前腿小排: 1000克 (切成1寸大小)\n黄酒: 2大匙\n生抽: 4大匙\n镇江醋: 6大匙\n红糖（棕糖）: 8大匙\n开水: 400毫升左右\n一大匙约15ml",
     "steps": [
       {
-        "text": "【调制料汁】：取一个小碗，加入两勺生抽、半勺老抽、一勺白糖、一勺番茄酱和一勺白醋，用筷子或小勺充分搅拌均匀，形成色泽红亮、酸甜平衡的料汁，放置一旁备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/gongjin_baodan_step1.webp"
+        "text": "【前期备菜】：将猪前腿小排切成1寸（约3厘米）大小的小块。用50度左右的温水浸泡10分钟，充分泡出血水。捞出排骨，用厨房纸巾彻底吸干表面水分。"
       },
       {
-        "text": "【煸炒蒜片】：锅中倒入适量食用油，开中小火烧至油温微热（约五成热）。放入蒜片，小火慢慢煸炒，直至蒜片边缘呈微焦黄色、散发出浓郁的蒜香味，注意不要炒糊。"
+        "text": "【煸炒出油】：锅烧热，无需放油，直接下入吸干水分的排骨。用中火煸炒约10分钟，直到排骨两面呈金黄色，并逼出排骨自身的油脂。此步骤不用追求煎出多少油，上色即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step1.webp"
       },
       {
-        "text": "【煎制定型】：将火力转为中火，保持锅底温度，直接把三个鸡蛋逐个磕入锅中（不要打散），保持鸡蛋的完整形态。用锅铲轻轻调整蛋白，使其自然铺开。中小火慢煎约1-2分钟，直到蛋白完全凝固、边缘微焦，蛋黄处于半熟或全熟状态（根据个人喜好）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/gongjin_baodan_step2.webp"
+        "text": "【调味炖煮】：加入约400毫升开水，水量基本与排骨持平。依次加入黄酒、生抽、镇江醋和红糖。盖上锅盖，大火烧开后立即转小火，炖煮40分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step2.webp"
       },
       {
-        "text": "【焖煮入味】：待鸡蛋煎至底面金黄定型后，将调好的料汁均匀地淋在鸡蛋表面。立即盖上锅盖，调成小火，焖煮约2分钟，让鸡蛋充分吸收料汁的酸甜咸香。"
-      },
-      {
-        "text": "【出锅装盘】：开盖后，转大火快速收一下汁（约10-15秒），让汤汁略微浓稠。撒上适量白芝麻点缀增香，即可关火出锅，将公瑾抱蛋滑入盘中，趁热食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/gongjin_baodan_step3.webp"
+        "text": "【收汁出锅】：40分钟后开盖，转大火收汁。不断翻炒防止粘锅，待汤汁变得浓稠油亮，均匀包裹在每块排骨上时，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step3.webp"
       }
     ]
   },
