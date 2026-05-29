@@ -3,7 +3,20 @@
     "id": "1",
     "title": "养生技巧",
     "articles": [
-
+      {
+        "id": "manxing_yanzheng",
+        "imageSrc": "https://shiyuji.xyz/img/article/manxing_yanzheng.webp",
+        "title": "体内的“无声之火”：慢性炎症，是一场波及全身的隐形负债",
+        "brief": "不发烧、不疼痛，慢性炎症却在悄悄消耗身体。揭秘岭南五指毛桃的抗炎智慧，解锁餐桌上的“防火巡检”指南。",
+        "webUrl": "https://health-app.com/articles/chronic-inflammation-001"
+      },
+      {
+        "id": "15",
+        "imageSrc": "https://shiyuji.xyz/img/article/suanxing_tizhi.webp",
+        "title": "“酸性体质”是骗局，“气郁体质”真存在：试试这三杯解郁茶",
+        "brief": "别再为子虚乌有的“酸性体质”交智商税了！但如果你总是莫名叹气、胸闷、心情不爽，那可能是真实的“气郁体质”在作祟。借由古籍智慧，教你如何疏通身心。",
+        "webUrl": "https://health-app.com/articles/qi-stagnation-001"
+      },
       {
         "id": "13",
         "imageSrc": "https://shiyuji.xyz/img/article/shire_tizhi.webp",
@@ -185,6 +198,21 @@
     "title": "古籍智慧",
     "articles": [
       {
+        "id": "art_yuanmei_001",
+        "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_001.webp",
+        "title": "“味要入骨”：清代文人的分子料理实验",
+        "brief": "袁枚主张“味要入骨”，反对徒有其表的勾芡。从科学视角看，这是一场关于渗透压与蛋白质变性的精彩实验。",
+        "webUrl": "https://zh.wikipedia.org/wiki/随园食单"
+      },
+      {
+        "id": "liyu_002",
+        "imageSrc": "https://shiyuji.xyz/img/article/liyu_002.webp",
+        "title": "李渔的笋：纤维素与多糖的“清鲜”密码",
+        "brief": "被李渔奉为“素食第一品”的笋，究竟藏着怎样的科学奥秘？从天冬酰胺的鲜味逻辑到细胞壁的木质化艺术，让我们解构那一抹“如食嫩肤”的极简风味。",
+        "webUrl": "https://zh.wikipedia.org/wiki/李渔"
+      },
+
+      {
         "id": "xinyuanxing_cusi",
         "imageSrc": "https://shiyuji.xyz/img/article/xinyuanxing_cusi.webp",
         "title": "心脏的“极端测试”：别让你的生命服务器在深夜宕机",
@@ -247,13 +275,6 @@
         "brief": "在一碗清汤挂面中，李渔窥见了宇宙的秩序。本文结合神经科学，解析为何“少即是多”能让大脑更精准地捕捉鲜味，重塑现代人的审美信噪比。",
         "webUrl": "https://zh.wikipedia.org/wiki/闲情偶寄"
       },
-      {
-        "id": "liyu_002",
-        "imageSrc": "https://shiyuji.xyz/img/article/liyu_002.webp",
-        "title": "李渔的笋：纤维素与多糖的“清鲜”密码",
-        "brief": "被李渔奉为“素食第一品”的笋，究竟藏着怎样的科学奥秘？从天冬酰胺的鲜味逻辑到细胞壁的木质化艺术，让我们解构那一抹“如食嫩肤”的极简风味。",
-        "webUrl": "https://zh.wikipedia.org/wiki/李渔"
-      },
 
       {
         "id": "yuanmei_24jieqi",
@@ -308,13 +329,7 @@
         "brief": "汪曾祺不仅是性灵派作家，更是一位民间的植物分类学家。本文从《诗经》里的“葵”聊到街头巷尾的马兰头，揭开名字背后的味觉记忆与春季代谢的生物学密码。",
         "webUrl": "https://zh.wikipedia.org/wiki/汪曾祺"
       },
-      {
-        "id": "art_yuanmei_001",
-        "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_001.webp",
-        "title": "“味要入骨”：清代文人的分子料理实验",
-        "brief": "袁枚主张“味要入骨”，反对徒有其表的勾芡。从科学视角看，这是一场关于渗透压与蛋白质变性的精彩实验。",
-        "webUrl": "https://zh.wikipedia.org/wiki/随园食单"
-      },
+
 
       {
         "id": "art_yuanmei_005",
