@@ -1,5 +1,33 @@
 [
   {
+    "id": "v3b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o2",
+    "name": "糖醋排骨",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_paigu.webp",
+    "brief": "酸甜适口，外酥里嫩，色泽红亮，老少皆宜的经典家常菜。",
+    "categoryIds": ["7", "20", "12"],
+    "difficulty": "中等",
+    "time": "60分钟",
+    "badge": ["新"],
+    "ingredients": "猪前腿小排: 1000克 (切成1寸大小)\n黄酒: 2大匙\n生抽: 4大匙\n镇江醋: 6大匙\n红糖（棕糖）: 8大匙\n开水: 400毫升左右\n一大匙约15ml",
+    "steps": [
+      {
+        "text": "【前期备菜】：将猪前腿小排切成1寸（约3厘米）大小的小块。用50度左右的温水浸泡10分钟，充分泡出血水。捞出排骨，用厨房纸巾彻底吸干表面水分。"
+      },
+      {
+        "text": "【煸炒出油】：锅烧热，无需放油，直接下入吸干水分的排骨。用中火煸炒约10分钟，直到排骨两面呈金黄色，并逼出排骨自身的油脂。此步骤不用追求煎出多少油，上色即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step1.webp"
+      },
+      {
+        "text": "【调味炖煮】：加入约400毫升开水，水量基本与排骨持平。依次加入黄酒、生抽、镇江醋和红糖。盖上锅盖，大火烧开后立即转小火，炖煮40分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step2.webp"
+      },
+      {
+        "text": "【收汁出锅】：40分钟后开盖，转大火收汁。不断翻炒防止粘锅，待汤汁变得浓稠油亮，均匀包裹在每块排骨上时，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "w1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o1",
     "name": "萝卜丝饼",
     "imageSrc": "https://shiyuji.xyz/img/recipes/luobosibing.webp",
@@ -360,34 +388,6 @@
       {
         "text": "【出锅】：撒上葱花或香菜即可食用，汤汁清淡醇厚。",
         "imageSrc": "https://shiyuji.xyz/img/steps/qingdun_paigutang_step1.webp"
-      }
-    ]
-  },
-  {
-    "id": "v3b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o2",
-    "name": "糖醋排骨",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_paigu.webp",
-    "brief": "酸甜适口，外酥里嫩，色泽红亮，老少皆宜的经典家常菜。",
-    "categoryIds": ["7", "20", "12"],
-    "difficulty": "中等",
-    "time": "60分钟",
-    "badge": ["新"],
-    "ingredients": "猪前腿小排: 1000克 (切成1寸大小)\n黄酒: 2大匙\n生抽: 4大匙\n镇江醋: 6大匙\n红糖（棕糖）: 8大匙\n开水: 400毫升左右\n一大匙约15ml",
-    "steps": [
-      {
-        "text": "【前期备菜】：将猪前腿小排切成1寸（约3厘米）大小的小块。用50度左右的温水浸泡10分钟，充分泡出血水。捞出排骨，用厨房纸巾彻底吸干表面水分。"
-      },
-      {
-        "text": "【煸炒出油】：锅烧热，无需放油，直接下入吸干水分的排骨。用中火煸炒约10分钟，直到排骨两面呈金黄色，并逼出排骨自身的油脂。此步骤不用追求煎出多少油，上色即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step1.webp"
-      },
-      {
-        "text": "【调味炖煮】：加入约400毫升开水，水量基本与排骨持平。依次加入黄酒、生抽、镇江醋和红糖。盖上锅盖，大火烧开后立即转小火，炖煮40分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step2.webp"
-      },
-      {
-        "text": "【收汁出锅】：40分钟后开盖，转大火收汁。不断翻炒防止粘锅，待汤汁变得浓稠油亮，均匀包裹在每块排骨上时，即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step3.webp"
       }
     ]
   },
@@ -5731,6 +5731,68 @@
       {
         "text": "【装盘调味】：将煮好的水饺放入调好酱料的碗中，轻轻拌匀，让每个饺子都裹上酱料。最后撒上切好的葱花和炒香的芝麻即可。",
         "imageSrc": "https://shiyuji.xyz/img/steps/zhongshuijiao_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "e5j7i6h5-h5i6-8o9p-q0r1-s2t3u4v5w6x7",
+    "name": "小炒藕丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_ouding.webp",
+    "brief": "清脆爽口，香辣开胃，莲藕丁经过焯水后脆嫩多汁，搭配小米椒和蒜末爆炒，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["31", "7", "2", "11", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "莲藕: 1节（约300克）\n小葱: 2根（切段）\n小米椒: 2个（切圆圈）\n大蒜: 3瓣（切末）\n老抽: 1小勺\n生抽: 2小勺\n蚝油: 大半勺\n盐: 少许\n白糖: 少许\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：莲藕去皮洗净，切成大小均匀的小丁。小葱切段，小米椒切圆圈，大蒜切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step1.webp"
+      },
+      {
+        "text": "【藕丁焯水】：锅中烧开水，放入藕丁焯水2分钟，捞出沥干水分备用。焯水能去除藕丁的涩味，同时保持清脆口感。"
+      },
+      {
+        "text": "【爆香调料】：锅中倒入适量食用油，油热后放入葱段、小米椒圈和蒜末，保持中小火炒约1分钟，煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step2.webp"
+      },
+      {
+        "text": "【加入藕丁】：将焯好水的藕丁倒入锅中，转大火快速翻炒均匀。"
+      },
+      {
+        "text": "【调味出锅】：加入老抽、生抽、蚝油、少许盐和白糖，转大火继续翻炒2分钟，使藕丁充分入味上色，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251235000",
+    "name": "椒盐猪大排",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_zhupai.webp",
+    "brief": "外酥里嫩，肉香多汁，椒盐味浓郁，是一道经典的家常炸物，趁热吃口感最佳。",
+    "categoryIds": ["7", "20", "2", "11"],
+    "difficulty": "中等",
+    "time": "50分钟（不含腌制时间）",
+    "badge": ["新"],
+    "ingredients": "猪大排: 4片\n盐: 适量\n料酒: 2汤匙\n姜片: 4片\n面粉: 100克\n鸡蛋: 2个\n小苏打: 2克\n水: 适量\n食用油: 适量\n椒盐粉: 适量",
+    "steps": [
+      {
+        "text": "【拍松腌制】：猪大排洗净，用刀背在正反两面轻轻交叉剁剁，使肉质松软。然后正反面撒上适量盐，淋上料酒，放上姜片，抓匀后放入冰箱冷藏腌制4-5小时，让大排充分入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step1.webp"
+      },
+      {
+        "text": "【调制炸糊】：取一个大碗，加入面粉、鸡蛋、小苏打，分次加入少量水，用筷子或打蛋器搅拌均匀，调至面糊顺滑、无干粉结块，且舀起后滴落流速缓慢、呈浓稠酸奶状即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step2.webp"
+      },
+      {
+        "text": "【裹糊】：从冰箱取出腌制好的猪大排，取一片放入调好的面糊中，两面均匀裹满面糊，提起大排让多余的面糊自然滴落。"
+      },
+      {
+        "text": "【慢炸定型】：锅中倒入足量食用油（能没过猪大排为宜），烧至四五成热（约150°C，油面微微波动，筷子插入冒细密小泡）。放入裹好面糊的猪大排，小火慢炸，炸至底面金黄定型后翻面，继续炸另一面，直至两面均呈金黄色、外壳酥脆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step3.webp"
+      },
+      {
+        "text": "【撒料出锅】：将炸好的猪大排捞出，放在吸油纸上沥去多余油分。趁热均匀撒上椒盐粉，即可切块或整块食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step4.webp"
       }
     ]
   },
