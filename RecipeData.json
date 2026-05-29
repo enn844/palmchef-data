@@ -340,6 +340,7 @@
     "categoryIds": ["7", "20", "12"],
     "difficulty": "中等",
     "time": "60分钟",
+    "badge": ["新"],
     "ingredients": "猪前腿小排: 1000克 (切成1寸大小)\n黄酒: 2大匙\n生抽: 4大匙\n镇江醋: 6大匙\n红糖（棕糖）: 8大匙\n开水: 400毫升左右\n一大匙约15ml",
     "steps": [
       {
@@ -658,7 +659,7 @@
     ]
   },
   {
-    "id": "cook-ricecake-001",
+    "id": "d81e1a80-2736-5074-a0e4-b7b251234995",
     "name": "猪肉煮年糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhurou_zhuniangao.webp",
     "brief": "软糯Q弹的年糕搭配鲜香猪肉，汤浓味美，家常温暖一锅出。",
@@ -722,7 +723,7 @@
     ]
   },
   {
-    "id": "kugua-paigu-tang-2026-001",
+    "id": "d81e1a80-2737-4074-a0e4-b7b251234995",
     "name": "苦瓜排骨汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_paigutang.webp",
     "brief": "汤色清亮微黄，苦瓜回甘，排骨酥烂，黄豆绵软，是夏季清热解暑的经典老火汤。",
@@ -755,7 +756,7 @@
     ]
   },
   {
-    "id": "milk-mlt-20240520-001",
+    "id": "d81e2a80-2736-4074-a0e4-b7b251234995",
     "name": "牛奶麻辣烫",
     "imageSrc": "https://shiyuji.xyz/img/recipes/niunai_malatang.webp",
     "brief": "汤底浓郁丝滑，麻辣中带着奶香，涮煮各种食材，是一人食或家庭聚餐的暖心锅物。",
@@ -789,11 +790,11 @@
     ]
   },
   {
-    "id": "yan-su-ji-001",
+    "id": "d82e1a80-2736-4074-a0e4-b7b251234995",
     "name": "盐酥鸡",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yansuji.webp",
     "brief": "台湾经典小吃，外酥里嫩，蒜香浓郁，搭配九层塔香气扑鼻。",
-    "categoryIds": ["13", "2", "20"],
+    "categoryIds": ["13","20"],
     "difficulty": "中等",
     "time": "45分钟（含腌制）",
     "ingredients": "鸡腿: 2只（去骨带皮）\n酱油: 1汤匙\n米酒: 1/2汤匙\n大蒜: 3瓣（切蒜蓉）\n姜粉（或姜片）: 1/2茶匙\n白胡椒粉: 1茶匙\n五香粉: 1茶匙\n盐: 1/2茶匙\n脆浆材料: 面粉+淀粉（比例5:1）共60g、泡打粉2g、五香粉1/2茶匙、盐1小撮、水适量\n裹粉材料: 粗颗粒红薯粉、粘米粉（可选）混合\n九层塔叶: 1把\n食用油: 适量",
@@ -826,7 +827,7 @@
     ]
   },
   {
-    "id": "qinghongjiao-xingbaogu-huotui-001",
+    "id": "d81e1a80-1736-4074-a0e4-b7b251234995",
     "name": "青红椒炒杏鲍菇火腿条",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp",
     "brief": "色彩鲜艳，口感丰富，杏鲍菇筋道似肉，搭配火腿咸香，快手家常小炒。",
@@ -857,7 +858,7 @@
     ]
   },
   {
-    "id": "basque-cheesecake-001",
+    "id": "d81e1a80-1836-4074-a0e4-b7b251234995",
     "name": "巴斯克蛋糕",
     "imageSrc": "https://shiyuji.xyz/img/recipes/basike_dangao.webp",
     "brief": "起源于西班牙巴斯克地区的标志性蛋糕，表面焦黑粗犷，内芯细腻顺滑，芝士香气浓郁，入口即化。",
@@ -905,7 +906,7 @@
     ]
   },
   {
-    "id": "qingzheng-ouding-rouwan-001",
+    "id": "d81e1a80-2736-4074-a0e4-b7b251234995",
     "name": "清蒸藕丁肉丸子",
     "imageSrc": "https://shiyuji.xyz/img/recipes/ouding_rouwan.webp",
     "brief": "肉质鲜嫩多汁，藕丁清脆爽口，搭配西红柿酱汁，酸甜开胃，老少皆宜。",
@@ -947,7 +948,7 @@
   },
  
   {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234995",
+    "id": "d81e1a80-1936-4074-a0e4-b7b251234995",
     "name": "肉末嫩豆腐",
     "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_nendoufu.webp",
     "brief": "滑嫩豆腐吸饱了香菇肉末的鲜香酱汁，微辣开胃，是一道简单快手的家常下饭菜。",
@@ -985,8 +986,7 @@
     "categoryIds": [
       "20",
       "7",
-      "12",
-      "2"
+      "12"
     ],
     "difficulty": "中等",
     "time": "50分钟",
@@ -1616,7 +1616,7 @@
     "name": "脆皮鸡翅",
     "imageSrc": "https://shiyuji.xyz/img/recipes/cuipi_jichi.webp",
     "brief": "外酥里嫩，咬一口咔嚓作响，腌制入味，咸鲜微甜，是全家都爱的解馋小食。",
-    "categoryIds": ["2","13"],
+    "categoryIds": ["13"],
     "difficulty": "中等",
     "time": "2小时20分钟",
     "ingredients": "鸡翅中: 500克\n面粉: 50克\n玉米淀粉: 50克\n料酒: 1汤匙\n生抽: 2汤匙\n蚝油: 1汤匙\n姜: 3片\n蒜: 3瓣 (切末)\n盐: 1/2茶匙\n白胡椒粉: 1/2茶匙\n白糖: 1茶匙\n食用油: 适量 (炸制用)",
@@ -2443,7 +2443,7 @@
     "name": "紫米鸡胸肉卷",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zimi_jixiongroujuan.webp",
     "brief": "高蛋白与粗粮的巧妙结合，紫米软糯，鸡胸肉鲜嫩多汁，蜂蜜带来一丝回甘，是一道低脂饱腹的健康创意主菜。",
-    "categoryIds": ["17", "20", "28", "21", "2"],
+    "categoryIds": ["17", "20", "28", "21"],
     "difficulty": "中等",
     "time": "40分钟（不含浸泡时间）",
     "ingredients": "鸡胸肉: 2块（约400克）\n紫米: 80克\n糙米/荞麦/花豆/黑豆/鹰嘴豆: 各少量（可选，总和不超50克）\n盐: 适量\n料酒: 1汤匙\n胡椒粉: 适量\n蜂蜜: 1汤匙\n植物油: 适量\n水果/蔬菜: 适量（装饰配菜）",
