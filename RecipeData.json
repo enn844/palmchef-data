@@ -1,5 +1,100 @@
 [
   {
+    "id": "w1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o1",
+    "name": "萝卜丝饼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/luobosibing.webp",
+    "brief": "外酥里嫩，清甜鲜美，萝卜的清香与虾仁的鲜甜完美融合，营养丰富的快手早餐。",
+    "categoryIds": ["10", "2", "7", "31", "21"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "ingredients": "青萝卜或白萝卜: 300克\n虾仁: 50克 (切丁)\n鸡蛋: 1个\n面粉: 1勺 (约15克)\n黑胡椒粉: 少许\n盐: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【萝卜焯水】：将青萝卜或白萝卜去皮洗净，用擦丝器擦成细丝。锅中烧开水，放入萝卜丝焯水3-4分钟，去除萝卜的生涩味和辛辣味，捞出后立即放入冷水中过凉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/luobosibing_step1.webp"
+      },
+      {
+        "text": "【挤干水分】：将过凉的萝卜丝捞出，放入干净的纱布或用手用力挤压，彻底挤干多余的水分。这是煎饼酥脆的关键步骤，水分越少，煎出来的饼越香脆。"
+      },
+      {
+        "text": "【混合面糊】：将挤干水分的萝卜丝放入大碗中，加入虾仁丁、鸡蛋、面粉、少许黑胡椒粉和适量盐，用筷子或勺子充分搅拌均匀，使所有食材紧密结合成粘稠的糊状。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/luobosibing_step2.webp"
+      },
+      {
+        "text": "【小火慢煎】：平底锅烧热，倒入适量食用油，用勺子取适量萝卜丝糊放入锅中，轻轻压平成小圆饼状。保持小火慢煎，煎约2-3分钟至底面金黄定型。"
+      },
+      {
+        "text": "【翻面出锅】：用锅铲小心翻面，继续小火煎另一面，煎约2-3分钟至两面均呈金黄色、外皮酥脆即可出锅。可搭配醋或辣椒酱食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/luobosibing_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "v2b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o8",
+    "name": "冬瓜肉末汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/donggua_roumotang.webp",
+    "brief": "冬瓜清甜爽口，肉末鲜嫩多汁，搭配冬菜提鲜，汤头清鲜解腻，是一道简单快手的家常滚汤。",
+    "categoryIds": ["7", "3", "2", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "ingredients": "冬瓜: 300克 (切片)\n猪肉末: 100克\n冬菜: 1大汤匙\n盐: 适量\n食用油: 适量\n水: 适量",
+    "steps": [
+      {
+        "text": "【肉末腌制】：猪肉末中加入少许盐和食用油，用筷子搅拌均匀，码味腌制几分钟，使其在入汤时更加滑嫩入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_roumotang_step1.webp"
+      },
+      {
+        "text": "【处理冬瓜】：冬瓜削皮去瓤，切成均匀的薄片，用清水洗净后捞出，沥干水分备用。"
+      },
+      {
+        "text": "【炒冬瓜】：锅中倒入少量食用油烧热，下入切好的冬瓜片。转中火翻炒至冬瓜片两面微微发黄，炒出冬瓜的清香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_roumotang_step2.webp"
+      },
+      {
+        "text": "【加水调味】：在锅中加入适量盐，随后倒入足量清水，并加入一大汤匙冬菜提鲜。大火将汤水烧开。"
+      },
+      {
+        "text": "【下肉末煮熟】：待汤水完全沸腾后，将腌制好的肉末分散下入锅中。保持大火煮至肉末变色熟透，即可关火出锅享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_roumotang_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o2",
+    "name": "油泼刀削面",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/youpo_daoxiaomian.webp",
+    "brief": "面条劲道爽滑，蒜香与辣椒油香气扑鼻，酸辣开胃，是山西风味的经典面食。",
+    "categoryIds": ["28", "7", "2", "13", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge":["新"],
+    "ingredients": "刀削面（干或鲜）: 200克\n小油菜: 2-3棵\n小葱: 1根（切葱花）\n大蒜: 3瓣（切碎）\n生抽: 4汤匙\n陈醋: 2汤匙\n白糖: 1克\n麻油: 1汤匙\n香油: 1汤匙\n辣椒粉: 2汤匙（根据口味调整）\n食用油: 适量\n1人份",
+    "steps": [
+      {
+        "text": "【备菜】：小油菜洗净，小葱切葱花，大蒜切碎备用。"
+      },
+      {
+        "text": "【煮面与烫菜】：锅中烧开水，下入刀削面，煮至面条浮起、无硬芯（约5-8分钟，视面条厚度而定）。在面条快熟时，放入洗净的小油菜，烫约30秒至变软或断生，捞出沥干水分。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/youpo_daoxiaomian_step1.webp"
+      },
+      {
+        "text": "【调碗汁】：取一个大碗，加入生抽、陈醋、白糖、麻油和香油，搅拌均匀备用。"
+      },
+      {
+        "text": "【拌面】：将煮好的刀削面和烫好的油菜捞出，沥干水分后放入调好碗汁的大碗中，充分拌匀，使面条均匀裹上酱汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/youpo_daoxiaomian_step2.webp"
+      },
+      {
+        "text": "【撒料】：在拌好的面条上撒上辣椒粉、蒜末和葱花。注意要将辣椒粉和蒜末集中撒在面条表面，以便后续泼油能充分激发出香味。"
+      },
+      {
+        "text": "【泼油】：起锅烧油，将食用油烧至微微冒烟（约七成热）。将热油均匀地泼在辣椒粉、蒜末和葱花上，听到“滋啦”声后，趁热再次拌匀即可食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/youpo_daoxiaomian_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o1",
     "name": "公瑾抱蛋",
     "imageSrc": "https://shiyuji.xyz/img/recipes/gongjin_baodan.webp",
@@ -212,7 +307,6 @@
     "categoryIds": ["10", "2", "14"],
     "difficulty": "简单",
     "time": "10分钟",
-    "badge": ["新"],
     "ingredients": "厚切吐司片: 2-3片\n无盐黄油: 1小块 (约15克)\n蜂蜜: 1汤匙 (约15毫升)\n（可选装饰）糖粉/肉桂粉: 少许",
     "steps": [
       {
@@ -265,70 +359,6 @@
       {
         "text": "【出锅】：撒上葱花或香菜即可食用，汤汁清淡醇厚。",
         "imageSrc": "https://shiyuji.xyz/img/steps/qingdun_paigutang_step1.webp"
-      }
-    ]
-  },
-  {
-    "id": "v2b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o8",
-    "name": "冬瓜肉末汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/donggua_roumotang.webp",
-    "brief": "冬瓜清甜爽口，肉末鲜嫩多汁，搭配冬菜提鲜，汤头清鲜解腻，是一道简单快手的家常滚汤。",
-    "categoryIds": ["7", "3", "2"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "badge": ["新"],
-    "ingredients": "冬瓜: 300克 (切片)\n猪肉末: 100克\n冬菜: 1大汤匙\n盐: 适量\n食用油: 适量\n水: 适量",
-    "steps": [
-      {
-        "text": "【肉末腌制】：猪肉末中加入少许盐和食用油，用筷子搅拌均匀，码味腌制几分钟，使其在入汤时更加滑嫩入味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_roumotang_step1.webp"
-      },
-      {
-        "text": "【处理冬瓜】：冬瓜削皮去瓤，切成均匀的薄片，用清水洗净后捞出，沥干水分备用。"
-      },
-      {
-        "text": "【炒冬瓜】：锅中倒入少量食用油烧热，下入切好的冬瓜片。转中火翻炒至冬瓜片两面微微发黄，炒出冬瓜的清香味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_roumotang_step2.webp"
-      },
-      {
-        "text": "【加水调味】：在锅中加入适量盐，随后倒入足量清水，并加入一大汤匙冬菜提鲜。大火将汤水烧开。"
-      },
-      {
-        "text": "【下肉末煮熟】：待汤水完全沸腾后，将腌制好的肉末分散下入锅中。保持大火煮至肉末变色熟透，即可关火出锅享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/donggua_roumotang_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o2",
-    "name": "油泼刀削面",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/youpo_daoxiaomian.webp",
-    "brief": "面条劲道爽滑，蒜香与辣椒油香气扑鼻，酸辣开胃，是山西风味的经典面食。",
-    "categoryIds": ["28", "7", "2", "13", "11", "12"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "ingredients": "刀削面（干或鲜）: 200克\n小油菜: 2-3棵\n小葱: 1根（切葱花）\n大蒜: 3瓣（切碎）\n生抽: 4汤匙\n陈醋: 2汤匙\n白糖: 1克\n麻油: 1汤匙\n香油: 1汤匙\n辣椒粉: 2汤匙（根据口味调整）\n食用油: 适量\n1人份",
-    "steps": [
-      {
-        "text": "【备菜】：小油菜洗净，小葱切葱花，大蒜切碎备用。"
-      },
-      {
-        "text": "【煮面与烫菜】：锅中烧开水，下入刀削面，煮至面条浮起、无硬芯（约5-8分钟，视面条厚度而定）。在面条快熟时，放入洗净的小油菜，烫约30秒至变软或断生，捞出沥干水分。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/youpo_daoxiaomian_step1.webp"
-      },
-      {
-        "text": "【调碗汁】：取一个大碗，加入生抽、陈醋、白糖、麻油和香油，搅拌均匀备用。"
-      },
-      {
-        "text": "【拌面】：将煮好的刀削面和烫好的油菜捞出，沥干水分后放入调好碗汁的大碗中，充分拌匀，使面条均匀裹上酱汁。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/youpo_daoxiaomian_step2.webp"
-      },
-      {
-        "text": "【撒料】：在拌好的面条上撒上辣椒粉、蒜末和葱花。注意要将辣椒粉和蒜末集中撒在面条表面，以便后续泼油能充分激发出香味。"
-      },
-      {
-        "text": "【泼油】：起锅烧油，将食用油烧至微微冒烟（约七成热）。将热油均匀地泼在辣椒粉、蒜末和葱花上，听到“滋啦”声后，趁热再次拌匀即可食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/youpo_daoxiaomian_step3.webp"
       }
     ]
   },
@@ -600,7 +630,7 @@
     "categoryIds": ["2", "7", "11", "20"],
     "difficulty": "简单",
     "time": "25分钟",
-    "badge": ["新"],
+    "badge": ["热"],
     "ingredients": "鸡腿/鸡翅: 500克 (切块)\n葱段: 1把\n姜片: 8片\n食用油: 1/4碗\n生抽: 2汤匙\n老抽: 1汤匙\n淀粉 1茶匙\n食用油 适量\n料酒: 1汤匙\n糖: 1茶匙\n水: 半碗",
     "steps": [
       {
@@ -631,7 +661,6 @@
     "categoryIds": ["7", "2", "20"],
     "difficulty": "简单",
     "time": "25分钟（不含腌制时间）",
-    "badge": ["新"],
     "ingredients": "梅头肉: 1000克（2斤，去肥肉切片）\n生抽: 5-6汤匙\n蚝油: 1汤匙\n老抽: 适量\n白糖: 适量\n黑胡椒: 适量\n玉米淀粉: 适量\n食用油: 适量（锁水用，另备煎制用油）",
     "steps": [
       {
@@ -666,7 +695,6 @@
     "categoryIds": ["7", "2", "28", "12"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["热"],
     "ingredients": "年糕片: 200克\n猪肉（五花肉或前腿肉）: 100克\n蒜头: 2瓣\n干辣椒: 2个\n白菜: 3片（梗叶分开）\n葱段: 适量\n生抽: 1汤匙\n老抽: 1/2茶匙\n盐: 适量\n鸡精: 少许\n清水: 适量\n食用油: 适量",
     "steps": [
       {
@@ -5706,6 +5734,47 @@
     ]
   },
   {
+    "id": "e4j7i6h5-h5i6-8o9p-q0r1-s2t3u4v5w6x8",
+    "name": "家常版烤鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/kaoyu.webp",
+    "brief": "不用烤箱的家常烤鱼，鱼肉外焦里嫩，麻辣鲜香，搭配丰富配菜，一锅出超满足。",
+    "categoryIds": ["5", "7", "12", "20"],
+    "difficulty": "中等",
+    "time": "50分钟",
+    "ingredients": "鲈鱼: 1条（约750克）\n土豆: 1个（切片）\n豆腐: 1方块（切厚片）\n金针菇/香菇: 100克\n火锅底料: 50克\n干辣椒: 10克\n生姜: 1块（切片）\n大蒜: 5瓣（切碎）\n料酒: 2汤匙\n生抽: 2汤匙\n盐: 1茶匙\n糖: 1茶匙\n鸡精: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理鱼身】：鱼去内脏、刮去鳞片，洗净，在鱼身两面各划几刀，便于入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step1.webp"
+      },
+      {
+        "text": "【腌制去腥】：鱼身内外撒少许盐，淋上料酒和生抽，鱼腹和底部铺上姜丝，腌制30分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step2.webp"
+      },
+      {
+        "text": "【准备配菜】：土豆去皮切片，豆腐切厚片，菌菇洗净撕开，其他喜欢的蔬菜一并备好。"
+      },
+      {
+        "text": "【煎鱼定型】：锅中加足量油烧至冒烟，放入腌好的鱼(鱼最好用厨房纸吸一下水分，不然会溅油)，中火慢煎。不要过早翻动，可轻轻晃动锅子防止粘底。煎至两面金黄后捞出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step3.webp"
+      },
+      {
+        "text": "【炒制底料】：另起锅加新油，放入干辣椒、姜片、大蒜和火锅底料，小火炒1分钟至红油析出、香味扑鼻。"
+      },
+      {
+        "text": "【煮汤调味】：锅中倒入一碗清水（约400毫升），大火煮开，加入盐、糖、鸡精和生抽调味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step4.webp"
+      },
+      {
+        "text": "【下配菜和鱼】：先下入土豆片、豆腐等耐煮的蔬菜，煮至变软，再放入菌菇和煎好的鱼，继续煮5-8分钟至鱼熟透、配菜入味。"
+      },
+      {
+        "text": "【出锅装盘】：连汤带料倒入大碗中，撒上香菜或葱花即可上桌。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step5.webp"
+      }
+    ]
+  },
+  {
     "id": "f5k8j7i6-i6j7-9p0q-r1s2-t3u4v5w6x7y8",
     "name": "香芒糯米饭",
     "imageSrc":"https://shiyuji.xyz/img/recipes/xiangmang_nuomifan.webp",
@@ -9090,7 +9159,7 @@
     ],
     "difficulty": "简单",
     "time": "20分钟",
-    "ingredients": "铁棍山药 400克\n黑木耳 10克 (干品)\n胡萝卜 50克\n葱 少量 (切段)\n姜 2片\n盐 1/2茶匙 (3克)\n食用油 适量",
+    "ingredients": "铁棍山药 400克\n黑木耳 10克 (干品)\n胡萝卜 小半根\n葱 少量 (切段)\n姜 2片\n盐 1/2茶匙 (3克)\n食用油 适量\n2~3人份",
     "steps": [
       
       {
@@ -9107,7 +9176,7 @@
         "text":"【爆香翻炒】：锅中热油，放入葱段和姜片爆香约30秒，放入胡萝卜片翻炒至变色（约1分钟）。"
       },
       {
-        "text":"【合炒调味】：倒入焯水后的山药片和木耳，大火快速翻炒2分钟，加入盐调味，翻炒均匀即可出锅。",
+        "text":"【合炒调味】：倒入焯水后的山药片和木耳，大火快速翻炒2分钟，加入盐调味，翻炒均匀即可出锅。（喜欢口感软的可以多炒一会）",
         "imageSrc":"https://shiyuji.xyz/img/steps/qingchao_shanyao_muer_step2.webp"
       }
     ]
