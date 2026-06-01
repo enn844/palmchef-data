@@ -4325,7 +4325,7 @@
     ],
     "difficulty": "简单",
     "time": "15分钟",
-    "ingredients": "普通基围虾: 10只\n姜片: 3片\n葱段: 适量 (约2段)\n料酒: 1茶匙 (约5毫升)\n【蘸料】：生抽 1汤匙（15毫升）、香油 1/3茶匙、新鲜姜丝 适量\n1人份",
+    "ingredients": "普通基围虾: 10只\n姜片: 3片\n葱段: 适量 (约2段)\n料酒: 1茶匙 (约5毫升)\n生抽 1汤匙（15毫升）\n香油 1/3茶匙\n新鲜姜丝 适量\n1人份",
     "steps": [ 
       {
         "text":"【前期备菜】：新鲜活虾剪去虾须和虾枪，用清水冲洗干净，沥干水分。准备好焯水用的姜片和葱段。"
@@ -7352,7 +7352,75 @@
       }
     ]
   },
-  
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251235100",
+    "name": "烧腐竹",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shaofuzhu.webp",
+    "brief": "腐竹软韧入味，木耳脆爽，搭配青椒胡萝卜，酱汁浓郁咸香，是一道简单快手的家常素菜。",
+    "categoryIds": ["4", "7", "2", "31", "11"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": [],
+    "ingredients": "干腐竹: 100克\n干木耳: 10克\n青椒: 1个 (切丝)\n胡萝卜: 半根 (切丝)\n蚝油: 1汤匙\n酱油: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n玉米淀粉: 1汤匙\n清水: 半碗\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【泡发腐竹木耳】：干腐竹和干木耳提前用冷水浸泡4-6小时，至完全泡发无硬芯。泡发后洗净，腐竹切段，木耳撕成小朵。"
+      },
+      {
+        "text": "【焯水】：锅中烧开水，放入腐竹和木耳焯水1-2分钟，捞出沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step1.webp"
+      },
+      {
+        "text": "【备菜切丝】：青椒去籽切丝，胡萝卜去皮切丝备用。"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，加入蚝油、酱油、盐、白糖、玉米淀粉和半碗清水，搅拌均匀调成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step2.webp"
+      },
+      {
+        "text": "【翻炒配菜】：起锅烧油，油热后下入青椒丝和胡萝卜丝，中火翻炒至变软或断生。"
+      },
+      {
+        "text": "【合炒出锅】：放入焯好水的腐竹和木耳，翻炒几下后倒入调好的酱汁，大火快速翻炒至所有食材均匀挂上酱汁，汤汁浓稠后关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "7d4a1b8e-b3c3-4f7d-a9e0-9d10e2f8g3d5",
+    "name": "肉末豆角",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_doujiao.webp",
+    "brief": "豆角脆嫩入味，肉末咸香下饭，搭配胡萝卜增加清甜，是一道家常又美味的下饭菜。",
+    "categoryIds": ["7", "2", "20", "31"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "豆角: 20根\n猪肉末: 200克\n胡萝卜: 半根\n小米椒: 1个\n洋葱: 2-3片\n蚝油: 1滴\n生抽: 适量\n老抽: 适量\n料酒: 适量\n盐: 适量\n白糖: 适量\n味精: 少许\n猪油: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜切配】：豆角洗净，切成小丁。胡萝卜去皮切丁，洋葱切丁，小米椒切圈备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step1.webp"
+      },
+      {
+        "text": "【肉末煸炒】：热锅下猪油，油热后放入猪肉末翻炒至变色，继续煸炒至肉末呈金黄色。滴入1滴蚝油、适量生抽和老抽，炒匀后盛出备用。"
+      },
+      {
+        "text": "【豆角焯水】：锅中烧开水，放入豆角丁焯水2-3分钟至断生，捞出沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step2.webp"
+      },
+      {
+        "text": "【爆香配菜】：锅中加油烧热，放入洋葱丁爆香，然后加入胡萝卜丁翻炒半分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step3.webp"
+      },
+      {
+        "text": "【炒熟豆角】：加入焯好水的豆角丁，翻炒均匀。加入适量盐和白糖，少量多次加入开水翻炒，直到豆角呈半透明状（豆角一定要炒熟才能去除毒性）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step4.webp"
+      },
+      {
+        "text": "【合炒出锅】：加入炒好的肉末和小米椒圈，沿锅边淋入料酒，继续翻炒片刻。最后加入少许味精，翻炒均匀即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step5.webp"
+      }
+    ]
+  },
   {
     "id": "9f6c5d4b-d4e5-6h7i-j8k9-l0m1n2p3q4r5",
     "name": "清蒸鲈鱼",
