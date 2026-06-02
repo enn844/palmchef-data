@@ -4,6 +4,13 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "e8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
+        "imageSrc": "https://shiyuji.xyz/img/article/xiari_xiaoshu.webp",
+        "title": "夏日消暑，最赞不过一碗“神仙汤”",
+        "brief": "什么肥宅快乐水，都得往后靠。丢掉让你转眼燥热的冰镇可乐，配料表干净得只有草木和水，喝出夏天的最高腔调。",
+        "webUrl": "https://health-app.com/articles/xiah-xianshuang-tang-001"
+      },
+      {
         "id": "manxing_yanzheng",
         "imageSrc": "https://shiyuji.xyz/img/article/manxing_yanzheng.webp",
         "title": "体内的“无声之火”：慢性炎症，是一场波及全身的隐形负债",

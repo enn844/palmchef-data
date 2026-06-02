@@ -12086,5 +12086,31 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step2.webp"
       }
     ]
+  },
+  {
+    "id": "f8f2c7a1-9c4f-4e6f-8a2c-1d3e5b7f9a3d",
+    "name": "古法乌梅消暑汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/wumei_xiaoshutang.webp",
+    "brief": "用干净的草木之风，洗净夏日身心的黏腻与烦躁。酸甜适口，生津止渴，解暑开胃。",
+    "categoryIds": ["3", "25", "14"],
+    "difficulty": "简单",
+    "time": "40分钟",
+    "badge": ["荐"],
+    "ingredients": "乌梅（药店售乌梅肉）: 20克（约5粒）\n山楂干: 15克（约10片）\n甘草: 3克（约3片）\n陈皮: 3克\n干桂花: 1克\n冰糖: 30克\n纯净水: 1200毫升\n2-3人份",
+    "steps": [
+      {
+        "text": "【草本浸润】：将乌梅、山楂干、甘草、陈皮用流动水冲洗掉浮尘，随后放入清水中浸泡15分钟，让草木舒展，利于析出风味。"
+      },
+      {
+        "text": "【文火慢笃】：将浸泡好的食材连同水一起倒入砂锅或养生壶中，大火煮沸后，转小火慢炖（或按下养生壶的“花草茶”键）慢熬30分钟。"
+      },
+      {
+        "text": "【冰糖点睛】：在关火前5分钟放入黄冰糖，搅拌至完全融化。"
+      },
+      {
+        "text": "【桂花留香】：关火后，趁热撒入干桂花，盖上盖子焖2分钟。晾至微温或常温即可倒出饮用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wumei_xiaoshutang_step1.webp"
+      }
+    ]
   }
 ]
