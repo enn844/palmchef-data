@@ -1,5 +1,178 @@
 [
   {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251235100",
+    "name": "烧腐竹",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shaofuzhu.webp",
+    "brief": "腐竹软韧入味，木耳脆爽，搭配青椒胡萝卜，酱汁浓郁咸香，是一道简单快手的家常素菜。",
+    "categoryIds": ["4", "7", "2", "31", "11"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "ingredients": "干腐竹: 100克\n干木耳: 10克\n青椒: 1个 (切丝)\n胡萝卜: 半根 (切丝)\n蚝油: 1汤匙\n酱油: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n玉米淀粉: 1汤匙\n清水: 半碗\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【泡发腐竹木耳】：干腐竹和干木耳提前用冷水浸泡4-6小时，至完全泡发无硬芯。泡发后洗净，腐竹切段，木耳撕成小朵。"
+      },
+      {
+        "text": "【焯水】：锅中烧开水，放入腐竹和木耳焯水1-2分钟，捞出沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step1.webp"
+      },
+      {
+        "text": "【备菜切丝】：青椒去籽切丝，胡萝卜去皮切丝备用。"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，加入蚝油、酱油、盐、白糖、玉米淀粉和半碗清水，搅拌均匀调成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step2.webp"
+      },
+      {
+        "text": "【翻炒配菜】：起锅烧油，油热后下入青椒丝和胡萝卜丝，中火翻炒至变软或断生。"
+      },
+      {
+        "text": "【合炒出锅】：放入焯好水的腐竹和木耳，翻炒几下后倒入调好的酱汁，大火快速翻炒至所有食材均匀挂上酱汁，汤汁浓稠后关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "7d4a1b8e-b3c3-4f7d-a9e0-9d10e2f8g3d5",
+    "name": "肉末豆角",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_doujiao.webp",
+    "brief": "豆角脆嫩入味，肉末咸香下饭，搭配胡萝卜增加清甜，是一道家常又美味的下饭菜。",
+    "categoryIds": ["7", "2", "20", "31"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "ingredients": "豆角: 20根\n猪肉末: 200克\n胡萝卜: 半根\n小米椒: 1个\n洋葱: 2-3片\n蚝油: 1滴\n生抽: 适量\n老抽: 适量\n料酒: 适量\n盐: 适量\n白糖: 适量\n味精: 少许\n猪油: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜切配】：豆角洗净，切成小丁。胡萝卜去皮切丁，洋葱切丁，小米椒切圈备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step1.webp"
+      },
+      {
+        "text": "【肉末煸炒】：热锅下猪油，油热后放入猪肉末翻炒至变色，继续煸炒至肉末呈金黄色。滴入1滴蚝油、适量生抽和老抽，炒匀后盛出备用。"
+      },
+      {
+        "text": "【豆角焯水】：锅中烧开水，放入豆角丁焯水2-3分钟至断生，捞出沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step2.webp"
+      },
+      {
+        "text": "【爆香配菜】：锅中加油烧热，放入洋葱丁爆香，然后加入胡萝卜丁翻炒半分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step3.webp"
+      },
+      {
+        "text": "【炒熟豆角】：加入焯好水的豆角丁，翻炒均匀。加入适量盐和白糖，少量多次加入开水翻炒，直到豆角呈半透明状（豆角一定要炒熟才能去除毒性）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step4.webp"
+      },
+      {
+        "text": "【合炒出锅】：加入炒好的肉末和小米椒圈，沿锅边淋入料酒，继续翻炒片刻。最后加入少许味精，翻炒均匀即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "e4j7i6h5-h5i6-8o9p-q0r1-s2t3u4v5w6x8",
+    "name": "家常版烤鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/kaoyu.webp",
+    "brief": "不用烤箱的家常烤鱼，鱼肉外焦里嫩，麻辣鲜香，搭配丰富配菜，一锅出超满足。",
+    "categoryIds": ["5", "7", "12", "20"],
+    "difficulty": "中等",
+    "time": "50分钟",
+    "badge": ["荐"],
+    "ingredients": "鲈鱼: 1条（约750克）\n土豆: 1个（切片）\n豆腐: 1方块（切厚片）\n金针菇/香菇: 100克\n火锅底料: 50克\n干辣椒: 10克\n生姜: 1块（切片）\n大蒜: 5瓣（切碎）\n料酒: 2汤匙\n生抽: 2汤匙\n盐: 1茶匙\n糖: 1茶匙\n鸡精: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理鱼身】：鱼去内脏、刮去鳞片，洗净，在鱼身两面各划几刀，便于入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step1.webp"
+      },
+      {
+        "text": "【腌制去腥】：鱼身内外撒少许盐，淋上料酒和生抽，鱼腹和底部铺上姜丝，腌制30分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step2.webp"
+      },
+      {
+        "text": "【准备配菜】：土豆去皮切片，豆腐切厚片，菌菇洗净撕开，其他喜欢的蔬菜一并备好。"
+      },
+      {
+        "text": "【煎鱼定型】：锅中加足量油烧至冒烟，放入腌好的鱼(鱼最好用厨房纸吸一下水分，不然会溅油)，中火慢煎。不要过早翻动，可轻轻晃动锅子防止粘底。煎至两面金黄后捞出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step3.webp"
+      },
+      {
+        "text": "【炒制底料】：另起锅加新油，放入干辣椒、姜片、大蒜和火锅底料，小火炒1分钟至红油析出、香味扑鼻。"
+      },
+      {
+        "text": "【煮汤调味】：锅中倒入一碗清水（约400毫升），大火煮开，加入盐、糖、鸡精和生抽调味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step4.webp"
+      },
+      {
+        "text": "【下配菜和鱼】：先下入土豆片、豆腐等耐煮的蔬菜，煮至变软，再放入菌菇和煎好的鱼，继续煮5-8分钟至鱼熟透、配菜入味。"
+      },
+      {
+        "text": "【出锅装盘】：连汤带料倒入大碗中，撒上香菜或葱花即可上桌。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "d81e1a80-1736-4074-a0e4-b7b251235000",
+    "name": "椒盐猪大排",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_zhupai.webp",
+    "brief": "外酥里嫩，肉香多汁，椒盐味浓郁，是一道经典的家常炸物，趁热吃口感最佳。",
+    "categoryIds": ["7", "20", "2", "11"],
+    "difficulty": "中等",
+    "time": "50分钟（不含腌制时间）",
+    "ingredients": "猪大排: 4片\n盐: 适量\n料酒: 2汤匙\n姜片: 4片\n面粉: 100克\n鸡蛋: 2个\n小苏打: 2克\n水: 适量\n食用油: 适量\n椒盐粉: 适量",
+    "steps": [
+      {
+        "text": "【拍松腌制】：猪大排洗净，用刀背在正反两面轻轻交叉剁剁，使肉质松软。然后正反面撒上适量盐，淋上料酒，放上姜片，抓匀后放入冰箱冷藏腌制4-5小时，让大排充分入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step1.webp"
+      },
+      {
+        "text": "【调制炸糊】：取一个大碗，加入面粉、鸡蛋、小苏打，分次加入少量水，用筷子或打蛋器搅拌均匀，调至面糊顺滑、无干粉结块，且舀起后滴落流速缓慢、呈浓稠酸奶状即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step2.webp"
+      },
+      {
+        "text": "【裹糊】：从冰箱取出腌制好的猪大排，取一片放入调好的面糊中，两面均匀裹满面糊，提起大排让多余的面糊自然滴落。"
+      },
+      {
+        "text": "【慢炸定型】：锅中倒入足量食用油（能没过猪大排为宜），烧至四五成热（约150°C，油面微微波动，筷子插入冒细密小泡）。放入裹好面糊的猪大排，小火慢炸，炸至底面金黄定型后翻面，继续炸另一面，直至两面均呈金黄色、外壳酥脆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step3.webp"
+      },
+      {
+        "text": "【撒料出锅】：将炸好的猪大排捞出，放在吸油纸上沥去多余油分。趁热均匀撒上椒盐粉，即可切块或整块食用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "e5j7i6h5-h5i6-8o9p-q0r1-s2t3u4v5w6x7",
+    "name": "小炒藕丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_ouding.webp",
+    "brief": "清脆爽口，香辣开胃，莲藕丁经过焯水后脆嫩多汁，搭配小米椒和蒜末爆炒，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["31", "7", "2", "11", "12"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "ingredients": "莲藕: 1节（约300克）\n小葱: 2根（切段）\n小米椒: 2个（切圆圈）\n大蒜: 3瓣（切末）\n老抽: 1小勺\n生抽: 2小勺\n蚝油: 大半勺\n盐: 少许\n白糖: 少许\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：莲藕去皮洗净，切成大小均匀的小丁。小葱切段，小米椒切圆圈，大蒜切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step1.webp"
+      },
+      {
+        "text": "【藕丁焯水】：锅中烧开水，放入藕丁焯水2分钟，捞出沥干水分备用。焯水能去除藕丁的涩味，同时保持清脆口感。"
+      },
+      {
+        "text": "【爆香调料】：锅中倒入适量食用油，油热后放入葱段、小米椒圈和蒜末，保持中小火炒约1分钟，煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step2.webp"
+      },
+      {
+        "text": "【加入藕丁】：将焯好水的藕丁倒入锅中，转大火快速翻炒均匀。"
+      },
+      {
+        "text": "【调味出锅】：加入老抽、生抽、蚝油、少许盐和白糖，转大火继续翻炒2分钟，使藕丁充分入味上色，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "v3b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o2",
     "name": "糖醋排骨",
     "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_paigu.webp",
@@ -213,40 +386,6 @@
       {
         "text": "【收汁出锅】：转大火收汁，待汤汁浓稠并均匀包裹在响铃卷上时，关火。撒上葱花即可出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_xianglingjuan_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "zha-qie-he-2024-001",
-    "name": "炸茄盒",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qiehe.webp",
-    "brief": "外焦里嫩，鲜香适口，茄子夹着蘑菇鸡蛋馅，裹上面包渣炸至金黄，口感酥脆。",
-    "categoryIds": [
-      "7",
-      "2",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "35分钟",
-    "badge": ["热"],
-    "ingredients": "茄子: 400克\n蘑菇: 50克\n洋葱: 25克\n面粉: 25克\n鸡蛋: 3个\n面包渣: 75克\n香菜: 13克\n植物油: 125克\n精盐: 适量\n胡椒面: 适量",
-    "steps": [
-      {
-        "text": "【备菜处理】：茄子洗净削皮，一切两开，将一半放平（凸部向上），用刀切下但不切断，形成夹层。洋葱去皮切成细末；蘑菇洗净切碎末；香菜洗净切碎末。鸡蛋2个打散备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step1.webp"
-      },
-      {
-        "text": "【炒制馅料】：煎盘烧热倒入适量植物油，油热后下入洋葱末炒香，加入蘑菇碎末翻炒，倒入打散的2个鸡蛋液，撒上精盐和胡椒面，快速翻炒成馅料，盛出晾凉待用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step2.webp"
-      },
-      {
-        "text": "【填馅裹粉】：将切好的茄子夹层掰开，用餐刀把炒好的馅料均匀抹入。全部抹完后撒上少许盐和胡椒面，先蘸上一层面粉，再在剩余1个打散的鸡蛋液中蘸匀，最后捞出放到面包渣上，用双手轻轻压实，使面包渣均匀裹住茄子。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step3.webp"
-        
-      },
-      {
-        "text": "【炸制出锅】：炸锅烧热倒入足量植物油，烧至油起烟时（约七成热），下入裹好面包渣的茄子，中火炸至两面金黄酥脆。如内部未完全熟透，可放入预热好的烤炉中烘烤片刻，即可取出食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step4.webp"
       }
     ]
   },
@@ -530,37 +669,6 @@
     ]
   },
   {
-    "id": "k0p3o2n1-n1o2-4u5v-w6x7-y8z9a0b1c2d3",
-    "name": "香椿炒鸡蛋",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/xiangchun_chaojidan.webp",
-    "brief": "香椿独特的清香与鸡蛋的鲜嫩完美结合，春季时令的美味。",
-    "categoryIds": ["24","11",
-      "25",
-      "7",
-      "18"
-    ],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "新鲜香椿芽 100克\n鸡蛋 3个\n盐 适量\n食用油 适量",
-    "steps": [
-      
-      {
-        "text": "【处理香椿】：香椿芽洗净，放入沸水中焯水30秒，去除亚硝酸盐和涩味。捞出沥干水分，切碎。"
-      },
-      {
-        "text": "【打蛋】：鸡蛋打散，加入切碎的香椿芽和适量盐，搅拌均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step1.webp"
-      },
-      {
-        "text": "【炒制】：锅中放油烧热，倒入混合好的蛋液。快速划散，炒至蛋液凝固，香椿香味散发。"
-      },
-      {
-        "text": "【出锅】：炒至鸡蛋金黄蓬松即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangchun_chaojidan_step2.webp"
-      }
-    ]
-  },
-  {
     "id": "cheese-ham-toast-001",
     "name": "芝士火腿葱香岩烧吐司",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhishi_huotui_tusi.webp",
@@ -591,38 +699,6 @@
       }
     ]
   },
-  {
-    "id": "xia-hua-niang-kou-mo-001",
-    "name": "虾滑酿口蘑",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_koumo.webp",
-    "brief": "口蘑的鲜嫩多汁与虾滑的Q弹完美结合，每一口都是鲜美的迸发，造型精致且老少皆宜。",
-    "categoryIds": ["7", "2", "30", "12"],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "badge": ["热"],
-    "ingredients": "口蘑: 12个（大小均匀）\n虾滑: 150克（成品或自制）\n胡萝卜: 1小段（约20克，切碎）\n豌豆粒: 适量（装饰用）\n生抽: 1汤匙\n蚝油: 1茶匙\n水淀粉: 1汤匙淀粉加3汤匙水\n葱花: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【前期备菜】：口蘑洗净，用手轻轻掰去口蘑蒂（保留完整蘑菇伞状），用厨房纸吸干内部水分。胡萝卜切碎末，与虾滑混合拌匀，增加口感与色彩。"
-      },
-      {
-        "text": "【酿制虾滑】：将混合好的虾滑填入每个口蘑的凹陷处，用勺子抹平表面，顶部轻轻按压一颗豌豆粒做装饰。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step1.webp"
-      },
-      {
-        "text": "【煎制定型】：平底锅倒少量油，烧至五成热。将酿好的口蘑虾滑面朝下放入锅中，中小火煎2分钟，至虾滑表面金黄定型后翻面。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step2.webp"
-      },
-      {
-        "text": "【焖煮入味】：翻面后，沿锅边淋入生抽、蚝油和少许清水（约50毫升），盖上锅盖，中小火焖煮3-4分钟，让口蘑充分吸收汤汁并熟透。"
-      },
-      {
-        "text": "【勾芡出锅】：将口蘑盛出摆盘。锅中剩余汤汁烧开，淋入水淀粉勾薄芡，待汤汁浓稠后，均匀浇在虾滑酿口蘑上，撒上葱花即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_koumo_step3.webp"
-      }
-    ]
-  },
-
   {
     "id": "d91e1a80-1736-4074-a0e4-b7b251234999",
     "name": "葱香焖鸡",
@@ -883,54 +959,6 @@
       {
         "text": "【出锅装盘】：所有食材翻炒均匀，入味后即可关火出锅。全程大火快炒，保持青红椒的清脆口感和鲜艳色泽。",
         "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1836-4074-a0e4-b7b251234995",
-    "name": "巴斯克蛋糕",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/basike_dangao.webp",
-    "brief": "起源于西班牙巴斯克地区的标志性蛋糕，表面焦黑粗犷，内芯细腻顺滑，芝士香气浓郁，入口即化。",
-    "categoryIds": ["14", "22"],
-    "difficulty": "中等",
-    "time": "50分钟 (不含冷藏)",
-    "badge": ["热"],
-    "ingredients": "奶油奶酪: 250克 (提前30分钟从冰箱取出软化)\n细砂糖: 60克\n鸡蛋: 2个\n蛋黄: 1个\n淡奶油: 120克\n玉米淀粉或低筋面粉: 10克",
-    "steps": [
-      {
-        "text": "【准备模具】：取一张大于6寸模具的油纸，铺在模具内，整理油纸使其贴合模具底部和四周，超出模具的部分可以向下折或撕掉，备用。烤箱开始预热至220°C。"
-      },
-      {
-        "text": "【软化奶酪】：奶油奶酪提前30分钟从冰箱取出、室温软化、将软化好奶油奶酪放入大碗中，用打蛋器搅拌至顺滑无颗粒的状态。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step1.webp"
-      },
-      {
-        "text": "【混合糖与奶酪】：将细砂糖加入奶酪糊中，继续用打蛋器搅拌均匀，直至糖完全融化，奶酪糊变得顺滑细腻。"
-      },
-      {
-        "text": "【分次加入蛋液】：将2个鸡蛋和1个蛋黄打散成蛋液。分少量多次地将蛋液加入奶酪糊中，每次加入后都要充分搅拌均匀，避免出现分离或结块，直到所有蛋液加完，面糊呈现顺滑状态。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step2.webp"
-      },
-      {
-        "text": "【加入淡奶油】：将淡奶油一点点地加入奶酪糊中，一边加一边不停搅拌，防止结块，直到完全混合，面糊顺滑细腻。"
-      },
-      {
-        "text": "【加入粉类】：将玉米淀粉或低筋面粉过筛后加入奶酪糊中，用打蛋器搅拌均匀，蛋糕糊即制作完成。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step3.webp"
-      },
-      {
-        "text": "【过筛入模】：将蛋糕糊过筛一遍，倒入铺好油纸的6寸活底模具中，轻轻震几下震出大气泡，用刮刀将表面刮平。"
-      },
-      {
-        "text": "【烘烤】：将模具放入预热好的烤箱中层，以220°C烘烤20-25分钟。烘烤过程中需观察表面上色情况，边缘焦黑、中心轻微晃动为最佳状态，不要烤得太焦。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step4.webp"
-      },
-      {
-        "text": "【冷却定型】：烤完后从烤箱取出，室温放凉至完全冷却。蛋糕中心会自然凹陷，这是正常现象。"
-      },
-      {
-        "text": "【冷藏享用】：将完全冷却的巴斯克蛋糕放入冰箱，冷藏过夜（至少4小时）。冷藏后口感更佳，切块即可食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/basike_dangao_step5.webp"
       }
     ]
   },
