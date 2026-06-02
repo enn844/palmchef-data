@@ -4,6 +4,13 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "xiari_lengyin",
+        "imageSrc": "https://shiyuji.xyz/img/article/xiari_lengyin.webp",
+        "title": "越喝冰水越热？揭开夏日“冷饮陷阱”的真相",
+        "brief": "夏日冰饮的瞬时快感背后，竟是越喝越渴的恶性循环？为你拆解中医“冬病夏治”与“以热制热”的科学逻辑，回归无冰夏日的清爽舒畅。",
+        "webUrl": "https://health-app.com/articles/xiari-lengyin-trap-001"
+      },
+      {
         "id": "xiari_xiaoshu",
         "imageSrc": "https://shiyuji.xyz/img/article/xiari_xiaoshu.webp",
         "title": "夏日消暑，最赞不过一碗“神仙汤”",
