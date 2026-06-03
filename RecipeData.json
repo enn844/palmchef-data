@@ -12143,5 +12143,79 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/chenpi_laojiang_menzaiji_step3.webp"
       }
     ]
+  },
+  {
+    "id": "f8f2c7a2-9c4f-4e6f-8a2c-1d3e5b7f9a4d",
+    "name": "爆炒鸭血",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_yaxue.webp",
+    "brief": "鸭血嫩滑入味，鲜辣开胃，蒜香浓郁，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "12"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "ingredients": "鸭血: 300克\n大蒜叶: 2根\n青椒: 1个\n红椒: 1个\n葱: 1根\n姜: 3片\n蒜: 3瓣 \n料酒: 约20ml\n盐: 1茶匙\n生抽: 1汤匙\n老抽: 1/2汤匙\n白糖: 1/2茶匙\n白胡椒粉: 1/2茶匙\n辣椒粉: 1茶匙\n清水: 半碗\n水淀粉: 1汤匙 (1茶匙淀粉 + 2汤匙水)\n食用油: 适量\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【备菜处理】：鸭血洗净，切成约1厘米厚的片。大蒜叶洗净切段，青红椒切圈，葱切段，姜切丝，蒜切片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step1.webp"
+      },
+      {
+        "text": "【鸭血焯水】：锅中加入足量清水，放入1汤匙料酒、1茶匙盐、葱段和姜丝，大火烧开。水开后下入鸭血片，焯水2分钟，捞出沥干水分备用。焯水可有效去除鸭血的腥味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step2.webp"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，加入生抽、老抽、1茶匙料酒、白糖、白胡椒粉、辣椒粉和半碗清水，用勺子搅拌均匀，调成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step3.webp"
+      },
+      {
+        "text": "【爆香底料】：锅中倒入适量食用油，烧热后放入姜丝、蒜片和青红辣椒圈，中火爆炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step4.webp"
+      },
+      {
+        "text": "【煮制鸭血】：将调好的酱汁倒入锅中，大火烧开。然后加入焯好水的鸭血片，转中火煮3分钟左右，让鸭血充分入味。"
+      },
+      {
+        "text": "【加入蒜叶】：将大蒜叶段放入锅中，快速翻炒至大蒜叶子断生（约30秒）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step5.webp"
+      },
+      {
+        "text": "【勾芡出锅】：将调好的水淀粉再次搅匀，淋入锅中，大火快速翻炒几下，待汤汁浓稠均匀包裹在鸭血上即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step6.webp"
+      }
+    ]
+  },
+  {
+    "id": "f8f2c7a1-9c4f-4e6f-8a3c-1d3e5b7f9a4d",
+    "name": "心情饭团",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xinqing_fanntuan.webp",
+    "brief": "根据自己喜好随心搭配食材，培根咸香、黄瓜清脆、胡萝卜清甜、土豆软糯，裹上紫菜与香油，捏成喜欢的形状，是充满乐趣的懒人便当。",
+    "categoryIds": ["28", "7", "2", "11", "33"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "ingredients": "培根: 3片（约60克，可选）\n黄瓜: 半根（约80克，可选）\n胡萝卜: 半根（约60克，可选）\n土豆: 1个（约150克，切丁）\n紫菜（海苔片）: 2大张\n香油: 1汤匙（刷紫菜用）\n食用油: 适量（炒料用）\n盐: 适量\n米饭: 2碗（约400克，温热）\n2人份",
+    "steps": [
+      {
+        "text": "【食材切丁】：培根、黄瓜、胡萝卜、土豆分别洗净，切成大小均匀的小丁（约0.5-1厘米见方）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fanntuan_step1.webp"
+      },
+      {
+        "text": "【炒制馅料】：锅中倒入适量食用油，油热后先下入土豆丁，中火翻炒至表面微黄、边缘透明。然后加入胡萝卜丁和培根丁，继续翻炒至培根出油、胡萝卜变软，撒入适量盐调味，炒匀后盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fanntuan_step2.webp"
+      },
+      {
+        "text": "【烤紫菜】：平底锅烧热（不放油），将紫菜片放入锅中，小火烘烤约30秒至1分钟，至紫菜变脆、颜色略深。注意勤翻面，避免烤焦。"
+      },
+      {
+        "text": "【刷香油】：用小刷子蘸取香油，均匀刷在烤好的紫菜两面，然后出锅放在案板上，用剪刀剪成小方片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mood_onigiri_step2.webp"
+      },
+      {
+        "text": "【混合拌匀】：取一个大碗，放入温热的米饭、炒好的馅料（培根土豆胡萝卜丁）和切好的紫菜片，用饭勺充分翻拌均匀，让所有材料分布均匀。"
+      },
+      {
+        "text": "【整形装盘】：戴上一次性手套（或手上沾少许水防粘），取适量混合好的饭团材料，用手捏成自己喜欢的形状（三角形、圆形、球形均可），要压实。依次做好所有饭团，即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mood_onigiri_step3.webp"
+      }
+    ]
   }
 ]

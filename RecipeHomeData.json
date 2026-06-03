@@ -1,5 +1,103 @@
 [
   {
+    "id": "e8f2c7a1-9b4d-4e6f-8a2c-1d3e5b7f9a3d",
+    "name": "鱼香鸡蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiang_jidan.webp",
+    "brief": "酸甜微辣，鸡蛋嫩滑，木耳爽脆，是一道下饭又快手的家常素菜。",
+    "categoryIds": ["7", "2", "4", "11", "5"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "ingredients": "鸡蛋: 3个\n胡萝卜: 1根（约80克，切丝，提前焯熟）\n干木耳: 10克（提前泡发煮熟，切丝）\n青椒: 1个（切丝）\n郫县豆瓣酱: 1汤匙\n葱末: 10克\n姜末: 5克\n蒜末: 15克\n生抽: 1汤匙\n老抽: 1/2茶匙\n蚝油: 1/2汤匙\n陈醋: 1汤匙\n白糖: 1茶匙\n水淀粉: 1汤匙（1茶匙淀粉+2汤匙水）\n食用油: 适量\n2~3人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【备菜预处理】：胡萝卜洗净去皮切细丝，提前放入沸水中焯烫1分钟至断生，捞出沥干。干木耳提前用温水泡发（1小时以上），洗净后放入沸水中煮3分钟至熟透，捞出切丝。青椒去蒂去籽切丝。鸡蛋打入碗中，用筷子充分搅散成蛋液。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step1.webp"
+      },
+      {
+        "text": "【炒鸡蛋】：锅中倒入适量食用油，烧至六成热（约180°C），倒入打散的蛋液，用铲子快速划散，炒至鸡蛋呈蓬松的金黄色块状，约八成熟时盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step2.webp"
+      },
+      {
+        "text": "【爆香底料】：锅中重新倒入少许食用油，烧热后放入葱末、姜末、蒜末，小火煸炒出香味。加入郫县豆瓣酱，继续小火煸炒，炒出红油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step3.webp"
+      },
+      {
+        "text": "【炒制配菜】：将焯好的胡萝卜丝、木耳丝和青椒丝一同倒入锅中，转中大火快速翻炒约1分钟，至青椒断生或变软、所有配菜均匀裹上红油。"
+      },
+      {
+        "text": "【调味勾芡】：加入生抽、老抽、蚝油、陈醋、白糖和调好的水淀粉，快速翻炒均匀，煮至汤汁浓稠。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step4.webp"
+      },
+      {
+        "text": "【合炒出锅】：倒入之前炒好的鸡蛋块，大火快速翻炒约30秒，使鸡蛋均匀裹上鱼香酱汁，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "e8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
+    "name": "毛豆炒肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/maodou_chaorou.webp",
+    "brief": "毛豆脆嫩，肉丝滑嫩，红泡椒点缀微辣，是一道咸鲜下饭的家常快手菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "ingredients": "猪瘦肉: 150克\n去壳毛豆: 200克\n红泡椒: 1个 (去籽切丁)\n大蒜: 3瓣 (切碎)\n小葱: 1根 (切末)\n盐: 适量\n白胡椒粉: 1/2茶匙\n白糖: 1/2茶匙\n生抽: 1汤匙\n料酒: 1汤匙\n食用油: 适量\n清水: 半碗\n【腌肉料】: 盐: 少许、食用油: 1茶匙、生粉: 1茶匙\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【备菜腌制】：猪瘦肉切成细丝，加入少许盐、1茶匙食用油和1茶匙生粉，抓匀腌制10分钟。毛豆洗净，红泡椒去籽切成小丁，大蒜切碎，小葱切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step1.webp"
+      },
+      {
+        "text": "【毛豆焯水】：锅中烧开水，放入洗净的去壳毛豆，焯水2-3分钟至断生，捞出沥干水分备用。"
+      },
+      {
+        "text": "【滑炒肉丝】：锅中倒入适量食用油，烧至六成热，下入腌好的肉丝，迅速用筷子划散，炒至肉丝变色后立刻捞出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step2.webp"
+      },
+      {
+        "text": "【煸炒毛豆】：锅中留底油，放入蒜末爆香，加入焯好水的毛豆，中火翻炒至毛豆表面微绿、颜色变深。"
+      },
+      {
+        "text": "【调味焖煮】：加入白胡椒粉、白糖、生抽和料酒，翻炒出香味后，倒入半碗开水，转中小火，盖上锅盖焖煮3-5分钟，至毛豆完全熟透入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step3.webp"
+      },
+      {
+        "text": "【合炒出锅】：打开锅盖，放入红泡椒丁和滑炒好的肉丝，转大火快速翻炒至红椒断生。最后加入葱花、适量盐和鸡精（可选），翻炒均匀后即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "f8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
+    "name": "紫菜蛋花汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zicai_danhuatang.webp",
+    "brief": "鲜美爽口，制作极快，紫菜的鲜与鸡蛋的滑完美结合，是家常餐桌上最简单的一碗汤。",
+    "categoryIds": ["3", "2", "7", "4"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "ingredients": "干紫菜: 10克\n鸡蛋: 2个\n葱花: 1根\n盐: 1/2茶匙\n白胡椒粉: 少许\n香油：1茶匙\n生抽: 1茶匙\n清水: 600毫升\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【准备食材】：干紫菜用手撕成小片（或直接用剪刀剪碎），鸡蛋打入碗中充分搅散成蛋液，小葱切成葱花备用。"
+      },
+      {
+        "text": "【淋入蛋花】：锅中加入600毫升清水，大火烧开。将打散的蛋液呈细流状慢慢淋入锅中，同时用筷子在锅中快速画圈，形成漂亮的蛋花。保持水烧开，加入盐和生抽，搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step1.webp"
+      },
+      {
+        "text": "【加入紫菜】：立即放入撕好的紫菜片，用勺子轻轻推散，煮约10-15秒至紫菜完全变软、飘出鲜味即可关火。紫菜不宜久煮，否则会失去鲜味和口感。"
+      },
+      {
+        "text": "【最后调味】：关火后，撒入少许白胡椒粉和葱花，最后淋入香油，搅拌均匀即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251235100",
     "name": "烧腐竹",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shaofuzhu.webp",
@@ -387,46 +485,6 @@
     ]
   },
   {
-    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c22",
-    "name": "青椒酿肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangrou.webp",
-    "brief": "青椒的清香与肉末的鲜嫩完美融合，煎至虎皮状后裹上酱汁，咸香入味，超级下饭。",
-    "categoryIds": [
-      "7",
-      "2",
-      "20",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "badge": ["热"],
-    "ingredients": "青椒: 4个\n猪梅花肉（或五花肉）: 200克\n生抽: 2汤匙\n老抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 2茶匙\n葱姜水: 3汤匙\n盐: 适量\n清水: 半碗\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【调制肉馅】：猪肉剁成肉末，加入1汤匙生抽、1汤匙料酒、1/2茶匙白胡椒粉、1茶匙淀粉、少许盐，分次加入葱姜水，顺时针搅拌至上劲，腌制15分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step1.webp"
-      },
-      {
-        "text": "【处理青椒】：青椒洗净，切去蒂部，切成约4厘米长的段，用筷子或小勺挖去内部的籽。"
-      },
-      {
-        "text": "【塞入肉馅】：将腌制好的肉馅用小勺塞入青椒段中，两端抹平，确保肉馅填实。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step2.webp"
-      },
-      {
-        "text": "【调配酱汁】：取小碗，加入1汤匙生抽、1汤匙老抽、1汤匙蚝油、1茶匙淀粉、适量盐和半碗清水，搅拌均匀备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step3.webp"
-      },
-      {
-        "text": "【煎至虎皮】：平底锅中倒入适量食用油，油热后放入塞好肉馅的青椒段，中火煎至青椒表面出现虎皮状焦斑，翻面继续煎至另一面也呈虎皮状，肉馅表面微黄。"
-      },
-      {
-        "text": "【焖煮收汁】：将先前调好的酱汁倒入锅中，大火烧开后转中小火，盖上锅盖焖煮5分钟，让青椒和肉馅充分入味。最后开盖转大火收汁，待汤汁浓稠后即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step4.webp"
-      }
-    ]
-  },
-  {
     "id": "shengcai-xieliu-tudou-mu-ni-sha-la-001",
     "name": "生菜蟹柳土豆泥沙拉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shengcai_xieliu_tudouni_shala.webp",
@@ -564,41 +622,6 @@
     ]
   },
   {
-    "id": "b4b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-    "name": "青椒酿虾滑",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangxiahua.webp",
-    "brief": "青椒的清香微辣与虾滑的鲜甜弹牙完美结合，酱汁浓郁，是一道美味又下饭的家常菜。",
-    "categoryIds": ["7", "20", "11", "2"],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "badge": ["热"],
-    "ingredients": "青椒（胖直、不太辣）: 4-5个\n虾滑: 200克\n大蒜: 6瓣\n生抽: 4汤匙（约60毫升，西瓜勺）\n蚝油: 2汤匙（约30毫升）\n白糖: 1汤匙（约15克）\n白胡椒粉: 1茶匙（约5克）\n淀粉: 1汤匙（约15克）\n清水: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【前期备菜】：青椒洗净，切掉两头，切成约3-4厘米长的段，用筷子或小勺挖去内芯和籽。大蒜去皮切成薄片。虾滑提前解冻备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step1.webp"
-      },
-      {
-        "text": "【酿入虾滑】：将解冻好的虾滑装入裱花袋或保鲜袋中，剪一个小口。将虾滑挤入处理好的青椒段中，用筷子轻轻压实填满，两端抹平。"
-      },
-      {
-        "text": "【调制酱汁】：取一个小碗，依次加入4勺生抽、2勺蚝油、1勺白糖、1勺白胡椒粉、1勺淀粉和适量清水（约100毫升），用勺子充分搅拌均匀，调成酱汁备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step2.webp"
-      },
-      {
-        "text": "【煎制青椒】：平底锅倒入适量食用油，油热后下入蒜片，小火炒出香味。将酿好虾滑的青椒段放入锅中，中小火慢煎，期间用筷子翻面，煎至青椒两面出现虎皮（焦黄）且变软。"
-      },
-      {
-        "text": "【焖煮入味】：将调好的酱汁再次搅拌后均匀倒入锅中，转小火，盖上锅盖焖煮3分钟，让青椒和虾滑充分吸收酱汁的味道。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step3.webp"
-      },
-      {
-        "text": "【收汁出锅】：开盖，转大火收汁，不断翻动青椒段防止粘锅。待汤汁变得浓稠并包裹在青椒表面时，关火出锅。将锅中剩余的浓稠汤汁浇在青椒段上即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangxiahua_step4.webp"
-      }
-    ]
-  },
-  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234632",
     "name": "三文鱼牛油果泥",
     "imageSrc": "https://shiyuji.xyz/img/recipes/sanwenyu_niuyouguoni.webp",
@@ -661,37 +684,6 @@
       {
         "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "cheese-ham-toast-001",
-    "name": "芝士火腿葱香岩烧吐司",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/zhishi_huotui_tusi.webp",
-    "brief": "外酥里嫩，奶香浓郁，芝士与火腿的完美融合，搭配肉松和香葱，口感丰富，快手早餐首选。",
-    "categoryIds": ["10", "2", "22"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "badge": ["热"],
-    "ingredients": "吐司片: 3-4片\n芝士片: 2-3片\n黄油: 20克\n鸡蛋: 1个\n火腿丁: 30克\n肉松: 20克\n小葱: 1根 (切葱花)\n白芝麻: 适量\n沙拉酱: 适量",
-    "steps": [
-      {
-        "text": "【前期备菜】：将火腿切成小丁，小葱洗净切成葱花备用。取一片吐司，在表面均匀涂抹一层薄薄的沙拉酱，然后撒上一层肉松，稍微按压使其贴合。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step1.webp"
-      },
-      {
-        "text": "【制作芝士酱】：取一个小锅或平底锅，放入芝士片和黄油，开最小火加热，不断搅拌直至两者完全融化，形成顺滑的液体。关火后放置一旁，稍微冷却至不烫手的温度。"
-      },
-      {
-        "text": "【混合酱料】：将鸡蛋打入碗中打散，将冷却好的芝士黄油液缓缓倒入蛋液中，边倒边迅速搅拌均匀。然后加入切好的火腿丁，继续搅拌均匀，制成岩烧酱汁。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step2.webp"
-      },
-      {
-        "text": "【涂抹酱汁】：将准备好的吐司片放在烤盘上（铺油纸）。用勺子将调好的芝士火腿酱汁均匀地涂抹在吐司表面，边缘也要涂到，厚度尽量均匀。"
-      },
-      {
-        "text": "【撒料烘烤】：在涂抹好酱汁的吐司表面撒上适量的葱花和白芝麻。将烤盘放入预热好的烤箱中层，以180°C烘烤约15分钟，直到吐司表面呈现出诱人的金黄色，酱汁鼓起小泡即可出炉。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/zhishi_huotui_tusi_step3.webp"
       }
     ]
   },
