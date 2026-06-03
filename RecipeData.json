@@ -12186,7 +12186,7 @@
   {
     "id": "f8f2c7a1-9c4f-4e6f-8a3c-1d3e5b7f9a4d",
     "name": "心情饭团",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xinqing_fanntuan.webp",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xinqing_fantuan.webp",
     "brief": "根据自己喜好随心搭配食材，培根咸香、黄瓜清脆、胡萝卜清甜、土豆软糯，裹上紫菜与香油，捏成喜欢的形状，是充满乐趣的懒人便当。",
     "categoryIds": ["28", "7", "2", "11", "33"],
     "difficulty": "简单",
@@ -12196,25 +12196,25 @@
     "steps": [
       {
         "text": "【食材切丁】：培根、黄瓜、胡萝卜、土豆分别洗净，切成大小均匀的小丁（约0.5-1厘米见方）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fanntuan_step1.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step1.webp"
       },
       {
         "text": "【炒制馅料】：锅中倒入适量食用油，油热后先下入土豆丁，中火翻炒至表面微黄、边缘透明。然后加入胡萝卜丁和培根丁，继续翻炒至培根出油、胡萝卜变软，撒入适量盐调味，炒匀后盛出备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fanntuan_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step2.webp"
       },
       {
         "text": "【烤紫菜】：平底锅烧热（不放油），将紫菜片放入锅中，小火烘烤约30秒至1分钟，至紫菜变脆、颜色略深。注意勤翻面，避免烤焦。"
       },
       {
         "text": "【刷香油】：用小刷子蘸取香油，均匀刷在烤好的紫菜两面，然后出锅放在案板上，用剪刀剪成小方片备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/mood_onigiri_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step3.webp"
       },
       {
         "text": "【混合拌匀】：取一个大碗，放入温热的米饭、炒好的馅料（培根土豆胡萝卜丁）和切好的紫菜片，用饭勺充分翻拌均匀，让所有材料分布均匀。"
       },
       {
         "text": "【整形装盘】：戴上一次性手套（或手上沾少许水防粘），取适量混合好的饭团材料，用手捏成自己喜欢的形状（三角形、圆形、球形均可），要压实。依次做好所有饭团，即可装盘享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/mood_onigiri_step3.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step4.webp"
       }
     ]
   }
