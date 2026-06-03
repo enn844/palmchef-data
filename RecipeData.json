@@ -1,5 +1,178 @@
 [
   {
+    "id": "f8f2c7a2-9c4f-4e6f-8a2c-1d3e5b7f9a4d",
+    "name": "爆炒鸭血",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_yaxue.webp",
+    "brief": "鸭血嫩滑入味，鲜辣开胃，蒜香浓郁，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "12"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "ingredients": "鸭血: 300克\n大蒜叶: 2根\n青椒: 1个\n红椒: 1个\n葱: 1根\n姜: 3片\n蒜: 3瓣 \n料酒: 约20ml\n盐: 1茶匙\n生抽: 1汤匙\n老抽: 1/2汤匙\n白糖: 1/2茶匙\n白胡椒粉: 1/2茶匙\n辣椒粉: 1茶匙\n清水: 半碗\n水淀粉: 1汤匙 (1茶匙淀粉 + 2汤匙水)\n食用油: 适量\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【备菜处理】：鸭血洗净，切成约1厘米厚的片。大蒜叶洗净切段，青红椒切圈，葱切段，姜切丝，蒜切片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step1.webp"
+      },
+      {
+        "text": "【鸭血焯水】：锅中加入足量清水，放入1汤匙料酒、1茶匙盐、葱段和姜丝，大火烧开。水开后下入鸭血片，焯水2分钟，捞出沥干水分备用。焯水可有效去除鸭血的腥味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step2.webp"
+      },
+      {
+        "text": "【调制酱汁】：取一个小碗，加入生抽、老抽、1茶匙料酒、白糖、白胡椒粉、辣椒粉和半碗清水，用勺子搅拌均匀，调成酱汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step3.webp"
+      },
+      {
+        "text": "【爆香底料】：锅中倒入适量食用油，烧热后放入姜丝、蒜片和青红辣椒圈，中火爆炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step4.webp"
+      },
+      {
+        "text": "【煮制鸭血】：将调好的酱汁倒入锅中，大火烧开。然后加入焯好水的鸭血片，转中火煮3分钟左右，让鸭血充分入味。"
+      },
+      {
+        "text": "【加入蒜叶】：将大蒜叶段放入锅中，快速翻炒至大蒜叶子断生（约30秒）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step5.webp"
+      },
+      {
+        "text": "【勾芡出锅】：将调好的水淀粉再次搅匀，淋入锅中，大火快速翻炒几下，待汤汁浓稠均匀包裹在鸭血上即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step6.webp"
+      }
+    ]
+  },
+  {
+    "id": "f8f2c7a1-9c4f-4e6f-8a3c-1d3e5b7f9a4d",
+    "name": "心情饭团",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xinqing_fantuan.webp",
+    "brief": "根据自己喜好随心搭配食材，培根咸香、黄瓜清脆、胡萝卜清甜、土豆软糯，裹上紫菜与香油，捏成喜欢的形状，是充满乐趣的懒人便当。",
+    "categoryIds": ["28", "7", "2", "11", "33"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "ingredients": "培根: 3片（约60克，可选）\n黄瓜: 半根（约80克，可选）\n胡萝卜: 半根（约60克，可选）\n土豆: 1个（约150克，切丁）\n紫菜（海苔片）: 2大张\n香油: 1汤匙（刷紫菜用）\n食用油: 适量（炒料用）\n盐: 适量\n米饭: 2碗（约400克，温热）\n2人份",
+    "steps": [
+      {
+        "text": "【食材切丁】：培根、黄瓜、胡萝卜、土豆分别洗净，切成大小均匀的小丁（约0.5-1厘米见方）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step1.webp"
+      },
+      {
+        "text": "【炒制馅料】：锅中倒入适量食用油，油热后先下入土豆丁，中火翻炒至表面微黄、边缘透明。然后加入胡萝卜丁和培根丁，继续翻炒至培根出油、胡萝卜变软，撒入适量盐调味，炒匀后盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step2.webp"
+      },
+      {
+        "text": "【烤紫菜】：平底锅烧热（不放油），将紫菜片放入锅中，小火烘烤约30秒至1分钟，至紫菜变脆、颜色略深。注意勤翻面，避免烤焦。"
+      },
+      {
+        "text": "【刷香油】：用小刷子蘸取香油，均匀刷在烤好的紫菜两面，然后出锅放在案板上，用剪刀剪成小方片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step3.webp"
+      },
+      {
+        "text": "【混合拌匀】：取一个大碗，放入温热的米饭、炒好的馅料（培根土豆胡萝卜丁）和切好的紫菜片，用饭勺充分翻拌均匀，让所有材料分布均匀。"
+      },
+      {
+        "text": "【整形装盘】：戴上一次性手套（或手上沾少许水防粘），取适量混合好的饭团材料，用手捏成自己喜欢的形状（三角形、圆形、球形均可），要压实。依次做好所有饭团，即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "e8f2c7a1-9b4d-4e6f-8a2c-1d3e5b7f9a3d",
+    "name": "鱼香鸡蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiang_jidan.webp",
+    "brief": "酸甜微辣，鸡蛋嫩滑，木耳爽脆，是一道下饭又快手的家常素菜。",
+    "categoryIds": ["7", "2", "4", "11", "5"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "ingredients": "鸡蛋: 3个\n胡萝卜: 1根（约80克，切丝，提前焯熟）\n干木耳: 10克（提前泡发煮熟，切丝）\n青椒: 1个（切丝）\n郫县豆瓣酱: 1汤匙\n葱末: 10克\n姜末: 5克\n蒜末: 15克\n生抽: 1汤匙\n老抽: 1/2茶匙\n蚝油: 1/2汤匙\n陈醋: 1汤匙\n白糖: 1茶匙\n水淀粉: 1汤匙（1茶匙淀粉+2汤匙水）\n食用油: 适量\n2~3人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【备菜预处理】：胡萝卜洗净去皮切细丝，提前放入沸水中焯烫1分钟至断生，捞出沥干。干木耳提前用温水泡发（1小时以上），洗净后放入沸水中煮3分钟至熟透，捞出切丝。青椒去蒂去籽切丝。鸡蛋打入碗中，用筷子充分搅散成蛋液。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step1.webp"
+      },
+      {
+        "text": "【炒鸡蛋】：锅中倒入适量食用油，烧至六成热（约180°C），倒入打散的蛋液，用铲子快速划散，炒至鸡蛋呈蓬松的金黄色块状，约八成熟时盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step2.webp"
+      },
+      {
+        "text": "【爆香底料】：锅中重新倒入少许食用油，烧热后放入葱末、姜末、蒜末，小火煸炒出香味。加入郫县豆瓣酱，继续小火煸炒，炒出红油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step3.webp"
+      },
+      {
+        "text": "【炒制配菜】：将焯好的胡萝卜丝、木耳丝和青椒丝一同倒入锅中，转中大火快速翻炒约1分钟，至青椒断生或变软、所有配菜均匀裹上红油。"
+      },
+      {
+        "text": "【调味勾芡】：加入生抽、老抽、蚝油、陈醋、白糖和调好的水淀粉，快速翻炒均匀，煮至汤汁浓稠。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step4.webp"
+      },
+      {
+        "text": "【合炒出锅】：倒入之前炒好的鸡蛋块，大火快速翻炒约30秒，使鸡蛋均匀裹上鱼香酱汁，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "e8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
+    "name": "毛豆炒肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/maodou_chaorou.webp",
+    "brief": "毛豆脆嫩，肉丝滑嫩，红泡椒点缀微辣，是一道咸鲜下饭的家常快手菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "ingredients": "猪瘦肉: 150克\n去壳毛豆: 200克\n红泡椒: 1个 (去籽切丁)\n大蒜: 3瓣 (切碎)\n小葱: 1根 (切末)\n盐: 适量\n白胡椒粉: 1/2茶匙\n白糖: 1/2茶匙\n生抽: 1汤匙\n料酒: 1汤匙\n食用油: 适量\n清水: 半碗\n【腌肉料】: 盐: 少许、食用油: 1茶匙、生粉: 1茶匙\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【备菜腌制】：猪瘦肉切成细丝，加入少许盐、1茶匙食用油和1茶匙生粉，抓匀腌制10分钟。毛豆洗净，红泡椒去籽切成小丁，大蒜切碎，小葱切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step1.webp"
+      },
+      {
+        "text": "【毛豆焯水】：锅中烧开水，放入洗净的去壳毛豆，焯水2-3分钟至断生，捞出沥干水分备用。"
+      },
+      {
+        "text": "【滑炒肉丝】：锅中倒入适量食用油，烧至六成热，下入腌好的肉丝，迅速用筷子划散，炒至肉丝变色后立刻捞出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step2.webp"
+      },
+      {
+        "text": "【煸炒毛豆】：锅中留底油，放入蒜末爆香，加入焯好水的毛豆，中火翻炒至毛豆表面微绿、颜色变深。"
+      },
+      {
+        "text": "【调味焖煮】：加入白胡椒粉、白糖、生抽和料酒，翻炒出香味后，倒入半碗开水，转中小火，盖上锅盖焖煮3-5分钟，至毛豆完全熟透入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step3.webp"
+      },
+      {
+        "text": "【合炒出锅】：打开锅盖，放入红泡椒丁和滑炒好的肉丝，转大火快速翻炒至红椒断生。最后加入葱花、适量盐和鸡精（可选），翻炒均匀后即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "f8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
+    "name": "紫菜蛋花汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zicai_danhuatang.webp",
+    "brief": "鲜美爽口，制作极快，紫菜的鲜与鸡蛋的滑完美结合，是家常餐桌上最简单的一碗汤。",
+    "categoryIds": ["3", "2", "7", "4"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "ingredients": "干紫菜: 10克\n鸡蛋: 2个\n葱花: 1根\n盐: 1/2茶匙\n白胡椒粉: 少许\n香油：1茶匙\n生抽: 1茶匙\n清水: 600毫升\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
+    "steps": [
+      {
+        "text": "【准备食材】：干紫菜用手撕成小片（或直接用剪刀剪碎），鸡蛋打入碗中充分搅散成蛋液，小葱切成葱花备用。"
+      },
+      {
+        "text": "【淋入蛋花】：锅中加入600毫升清水，大火烧开。将打散的蛋液呈细流状慢慢淋入锅中，同时用筷子在锅中快速画圈，形成漂亮的蛋花。保持水烧开，加入盐和生抽，搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step1.webp"
+      },
+      {
+        "text": "【加入紫菜】：立即放入撕好的紫菜片，用勺子轻轻推散，煮约10-15秒至紫菜完全变软、飘出鲜味即可关火。紫菜不宜久煮，否则会失去鲜味和口感。"
+      },
+      {
+        "text": "【最后调味】：关火后，撒入少许白胡椒粉和葱花，最后淋入香油，搅拌均匀即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "d81e1a80-1736-4074-a0e4-b7b251235100",
     "name": "烧腐竹",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shaofuzhu.webp",
@@ -42,7 +215,6 @@
     "categoryIds": ["7", "2", "20", "31","11"],
     "difficulty": "简单",
     "time": "20分钟",
-    "badge": ["新"],
     "serving_range": {"min": 3,"max": 3},
     "ingredients": "豆角: 20根\n猪肉末: 200克\n胡萝卜: 半根\n小米椒: 1个\n洋葱: 2-3片\n蚝油: 1滴\n生抽: 适量\n老抽: 适量\n料酒: 适量\n盐: 适量\n白糖: 适量\n味精: 少许\n猪油: 适量\n食用油: 适量",
     "steps": [
@@ -11991,104 +12163,7 @@
       }
     ]
   },
-  {
-    "id": "e8f2c7a1-9b4d-4e6f-8a2c-1d3e5b7f9a3d",
-    "name": "鱼香鸡蛋",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiang_jidan.webp",
-    "brief": "酸甜微辣，鸡蛋嫩滑，木耳爽脆，是一道下饭又快手的家常素菜。",
-    "categoryIds": ["7", "2", "4", "11", "5"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "badge": ["新"],
-    "ingredients": "鸡蛋: 3个\n胡萝卜: 1根（约80克，切丝，提前焯熟）\n干木耳: 10克（提前泡发煮熟，切丝）\n青椒: 1个（切丝）\n郫县豆瓣酱: 1汤匙\n葱末: 10克\n姜末: 5克\n蒜末: 15克\n生抽: 1汤匙\n老抽: 1/2茶匙\n蚝油: 1/2汤匙\n陈醋: 1汤匙\n白糖: 1茶匙\n水淀粉: 1汤匙（1茶匙淀粉+2汤匙水）\n食用油: 适量\n2~3人份\n1茶匙≈5毫升、1汤匙≈15毫升",
-    "steps": [
-      {
-        "text": "【备菜预处理】：胡萝卜洗净去皮切细丝，提前放入沸水中焯烫1分钟至断生，捞出沥干。干木耳提前用温水泡发（1小时以上），洗净后放入沸水中煮3分钟至熟透，捞出切丝。青椒去蒂去籽切丝。鸡蛋打入碗中，用筷子充分搅散成蛋液。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step1.webp"
-      },
-      {
-        "text": "【炒鸡蛋】：锅中倒入适量食用油，烧至六成热（约180°C），倒入打散的蛋液，用铲子快速划散，炒至鸡蛋呈蓬松的金黄色块状，约八成熟时盛出备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step2.webp"
-      },
-      {
-        "text": "【爆香底料】：锅中重新倒入少许食用油，烧热后放入葱末、姜末、蒜末，小火煸炒出香味。加入郫县豆瓣酱，继续小火煸炒，炒出红油。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step3.webp"
-      },
-      {
-        "text": "【炒制配菜】：将焯好的胡萝卜丝、木耳丝和青椒丝一同倒入锅中，转中大火快速翻炒约1分钟，至青椒断生或变软、所有配菜均匀裹上红油。"
-      },
-      {
-        "text": "【调味勾芡】：加入生抽、老抽、蚝油、陈醋、白糖和调好的水淀粉，快速翻炒均匀，煮至汤汁浓稠。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step4.webp"
-      },
-      {
-        "text": "【合炒出锅】：倒入之前炒好的鸡蛋块，大火快速翻炒约30秒，使鸡蛋均匀裹上鱼香酱汁，即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step5.webp"
-      }
-    ]
-  },
-  {
-    "id": "e8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
-    "name": "毛豆炒肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/maodou_chaorou.webp",
-    "brief": "毛豆脆嫩，肉丝滑嫩，红泡椒点缀微辣，是一道咸鲜下饭的家常快手菜。",
-    "categoryIds": ["7", "2", "20", "31", "11"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "badge": [],
-    "ingredients": "猪瘦肉: 150克\n去壳毛豆: 200克\n红泡椒: 1个 (去籽切丁)\n大蒜: 3瓣 (切碎)\n小葱: 1根 (切末)\n盐: 适量\n白胡椒粉: 1/2茶匙\n白糖: 1/2茶匙\n生抽: 1汤匙\n料酒: 1汤匙\n食用油: 适量\n清水: 半碗\n【腌肉料】: 盐: 少许、食用油: 1茶匙、生粉: 1茶匙\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
-    "steps": [
-      {
-        "text": "【备菜腌制】：猪瘦肉切成细丝，加入少许盐、1茶匙食用油和1茶匙生粉，抓匀腌制10分钟。毛豆洗净，红泡椒去籽切成小丁，大蒜切碎，小葱切末备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step1.webp"
-      },
-      {
-        "text": "【毛豆焯水】：锅中烧开水，放入洗净的去壳毛豆，焯水2-3分钟至断生，捞出沥干水分备用。"
-      },
-      {
-        "text": "【滑炒肉丝】：锅中倒入适量食用油，烧至六成热，下入腌好的肉丝，迅速用筷子划散，炒至肉丝变色后立刻捞出备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step2.webp"
-      },
-      {
-        "text": "【煸炒毛豆】：锅中留底油，放入蒜末爆香，加入焯好水的毛豆，中火翻炒至毛豆表面微绿、颜色变深。"
-      },
-      {
-        "text": "【调味焖煮】：加入白胡椒粉、白糖、生抽和料酒，翻炒出香味后，倒入半碗开水，转中小火，盖上锅盖焖煮3-5分钟，至毛豆完全熟透入味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step3.webp"
-      },
-      {
-        "text": "【合炒出锅】：打开锅盖，放入红泡椒丁和滑炒好的肉丝，转大火快速翻炒至红椒断生。最后加入葱花、适量盐和鸡精（可选），翻炒均匀后即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "f8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
-    "name": "紫菜蛋花汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/zicai_danhuatang.webp",
-    "brief": "鲜美爽口，制作极快，紫菜的鲜与鸡蛋的滑完美结合，是家常餐桌上最简单的一碗汤。",
-    "categoryIds": ["3", "2", "7", "4"],
-    "difficulty": "简单",
-    "time": "10分钟",
-    "badge": [],
-    "ingredients": "干紫菜: 10克\n鸡蛋: 2个\n葱花: 1根\n盐: 1/2茶匙\n白胡椒粉: 少许\n香油：1茶匙\n生抽: 1茶匙\n清水: 600毫升\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
-    "steps": [
-      {
-        "text": "【准备食材】：干紫菜用手撕成小片（或直接用剪刀剪碎），鸡蛋打入碗中充分搅散成蛋液，小葱切成葱花备用。"
-      },
-      {
-        "text": "【淋入蛋花】：锅中加入600毫升清水，大火烧开。将打散的蛋液呈细流状慢慢淋入锅中，同时用筷子在锅中快速画圈，形成漂亮的蛋花。保持水烧开，加入盐和生抽，搅拌均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step1.webp"
-      },
-      {
-        "text": "【加入紫菜】：立即放入撕好的紫菜片，用勺子轻轻推散，煮约10-15秒至紫菜完全变软、飘出鲜味即可关火。紫菜不宜久煮，否则会失去鲜味和口感。"
-      },
-      {
-        "text": "【最后调味】：关火后，撒入少许白胡椒粉和葱花，最后淋入香油，搅拌均匀即可盛出享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step2.webp"
-      }
-    ]
-  },
+
   {
     "id": "f8f2c7a1-9c4f-4e6f-8a2c-1d3e5b7f9a3d",
     "name": "古法乌梅消暑汤",
@@ -12143,80 +12218,6 @@
       {
         "text": "【收汁定味】：打开锅盖，拣出葱结。加入3克精盐调味，转大火收浓汤汁，期间不断翻炒防止粘锅，待汤汁浓稠油亮、均匀包裹在鸡块上即可出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/chenpi_laojiang_menzaiji_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "f8f2c7a2-9c4f-4e6f-8a2c-1d3e5b7f9a4d",
-    "name": "爆炒鸭血",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_yaxue.webp",
-    "brief": "鸭血嫩滑入味，鲜辣开胃，蒜香浓郁，是一道简单快手的家常下饭菜。",
-    "categoryIds": ["7", "2", "20", "12"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "ingredients": "鸭血: 300克\n大蒜叶: 2根\n青椒: 1个\n红椒: 1个\n葱: 1根\n姜: 3片\n蒜: 3瓣 \n料酒: 约20ml\n盐: 1茶匙\n生抽: 1汤匙\n老抽: 1/2汤匙\n白糖: 1/2茶匙\n白胡椒粉: 1/2茶匙\n辣椒粉: 1茶匙\n清水: 半碗\n水淀粉: 1汤匙 (1茶匙淀粉 + 2汤匙水)\n食用油: 适量\n2人份\n1茶匙≈5毫升、1汤匙≈15毫升",
-    "steps": [
-      {
-        "text": "【备菜处理】：鸭血洗净，切成约1厘米厚的片。大蒜叶洗净切段，青红椒切圈，葱切段，姜切丝，蒜切片备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step1.webp"
-      },
-      {
-        "text": "【鸭血焯水】：锅中加入足量清水，放入1汤匙料酒、1茶匙盐、葱段和姜丝，大火烧开。水开后下入鸭血片，焯水2分钟，捞出沥干水分备用。焯水可有效去除鸭血的腥味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step2.webp"
-      },
-      {
-        "text": "【调制酱汁】：取一个小碗，加入生抽、老抽、1茶匙料酒、白糖、白胡椒粉、辣椒粉和半碗清水，用勺子搅拌均匀，调成酱汁备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step3.webp"
-      },
-      {
-        "text": "【爆香底料】：锅中倒入适量食用油，烧热后放入姜丝、蒜片和青红辣椒圈，中火爆炒出香味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step4.webp"
-      },
-      {
-        "text": "【煮制鸭血】：将调好的酱汁倒入锅中，大火烧开。然后加入焯好水的鸭血片，转中火煮3分钟左右，让鸭血充分入味。"
-      },
-      {
-        "text": "【加入蒜叶】：将大蒜叶段放入锅中，快速翻炒至大蒜叶子断生（约30秒）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step5.webp"
-      },
-      {
-        "text": "【勾芡出锅】：将调好的水淀粉再次搅匀，淋入锅中，大火快速翻炒几下，待汤汁浓稠均匀包裹在鸭血上即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/baochao_yaxue_step6.webp"
-      }
-    ]
-  },
-  {
-    "id": "f8f2c7a1-9c4f-4e6f-8a3c-1d3e5b7f9a4d",
-    "name": "心情饭团",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xinqing_fantuan.webp",
-    "brief": "根据自己喜好随心搭配食材，培根咸香、黄瓜清脆、胡萝卜清甜、土豆软糯，裹上紫菜与香油，捏成喜欢的形状，是充满乐趣的懒人便当。",
-    "categoryIds": ["28", "7", "2", "11", "33"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "badge": ["新"],
-    "ingredients": "培根: 3片（约60克，可选）\n黄瓜: 半根（约80克，可选）\n胡萝卜: 半根（约60克，可选）\n土豆: 1个（约150克，切丁）\n紫菜（海苔片）: 2大张\n香油: 1汤匙（刷紫菜用）\n食用油: 适量（炒料用）\n盐: 适量\n米饭: 2碗（约400克，温热）\n2人份",
-    "steps": [
-      {
-        "text": "【食材切丁】：培根、黄瓜、胡萝卜、土豆分别洗净，切成大小均匀的小丁（约0.5-1厘米见方）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step1.webp"
-      },
-      {
-        "text": "【炒制馅料】：锅中倒入适量食用油，油热后先下入土豆丁，中火翻炒至表面微黄、边缘透明。然后加入胡萝卜丁和培根丁，继续翻炒至培根出油、胡萝卜变软，撒入适量盐调味，炒匀后盛出备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step2.webp"
-      },
-      {
-        "text": "【烤紫菜】：平底锅烧热（不放油），将紫菜片放入锅中，小火烘烤约30秒至1分钟，至紫菜变脆、颜色略深。注意勤翻面，避免烤焦。"
-      },
-      {
-        "text": "【刷香油】：用小刷子蘸取香油，均匀刷在烤好的紫菜两面，然后出锅放在案板上，用剪刀剪成小方片备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step3.webp"
-      },
-      {
-        "text": "【混合拌匀】：取一个大碗，放入温热的米饭、炒好的馅料（培根土豆胡萝卜丁）和切好的紫菜片，用饭勺充分翻拌均匀，让所有材料分布均匀。"
-      },
-      {
-        "text": "【整形装盘】：戴上一次性手套（或手上沾少许水防粘），取适量混合好的饭团材料，用手捏成自己喜欢的形状（三角形、圆形、球形均可），要压实。依次做好所有饭团，即可装盘享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xinqing_fantuan_step4.webp"
       }
     ]
   }
