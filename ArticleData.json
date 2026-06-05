@@ -4,6 +4,27 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "mangzhong",
+        "imageSrc": "https://shiyuji.xyz/img/article/mangzhong.webp",
+        "title": "芒种至，仲夏始：吃“三苦”、饮“三酸”，轻松度过苦夏",
+        "brief": "螳螂生，鵙始鸣。面对黏腻的“苦夏”负债，老祖宗用“吃苦度夏，借酸生津”的八字协议，为你的身体服务器进行一场季节性的调理与内存释放。",
+        "webUrl": "https://health-app.com/articles/mangzhong-sansuan-sanku"
+      },
+      {
+        "id": "wuhou_nengliang",
+        "imageSrc": "https://shiyuji.xyz/img/article/wuhou_nengliang.webp",
+        "title": "告别下午三点的疲惫：比咖啡更温和的能量补给",
+        "brief": "当你坐在办公桌前眼皮打架、大脑宕机，这并不是道德缺陷，而是高压下身体的“合理解法”。与其用咖啡向明天盲目借贷，不如用一杯温和的草本能量为生命重新注入秩序。",
+        "webUrl": "https://health-app.com/articles/afternoon-energy-rescue"
+      },
+      {
+        "id": "3",
+        "imageSrc": "https://shiyuji.xyz/img/article/pingmuyan.webp",
+        "title": "“屏幕眼”救星：枸杞之外，《本草纲目》还有哪些明目高手",
+        "brief": "当你感到眼干、眼涩、视物模糊时，别只知道泡枸杞。深挖《本草纲目》，为你找寻那些被遗忘的明目秘方。",
+        "webUrl": "https://health-app.com/articles/eye-care-001"
+      },
+      {
         "id": "xiari_lengyin",
         "imageSrc": "https://shiyuji.xyz/img/article/xiari_lengyin.webp",
         "title": "越喝冰水越热？揭开夏日“冷饮陷阱”的真相",
@@ -52,7 +73,6 @@
         "brief": "别总盯着药瓶子，老祖宗的“黑科技”全在菜盘子里。马未都式跨界闲谈，聊透头发背后的精气神与餐桌自救指南。",
         "webUrl": "https://health-app.com/articles/hair-care-wisdom-001"
       },
-
       {
         "id": "7",
         "imageSrc": "https://shiyuji.xyz/img/article/guangdong_liangcha.webp",
@@ -60,7 +80,6 @@
         "brief": "在广东，有一种关怀叫“饮杯凉茶先”。这碗漆黑如墨的液体，为何能成为岭南人的续命圣水？带你拆解凉茶背后的顺时生活学。",
         "webUrl": "https://health-app.com/articles/canton-tea-001"
       },
-
       {
         "id": "xiaoman_qingji",
         "imageSrc": "https://shiyuji.xyz/img/article/xiaoman_qingji.webp",
@@ -74,13 +93,6 @@
         "title": "当《红楼梦》茄鲞遇上现代料理机：一场跨越时空的美味复刻",
         "brief": "刘姥姥说：“这茄子倒是有个茄子味儿，只是太费事了。”今天，我们用现代科技拆解这道红楼第一名菜，让这种“贵族养生”走进普通人的厨房。",
         "webUrl": "https://health-app.com/articles/qiexiang-001"
-      },
-      {
-        "id": "3",
-        "imageSrc": "https://shiyuji.xyz/img/article/pingmuyan.webp",
-        "title": "“屏幕眼”救星：枸杞之外，《本草纲目》还有哪些明目高手",
-        "brief": "当你感到眼干、眼涩、视物模糊时，别只知道泡枸杞。深挖《本草纲目》，为你找寻那些被遗忘的明目秘方。",
-        "webUrl": "https://health-app.com/articles/eye-care-001"
       },
       {
         "id": "aoye_xuming",
@@ -126,14 +138,6 @@
         "brief": "戒掉奶茶却戒不掉对甜的渴望？《随园食单》里的智慧告诉我们：真正的抗糖不是断绝甜味，而是找回天然的“高级甜”。",
         "webUrl": "https://health-app.com/articles/anti-sugar-001"
       },
-
-      {
-        "id": "caoben_qingying",
-        "imageSrc": "https://shiyuji.xyz/img/article/caoben_qingying.webp",
-        "title": "草本里的轻盈方：从《本草纲目》看消积与利水",
-        "brief": "利用谷雨到立夏期间最鲜活的食材，进行一次自然的“数据清理”。深挖《本草纲目》消积化滞的智慧，解锁脾胃的“内存优化”协议。",
-        "webUrl": "https://health-app.com/articles/herbal-metabolism-001"
-      },
       {
         "id": "changdao_qingdaofu",
         "imageSrc": "https://shiyuji.xyz/img/article/changdao_qingdaofu.webp",
@@ -162,13 +166,7 @@
         "brief": "明明工作忙到连饭都顾不上吃，体重却蹭蹭往上涨？这可能不是营养过剩，而是你的“脾”在罢工。结合CNKI研究与中医理论，带你从根源破解过劳肥。",
         "webUrl": "https://health-app.com/articles/guolaofei-001"
       },
-      {
-        "id": "6",
-        "imageSrc": "https://shiyuji.xyz/img/article/changdao_duche.webp",
-        "title": "久坐肠道“堵车”？试试这碗源自《金匮要略》的“增液汤”",
-        "brief": "明明喝了足够的水，却依然在洗手间经历“肠道大堵车”？其实，你需要的不只是水，而是让河道涨潮的“增液”智慧。",
-        "webUrl": "https://health-app.com/articles/gut-health-001"
-      },
+
       {
         "id": "9",
         "imageSrc": "https://shiyuji.xyz/img/article/sudongpo.webp",
@@ -211,6 +209,20 @@
     "id": "yuanmei_science_series_v2",
     "title": "古籍智慧",
     "articles": [
+      {
+        "id": "caoben_qingying",
+        "imageSrc": "https://shiyuji.xyz/img/article/caoben_qingying.webp",
+        "title": "草本里的轻盈方：从《本草纲目》看消积与利水",
+        "brief": "利用谷雨到立夏期间最鲜活的食材，进行一次自然的“数据清理”。深挖《本草纲目》消积化滞的智慧，解锁脾胃的“内存优化”协议。",
+        "webUrl": "https://health-app.com/articles/herbal-metabolism-001"
+      },
+      {
+        "id": "6",
+        "imageSrc": "https://shiyuji.xyz/img/article/changdao_duche.webp",
+        "title": "久坐肠道“堵车”？试试这碗源自《金匮要略》的“增液汤”",
+        "brief": "明明喝了足够的水，却依然在洗手间经历“肠道大堵车”？其实，你需要的不只是水，而是让河道涨潮的“增液”智慧。",
+        "webUrl": "https://health-app.com/articles/gut-health-001"
+      },
       {
         "id": "art_yuanmei_001",
         "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_001.webp",
