@@ -3841,7 +3841,7 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/wosun_chaorou_step2.webp"
       },
       {
-        "text": "【炒莴笋】：锅中留底油，放入蒜末爆香，倒入莴笋片和红椒块大火翻炒1分钟。",
+        "text": "【炒莴笋】：锅中留底油，放入蒜末爆香，倒入莴笋片和红椒块大火炒至莴笋片变软。",
         "imageSrc": "https://shiyuji.xyz/img/steps/wosun_chaorou_step3.webp"
       },
       {
@@ -12015,7 +12015,8 @@
     "categoryIds": ["31", "7", "2","17"],
     "difficulty": "简单",
     "time": "10分钟",
-    "ingredients": "嫩茭白: 250克\n干贝: 3-5粒\n橄榄油: 5毫升\n青豆: 20克\n食盐: 适量",
+    "serving_count": "2人份",
+    "ingredients": "嫩茭白: 250克\n干贝: 5粒\n橄榄油: 5毫升\n青豆: 20克\n食盐: 适量",
     "steps": [
       {
         "text": "【极简处理】：茭白剥去老皮，切成均匀的细丝（约0.3厘米见方），利用细丝表面积最大化提升入味效率。"
@@ -12208,10 +12209,11 @@
     "difficulty": "简单",
     "time": "50分钟",
     "badge": ["新"],
-    "ingredients": "仔鸡/童子鸡: 500克 (斩小块)\n老姜: 1块 (约15克, 切厚片)\n新会陈皮: 3克 (提前温水泡软，刮去白瓤)\n黄酒/料酒: 15毫升\n小葱: 2根 (挽结)\n精盐: 3克\n食用油: 少许 (润锅用)\n2-3人份",
+    "serving_count": "3人份",
+    "ingredients": "仔鸡/童子鸡: 500克 \n老姜: 1块\n新会陈皮(提前温水泡软，刮去白瓤): 3克 \n黄酒/料酒: 15毫升\n小葱(挽结): 2根 \n精盐: 3克\n食用油(润锅用): 少许",
     "steps": [
       {
-        "text": "【食材准备】：仔鸡块冷水下锅，加入少许黄酒（配方外用量），大火煮沸后撇去浮沫，捞出用温水冲洗干净，沥干备用。老姜用刀背拍松，陈皮切丝。",
+        "text": "【食材准备】：仔鸡斩小块洗净，块冷水下锅，加入少许黄酒（配方外用量），大火煮沸后撇去浮沫，捞出用温水冲洗干净，沥干备用。老姜切厚片，用刀背拍松，陈皮切丝。",
         "imageSrc": "https://shiyuji.xyz/img/steps/chenpi_laojiang_menzaiji_step1.webp"
       },
       {
@@ -12283,6 +12285,42 @@
       {
         "text": "【芳香封存】：关火后，立即撒入干桂花，盖上锅盖焖5分钟。利用余温激发出桂花的精油成分，待晾至微温或常温后即可倒出饮用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/guihua_wumeitang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "japanese-tofu-001",
+    "name": "家常红烧日本豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_ribendoufu.webp",
+    "brief": "日本豆腐外酥里嫩，裹满咸鲜酱汁，搭配胡萝卜和青椒，色彩缤纷，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "4", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "ingredients": "日本豆腐: 2条\n面粉: 30克\n胡萝卜: 半根\n青椒: 1个\n小葱: 1根\n大蒜: 2瓣\n蚝油: 1汤匙\n生抽: 1汤匙\n盐: 1/2茶匙\n食用油: 适量",
+    "serving_count": "2",
+    "steps": [
+      {
+        "text": "【前期备菜】：日本豆腐连包装从中间切断，轻轻挤出，切成约1厘米厚的圆块。胡萝卜切片，青椒切块，小葱切碎，大蒜切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step1.webp"
+      },
+      {
+        "text": "【裹粉】：取一个盘子倒入适量面粉。将切好的日本豆腐块轻轻放入面粉中，两面和侧面都均匀裹上一层面粉，注意不要包裹太厚，轻轻拍掉多余面粉即可。"
+      },
+      {
+        "text": "【煎豆腐】：炒锅中倒入足量食用油（油量能没过豆腐一大半即可），烧至六成热（约160°C）。放入裹好面粉的日本豆腐块，中小火煎至一面金黄定型后小心翻面，煎至两面金黄酥脆，捞出沥油备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step2.webp"
+      },
+      {
+        "text": "【爆香配料】：锅中留底油，放入葱末和蒜末，小火爆香。然后加入胡萝卜片和青椒块，转中火翻炒至断生或多炒一会炒软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step3.webp"
+      },
+      {
+        "text": "【调味合炒】：加入蚝油、生抽和适量盐，翻炒均匀。倒入煎好的日本豆腐块，轻轻翻炒或晃动锅子，使豆腐均匀裹上酱汁，注意不要用力翻炒以免豆腐碎裂。"
+      },
+      {
+        "text": "【出锅装盘】：所有食材翻炒均匀、入味后即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step4.webp"
       }
     ]
   }
