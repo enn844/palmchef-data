@@ -1,5 +1,132 @@
 [
   {
+    "id": "m6n7g8h9-i0j1-2k3l-4m5n-6o7p8q9r0s1s",
+    "name": "豌豆炒肉末",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/wandou_roumo.webp",
+    "brief": "豌豆清甜软糯，肉末咸香入味，豆瓣酱微辣提鲜，是一道色泽鲜亮、老少皆宜的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "豌豆: 200克\n猪肉末(半肥半瘦):150克\n姜末: 1茶匙\n蒜末: 2茶匙\n郫县豆瓣酱(可选)：1汤匙\n盐: 1茶匙\n花椒粉: 1/2茶匙\n白胡椒粉: 1/2茶匙\n生抽: 1汤匙\n老抽: 1/2茶匙\n鸡精: 1/2茶匙\n水淀粉(1茶匙淀粉 + 2汤匙水): 1汤匙\n食用油: 适量\n清水: 适量",
+    "steps": [
+      {
+        "text": "【处理豌豆】：豌豆洗净，放入沸水中煮2-3分钟至断生，捞出沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wandou_roumo_step1.webp"
+      },
+      {
+        "text": "【调制肉末】：猪肉末中加入盐、花椒粉、白胡椒粉、生抽、老抽和水淀粉，用筷子朝一个方向搅拌均匀，腌制5分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wandou_roumo_step2.webp"
+      },
+      {
+        "text": "【滑炒肉末】：热锅倒入适量食用油，烧至六成热，下入腌好的肉末，快速划散，炒至肉末变色散开。"
+      },
+      {
+        "text": "【爆香调料】：加入郫县豆瓣酱（可选）、姜末和蒜末，继续中小火翻炒，炒出香味和红油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wandou_roumo_step3.webp"
+      },
+      {
+        "text": "【焖煮豌豆】：加入焯好水的豌豆，翻炒几下，倒入足量清水（约至食材的2/3处），大火烧开后转中小火，盖上锅盖焖煮3-5分钟，至豌豆完全变软入味。"
+      },
+      {
+        "text": "【收汁出锅】：加入鸡精调味，淋入水淀粉勾芡，转大火快速翻炒至汤汁浓稠，均匀包裹在食材上即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wandou_roumo_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "m7n7g8h9-i0j1-2k3l-4m5n-6o7p8q9r0s1s",
+    "name": "焖板栗南瓜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/mennangua.webp",
+    "brief": "板栗南瓜绵密香甜，经过焖煮后外层裹满咸甜酱汁，粉糯入味，是一道简单快手的家常素菜。",
+    "categoryIds": ["7", "2", "31", "4", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "板栗南瓜：300克\n食用油：1汤匙\n白糖：1茶匙\n生抽：3汤匙\n清水：适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：板栗南瓜洗净外皮，对半切开后用勺子挖去瓜瓤，再切成大小均匀的块状（约3-4厘米）。"
+      },
+      {
+        "text": "【热油翻炒】：锅中倒入1汤匙食用油，烧至五成热，下入南瓜块，中火翻炒约2分钟，至南瓜表面微微变色、边缘略透明。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mennangua_step1.webp"
+      },
+      {
+        "text": "【调味增香】：加入1茶匙白糖和3汤匙生抽，快速翻炒均匀，让每一块南瓜都裹上酱汁。"
+      },
+      {
+        "text": "【焖煮收汁】：加入清水至南瓜块的三分之二高度（约150-200毫升），盖上锅盖，转中火焖煮5分钟。期间开盖翻炒一次，防止粘锅糊底，同时让南瓜受热更均匀。"
+      },
+      {
+        "text": "【出锅装盘】：待南瓜焖至软糯、汤汁收浓至包裹在南瓜表面时，关火出锅即可。南瓜本身带有甜味，咸甜交融口感更佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/mennangua_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "m7n7g8h9-i0j2-2k3l-4m5n-6o7p8q9r0s1s",
+    "name": "素烧油豆角",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/sushao_youdoujiao.webp",
+    "brief": "东北家常炖菜，油豆角软糯入味，酱香浓郁，是一道简单下饭的素菜。",
+    "categoryIds": ["7", "2", "31", "4", "11"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "油豆角：300克\n大葱：1段\n大蒜：1瓣\n八角：1个\n生抽: 2汤匙\n盐：1/2茶匙\n食用油：2汤匙\n清水：适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：油豆角掐去两头，撕去两侧的老筋，洗净后沥干水分。大葱切葱花，大蒜拍碎切末备用。"
+      },
+      {
+        "text": "【煸炒豆角】：锅中倒入食用油，烧至五成热，放入葱花爆香。倒入处理好的油豆角，中火翻炒约2-3分钟，炒至豆角颜色变为翠绿、表面微微起皱。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sushao_youdoujiao_step1.webp"
+      },
+      {
+        "text": "【调味炖煮】：加入生抽翻炒均匀，倒入适量清水（水量以稍微没过豆角为宜），放入八角。大火烧开后转小火，盖上锅盖炖煮15分钟，至豆角软烂入味。"
+      },
+      {
+        "text": "【收汁出锅】：打开锅盖，放入蒜末和盐，转大火快速收汁，待汤汁浓稠均匀包裹在豆角上即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/sushao_youdoujiao_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "stir-fried-romaine-lettuce-001",
+    "name": "炒油麦菜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/chaoyoumaicai.webp",
+    "brief": "翠绿爽口，蒜香浓郁，大火快炒锁住水分，是一道简单快手的家常绿叶蔬菜。",
+    "categoryIds": ["7", "2", "31", "4", "11"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "油麦菜：400克\n大蒜：3瓣\n食用油：1汤匙\n猪油：1茶匙\n盐：1/2茶匙\n鸡精：1/4茶匙\n白糖：1/4茶匙\n清水：2汤匙",
+    "steps": [
+      {
+        "text": "【清洗备菜】：油麦菜洗净，沥干水分，切成约4-5厘米长的段。将菜杆和菜叶分开放置备用。大蒜去皮切成蒜末。"
+      },
+      {
+        "text": "【爆香底料】：热锅下入1汤匙食用油和1茶匙猪油，待猪油融化后，放入蒜末，小火煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaoyoumaicai_step1.webp"
+      },
+      {
+        "text": "【先炒菜杆】：将切好的菜杆部分先下入锅中，转中大火快速翻炒几下，约10-15秒，使菜杆稍微变软。"
+      },
+      {
+        "text": "【再下菜叶】：接着放入菜叶部分，保持大火快速翻炒，使菜叶均匀受热、迅速变软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaoyoumaicai_step2.webp"
+      },
+      {
+        "text": "【调味出锅】：加入1/2茶匙盐、1/4茶匙鸡精、1/4茶匙白糖和2汤匙清水，快速翻炒均匀，盖上锅盖，转中小火焖约30秒。待菜杆变软、颜色加深后，开盖转大火收干多余汤汁即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaoyoumaicai_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "japanese-tofu-001",
     "name": "家常红烧日本豆腐",
     "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_ribendoufu.webp",
@@ -716,43 +843,6 @@
     ]
   },
   {
-    "id": "j9o6n5m4-m4n5-6e7f-g8h9-i0j1k2l3m4n5",
-    "name": "酸菜白肉炖粉条",
-    "imageSrc":"https://shiyuji.xyz/img/recipes/suancai_bairou_dunfentiao.webp",
-    "brief": "酸菜爽口，白肉肥而不腻，汤头酸香醇厚，东北冬季经典。",
-    "categoryIds": [
-      "26",
-      "27",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "1小时30分钟",
-    "ingredients": "带皮五花肉 500克\n酸菜 500克\n干红薯粉条 100克\n葱姜、八角 适量\n高汤或水 适量\n盐 适量",
-    "steps": [
-      {
-        "text": "【处理五花肉】：带皮五花肉用清水冲洗干净，冷水下锅，加入葱段、姜片和八角，大火煮开后撇去浮沫，转中火继续煮30-40分钟，至五花肉七八成熟（用筷子能轻松插入但还有一定韧性）。捞出五花肉放凉至不烫手，切成0.3-0.5厘米厚的薄片。煮肉的原汤过滤后留用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step1.webp"
-      },
-      {
-        "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，然后用手或纱布挤干水分。将酸菜切成细丝或小段备用。"
-      },
-      {
-        "text": "【炒酸菜】：锅中放入少量食用油，小火加热后放入葱姜爆香，倒入处理好的酸菜，中火煸炒5-8分钟，炒出酸香味，直到酸菜变软、颜色略深。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step2.webp"
-      },
-      {
-        "text": "【泡粉条】：干红薯粉条提前用温水浸泡30分钟，泡软后捞出沥干水分备用。"
-      },
-      {
-        "text": "【炖煮】：将炒好的酸菜、切好的五花肉片和泡软的粉条依次放入砂锅中，加入适量煮肉的原汤（汤量要没过食材），大火烧开后转小火慢炖1小时，让各种食材的味道充分融合。"
-      },
-      {
-        "text": "【调味】：炖煮完成后，根据个人口味加入适量盐调味，轻轻搅拌均匀即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_bairou_dunfentiao_step3.webp"
-      }
-    ]
-  },
-  {
     "id": "d91e1a80-1736-4074-a0e4-b7b251234999",
     "name": "葱香焖鸡",
     "imageSrc": "https://shiyuji.xyz/img/recipes/congxiang_menji.webp",
@@ -780,40 +870,6 @@
       {
         "text": "【收汁出锅】：保持大火，不断翻炒，待汤汁收至浓稠、均匀包裹在鸡块上时即可关火出锅。全程无需额外加盐，酱油的咸味已足够。",
         "imageSrc": "https://shiyuji.xyz/img/steps/congxiang_menji_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "f8e2d1c3-5b6a-4e9d-8c2f-1a3b5c7d9e0f",
-    "name": "香煎猪排",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangjian_zhupai.webp",
-    "brief": "外焦里嫩，黑椒咸香，梅头肉煎制后肉汁丰盈，简单快手的家常肉菜。",
-    "categoryIds": ["7", "2", "20"],
-    "difficulty": "简单",
-    "time": "25分钟（不含腌制时间）",
-    "ingredients": "梅头肉: 1000克（2斤，去肥肉切片）\n生抽: 5-6汤匙\n蚝油: 1汤匙\n老抽: 适量\n白糖: 适量\n黑胡椒: 适量\n玉米淀粉: 适量\n食用油: 适量（锁水用，另备煎制用油）",
-    "steps": [
-      {
-        "text": "【前期备菜】：将两斤梅头肉去掉肥肉，切成薄片。用刀背面将每块肉轻轻剁一下，使肉质更松软，便于入味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step1.webp"
-      },
-      {
-        "text": "【腌制肉片】：将切好的梅头肉放入大碗中，加入5-6汤匙生抽、1汤匙蚝油、适量老抽上色、适量白糖提鲜、适量黑胡椒增香，再加入适量玉米淀粉，用手抓匀，使每片肉都裹上腌料。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step2.webp"
-      },
-      {
-        "text": "【加水锁水】：分次加入适量水，边加边抓拌，让肉片吸收水分。最后淋入一些食用油，拌匀锁住水分，腌制四五个小时（可提前一晚冷藏腌制）。"
-      },
-      {
-        "text": "【煎制猪排】：锅中淋少许油，加热后放入腌制好的梅头肉片，中小火慢煎。煎至一面金黄后翻面，直到两面都煎到有点焦黄、肉八九分熟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step3.webp"
-      },
-      {
-        "text": "【加水收汁】：在锅中加入少量水，盖上锅盖焖煎片刻，开盖后翻面，继续煎至水分收干、表面微焦即可出锅。"
-      },
-      {
-        "text": "【切条装盘】：将煎好的猪排切成条状，摆盘即可上桌享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_zhupai_step4.webp"
       }
     ]
   },
@@ -1015,48 +1071,6 @@
       }
     ]
   },
-  {
-    "id": "d81e1a80-2736-4074-a0e4-b7b251234995",
-    "name": "清蒸藕丁肉丸子",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/ouding_rouwan.webp",
-    "brief": "肉质鲜嫩多汁，藕丁清脆爽口，搭配西红柿酱汁，酸甜开胃，老少皆宜。",
-    "categoryIds": ["7", "20", "31", "4", "12"],
-    "difficulty": "中等",
-    "time": "30分钟",
-    "ingredients": "猪前腿肉: 300克 (剁成肉泥)\n莲藕: 100克 (去皮剁碎)\n胡萝卜: 半根 (剁碎)\n西红柿: 1个 (去皮切碎)\n生姜末: 适量\n葱花: 适量\n生抽: 2汤匙 (酱汁用)\n蚝油: 1汤匙 (酱汁用)\n玉米淀粉: 适量 (肉馅用)\n淀粉: 1汤匙 (酱汁用)\n盐: 适量\n清水: 半碗",
-    "steps": [
-      {
-        "text": "【前期备菜】：猪前腿肉剁成肉泥；莲藕去皮、胡萝卜洗净，分别剁成细碎末；西红柿去皮切碎备用。姜切末，葱切花。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step1.webp"
-      },
-      {
-        "text": "【调制肉馅】：将肉泥放入大碗中，加入姜末、葱花、适量盐、生抽、蚝油，朝一个方向搅拌均匀至上劲。再加入玉米淀粉和剁好的藕碎、胡萝卜碎，继续搅拌均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step2.webp"
-      },
-      {
-        "text": "【准备蒸盘】：取一个深碗或蒸盘，将胡萝卜切成薄片，均匀铺在碗底。"
-      },
-      {
-        "text": "【制作肉丸】：将调好的肉馅用手团成大小均匀的肉丸，轻轻放在胡萝卜片上。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step3.webp"
-      },
-      {
-        "text": "【蒸制】：蒸锅水烧开后，放入肉丸，大火蒸15分钟至熟透。"
-      },
-      {
-        "text": "【调制酱汁】：小碗中加入生抽2勺、蚝油1勺、淀粉1勺、清水半碗，搅拌均匀成淀粉汁备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_ouding_rouwan_step4.webp"
-      },
-      {
-        "text": "【炒制酱汁】：锅中放少许油，倒入西红柿碎，翻炒至软烂出汁。将调好的淀粉汁倒入锅中，小火煮至汤汁浓稠后关火（肉馅已有咸味，酱汁不需额外加盐）。"
-      },
-      {
-        "text": "【淋汁出锅】：将蒸好的肉丸取出，把煮好的西红柿酱汁均匀淋在肉丸上，撒上少许葱花点缀即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/ouding_rouwan_step5.webp"
-      }
-    ]
-  },
- 
   {
     "id": "d81e1a80-1936-4074-a0e4-b7b251234995",
     "name": "肉末嫩豆腐",
