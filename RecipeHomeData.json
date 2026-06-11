@@ -1,5 +1,66 @@
 [
   {
+    "id": "stir-fried-beef-slices-001",
+    "name": "嫩炒牛肉片",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/nenchao_niurou.webp",
+    "brief": "牛肉嫩滑多汁，搭配荷兰豆和胡萝卜片，色彩鲜亮，大火快炒锁住鲜香，是一道简单又拿得出手的家常小炒。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "25分钟（不含腌制时间）",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "牛肉: 1斤\n盐：1茶匙\n生抽(腌制2汤匙，出锅前淋1汤匙)：3汤匙\n蚝油：1汤匙\n蒜头：4瓣\n食用油(锁水用)：2汤匙\n小米椒(切圈)：1个\n荷兰豆：100克\n胡萝卜(切片)：半根\n盐: 少量",
+    "steps": [
+      {
+        "text": "【腌制牛肉】：牛肉顺着纹理切成薄片，加入1茶匙盐、2汤匙生抽、1汤匙蚝油和4瓣蒜片，抓拌均匀。再倒入2汤匙食用油拌匀锁住水分，放入冰箱冷藏腌制几小时（至少30分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_niurou_step1.webp"
+      },
+      {
+        "text": "【滑炒牛肉】：热锅倒入足量食用油，烧至油热冒烟，下入腌好的牛肉片和辣椒圈（可选），大火快速翻炒10-15秒，炒至牛肉变色断生后立刻捞出备用。"
+      },
+      {
+        "text": "【炒蔬菜】：用锅中剩下的油，放入荷兰豆和胡萝卜片，撒少量盐，大火翻炒至断生（约1-2分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_niurou_step2.webp"
+      },
+      {
+        "text": "【合炒出锅】：倒入之前炒好的牛肉片，沿锅边淋入1汤匙生抽提色，快速翻炒3-5秒，混合均匀后立即关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_niurou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "jiuhuang-chao-jidan-001",
+    "name": "韭黄炒鸡蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiuhuang_chaojidan.webp",
+    "brief": "韭黄脆嫩鲜香，鸡蛋金黄松软，简单快炒，是一道清爽下饭的家常菜。",
+    "categoryIds": ["7", "2", "31", "11"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "韭黄(一把)：200克\n鸡蛋: 3个\n盐(分两次用)：1/2茶匙\n生抽：1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：韭黄摘去老叶和根部，洗净后沥干水分，切成约4-5厘米长的段。鸡蛋打入碗中，加入1/4茶匙盐，用筷子充分搅散成蛋液。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiuhuang_chaojidan_step1.webp"
+      },
+      {
+        "text": "【滑炒鸡蛋】：锅中倒入适量食用油，烧至六成热（约180°C），倒入蛋液，用铲子快速划散，炒至鸡蛋凝固成块、约八成熟（表面微黄、内部仍有一点嫩）时，立刻盛出备用。"
+      },
+      {
+        "text": "【煸炒韭黄】：锅中再倒入少许食用油，烧至五成热，放入切好的韭黄段，转中大火快速翻炒约30秒，炒至韭黄变软、颜色变深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiuhuang_chaojidan_step2.webp"
+      },
+      {
+        "text": "【合炒调味】：将之前炒好的鸡蛋倒回锅中，加入1/4茶匙盐和1茶匙生抽（可选），转大火快速翻炒均匀，使鸡蛋和韭黄充分融合。"
+      },
+      {
+        "text": "【出锅装盘】：翻炒约15-20秒，尝一下咸淡，调整后即可关火出锅。韭黄不宜久炒，保持脆嫩口感为佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiuhuang_chaojidan_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "m6n7g8h9-i0j1-2k3l-4m5n-6o7p8q9r0s1s",
     "name": "豌豆炒肉末",
     "imageSrc": "https://shiyuji.xyz/img/recipes/wandou_roumo.webp",
@@ -776,43 +837,7 @@
       }
     ]
   },
-  {
-    "id": "b1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-    "name": "炒花甲",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/chaohuajia.webp",
-    "brief": "花甲鲜嫩多汁，搭配小米辣的香辣和葱姜蒜的辛香，简单快炒，鲜美可口。",
-    "categoryIds": ["30", "2", "7","12"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "badge": ["荐"],
-    "ingredients": "花甲: 500克\n盐: 适量（吐沙用）\n食用油: 几滴（吐沙用）\n葱: 2根\n蒜: 4瓣\n姜: 1小块\n小米辣: 2-3个\n生抽: 2汤匙\n蚝油: 1汤匙\n食用油: 适量（炒菜用）",
-    "steps": [
-      {
-        "text": "【花甲吐沙】：将花甲放入清水中，加入适量盐和几滴油，浸泡2小时，让花甲吐尽泥沙。捞出冲洗干净，沥干水分。"
-      },
-      {
-        "text": "【准备配料】：葱切段，姜切丝，蒜切片，小米辣切圈。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuajia_step1.webp"
-      },
-      {
-        "text": "【焖煮花甲】：起锅烧热（不放油），直接倒入花甲，盖上锅盖，中火焖2-3分钟，待花甲全部开口后，倒出备用（保留花甲汤汁）。"
-      },
-      {
-        "text": "【爆香调料】：锅中放适量食用油，烧热后放入小米辣、姜丝、蒜片，爆炒出香味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuajia_step2.webp"
-      },
-      {
-        "text": "【调味】：加入生抽、蚝油和少许盐，翻炒均匀。"
-      },
-      {
-        "text": "【合炒】：倒入之前焖好的花甲，大火快速翻炒均匀，让花甲裹上酱汁。"
-      },
-      {
-        "text": "【出锅】：最后加入葱段，快速翻炒几下即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuajia_step3.webp"
-      }
-    ]
-  },
+ 
   {
     "id": "d81e1a80-1736-4074-a0e4-b7b251234632",
     "name": "三文鱼牛油果泥",
@@ -839,37 +864,6 @@
       {
         "text":"【调稠】：将三文鱼泥和牛油果泥混合均匀。根据宝宝的月龄和吞咽能力，加入适量配方奶或温水，搅拌至合适的稠度即可喂食。",
         "imageSrc":"https://shiyuji.xyz/img/steps/sanwenyu_niuyouguoni_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "d91e1a80-1736-4074-a0e4-b7b251234999",
-    "name": "葱香焖鸡",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/congxiang_menji.webp",
-    "brief": "葱香浓郁，鸡肉嫩滑入味，酱汁醇厚，是一道简单快手的家常焖菜。",
-    "categoryIds": ["2", "7", "11", "20"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "badge": ["热"],
-    "ingredients": "鸡腿/鸡翅: 500克 (切块)\n葱段: 1把\n姜片: 8片\n食用油: 1/4碗\n生抽: 2汤匙\n老抽: 1汤匙\n淀粉 1茶匙\n食用油 适量\n料酒: 1汤匙\n糖: 1茶匙\n水: 半碗",
-    "steps": [
-      {
-        "text": "【腌制鸡肉】：鸡腿和鸡翅洗净切块，加入1汤匙料酒、4片姜片、1汤匙生抽、少许白胡椒粉、食用油、淀粉和姜片，抓匀腌制15分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/congxiang_menji_step1.webp"
-      },
-      {
-        "text": "【煸香葱姜】：锅中倒入约1/4碗食用油，放入一把葱段和4片姜片，开小火慢慢煎炸，直到葱段颜色发黄、香味充分释放出来。"
-      },
-      {
-        "text": "【翻炒鸡块】：将焯好水的鸡块倒入锅中，转中火略微翻炒，炒至鸡块表面微黄、微微上色。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/congxiang_menji_step2.webp"
-      },
-      {
-        "text": "【调味焖煮】：加入2汤匙生抽、1汤匙老抽、1茶匙糖，快速翻炒均匀，使每一块鸡肉都裹上酱汁。然后倒入半碗水，大火煮沸。"
-      },
-      {
-        "text": "【收汁出锅】：保持大火，不断翻炒，待汤汁收至浓稠、均匀包裹在鸡块上时即可关火出锅。全程无需额外加盐，酱油的咸味已足够。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/congxiang_menji_step3.webp"
       }
     ]
   },
@@ -1037,37 +1031,6 @@
       {
         "text": "【出锅装盘】：将炸好的盐酥鸡和九层塔叶混合拌匀，撒上少许椒盐或辣椒粉即可食用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/yansuji_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251234995",
-    "name": "青红椒炒杏鲍菇火腿条",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp",
-    "brief": "色彩鲜艳，口感丰富，杏鲍菇筋道似肉，搭配火腿咸香，快手家常小炒。",
-    "categoryIds": ["31", "20", "7", "2", "12"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "badge": ["热"],
-    "ingredients": "青椒: 1个 (切丝)\n红椒: 1个 (切丝)\n杏鲍菇: 2个 (切丝)\n火腿肠: 2根 (切条)\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1/2汤匙\n盐: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【前期备菜】：青椒、红椒洗净去籽，切成细丝。杏鲍菇洗净，先切成薄片，再改刀成细丝。火腿肠切成与杏鲍菇粗细相当的条状。蒜瓣切成蒜末备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step1.webp"
-      },
-      {
-        "text": "【煸炒杏鲍菇】：锅中烧热适量油，放入杏鲍菇丝，中火煸炒。杏鲍菇刚开始会出水，继续翻炒至水分收干、表面微黄，盛出备用。这一步能去除杏鲍菇的生涩味，并激发出其特有的鲜香。"
-      },
-      {
-        "text": "【爆香配料】：锅中留底油，放入蒜末爆香。然后加入火腿条，翻炒约1分钟，至火腿表面微焦，香味溢出。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step2.webp"
-      },
-      {
-        "text": "【合炒调味】：倒入青红椒丝炒软。接着倒入煸好的杏鲍菇丝，加入生抽、蚝油和少许盐，继续大火翻炒均匀。"
-      },
-      {
-        "text": "【出锅装盘】：所有食材翻炒均匀，入味后即可关火出锅。全程大火快炒，保持青红椒的清脆口感和鲜艳色泽。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qinghongjiao_xingbaogu_huotui_step3.webp"
       }
     ]
   },
