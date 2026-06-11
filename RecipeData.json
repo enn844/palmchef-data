@@ -1895,7 +1895,8 @@
     "categoryIds": ["31", "30", "7", "2"],
     "difficulty": "简单",
     "time": "15分钟",
-    "ingredients": "丝瓜: 1根\n鲜虾仁: 200克\n大蒜: 3瓣（切片）\n姜丝: 少许\n盐: 适量\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 1茶匙\n食用油: 适量",
+    "serving_count": "2",
+    "ingredients": "丝瓜：1根\n鲜虾仁：200克\n大蒜(切片)：3瓣\n姜丝：少许\n盐：适量\n料酒：1汤匙\n白胡椒粉：1/2茶匙\n淀粉：1茶匙\n食用油：适量",
     "steps": [
       {
         "text": "【处理虾仁】：鲜虾去头去壳，挑出虾线，洗净沥干。加入少许盐、料酒、白胡椒粉和淀粉抓匀，腌制10分钟。",
@@ -1925,8 +1926,9 @@
     "categoryIds": ["17", "4", "21"],
     "difficulty": "简单",
     "time": "20分钟",
+    "serving_count": "2",
     "badge": ["荐"],
-    "ingredients": "土豆: 300克\n脱脂牛奶: 50毫升\n无糖酸奶: 20克\n盐: 1/2茶匙\n黑胡椒粉: 少量\n葱花: 少量",
+    "ingredients": "土豆：300克\n脱脂牛奶：50毫升\n无糖酸奶：20克\n盐：1/2茶匙\n黑胡椒粉：少量\n葱花：少量",
     "steps": [
       {
         "text": "【土豆蒸熟】：土豆去皮洗净，切成均匀的厚片，放入蒸锅大火蒸15-20分钟，用筷子能轻松扎透即可。"
@@ -4871,7 +4873,7 @@
     ],
     "difficulty": "中等",
     "time": "3小时 (含发酵)",
-    "ingredients": "高筋面粉(面包主体) 200克\n牛奶(面包主体) 120毫升\n糖(面包主体) 30克\n酵母(面包主体) 3克\n黄油(面包主体) 20克\n低筋面粉(菠萝皮) 50克、糖粉(菠萝皮) 30克\n黄油(菠萝皮) 30克\n鸡蛋液(菠萝皮) 15毫升",
+    "ingredients": "高筋面粉(面包主体) 200克\n牛奶(面包主体) 120毫升\n糖(面包主体) 30克\n酵母(面包主体) 3克\n黄油(面包主体) 20克\n低筋面粉(菠萝皮) 50克\n糖粉(菠萝皮) 30克\n黄油(菠萝皮) 30克\n鸡蛋液(菠萝皮) 15毫升",
     "steps": [
 
       {
@@ -12446,6 +12448,67 @@
       {
         "text": "【芳香封存】：关火后，立即撒入干桂花，盖上锅盖焖5分钟。利用余温激发出桂花的精油成分，待晾至微温或常温后即可倒出饮用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/guihua_wumeitang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "stir-fried-beef-slices-001",
+    "name": "嫩炒牛肉片",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/nenchao_niurou.webp",
+    "brief": "牛肉嫩滑多汁，搭配荷兰豆和胡萝卜片，色彩鲜亮，大火快炒锁住鲜香，是一道简单又拿得出手的家常小炒。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "25分钟（不含腌制时间）",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "牛肉: 1斤\n盐：1茶匙\n生抽(腌制2汤匙，出锅前淋1汤匙)：3汤匙\n蚝油：1汤匙\n蒜头：4瓣\n食用油(锁水用)：2汤匙\n小米椒(切圈)：1个\n荷兰豆：100克\n胡萝卜(切片)：半根\n盐: 少量",
+    "steps": [
+      {
+        "text": "【腌制牛肉】：牛肉顺着纹理切成薄片，加入1茶匙盐、2汤匙生抽、1汤匙蚝油和4瓣蒜片，抓拌均匀。再倒入2汤匙食用油拌匀锁住水分，放入冰箱冷藏腌制几小时（至少30分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_niurou_step1.webp"
+      },
+      {
+        "text": "【滑炒牛肉】：热锅倒入足量食用油，烧至油热冒烟，下入腌好的牛肉片和辣椒圈（可选），大火快速翻炒10-15秒，炒至牛肉变色断生后立刻捞出备用。"
+      },
+      {
+        "text": "【炒蔬菜】：用锅中剩下的油，放入荷兰豆和胡萝卜片，撒少量盐，大火翻炒至断生（约1-2分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_niurou_step2.webp"
+      },
+      {
+        "text": "【合炒出锅】：倒入之前炒好的牛肉片，沿锅边淋入1汤匙生抽提色，快速翻炒3-5秒，混合均匀后立即关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_niurou_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "jiuhuang-chao-jidan-001",
+    "name": "韭黄炒鸡蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiuhuang_chaojidan.webp",
+    "brief": "韭黄脆嫩鲜香，鸡蛋金黄松软，简单快炒，是一道清爽下饭的家常菜。",
+    "categoryIds": ["7", "2", "31", "11"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": [],
+    "serving_count": "2",
+    "ingredients": "韭黄(一把)：200克\n鸡蛋: 3个\n盐(分两次用)：1/2茶匙\n生抽：1茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：韭黄摘去老叶和根部，洗净后沥干水分，切成约4-5厘米长的段。鸡蛋打入碗中，加入1/4茶匙盐，用筷子充分搅散成蛋液。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiuhuang_chaojidan_step1.webp"
+      },
+      {
+        "text": "【滑炒鸡蛋】：锅中倒入适量食用油，烧至六成热（约180°C），倒入蛋液，用铲子快速划散，炒至鸡蛋凝固成块、约八成熟（表面微黄、内部仍有一点嫩）时，立刻盛出备用。"
+      },
+      {
+        "text": "【煸炒韭黄】：锅中再倒入少许食用油，烧至五成热，放入切好的韭黄段，转中大火快速翻炒约30秒，炒至韭黄变软、颜色变深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiuhuang_chaojidan_step2.webp"
+      },
+      {
+        "text": "【合炒调味】：将之前炒好的鸡蛋倒回锅中，加入1/4茶匙盐和1茶匙生抽（可选），转大火快速翻炒均匀，使鸡蛋和韭黄充分融合。"
+      },
+      {
+        "text": "【出锅装盘】：翻炒约15-20秒，尝一下咸淡，调整后即可关火出锅。韭黄不宜久炒，保持脆嫩口感为佳。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiuhuang_chaojidan_step3.webp"
       }
     ]
   }
