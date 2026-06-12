@@ -4,6 +4,41 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "yangfa",
+        "imageSrc": "https://shiyuji.xyz/img/article/yangfa.webp",
+        "title": "头顶乾坤：这一碗里的锦绣，救得活你的青丝",
+        "brief": "别总盯着药瓶子，老祖宗的“黑科技”全在菜盘子里。马未都式跨界闲谈，聊透头发背后的精气神与餐桌自救指南。",
+        "webUrl": "https://health-app.com/articles/hair-care-wisdom-001"
+      },
+      {
+        "id": "11",
+        "imageSrc": "https://shiyuji.xyz/img/article/qiexiang.webp",
+        "title": "当《红楼梦》茄鲞遇上现代料理机：一场跨越时空的美味复刻",
+        "brief": "刘姥姥说：“这茄子倒是有个茄子味儿，只是太费事了。”今天，我们用现代科技拆解这道红楼第一名菜，让这种“贵族养生”走进普通人的厨房。",
+        "webUrl": "https://health-app.com/articles/qiexiang-001"
+      },
+      {
+        "id": "aoye_xuming",
+        "imageSrc": "https://shiyuji.xyz/img/article/aoye_xuming.webp",
+        "title": "熬夜后的“续命”哲学：给年轻人的精神与肠胃指南",
+        "brief": "现在的年轻人，总爱在半夜里找一点“自我的光亮”。可这光亮要是烧得太旺，人就容易干枯。别让熬夜的“阴火”，透支了你的生命内存。",
+        "webUrl": "https://health-app.com/articles/stay-up-late-rescue-001"
+      },
+      {
+        "id": "yanghua",
+        "imageSrc": "https://shiyuji.xyz/img/article/yanghua.webp",
+        "title": "细胞的“防锈协议”：如何在时间的氧化里，保持生命力的通透",
+        "brief": "自由基是细胞的“黑客”，氧化是岁月的“锈迹”。结合《本草纲目》智慧，用天然食材给细胞涂“防锈漆”，留住通透活力。",
+        "webUrl": "https://health-app.com/articles/antioxidant-001"
+      },
+      {
+        "id": "manxing_yanzheng",
+        "imageSrc": "https://shiyuji.xyz/img/article/manxing_yanzheng.webp",
+        "title": "体内的“无声之火”：慢性炎症，是一场波及全身的隐形负债",
+        "brief": "不发烧、不疼痛，慢性炎症却在悄悄消耗身体。揭秘岭南五指毛桃的抗炎智慧，解锁餐桌上的“防火巡检”指南。",
+        "webUrl": "https://health-app.com/articles/chronic-inflammation-001"
+      },
+      {
         "id": "mangzhong",
         "imageSrc": "https://shiyuji.xyz/img/article/mangzhong.webp",
         "title": "芒种至，仲夏始：吃“三苦”、饮“三酸”，轻松度过苦夏",
@@ -67,13 +102,6 @@
         "webUrl": "https://health-app.com/articles/xiaodou-logic-001"
       },
       {
-        "id": "yangfa",
-        "imageSrc": "https://shiyuji.xyz/img/article/yangfa.webp",
-        "title": "头顶乾坤：这一碗里的锦绣，救得活你的青丝",
-        "brief": "别总盯着药瓶子，老祖宗的“黑科技”全在菜盘子里。马未都式跨界闲谈，聊透头发背后的精气神与餐桌自救指南。",
-        "webUrl": "https://health-app.com/articles/hair-care-wisdom-001"
-      },
-      {
         "id": "7",
         "imageSrc": "https://shiyuji.xyz/img/article/guangdong_liangcha.webp",
         "title": "不只是一杯凉茶：解码广东人的“续命水”里的生活哲学",
@@ -88,29 +116,6 @@
         "webUrl": "https://health-app.com/articles/xiaoman-skin-care"
       },
       {
-        "id": "11",
-        "imageSrc": "https://shiyuji.xyz/img/article/qiexiang.webp",
-        "title": "当《红楼梦》茄鲞遇上现代料理机：一场跨越时空的美味复刻",
-        "brief": "刘姥姥说：“这茄子倒是有个茄子味儿，只是太费事了。”今天，我们用现代科技拆解这道红楼第一名菜，让这种“贵族养生”走进普通人的厨房。",
-        "webUrl": "https://health-app.com/articles/qiexiang-001"
-      },
-      {
-        "id": "aoye_xuming",
-        "imageSrc": "https://shiyuji.xyz/img/article/aoye_xuming.webp",
-        "title": "熬夜后的“续命”哲学：给年轻人的精神与肠胃指南",
-        "brief": "现在的年轻人，总爱在半夜里找一点“自我的光亮”。可这光亮要是烧得太旺，人就容易干枯。别让熬夜的“阴火”，透支了你的生命内存。",
-        "webUrl": "https://health-app.com/articles/stay-up-late-rescue-001"
-      },
-      {
-        "id": "yanghua",
-        "imageSrc": "https://shiyuji.xyz/img/article/yanghua.webp",
-        "title": "细胞的“防锈协议”：如何在时间的氧化里，保持生命力的通透",
-        "brief": "自由基是细胞的“黑客”，氧化是岁月的“锈迹”。结合《本草纲目》智慧，用天然食材给细胞涂“防锈漆”，留住通透活力。",
-        "webUrl": "https://health-app.com/articles/antioxidant-001"
-      },
-
-
-      {
         "id": "liulian",
         "imageSrc": "https://shiyuji.xyz/img/article/liulian.webp",
         "title": "食物界的“重载运行”：榴莲的硫化物、热量释放与气血大修整",
@@ -124,20 +129,7 @@
         "brief": "吃素不是“受罪”，而是“讲究”。别把素食吃成清修，蔡澜式通透见解带你找回素食餐盘里流失的气血与烟火气。",
         "webUrl": "https://health-app.com/articles/vegetarian-blood-care-001"
       },
-      {
-        "id": "manxing_yanzheng",
-        "imageSrc": "https://shiyuji.xyz/img/article/manxing_yanzheng.webp",
-        "title": "体内的“无声之火”：慢性炎症，是一场波及全身的隐形负债",
-        "brief": "不发烧、不疼痛，慢性炎症却在悄悄消耗身体。揭秘岭南五指毛桃的抗炎智慧，解锁餐桌上的“防火巡检”指南。",
-        "webUrl": "https://health-app.com/articles/chronic-inflammation-001"
-      },
-      {
-        "id": "4",
-        "imageSrc": "https://shiyuji.xyz/img/article/qiuliyin.webp",
-        "title": "告别“假”抗糖：袁枚的“秋梨饮”让你甜得心安理得",
-        "brief": "戒掉奶茶却戒不掉对甜的渴望？《随园食单》里的智慧告诉我们：真正的抗糖不是断绝甜味，而是找回天然的“高级甜”。",
-        "webUrl": "https://health-app.com/articles/anti-sugar-001"
-      },
+
       {
         "id": "changdao_qingdaofu",
         "imageSrc": "https://shiyuji.xyz/img/article/changdao_qingdaofu.webp",
@@ -210,6 +202,41 @@
     "title": "古籍智慧",
     "articles": [
       {
+        "id": "4",
+        "imageSrc": "https://shiyuji.xyz/img/article/qiuliyin.webp",
+        "title": "告别“假”抗糖：袁枚的“秋梨饮”让你甜得心安理得",
+        "brief": "戒掉奶茶却戒不掉对甜的渴望？《随园食单》里的智慧告诉我们：真正的抗糖不是断绝甜味，而是找回天然的“高级甜”。",
+        "webUrl": "https://health-app.com/articles/anti-sugar-001"
+      },
+      {
+        "id": "wangzengqi_003",
+        "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_003.webp",
+        "title": "臭豆腐与霉千张：嗅觉感官的逆向美学",
+        "brief": "为什么人类会对“异臭”趋之若鹜？从汪曾祺的性灵文字出发，深度拆解挥发性有机化合物如何通过鼻后嗅觉在脑内“反转”为鲜味，探索一场生存进化留下的逆向审美盛宴。",
+        "webUrl": "https://zh.wikipedia.org/wiki/臭豆腐"
+      },
+      {
+        "id": "liyu_005",
+        "imageSrc": "https://shiyuji.xyz/img/article/liyu_005.webp",
+        "title": "蕈之诱惑：菌菇挥发性物质的“夺魂”瞬间",
+        "brief": "李渔称蕈为“山林之气”的化身。从科学角度看，这股令人夺魂的香气源于8-辛烯醇等挥发性物质。本文将带你领略李渔式的嗅觉美学与菌菇的分子奥秘。",
+        "webUrl": "https://zh.wikipedia.org/wiki/食用蕈"
+      },
+      {
+        "id": "liyu_004",
+        "imageSrc": "https://shiyuji.xyz/img/article/liyu_004.webp",
+        "title": "清汤挂面：李渔笔下的味觉信噪比",
+        "brief": "在一碗清汤挂面中，李渔窥见了宇宙的秩序。本文结合神经科学，解析为何“少即是多”能让大脑更精准地捕捉鲜味，重塑现代人的审美信噪比。",
+        "webUrl": "https://zh.wikipedia.org/wiki/闲情偶寄"
+      },
+      {
+        "id": "liyu_006",
+        "imageSrc": "https://shiyuji.xyz/img/article/liyu_006.webp",
+        "title": "独独于蟹：甲壳纲动物的结构美学与进食心理",
+        "brief": "李渔为何对螃蟹痴狂？本文从“亲自剥食”的角度切入，结合现代心理学‘努力获食效应’，解构剥蟹这一仪式如何通过劳动转化成大脑中的极致美味信号。",
+        "webUrl": "https://zh.wikipedia.org/wiki/螃蟹"
+      },
+      {
         "id": "caoben_qingying",
         "imageSrc": "https://shiyuji.xyz/img/article/caoben_qingying.webp",
         "title": "草本里的轻盈方：从《本草纲目》看消积与利水",
@@ -267,20 +294,6 @@
       },
 
       {
-        "id": "wangzengqi_003",
-        "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_003.webp",
-        "title": "臭豆腐与霉千张：嗅觉感官的逆向美学",
-        "brief": "为什么人类会对“异臭”趋之若鹜？从汪曾祺的性灵文字出发，深度拆解挥发性有机化合物如何通过鼻后嗅觉在脑内“反转”为鲜味，探索一场生存进化留下的逆向审美盛宴。",
-        "webUrl": "https://zh.wikipedia.org/wiki/臭豆腐"
-      },
-      {
-        "id": "liyu_005",
-        "imageSrc": "https://shiyuji.xyz/img/article/liyu_005.webp",
-        "title": "蕈之诱惑：菌菇挥发性物质的“夺魂”瞬间",
-        "brief": "李渔称蕈为“山林之气”的化身。从科学角度看，这股令人夺魂的香气源于8-辛烯醇等挥发性物质。本文将带你领略李渔式的嗅觉美学与菌菇的分子奥秘。",
-        "webUrl": "https://zh.wikipedia.org/wiki/食用蕈"
-      },
-      {
         "id": "liyu_001",
         "imageSrc": "https://shiyuji.xyz/img/article/liyu_001.webp",
         "title": "随季而动：李渔的“节律性饮食”与生物钟",
@@ -294,14 +307,6 @@
         "brief": "“筷子一扎，红油就吱——地冒出来”。这一动词背后其实是蛋白质盐析与油脂汇聚的物理过程。让我们跟随汪曾祺的笔触，解构高邮咸鸭蛋里的流体力学。",
         "webUrl": "https://zh.wikipedia.org/wiki/咸鸭蛋"
       },
-      {
-        "id": "liyu_004",
-        "imageSrc": "https://shiyuji.xyz/img/article/liyu_004.webp",
-        "title": "清汤挂面：李渔笔下的味觉信噪比",
-        "brief": "在一碗清汤挂面中，李渔窥见了宇宙的秩序。本文结合神经科学，解析为何“少即是多”能让大脑更精准地捕捉鲜味，重塑现代人的审美信噪比。",
-        "webUrl": "https://zh.wikipedia.org/wiki/闲情偶寄"
-      },
-
       {
         "id": "yuanmei_24jieqi",
         "imageSrc": "https://shiyuji.xyz/img/article/yuanmei_24jieqi.webp",
@@ -339,15 +344,6 @@
         "brief": "扬州人的清晨，是从一盘细如发丝的干丝开始的。汪曾祺写干丝，重点在那一个“细”字。这不只是为了炫技，更是一场关于‘比表面积’与‘扩散作用’的精密物理实验。",
         "webUrl": "https://zh.wikipedia.org/wiki/大煮干丝"
       },
-
-      {
-        "id": "liyu_006",
-        "imageSrc": "https://shiyuji.xyz/img/article/liyu_006.webp",
-        "title": "独独于蟹：甲壳纲动物的结构美学与进食心理",
-        "brief": "李渔为何对螃蟹痴狂？本文从“亲自剥食”的角度切入，结合现代心理学‘努力获食效应’，解构剥蟹这一仪式如何通过劳动转化成大脑中的极致美味信号。",
-        "webUrl": "https://zh.wikipedia.org/wiki/螃蟹"
-      },
-
       {
         "id": "wangzengqi_005",
         "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_005.webp",
@@ -355,8 +351,6 @@
         "brief": "汪曾祺不仅是性灵派作家，更是一位民间的植物分类学家。本文从《诗经》里的“葵”聊到街头巷尾的马兰头，揭开名字背后的味觉记忆与春季代谢的生物学密码。",
         "webUrl": "https://zh.wikipedia.org/wiki/汪曾祺"
       },
-
-
       {
         "id": "art_yuanmei_005",
         "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_005.webp",
