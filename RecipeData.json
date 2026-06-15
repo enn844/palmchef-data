@@ -1,4 +1,55 @@
 [
+
+  {
+    "id": "carrot-apple-tomato-juice-001",
+    "name": "胡萝卜苹果番茄汁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/huluobo_pingguo_fanqiezhi.webp",
+    "brief": "胡萝卜的甜润、苹果的清香与番茄的酸甜完美融合，枸杞点睛，富含维生素与番茄红素，是一杯唤醒身体的元气果蔬汁。",
+    "categoryIds": ["17", "2", "3", "10"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["荐"],
+    "serving_count": "2",
+    "ingredients": "胡萝卜：1小根\n苹果：半个\n番茄：1个\n枸杞：1汤匙（约10克）\n凉白开或矿泉水：400毫升",
+    "steps": [
+      {
+        "text": "【备菜处理】：胡萝卜洗净去皮，切成1厘米见方的小丁。苹果洗净去核，带皮切成小块（保留果皮可增加膳食纤维）。番茄洗净去蒂，切成小块。枸杞用温水浸泡2分钟，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huluobo_pingguo_fanqiezhi_step1.webp"
+      },
+      {
+        "text": "【入杯准备】：将切好的胡萝卜丁、苹果块、番茄块和泡好的枸杞一同放入破壁机或榨汁机中。"
+      },
+      {
+        "text": "【搅打细腻】：加入凉白开或矿泉水。选择果蔬汁模式，搅打约1-2分钟，至食材完全细腻顺滑。倒入杯中，即可立即饮用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huluobo_pingguo_fanqiezhi_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "apple-cucumber-celery-banana-juice-001",
+    "name": "苹果黄瓜西芹香蕉汁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/pingguo_huanggua_xiqin_xiangjiaozhi.webp",
+    "brief": "比经典版多了一根香蕉，奶昔般的绵密口感。香蕉的天然甜糯与膳食纤维，让这杯绿色能量饮饱腹感更强，是轻断食日的完美代餐。",
+    "categoryIds": ["10", "17", "4", "2"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "苹果：1个\n黄瓜：半根\n西芹：50克\n香蕉：1根\n凉白开：400毫升",
+    "steps": [
+      {
+        "text": "【备菜处理】：苹果洗净，去核切块（保留果皮）。黄瓜洗净，切段。西芹洗净，削去老筋，切段。香蕉去皮，切段备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguo_huanggua_xiqin_xiangjiaozhi_step1.webp"
+      },
+      {
+        "text": "【混合打汁】：将切好的苹果块、黄瓜段、西芹段、香蕉段一同放入破壁机或榨汁机中，加入100毫升凉白开。"
+      },
+      {
+        "text": "【搅打顺滑】：选择果蔬汁模式，搅打约1分钟，直至所有食材充分融合，形成浓稠顺滑的奶昔状。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguo_huanggua_xiqin_xiangjiaozhi_step2.webp"
+      }
+    ]
+  },
   {
     "id": "tomato-cauliflower-001",
     "name": "西红柿炒菜花",
