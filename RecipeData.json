@@ -1,5 +1,4 @@
 [
-
   {
     "id": "carrot-apple-tomato-juice-001",
     "name": "胡萝卜苹果番茄汁",
@@ -8287,6 +8286,7 @@
     ],
     "difficulty": "高级",
     "time": "25分钟",
+    "serving_count":"3",
     "ingredients": "红薯/地瓜 500克\n白糖 150克\n食用油 适量\n熟芝麻 少许",
     "steps": [
       
