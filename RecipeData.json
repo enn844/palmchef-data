@@ -1,5 +1,43 @@
 [
   {
+    "id": "apple-pie-001",
+    "name": "苹果派",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/apple_pie.webp",
+    "brief": "外皮酥脆金黄，内馅酸甜软糯，黄油与苹果的香气完美融合，是经典的美式家常甜点。",
+    "categoryIds": ["14", "2", "7"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "badge": ["新"],
+    "serving_count": "4",
+    "ingredients": "苹果: 1个\n手抓饼皮: 4张\n无盐黄油: 1汤匙\n白糖: 2汤匙\n水淀粉（1茶匙淀粉 + 2汤匙水）: 3克\n鸡蛋（打散）: 1个\n黑芝麻（装饰用）: 1茶匙",
+    "steps": [
+      {
+        "text": "【准备馅料】：苹果洗净去皮去核，切成约1厘米见方的小丁。"
+      },
+      {
+        "text": "【炒制苹果馅】：平底锅中放入黄油，开小火加热至完全融化。倒入苹果丁，转中火翻炒约2分钟，至苹果略微变软。加入白糖，继续翻炒至苹果出水、糖融化。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step1.webp"
+      },
+      {
+        "text": "【勾芡收汁】：将水淀粉再次搅匀，淋入锅中，快速翻炒至汤汁变得浓稠、紧紧包裹在苹果丁上即可关火，盛出晾凉备用。"
+      },
+      {
+        "text": "【处理饼皮】：将解冻的手抓饼皮放在案板上，用刀切成4份等大的扇形（或长方形）。取其中一份，在饼皮一侧放上适量炒好的苹果馅（约1汤匙）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/apple_pie_step4.webp"
+      },
+      {
+        "text": "【封口包制】：将饼皮对折，盖住馅料，用叉子沿着边缘按压，使封口紧密贴合。依次包好所有苹果派。"
+      },
+      {
+        "text": "【刷蛋液撒芝麻】：将包好的苹果派均匀摆放在铺有油纸的烤盘上。在表面刷上一层薄薄的鸡蛋液，再撒上黑芝麻。"
+      },
+      {
+        "text": "【烘烤出炉】：烤箱提前以200°C预热。将烤盘放入烤箱中下层，烘烤20分钟，至表面金黄酥脆即可出炉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/apple_pie_step7.webp"
+      }
+    ]
+  },
+  {
     "id": "jisi-liangmian-001",
     "name": "鸡丝凉面",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jisi_liangmian.webp",
@@ -975,7 +1013,7 @@
     "categoryIds": ["7", "3", "2", "12"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["热"],
+    "badge": [""],
     "serving_count": "4",
     "ingredients": "娃娃菜: 2个\n咸鸭蛋: 1个\n皮蛋: 1个\n火腿肠: 2根\n大蒜: 3瓣\n盐: 1茶匙\n白胡椒粉: 1茶匙\n鸡精 (可选): 适量\n食用油: 适量\n开水: 适量 (能淹没娃娃菜即可)",
     "steps": [
@@ -1077,7 +1115,7 @@
     ],
     "difficulty": "中等",
     "time": "25分钟",
-    "badge": ["热"],
+    "badge": [""],
     "serving_count": "4",
     "ingredients": "青椒: 4个\n猪梅花肉（或五花肉）: 200克\n生抽: 2汤匙\n老抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 2茶匙\n葱姜水: 3汤匙\n盐: 1/2茶匙\n清水: 半碗\n食用油: 适量",
     "steps": [
@@ -1119,7 +1157,7 @@
     ],
     "difficulty": "简单",
     "time": "20分钟",
-    "badge": ["热"],
+    "badge": [""],
     "serving_count": "1",
     "ingredients": "鸡蛋：1个\n土豆：1个\n胡萝卜：半根\n生菜：50克\n蟹柳：3根\n藜麦：20克\n油醋汁：适量\n黑胡椒海盐：适量",
     "steps": [
@@ -1253,7 +1291,7 @@
     "categoryIds": ["7", "20", "11", "2"],
     "difficulty": "中等",
     "time": "25分钟",
-    "badge": ["热"],
+    "badge": [""],
     "serving_count": "4",
     "ingredients": "青椒（胖直、不太辣）: 5个\n虾滑: 200克\n大蒜: 6瓣\n生抽: 4汤匙\n蚝油: 2汤匙\n白糖: 1汤匙\n白胡椒粉: 1茶匙\n淀粉: 1汤匙\n清水: 适量\n食用油: 适量",
     "steps": [
@@ -1390,7 +1428,7 @@
     "difficulty": "简单",
     "time": "25分钟",
     "serving_count": "2",
-    "badge": ["热"],
+    "badge": [""],
     "ingredients": "吐司片: 4片\n芝士片: 3片\n黄油: 20克\n鸡蛋: 1个\n火腿丁: 30克\n肉松: 20克\n小葱: 1根\n白芝麻: 适量\n沙拉酱: 适量",
     "steps": [
       {
@@ -1453,7 +1491,7 @@
     "difficulty": "简单",
     "time": "25分钟",
     "serving_count": "3",
-    "badge": ["热"],
+    "badge": [""],
     "ingredients": "鸡腿/鸡翅: 500克\n葱段: 1把\n姜片: 8片\n生抽: 2汤匙\n老抽: 1汤匙\n淀粉 1茶匙\n食用油 适量\n料酒: 1汤匙\n糖: 1茶匙\n水: 半碗",
     "steps": [
       {
@@ -1619,7 +1657,7 @@
     "difficulty": "中等",
     "time": "25分钟",
     "serving_count": "3",
-    "badge": ["热"],
+    "badge": [""],
     "ingredients": "土豆: 1个\n西兰花: 半朵\n火腿: 一根 \n肥牛卷: 150克\n猪瘦肉: 100克\n其他食材（可选）: 适量\n河粉（或面条/粉丝）: 1份\n牛肉丸: 6个\n牛奶: 200毫升\n清水: 300毫升\n葱姜蒜: 适量\n郫县豆瓣酱: 1汤匙\n火锅底料: 1小块\n食用油: 适量",
     "steps": [
       {
@@ -1694,7 +1732,7 @@
     "categoryIds": ["31", "20", "7", "2", "12"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["热"],
+    "badge": [""],
     "serving_count": "3",
     "ingredients": "青椒: 1个\n红椒: 1个\n杏鲍菇: 2个\n火腿肠: 2根\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1/2汤匙\n盐: 适量\n食用油: 适量",
     "steps": [
@@ -2566,7 +2604,7 @@
     "categoryIds": ["30", "2", "7","11"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["热"],
+    "badge": [""],
     "serving_count": "3",
     "ingredients": "鲜虾: 500克\n葱: 1段\n姜: 1块\n料酒: 2汤匙\n小米辣: 2个\n生抽: 2汤匙\n蚝油: 1汤匙\n香油: 1茶匙\n凉白开: 2汤匙\n香菜/葱花: 适量",
     "steps": [

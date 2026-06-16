@@ -1,5 +1,209 @@
 [
   {
+    "id": "apple-pie-001",
+    "name": "苹果派",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/apple_pie.webp",
+    "brief": "外皮酥脆金黄，内馅酸甜软糯，黄油与苹果的香气完美融合，是经典的美式家常甜点。",
+    "categoryIds": ["14", "2", "7"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "badge": ["新"],
+    "serving_count": "4",
+    "ingredients": "苹果: 1个\n手抓饼皮: 4张\n无盐黄油: 1汤匙\n白糖: 2汤匙\n水淀粉（1茶匙淀粉 + 2汤匙水）: 3克\n鸡蛋（打散）: 1个\n黑芝麻（装饰用）: 1茶匙",
+    "steps": [
+      {
+        "text": "【准备馅料】：苹果洗净去皮去核，切成约1厘米见方的小丁。"
+      },
+      {
+        "text": "【炒制苹果馅】：平底锅中放入黄油，开小火加热至完全融化。倒入苹果丁，转中火翻炒约2分钟，至苹果略微变软。加入白糖，继续翻炒至苹果出水、糖融化。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step1.webp"
+      },
+      {
+        "text": "【勾芡收汁】：将水淀粉再次搅匀，淋入锅中，快速翻炒至汤汁变得浓稠、紧紧包裹在苹果丁上即可关火，盛出晾凉备用。"
+      },
+      {
+        "text": "【处理饼皮】：将解冻的手抓饼皮放在案板上，用刀切成4份等大的扇形（或长方形）。取其中一份，在饼皮一侧放上适量炒好的苹果馅（约1汤匙）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/apple_pie_step4.webp"
+      },
+      {
+        "text": "【封口包制】：将饼皮对折，盖住馅料，用叉子沿着边缘按压，使封口紧密贴合。依次包好所有苹果派。"
+      },
+      {
+        "text": "【刷蛋液撒芝麻】：将包好的苹果派均匀摆放在铺有油纸的烤盘上。在表面刷上一层薄薄的鸡蛋液，再撒上黑芝麻。"
+      },
+      {
+        "text": "【烘烤出炉】：烤箱提前以200°C预热。将烤盘放入烤箱中下层，烘烤20分钟，至表面金黄酥脆即可出炉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/apple_pie_step7.webp"
+      }
+    ]
+  },
+  {
+    "id": "jisi-liangmian-001",
+    "name": "鸡丝凉面",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jisi_liangmian.webp",
+    "brief": "鸡丝鲜嫩，面条爽滑，搭配黄瓜丝的清脆和花生米的香脆，酱汁酸辣开胃，是夏季消暑的经典主食。",
+    "categoryIds": ["28", "2", "7", "25", "11"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "1",
+    "ingredients": "鸡胸肉: 1块\n面条（鲜面或干面）: 200克\n黄瓜: 半根\n花生米（可选）: 2汤匙\n料酒: 1汤匙\n葱（切段）: 1根\n姜片: 1片\n葱花（料汁）: 1汤匙\n蒜末（料汁）: 1汤匙\n辣椒面（料汁）: 1汤匙\n白芝麻（料汁）: 1汤匙\n食用油（淋热油用）: 3汤匙\n生抽（料汁）: 3汤匙\n陈醋（料汁）: 2汤匙\n蚝油（料汁）: 1汤匙\n盐（料汁）: 1/2茶匙\n白糖（料汁）: 1茶匙",
+    "steps": [
+      {
+        "text": "【处理鸡胸肉】：鸡胸肉冷水下锅，加入料酒、葱段和姜片。大火煮开后转中火煮10-15分钟，至鸡肉完全熟透。捞出放入凉水或冰水中过凉，沥干水分后用手撕成细丝备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jisi_liangmian_step1.webp"
+      },
+      {
+        "text": "【准备配菜】：黄瓜洗净，先切成薄片再切成细丝。花生米可选（如果是生花生，需用小火炒熟或烤箱烤熟）。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【煮面条】：锅中烧开水，下入面条，按照包装说明煮至无硬芯（约3-5分钟）。捞出后放入凉水中过凉，沥干水分备用。过凉水可以让面条更爽滑不粘连。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jisi_liangmian_step2.webp"
+      },
+      {
+        "text": "【调制料汁】：取一个碗，放入葱花、蒜末、辣椒面和白芝麻。锅中烧热食用油，烧至微微冒烟（约七成热），将热油均匀淋入碗中，搅拌均匀激发出香味。然后加入生抽、陈醋、蚝油、盐和白糖，搅拌均匀备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jisi_liangmian_step3.webp"
+      },
+      {
+        "text": "【组装凉面】：将沥干水分的面条放入大碗中，淋上调好的酱汁，用筷子充分拌匀，使每根面条都裹上酱汁。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【加料装盘】：在拌好的面条上铺上黄瓜丝、鸡丝和花生米，再次轻轻拌匀即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jisi_liangmian_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "qingzheng-changyu-2026-001",
+    "name": "清蒸鲳鱼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_changyu.webp",
+    "brief": "鲳鱼肉质细嫩，清蒸保留原汁原味，葱香与酱油的咸鲜完美融合，是一道清淡健康的家常海鲜菜。",
+    "categoryIds": ["30", "2", "7", "12"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "badge": [],
+    "serving_count": "2",
+    "ingredients": "鲳鱼: 1条\n白胡椒粉: 1/4茶匙\n盐: 1/4茶匙\n米酒汁: 1茶匙\n大葱: 1小段\n生姜: 4片\n小米辣: 1个\n小葱: 1根\n酱油: 1.5汤匙",
+    "steps": [
+      {
+        "text": "【处理鲳鱼】：鲳鱼去鳞、去内脏、去鳃，清洗干净。在鱼身两面各划2-3刀，便于入味。用厨房纸吸干鱼身表面水分。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_changyu_step1.webp"
+      },
+      {
+        "text": "【腌制去腥】：在鱼身内外均匀抹上白胡椒粉、盐和米酒汁。大葱切段，生姜切片，将部分葱段和姜片塞入鱼腹中，剩余的铺在鱼身上。腌制20分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_changyu_step2.webp"
+      },
+      {
+        "text": "【切丝备料】：小米辣去籽后切成细丝。小葱取葱绿部分，切成细丝，放入冷水中浸泡至自然卷曲（约5分钟），捞出沥干备用。"
+      },
+      {
+        "text": "【蒸制】：蒸锅中加水烧开。将腌制过的鲳鱼放入盘中，入蒸锅大火蒸8分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_changyu_step3.webp"
+      },
+      {
+        "text": "【倒水换料】：取出蒸好的鲳鱼，倒掉盘中蒸出的腥水，夹走蒸过的葱姜。在鱼身上铺上卷曲的葱丝和辣椒丝。"
+      },
+      {
+        "text": "【淋油出锅】：将25毫升酱油均匀淋在鱼身和葱丝上。锅中烧热2汤匙食用油（约30毫升，配方外），烧至微微冒烟后均匀浇在葱丝和辣椒丝上激发出香味，即可上桌。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_changyu_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "curry-chicken-001",
+    "name": "咖喱鸡肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/gali_jirou.webp",
+    "brief": "咖喱酱汁浓郁丝滑，鸡肉嫩滑多汁，土豆绵软胡萝卜清甜，搭配洋葱的香甜，是一道开胃下饭的家常料理。",
+    "categoryIds": ["7", "2", "20", "11", "12"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "鸡胸肉或鸡腿肉: 250克\n料酒: 1汤匙\n生抽: 2汤匙\n葱: 1段\n姜: 2片\n盐: 1/2茶匙\n淀粉: 1茶匙\n胡萝卜: 1根\n土豆: 1个\n洋葱: 半个\n咖喱块（约40克）: 2块\n牛奶: 80毫升\n食用油: 适量\n清水（没过食材）: 适量",
+    "steps": [
+      {
+        "text": "【腌制鸡肉】：鸡肉洗净切小块，加入料酒、生抽、葱、姜、盐和淀粉，抓匀腌制10分钟。"
+      },
+      {
+        "text": "【备菜切配】：胡萝卜去皮切小块，土豆去皮切块，洋葱切丝备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step1.webp"
+      },
+      {
+        "text": "【煸炒土豆胡萝卜】：锅中倒入少许食用油，烧热后放入切好的土豆块和胡萝卜块，中火煸炒至土豆表面金黄、边缘微透明，盛出备用。"
+      },
+      {
+        "text": "【炒香洋葱】：锅中留底油，放入洋葱丝，小火慢慢翻炒，炒至洋葱变软、呈透明状，散发出香甜味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step2.webp"
+      },
+      {
+        "text": "【翻炒鸡肉】：将腌好的鸡肉倒入锅中，转中火翻炒至鸡肉变色、表面发白。"
+      },
+      {
+        "text": "【加入配菜】：倒入之前煸炒过的土豆块和胡萝卜块，与鸡肉一起翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step3.webp"
+      },
+      {
+        "text": "【炖煮咖喱】：倒入足量凉水，水量以没过所有食材为宜。大火煮开后，放入咖喱块，用铲子搅拌至咖喱块完全融化。转中小火，盖上锅盖炖煮10分钟，至土豆和胡萝卜软糯、鸡肉熟透入味。"
+      },
+      {
+        "text": "【收汁出锅】：打开锅盖，转大火收汁。待汤汁浓稠时，倒入80毫升牛奶，搅拌均匀，继续煮约1分钟至汤汁顺滑即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "carrot-apple-tomato-juice-001",
+    "name": "胡萝卜苹果番茄汁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/huluobo_pingguo_fanqiezhi.webp",
+    "brief": "胡萝卜的甜润、苹果的清香与番茄的酸甜完美融合，枸杞点睛，富含维生素与番茄红素，是一杯唤醒身体的元气果蔬汁。",
+    "categoryIds": ["17", "2", "3", "10"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["荐"],
+    "serving_count": "2",
+    "ingredients": "胡萝卜：1小根\n苹果：半个\n番茄：1个\n枸杞：1汤匙（约10克）\n凉白开或矿泉水：400毫升",
+    "steps": [
+      {
+        "text": "【备菜处理】：胡萝卜洗净去皮，切成1厘米见方的小丁。苹果洗净去核，带皮切成小块（保留果皮可增加膳食纤维）。番茄洗净去蒂，切成小块。枸杞用温水浸泡2分钟，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huluobo_pingguo_fanqiezhi_step1.webp"
+      },
+      {
+        "text": "【入杯准备】：将切好的胡萝卜丁、苹果块、番茄块和泡好的枸杞一同放入破壁机或榨汁机中。"
+      },
+      {
+        "text": "【搅打细腻】：加入凉白开或矿泉水。选择果蔬汁模式，搅打约1-2分钟，至食材完全细腻顺滑。倒入杯中，即可立即饮用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/huluobo_pingguo_fanqiezhi_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "apple-cucumber-celery-banana-juice-001",
+    "name": "苹果黄瓜西芹香蕉汁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/pingguo_huanggua_xiqin_xiangjiaozhi.webp",
+    "brief": "比经典版多了一根香蕉，奶昔般的绵密口感。香蕉的天然甜糯与膳食纤维，让这杯绿色能量饮饱腹感更强，是轻断食日的完美代餐。",
+    "categoryIds": ["10", "17", "4", "2"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "苹果：1个\n黄瓜：半根\n西芹：50克\n香蕉：1根\n凉白开：400毫升",
+    "steps": [
+      {
+        "text": "【备菜处理】：苹果洗净，去核切块（保留果皮）。黄瓜洗净，切段。西芹洗净，削去老筋，切段。香蕉去皮，切段备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguo_huanggua_xiqin_xiangjiaozhi_step1.webp"
+      },
+      {
+        "text": "【混合打汁】：将切好的苹果块、黄瓜段、西芹段、香蕉段一同放入破壁机或榨汁机中，加入100毫升凉白开。"
+      },
+      {
+        "text": "【搅打顺滑】：选择果蔬汁模式，搅打约1分钟，直至所有食材充分融合，形成浓稠顺滑的奶昔状。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguo_huanggua_xiqin_xiangjiaozhi_step2.webp"
+      }
+    ]
+  },
+  {
     "id": "tomato-cauliflower-001",
     "name": "西红柿炒菜花",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_caihua.webp",
@@ -830,185 +1034,6 @@
       {
         "text": "【调味出锅】：加入1茶匙盐、1茶匙白胡椒粉和适量鸡精（可选），轻轻推匀即可出锅装盘。",
         "imageSrc": "https://shiyuji.xyz/img/steps/shangtang_wawacai_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "f81e1a80-1736-4074-a0e4-b7b251234900",
-    "name": "虾滑响铃卷",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiahua_xianglingjuan.webp",
-    "brief": "响铃卷吸饱酸甜番茄汤汁，包裹着Q弹虾滑，外软内鲜，一口爆汁。",
-    "categoryIds": ["7", "20", "2","11"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "serving_count": "3",
-    "ingredients": "响铃卷: 8个\n虾滑: 150克\n番茄: 2个\n番茄酱: 2汤匙\n生抽: 1汤匙\n蚝油: 1汤匙\n白糖: 1/2茶匙\n淀粉: 1汤匙\n葱花: 适量\n盐: 少许\n清水: 适量",
-    "steps": [
-      {
-        "text": "【准备响铃卷】：将响铃卷放入温水中浸泡约10秒，变软后轻轻捞出。把虾滑均匀挤在展开的响铃卷上，然后重新卷起，轻轻压实两端防止虾滑漏出。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_xianglingjuan_step1.webp"
-      },
-      {
-        "text": "【炒制番茄汤底】：番茄切丁。锅中放少许油烧热，倒入番茄丁，中火翻炒至番茄软烂出沙。加入适量清水，大火煮开。"
-      },
-      {
-        "text": "【调制料汁】：取一个小碗，将番茄酱、生抽、蚝油、白糖、盐和淀粉混合，加入少许清水搅拌均匀，调成料汁备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_xianglingjuan_step2.webp"
-      },
-      {
-        "text": "【下锅焖煮】：汤底煮开后，轻轻放入包好的虾滑响铃卷。倒入调好的料汁，用勺子轻轻推匀，转中小火煮3-5分钟，让响铃卷充分吸收汤汁。"
-      },
-      {
-        "text": "【收汁出锅】：转大火收汁，待汤汁浓稠并均匀包裹在响铃卷上时，关火。撒上葱花即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiahua_xianglingjuan_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "zha-qie-he-2024-001",
-    "name": "炸茄盒",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qiehe.webp",
-    "brief": "外焦里嫩，鲜香适口，茄子夹着蘑菇鸡蛋馅，裹上面包渣炸至金黄，口感酥脆。",
-    "categoryIds": [
-      "7",
-      "2",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "35分钟",
-    "serving_count": "4",
-    "ingredients": "茄子: 400克\n蘑菇: 50克\n洋葱: 25克\n面粉: 25克\n鸡蛋: 3个\n面包渣: 75克\n香菜: 13克\n植物油: 125克\n精盐: 适量\n胡椒面: 适量",
-    "steps": [
-      {
-        "text": "【备菜处理】：茄子洗净削皮，一切两开，将一半放平（凸部向上），用刀切下但不切断，形成夹层。洋葱去皮切成细末；蘑菇洗净切碎末；香菜洗净切碎末。鸡蛋2个打散备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step1.webp"
-      },
-      {
-        "text": "【炒制馅料】：煎盘烧热倒入适量植物油，油热后下入洋葱末炒香，加入蘑菇碎末翻炒，倒入打散的2个鸡蛋液，撒上精盐和胡椒面，快速翻炒成馅料，盛出晾凉待用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step2.webp"
-      },
-      {
-        "text": "【填馅裹粉】：将切好的茄子夹层掰开，用餐刀把炒好的馅料均匀抹入。全部抹完后撒上少许盐和胡椒面，先蘸上一层面粉，再在剩余1个打散的鸡蛋液中蘸匀，最后捞出放到面包渣上，用双手轻轻压实，使面包渣均匀裹住茄子。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step3.webp"
-        
-      },
-      {
-        "text": "【炸制出锅】：炸锅烧热倒入足量植物油，烧至油起烟时（约七成热），下入裹好面包渣的茄子，中火炸至两面金黄酥脆。如内部未完全熟透，可放入预热好的烤炉中烘烤片刻，即可取出食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qiehe_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c22",
-    "name": "青椒酿肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_niangrou.webp",
-    "brief": "青椒的清香与肉末的鲜嫩完美融合，煎至虎皮状后裹上酱汁，咸香入味，超级下饭。",
-    "categoryIds": [
-      "7",
-      "2",
-      "20",
-      "12"
-    ],
-    "difficulty": "中等",
-    "time": "25分钟",
-    "badge": ["热"],
-    "serving_count": "4",
-    "ingredients": "青椒: 4个\n猪梅花肉（或五花肉）: 200克\n生抽: 2汤匙\n老抽: 1汤匙\n蚝油: 1汤匙\n料酒: 1汤匙\n白胡椒粉: 1/2茶匙\n淀粉: 2茶匙\n葱姜水: 3汤匙\n盐: 适量\n清水: 半碗\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【调制肉馅】：猪肉剁成肉末，加入1汤匙生抽、1汤匙料酒、1/2茶匙白胡椒粉、1茶匙淀粉、少许盐，分次加入葱姜水，顺时针搅拌至上劲，腌制15分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step1.webp"
-      },
-      {
-        "text": "【处理青椒】：青椒洗净，切去蒂部，切成约4厘米长的段，用筷子或小勺挖去内部的籽。"
-      },
-      {
-        "text": "【塞入肉馅】：将腌制好的肉馅用小勺塞入青椒段中，两端抹平，确保肉馅填实。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step2.webp"
-      },
-      {
-        "text": "【调配酱汁】：取小碗，加入1汤匙生抽、1汤匙老抽、1汤匙蚝油、1茶匙淀粉、适量盐和半碗清水，搅拌均匀备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step3.webp"
-      },
-      {
-        "text": "【煎至虎皮】：平底锅中倒入适量食用油，油热后放入塞好肉馅的青椒段，中火煎至青椒表面出现虎皮状焦斑，翻面继续煎至另一面也呈虎皮状，肉馅表面微黄。"
-      },
-      {
-        "text": "【焖煮收汁】：将先前调好的酱汁倒入锅中，大火烧开后转中小火，盖上锅盖焖煮5分钟，让青椒和肉馅充分入味。最后开盖转大火收汁，待汤汁浓稠后即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_niangrou_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "shengcai-xieliu-tudou-mu-ni-sha-la-001",
-    "name": "生菜蟹柳土豆泥沙拉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/shengcai_xieliu_tudouni_shala.webp",
-    "brief": "口感丰富，绵密的土豆泥搭配鲜甜的蟹柳和爽脆的生菜，低脂健康，饱腹感强。",
-    "categoryIds": [
-      "17",
-      "9",
-      "2",
-      "31",
-      "4"
-    ],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "badge": ["热"],
-    "serving_count": "1",
-    "ingredients": "鸡蛋：1个\n土豆：1个\n胡萝卜：半根\n生菜：50克\n蟹柳：3根\n藜麦：20克\n油醋汁：适量\n黑胡椒海盐：适量",
-    "steps": [
-      {
-        "text": "【准备食材】：鸡蛋冷水下锅，水开后煮8分钟，捞出过凉水备用。土豆和胡萝卜去皮，切成大小均匀的小块。藜麦用清水淘洗干净。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step1.webp"
-      },
-      {
-        "text": "【煮熟主料】：锅中烧开水，将土豆块和胡萝卜块放入，煮约10-15分钟，直到用筷子能轻松扎透，捞出沥干。将藜麦放入沸水中，中小火煮约15分钟，直到藜麦冒出白色小圈（胚芽），捞出沥干放凉。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step2.webp"
-      },
-      {
-        "text": "【混合搅拌】：将煮熟的鸡蛋、土豆和胡萝卜一同放入大碗中，用叉子或压泥器将其碾碎。蟹柳用手撕成细丝后加入碗中。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step3.webp"
-      },
-      {
-        "text": "【组装沙拉】：将洗净沥干的生菜撕成适口的小块，放入装有混合泥的碗中。倒入煮好的藜麦。"
-      },
-      {
-        "text": "【调味拌匀】：淋入适量油醋汁，撒上黑胡椒海盐调味。用勺子或手（戴手套）将所有食材充分抓拌均匀，即可装盘享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shengcai_xieliu_tudouni_shala_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "xiangsu-tusi-2025-001",
-    "name": "香酥吐司片",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_tusi.webp",
-    "brief": "厚切吐司经过空气炸锅的烘烤，表面刷上黄油蜂蜜，外酥内软，香甜可口，是10分钟搞定的懒人早餐或下午茶小点。",
-    "categoryIds": ["10", "2", "14"],
-    "difficulty": "简单",
-    "time": "10分钟",
-    "serving_count": "2",
-    "ingredients": "厚切吐司片: 2片\n无盐黄油: 1小块 (约15克)\n蜂蜜: 1汤匙\n糖粉/肉桂粉（可选装饰）: 少许",
-    "steps": [
-      {
-        "text": "【备菜准备】：将厚切吐司片切成大小均匀的小方块（约3-4厘米）。准备好黄油和蜂蜜。"
-      },
-      {
-        "text": "【融化黄油】：将一小块黄油放入碗中，置于空气炸锅底部，设定80°C加热3分钟，直至黄油完全融化成液体。小心取出碗（注意防烫）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_tusi_step1.webp"
-      },
-      {
-        "text": "【调制蜜汁】：在融化的黄油中加入一汤匙蜂蜜，用勺子充分搅拌均匀，形成黄油蜂蜜混合液。"
-      },
-      {
-        "text": "【刷蜜裹味】：将切好的吐司块放入干净的碗中，用硅胶刷将黄油蜂蜜混合液均匀地刷在每一个吐司块的表面（也可倒入混合液后轻轻翻拌，确保每面都沾到）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_tusi_step2.webp"
-      },
-      {
-        "text": "【烘烤酥脆】：将刷好蜜汁的吐司块平铺放入空气炸锅篮中，避免堆叠。设定180°C，烘烤5分钟，直至表面金黄酥脆。"
-      },
-      {
-        "text": "【出锅享用】：时间到后取出，稍微放凉即可食用。可根据喜好撒上少许糖粉或肉桂粉增加风味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_tusi_step3.webp"
       }
     ]
   }
