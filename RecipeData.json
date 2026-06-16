@@ -2,7 +2,7 @@
   {
     "id": "apple-pie-001",
     "name": "苹果派",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/apple_pie.webp",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/pingguopai.webp",
     "brief": "外皮酥脆金黄，内馅酸甜软糯，黄油与苹果的香气完美融合，是经典的美式家常甜点。",
     "categoryIds": ["14", "2", "7"],
     "difficulty": "简单",
@@ -23,7 +23,7 @@
       },
       {
         "text": "【处理饼皮】：将解冻的手抓饼皮放在案板上，用刀切成4份等大的扇形（或长方形）。取其中一份，在饼皮一侧放上适量炒好的苹果馅（约1汤匙）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/apple_pie_step4.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step2.webp"
       },
       {
         "text": "【封口包制】：将饼皮对折，盖住馅料，用叉子沿着边缘按压，使封口紧密贴合。依次包好所有苹果派。"
@@ -33,7 +33,7 @@
       },
       {
         "text": "【烘烤出炉】：烤箱提前以200°C预热。将烤盘放入烤箱中下层，烘烤20分钟，至表面金黄酥脆即可出炉。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/apple_pie_step7.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step3.webp"
       }
     ]
   },
