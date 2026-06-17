@@ -1,4 +1,39 @@
 [
+
+  {
+    "id": "pai-huang-gua-001",
+    "name": "拍黄瓜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/paihuanggua.webp",
+    "brief": "蒜香浓郁，酸辣爽脆，是夏日餐桌上最经典的开胃凉菜，制作简单，10分钟即可上桌。",
+    "categoryIds": ["9", "2", "7", "25", "4"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "黄瓜: 2根\n大蒜: 4瓣\n小米辣: 1个\n熟白芝麻: 1汤匙\n辣椒面: 1汤匙\n食用油（淋热油用）: 2汤匙\n生抽: 2汤匙\n蚝油: 1汤匙\n盐: 1/2茶匙\n陈醋: 2汤匙\n白糖: 1/2茶匙\n香油: 1茶匙\n香菜: 1小把\n熟花生米: 2汤匙",
+    "steps": [
+      {
+        "text": "【处理黄瓜】：黄瓜洗净，用刀背将黄瓜整个拍裂（力度适中，让黄瓜自然裂开但不碎成渣），然后用刀切成约3-4厘米长的小块，放入大碗中备用。拍裂的黄瓜比直接切块的更易入味。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【准备配料】：大蒜去皮切成细末，小米辣洗净切圈，香菜洗净切成约2厘米长的段备用。熟花生米如果是生的，需提前用小火炒熟或烤箱烤熟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paihuanggua_step1.webp"
+      },
+      {
+        "text": "【制作蒜辣油】：取一个小碗，放入蒜末、小米辣圈、熟白芝麻和辣椒面。锅中烧热食用油，烧至微微冒烟（约七成热），将热油均匀淋入碗中，搅拌均匀，激发出蒜香和辣椒的香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paihuanggua_step2.webp"
+      },
+      {
+        "text": "【调制万能酱汁】：在激发出香味的蒜辣油碗中，加入生抽、蚝油、盐、陈醋、白糖和香油，用勺子充分搅拌均匀，调成酸辣鲜香的酱汁。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【拌匀装盘】：将调好的酱汁均匀淋在拍好的黄瓜块上，加入香菜段和熟花生米，用筷子或手（戴手套）充分抓拌均匀，使每一块黄瓜都裹上酱汁。静置腌制2-3分钟更入味，即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paihuanggua_step3.webp"
+      }
+    ]
+  },
   {
     "id": "apple-pie-001",
     "name": "苹果派",
@@ -8504,22 +8539,24 @@
     ],
     "difficulty": "中等",
     "time": "25分钟",
-    "ingredients": "豆腐、香菇、木耳、冬笋 适量 (切丝)\n猪肉丝或鸡肉丝 少量\n鸡蛋 1个\n高汤/水 适量\n醋、白胡椒粉、酱油、盐 适量\n水淀粉 适量",
+    "serving_count":"3",
+    "ingredients": "豆腐 1盒\n香菇 5朵\n木耳 8朵\n西红柿 1个\n瘦肉或火腿 100克\n鸡蛋 2个\n香菜、小葱 2根\n盐（调味用） 1茶匙\n鸡精 1/2茶匙\n辣椒面 1茶匙\n老抽 半汤匙\n生抽 1汤匙\n白胡椒粉 半汤匙\n陈醋 2汤匙\n水淀粉（3勺淀粉+半碗水）适量",
     "steps": [
-      
       {
-        "text": "【煮汤】：高汤或水烧开，放入肉丝、冬笋丝煮熟，再加入香菇丝、木耳丝和豆腐丝。"
-      },
-      {
-        "text": "【调味】：加入酱油、盐、大量白胡椒粉（酸辣汤的灵魂）和适量醋，调整酸辣度。",
+        "text": "【准备食材】：豆腐切横条。西红柿顶部划十字刀，入开水烫2分钟，取出撕皮，切丁备用。香菇、木耳提前泡发，切丁备用。瘦肉切丝备用。香菜、小葱切碎备用。鸡蛋打散加一小撮盐拌匀，水淀粉提前调配好备用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/suanlatang_step1.webp"
       },
       {
-        "text": "【勾芡】：慢慢倒入水淀粉，边倒边搅动，使汤汁变得浓稠。"
+        "text": "【煮汤】：锅中热油，倒入西红柿丁炒出汁，加入两碗水煮沸后，依次倒入肉丝、香菇丁、木耳丁、豆腐，大火煮2-3分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanlatang_step2.webp"
       },
       {
-        "text": "【打蛋花】：将鸡蛋打散，慢慢淋入汤中形成蛋花。最后再淋入少许醋和香油，撒上香菜末即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/suanlatang_step2.webp"
+        "text": "【调味】：加入适量盐、鸡精、辣椒面、老抽、生抽后，倒入鸡蛋液不停搅拌成絮状，再倒入水淀粉搅拌均匀，转小火煮至略微沸腾。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanlatang_step3.webp"
+      },
+      {
+        "text": "【出锅】：快关火时，倒入胡椒粉、陈醋、撒上葱花和香菜碎，即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suanlatang_step4.webp"
       }
     ]
   },
