@@ -1,5 +1,41 @@
 [
   {
+    "id": "l1r0q7p6-p7q8-9v0w-x1y2-z3a4b5c6d7e9",
+    "name": "五谷养生粽",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/wuguzong.webp",
+    "brief": "端午时令养生粽，精选五谷杂粮与药食同源食材，口感软糯清香，健脾祛湿，补益元气。",
+    "categoryIds": ["29", "28", "13", "21", "16"],
+    "difficulty": "中等",
+    "time": "4小时（含浸泡与煮制）",
+    "badge": ["新"],
+    "serving_count": "6",
+    "ingredients": "糯米: 400克\n杂粮米（糙米/红米/黑米）: 100克\n芡实: 50克\n薏米: 50克\n赤小豆: 40克\n绿豆: 30克\n粽叶（干）: 30片\n棉绳: 适量\n白糖（可选，蘸食）: 2汤匙",
+    "steps": [
+      {
+        "text": "【浸泡谷物】：糯米、杂粮米、芡实、薏米、赤小豆、绿豆分别洗净，加入足量清水，浸泡8小时（或过夜）。粽叶用温水浸泡2小时至软，洗净沥干。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【沥干混合】：将浸泡好的所有谷物和豆类捞出，充分沥干水分，在大盆中混合均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wuguzong_step1.webp"
+      },
+      {
+        "text": "【折叠粽叶】：取两片粽叶（一大一小），重叠后从1/3处折成漏斗状，底部尖角处折一下防止漏米。"
+      },
+      {
+        "text": "【填米包裹】：在漏斗中填入约7分满的混合米料，用勺子压实。将上部粽叶折下盖住米料，两侧向下包裹严实，形成三角锥形。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wuguzong_step2.webp"
+      },
+      {
+        "text": "【捆扎定型】：用棉绳在粽子的中间和两端分别绕圈扎紧，确保不松散。依次包好所有粽子。"
+      },
+      {
+        "text": "【焖煮出锅】：将粽子放入大锅中，加入足量清水（没过粽子），大火烧开后转中火煮2.5-3小时，关火后焖1小时即可取出食用，可蘸白糖增味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wuguzong_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "l1r8q7p6-p7q8-9v0w-x1y2-z3a4b5c6d7e9",
     "name": "溜肉段",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liurouduan.webp",
