@@ -1,5 +1,38 @@
 [
-
+  {
+    "id": "fried-soybeans-2026-001",
+    "name": "炒黄豆",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/chaohuangdou.webp",
+    "brief": "黄豆软糯入味，酱香浓郁，搭配肉丝增鲜，是一道简单下饭的家常小菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "35分钟（含高压锅压豆时间）",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "干黄豆: 150克\n猪瘦肉: 50克\n大蒜: 3瓣（切片）\n生姜: 2片（切末）\n生抽: 1汤匙\n蚝油: 2茶匙\n白糖: 1茶匙\n盐: 1/4茶匙\n鸡精: 1/4茶匙\n食用油: 2汤匙\n清水: 适量（高压锅用）",
+    "steps": [
+      {
+        "text": "【处理黄豆】：干黄豆用清水冲洗干净，放入高压锅中，加入足量清水（水量没过黄豆约2厘米），盖上锅盖，上汽后压20分钟，至黄豆软糯，捞出沥干水分备用。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【备菜切配】：猪瘦肉切成细丝，大蒜切片，生姜切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuangdou_step1.webp"
+      },
+      {
+        "text": "【煸炒肉丝】：锅中倒入食用油，烧至六成热，下入姜末和蒜片，小火爆香。放入肉丝，中火翻炒至肉丝变色散开。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【加入黄豆】：倒入煮软的黄豆，转中火翻炒约1分钟，使黄豆均匀裹上油脂。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuangdou_step2.webp"
+      },
+      {
+        "text": "【调味出锅】：加入生抽、蚝油、白糖、盐和鸡精，快速翻炒均匀，炒至调味料完全融合、黄豆入味上色，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuangdou_step3.webp"
+      }
+    ]
+  },
   {
     "id": "pai-huang-gua-001",
     "name": "拍黄瓜",

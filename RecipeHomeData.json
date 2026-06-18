@@ -1,5 +1,39 @@
 [
   {
+    "id": "21r8q7p6-p7q8-9v0w-x1y2-z3a4b5c6d7f9",
+    "name": "拍黄瓜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/paihuanggua.webp",
+    "brief": "蒜香浓郁，酸辣爽脆，是夏日餐桌上最经典的开胃凉菜，制作简单，10分钟即可上桌。",
+    "categoryIds": ["9", "2", "7", "25", "4"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "黄瓜: 2根\n大蒜: 4瓣\n小米辣: 1个\n熟白芝麻: 1汤匙\n辣椒面: 1汤匙\n食用油（淋热油用）: 2汤匙\n生抽: 2汤匙\n蚝油: 1汤匙\n盐: 1/2茶匙\n陈醋: 2汤匙\n白糖: 1/2茶匙\n香油: 1茶匙\n香菜: 1小把\n熟花生米: 2汤匙",
+    "steps": [
+      {
+        "text": "【处理黄瓜】：黄瓜洗净，用刀背将黄瓜整个拍裂（力度适中，让黄瓜自然裂开但不碎成渣），然后用刀切成约3-4厘米长的小块，放入大碗中备用。拍裂的黄瓜比直接切块的更易入味。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【准备配料】：大蒜去皮切成细末，小米辣洗净切圈，香菜洗净切成约2厘米长的段备用。熟花生米如果是生的，需提前用小火炒熟或烤箱烤熟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paihuanggua_step1.webp"
+      },
+      {
+        "text": "【制作蒜辣油】：取一个小碗，放入蒜末、小米辣圈、熟白芝麻和辣椒面。锅中烧热食用油，烧至微微冒烟（约七成热），将热油均匀淋入碗中，搅拌均匀，激发出蒜香和辣椒的香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paihuanggua_step2.webp"
+      },
+      {
+        "text": "【调制万能酱汁】：在激发出香味的蒜辣油碗中，加入生抽、蚝油、盐、陈醋、白糖和香油，用勺子充分搅拌均匀，调成酸辣鲜香的酱汁。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【拌匀装盘】：将调好的酱汁均匀淋在拍好的黄瓜块上，加入香菜段和熟花生米，用筷子或手（戴手套）充分抓拌均匀，使每一块黄瓜都裹上酱汁。静置腌制2-3分钟更入味，即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/paihuanggua_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "jisi-liangmian-001",
     "name": "鸡丝凉面",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jisi_liangmian.webp",
