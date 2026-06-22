@@ -1,5 +1,39 @@
 [
   {
+    "id": "fried-soybeans-2026-001",
+    "name": "炒黄豆",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/chaohuangdou.webp",
+    "brief": "黄豆软糯入味，酱香浓郁，搭配肉丝增鲜，是一道简单下饭的家常小菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "35分钟(含高压锅时间)",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "干黄豆: 150克\n猪瘦肉: 50克\n大蒜: 3瓣\n生姜: 2片\n生抽: 1汤匙\n蚝油: 2茶匙\n白糖: 1茶匙\n盐: 1/4茶匙\n鸡精: 1/4茶匙\n食用油: 2汤匙\n清水: 适量（高压锅用）",
+    "steps": [
+      {
+        "text": "【处理黄豆】：干黄豆用清水冲洗干净，放入高压锅中，加入足量清水（水量没过黄豆约2厘米），盖上锅盖，上汽后压20分钟，至黄豆软糯，捞出沥干水分备用。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【备菜切配】：猪瘦肉切成细丝，大蒜切片，生姜切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuangdou_step1.webp"
+      },
+      {
+        "text": "【煸炒肉丝】：锅中倒入食用油，烧至六成热，下入姜末和蒜片，小火爆香。放入肉丝，中火翻炒至肉丝变色散开。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【加入黄豆】：倒入煮软的黄豆，转中火翻炒约1分钟，使黄豆均匀裹上油脂。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuangdou_step2.webp"
+      },
+      {
+        "text": "【调味出锅】：加入生抽、蚝油、白糖、盐和鸡精，快速翻炒均匀，炒至调味料完全融合、黄豆入味上色，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaohuangdou_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "l1r8q7p6-p7q8-9v0w-x1y2-z3a4b5c6d7e9",
     "name": "溜肉段",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liurouduan.webp",
@@ -188,7 +222,6 @@
     "categoryIds": ["30", "2", "7", "12"],
     "difficulty": "简单",
     "time": "30分钟",
-    "badge": [],
     "serving_count": "2",
     "ingredients": "鲳鱼: 1条\n白胡椒粉: 1/4茶匙\n盐: 1/4茶匙\n米酒汁: 1茶匙\n大葱: 1小段\n生姜: 4片\n小米辣: 1个\n小葱: 1根\n酱油: 1.5汤匙",
     "steps": [
@@ -224,7 +257,6 @@
     "categoryIds": ["7", "2", "20", "11", "12"],
     "difficulty": "简单",
     "time": "30分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "鸡胸肉或鸡腿肉: 250克\n料酒: 1汤匙\n生抽: 2汤匙\n葱: 1段\n姜: 2片\n盐: 1/2茶匙\n淀粉: 1茶匙\n胡萝卜: 1根\n土豆: 1个\n洋葱: 半个\n咖喱块（约40克）: 2块\n牛奶: 80毫升\n食用油: 适量\n清水（没过食材）: 适量",
     "steps": [
@@ -291,7 +323,6 @@
     "categoryIds": ["10", "17", "4", "2"],
     "difficulty": "简单",
     "time": "10分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "苹果：1个\n黄瓜：半根\n西芹：50克\n香蕉：1根\n凉白开：400毫升",
     "steps": [
@@ -316,7 +347,6 @@
     "categoryIds": ["7", "2", "31", "4", "11"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "菜花：300克\n西红柿：2个\n盐：1茶匙\n生抽：1汤匙\n白糖：1/2茶匙\n食用油：2汤匙\n清水：少量",
     "steps": [
@@ -354,7 +384,6 @@
     "categoryIds": ["7", "2", "20", "31", "11"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "猪瘦肉：150克\n茭白(去壳后)：300克\n青椒：1个\n小米椒：2个\n大蒜：2瓣\n生抽：2汤匙\n盐：1/2茶匙\n鸡精：1/4茶匙\n食用油：适量\n生抽(腌肉用)：1汤匙\n盐(腌肉用)：1/4茶匙\n食用油(腌肉用)：1茶匙",
     "steps": [
@@ -389,7 +418,6 @@
     "categoryIds": ["7", "2", "20", "31", "11"],
     "difficulty": "简单",
     "time": "25分钟(不含腌制时间)",
-    "badge": ["新"],
     "serving_count": "3",
     "ingredients": "牛肉: 1斤\n盐：1茶匙\n生抽(腌制2汤匙，出锅前淋1汤匙)：3汤匙\n蚝油：1汤匙\n蒜头：4瓣\n食用油(锁水用)：2汤匙\n小米椒(切圈)：1个\n荷兰豆：100克\n胡萝卜(切片)：半根\n盐: 少量",
     "steps": [
@@ -418,7 +446,6 @@
     "categoryIds": ["7", "2", "31", "11"],
     "difficulty": "简单",
     "time": "10分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "韭黄(一把)：200克\n鸡蛋: 3个\n盐(分两次用)：1/2茶匙\n生抽：1茶匙\n食用油: 适量",
     "steps": [
@@ -450,7 +477,6 @@
     "categoryIds": ["7", "2", "20", "31", "11"],
     "difficulty": "简单",
     "time": "20分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "豌豆: 200克\n猪肉末(半肥半瘦):150克\n姜末: 1茶匙\n蒜末: 2茶匙\n郫县豆瓣酱(可选)：1汤匙\n盐: 1茶匙\n花椒粉: 1/2茶匙\n白胡椒粉: 1/2茶匙\n生抽: 1汤匙\n老抽: 1/2茶匙\n鸡精: 1/2茶匙\n水淀粉(1茶匙淀粉 + 2汤匙水): 1汤匙\n食用油: 适量\n清水: 适量",
     "steps": [
@@ -486,7 +512,6 @@
     "categoryIds": ["7", "2", "31", "4", "11"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "板栗南瓜：300克\n食用油：1汤匙\n白糖：1茶匙\n生抽：3汤匙\n清水：适量",
     "steps": [
@@ -517,7 +542,6 @@
     "categoryIds": ["7", "2", "31", "4", "11"],
     "difficulty": "简单",
     "time": "25分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "油豆角：300克\n大葱：1段\n大蒜：1瓣\n八角：1个\n生抽: 2汤匙\n盐：1/2茶匙\n食用油：2汤匙\n清水：适量",
     "steps": [
@@ -545,7 +569,6 @@
     "categoryIds": ["7", "2", "31", "4", "11"],
     "difficulty": "简单",
     "time": "10分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "油麦菜：400克\n大蒜：3瓣\n食用油：1汤匙\n猪油：1茶匙\n盐：1/2茶匙\n鸡精：1/4茶匙\n白糖：1/4茶匙\n清水：2汤匙",
     "steps": [
@@ -577,7 +600,6 @@
     "categoryIds": ["7", "2", "4", "11"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["新"],
     "ingredients": "日本豆腐: 2条\n面粉: 30克\n胡萝卜: 半根\n青椒: 1个\n小葱: 1根\n大蒜: 2瓣\n蚝油: 1汤匙\n生抽: 1汤匙\n盐: 1/2茶匙\n食用油: 适量",
     "serving_count": "2",
     "steps": [

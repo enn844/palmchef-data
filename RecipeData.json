@@ -1,5 +1,84 @@
 [
   {
+    "id": "crispy-fried-king-oyster-mushroom-001",
+    "name": "香酥杏鲍菇",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_xingbaogu.webp",
+    "brief": "外酥里嫩，咸香入味，比肉还好吃的素食小零食，撒上椒盐孜然，一口一个停不下来。",
+    "categoryIds": ["31", "4", "2", "7", "13"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "杏鲍菇: 2根（300克）\n盐（腌制用）: 1/2茶匙\n面粉: 5汤匙\n玉米淀粉: 5汤匙\n五香粉: 1茶匙\n盐（面糊用）: 1/2茶匙\n鸡蛋: 2个\n食用油（炸制用）: 适量\n胡椒粉: 适量\n孜然粉: 适量",
+    "steps": [
+      {
+        "text": "【处理杏鲍菇】：杏鲍菇洗净，用手撕成粗细均匀的条状（约1厘米宽）。放入碗中，撒入1/2茶匙盐，抓匀腌制10分钟，杀出多余水分。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【挤干水分】：将腌制好的杏鲍菇条用手用力挤干水分（这是酥脆的关键），放入另一个干净碗中备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_xingbaogu_step1.webp"
+      },
+      {
+        "text": "【调制面糊】：取一个大碗，倒入面粉、玉米淀粉、五香粉和盐，用筷子混合均匀。打入2个鸡蛋，搅拌成顺滑、无干粉颗粒的浓稠面糊（面糊能均匀挂在杏鲍菇上为宜）。"
+      },
+      {
+        "text": "【裹糊上浆】：将挤干水分的杏鲍菇条倒入面糊中，用筷子或手（戴手套）抓拌均匀，使每一条杏鲍菇都均匀裹满面糊。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_xingbaogu_step2.webp"
+      },
+      {
+        "text": "【初炸定型】：锅中倒入足量食用油，烧至七成热（约180°C，油面微微冒烟）。将裹好面糊的杏鲍菇条逐条下入油锅，保持中小火炸至表面微黄、定型变硬后捞出沥油。"
+      },
+      {
+        "text": "【复炸酥脆】：将锅中油温再次升高至八成热（约200°C），倒入初炸好的杏鲍菇条，复炸约30-40秒至表面金黄酥脆，捞出沥干油分。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_xingbaogu_step3.webp"
+      },
+      {
+        "text": "【撒料开吃】：将炸好的杏鲍菇条放入大碗中，趁热撒上适量胡椒粉和孜然粉，颠簸均匀即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_xingbaogu_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "koumo-jixiongren-2026-001",
+    "name": "口蘑鸡胸肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/koumo_jixiongrou.webp",
+    "brief": "鸡胸肉嫩滑不柴，口蘑鲜嫩多汁，蒜香浓郁，是一道低脂高蛋白的快手家常菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "25分钟(不含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "鸡胸肉: 200克\n口蘑: 200克\n大蒜: 6瓣\n盐（腌制用）: 1/4茶匙\n老抽: 1/2茶匙\n生抽: 1汤匙\n蚝油: 1汤匙\n白糖: 1/2茶匙\n白胡椒粉: 1/2茶匙\n料酒: 1汤匙\n玉米淀粉: 1茶匙\n食用油（腌制锁水用）: 1汤匙\n葱花（装饰用）: 适量",
+    "steps": [
+      {
+        "text": "【处理食材】：口蘑洗净，切成均匀的块（一切四）。鸡胸肉洗净，切成大小均匀的小块（约2厘米见方）。大蒜去皮切厚片，小葱切葱花备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/koumo_jixiongrou_step1.webp"
+      },
+      {
+        "text": "【腌制鸡胸肉】：将切好的鸡胸肉块放入碗中，加入盐、老抽、生抽、蚝油、白糖、白胡椒粉、料酒和玉米淀粉，用手抓拌均匀，使肉块充分吸收料汁。"
+      },
+      {
+        "text": "【锁水腌制】：最后鸡胸肉中加入1汤匙食用油，再次抓匀，锁住水分。盖上保鲜膜，放入冰箱冷藏腌制20分钟，让鸡肉充分入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/koumo_jixiongrou_step2.webp"
+      },
+      {
+        "text": "【滑炒鸡肉】：锅中倒入适量食用油，烧至六成热（约160°C），倒入腌好的鸡胸肉块，大火快速翻炒，炒至鸡肉变色断生（约1-2分钟），立即盛出备用。"
+      },
+      {
+        "text": "【煸炒蒜片口蘑】：锅中留底油，放入蒜片，小火煸炒至蒜片微黄、散发出浓郁的蒜香味。倒入切好的口蘑，转中大火翻炒，炒至口蘑变软、表面微黄、渗出汁水。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/koumo_jixiongrou_step3.webp"
+      },
+      {
+        "text": "【合炒调味】：将滑炒好的鸡胸肉倒回锅中，与口蘑一起快速翻炒均匀。尝一下咸淡，如果淡了，可加入少许盐调味（口蘑和腌肉已有底味，盐量要少）。"
+      },
+      {
+        "text": "【出锅装盘】：大火快速翻炒几下，使所有食材充分融合，最后撒上葱花，翻炒均匀即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/koumo_jixiongrou_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "l1r0q7p6-p7q8-9v0w-x1y2-z3a4b5c6d7e9",
     "name": "五谷养生粽",
     "imageSrc": "https://shiyuji.xyz/img/recipes/wuguzong.webp",
@@ -2691,20 +2770,20 @@
     "difficulty": "简单",
     "time": "10分钟",
     "serving_count": "4",
-    "ingredients": "空心菜: 1000克\n瘦猪肉（可选）: 100克\n盐: 1克\n糖: 3克\n食用油: 40克\n蒜末: 适量",
+    "ingredients": "空心菜: 1000克\n瘦猪肉（可选）: 100克\n盐: 1/2茶匙\n豆豉: 1汤匙\n耗油: 1汤匙\n食用油: 40克\n蒜末: 适量\n辣椒（可选）: 适量",
     "steps": [
       {
-        "text": "【前期备菜】：空心菜洗净，摘去老叶和老梗，掐成段。瘦猪肉切成细末。"
+        "text": "【前期备菜】：空心菜洗净，摘去老叶和老梗，掐成段。瘦猪肉切成细末。辣椒切成小圈。"
       },
       {
-        "text": "【煸炒肉末】：砂锅内倒入食用油，放入蒜末炒香，后放入猪肉末，煸炒至变色散开。",
+        "text": "【煸炒肉末】：砂锅内倒入食用油，放入蒜末和辣椒（可选）炒香，后放入猪肉末，煸炒至变色散开。",
         "imageSrc": "https://shiyuji.xyz/img/steps/kongxincai_step1.webp"
       },
       {
-        "text": "【调味翻炒】：加入盐和糖，略炒均匀，然后放入空心菜，开大火快速翻炒。"
+        "text": "【调味翻炒】：加入豆豉，略炒均匀，然后放入空心菜，开大火快速翻炒。"
       },
       {
-        "text": "【出锅】：炒至空心菜变软、颜色翠绿即可出锅，全程大火快炒可保持口感脆嫩。",
+        "text": "【出锅】：炒至空心菜变软、颜色翠绿即可出锅，出锅前30秒放入盐和耗油调味，全程大火快炒可保持口感脆嫩。",
         "imageSrc": "https://shiyuji.xyz/img/steps/kongxincai_step2.webp"
       }
     ]

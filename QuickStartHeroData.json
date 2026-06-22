@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "晚上好💡",
   "cards": [
     {
-      "recipeId": "i8o5n4m3-m4n5-6s7t-u8v9-w0x1y2z3a4b5",
-      "recipeName": "猪肉炖粉条",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/zhurou_dunfentiao.webp"
+      "recipeId": "koumo-jixiongren-2026-001",
+      "recipeName": "口蘑鸡胸肉",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/koumo_jixiongrou.webp"
     },
     {
-      "recipeId": "fried-soybeans-2026-001",
-      "recipeName": "炒黄豆",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/chaohuangdou.webp"
+      "recipeId": "crispy-fried-king-oyster-mushroom-001",
+      "recipeName": "香酥杏鲍菇",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_xingbaogu.webp"
     },
     {
-      "recipeId": "i0p7t6s5-s6t7-8y9z-a0h7",
-      "recipeName": "清蒸大闸蟹",
-      "imageSrc":"https://shiyuji.xyz/img/recipes/qingzheng_dazhaxie.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234998",
+      "recipeName": "炒空心菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/kongxincai.webp"
     },
     {
-      "recipeId": "3f8d9e2a-1b4c-4d7e-9a2b-3c5d6e7f8a9c",
-      "recipeName": "南瓜蔬菜汤",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/nangua_shucaitang.webp"
+      "recipeId": "e305e54d-d7e1-45a7-93e1-38f3812d4d9c",
+      "recipeName": "经典蛋炒饭",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/danchaofan.webp"
     }
   ]
 }
