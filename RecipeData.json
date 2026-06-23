@@ -1,5 +1,71 @@
 [
   {
+    "id": "steamed-pork-rice-flour-2026-001",
+    "name": "粉蒸肉（排骨）",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fenzhengrou.webp",
+    "brief": "五花肉片经过长时间的蒸制，油脂渗入红薯块中，肉质软糯，米粉油润，咸鲜微辣，是一道经典的川味家常蒸菜。",
+    "categoryIds": ["7", "2", "20", "11"],
+    "difficulty": "中等",
+    "time": "1小时40分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "五花肉（或排骨）: 500克\n红薯: 1个\n蒸肉米粉（五香味）: 1包\n料酒: 2汤匙\n生抽: 2汤匙\n老抽: 1/2汤匙\n蚝油: 1/2汤匙\n白胡椒粉: 1/2茶匙\n鸡精: 1/4茶匙\n郫县豆瓣酱: 1茶匙\n大蒜: 3瓣\n食用油: 1汤匙\n葱花（装饰用）: 适量",
+    "steps": [
+      {
+        "text": "【处理五花肉】：五花肉洗净，用厨房纸吸干表面水分。切成约7厘米长、3毫米厚的薄片（排骨直接切段），放入干净的大碗中备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step1.webp"
+      },
+      {
+        "text": "【腌制肉片】：在肉片中加入料酒、生抽、老抽、蚝油、白胡椒粉和鸡精，用手充分抓拌均匀，使每片肉都裹上酱汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step2.webp"
+      },
+      {
+        "text": "【炒制豆瓣蒜油】：锅中倒入1汤匙食用油，开中火烧热后关火。待油温稍微下降（约五成热），放入郫县豆瓣酱和切碎的蒜末，利用余温快速翻炒，炒出香味和红油。将炒好的料汁完全放凉后，倒入腌制的肉片中，再次抓匀，腌制40分钟入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step3.webp"
+      },
+      {
+        "text": "【裹蒸肉米粉】：将一包蒸肉米粉倒入腌好的肉片中，用手充分抓拌，使每一片肉都均匀地裹上米粉。如果感觉太干，可淋入少量清水（约1-2汤匙），让米粉湿润并更好地附着在肉上。"
+      },
+      {
+        "text": "【铺底摆盘】：红薯洗净去皮，切成大小均匀的滚刀块（约3厘米见方），铺在蒸碗或深盘底部。将裹好米粉的肉片一片片地铺在红薯块上，尽量铺平，不要用力按压。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step4.webp"
+      },
+      {
+        "text": "【蒸制】：蒸锅中加入足量清水，大火烧开。将摆好肉的碗放入蒸锅，盖上锅盖，转中火蒸90分钟，直至肉片软烂、红薯绵软、米粉完全熟透。"
+      },
+      {
+        "text": "【出锅装盘】：关火后取出蒸碗，小心倒掉盘中多余的汤汁（可保留少量）。撒上适量葱花点缀，即可上桌享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "grilled-pork-shoulder-2026-001",
+    "name": "香煎梅花肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangjian_meihuarou.webp",
+    "brief": "外焦里嫩，肉汁丰盈，黑椒与黄油的香气完美融合，是一道简单快手的西式风味家常肉菜。",
+    "categoryIds": ["7", "2", "20", "12"],
+    "difficulty": "简单",
+    "time": "25分钟(不含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "梅花肉（猪肩肉）: 300克\n黑胡椒粉: 1/2茶匙\n盐: 1/2茶匙\n生抽: 1汤匙\n食用油（锁水用）: 1汤匙\n大蒜: 4瓣\n香叶: 2片\n无盐黄油: 15克",
+    "steps": [
+      {
+        "text": "【处理梅花肉】：梅花肉切大片洗净，用厨房纸彻底吸干表面水分。在肉的两面均匀撒上黑胡椒粉和盐，涂抹生抽，用手抓匀使调料附着在肉表面。最后淋入食用油，再次抓匀锁住水分，腌制半小时以上（可提前一晚冷藏腌制）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_meihuarou_step1.webp"
+      },
+      {
+        "text": "【热锅煎制】：平底锅中倒入适量食用油（配方外，约1汤匙），中大火烧热至油面微微冒烟。放入腌制好的梅花肉，保持中火，听到“劈里啪啦”的煎制声开始计时。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_meihuarou_step2.webp"
+      },
+      {
+        "text": "【翻面调味】：计时4分钟后，将蒜瓣拍碎放入锅中，同时放入香叶和黄油。待黄油融化后，将梅花肉翻面，继续中火煎制。期间可适当多翻几次面，让肉块均匀受热并裹上黄油蒜香，煎至另一面也呈金黄色、肉块整体熟透（约4分钟）。出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_meihuarou_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "huang-yu-tang-2026-001",
     "name": "黄鱼汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiaohuangyutang.webp",

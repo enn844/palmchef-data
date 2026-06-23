@@ -1,5 +1,47 @@
 [
   {
+    "id": "huang-yu-tang-2026-001",
+    "name": "黄鱼汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaohuangyutang.webp",
+    "brief": "汤色奶白浓郁，鱼肉细嫩鲜甜，葱香与黄酒香气交融，是一道暖心暖胃的经典家常鱼汤。",
+    "categoryIds": ["3", "7", "30", "12"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "小黄鱼: 2条（约300克）\n盐（腌制用）: 1/2茶匙\n食用油: 2汤匙\n葱: 2根\n黄酒: 1汤匙\n生抽: 1茶匙\n姜: 1块\n清水: 600毫升（约2碗半）",
+    "steps": [
+      {
+        "text": "【处理黄鱼】：小黄鱼刮去鱼鳞，剪开腹部去除内脏、鱼鳃及腹内黑膜，用清水反复冲洗干净。在鱼身两面均匀抹上盐，腌制15分钟去腥入味。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【准备配料】：小葱洗净，葱白部分切成葱花，葱叶部分切成葱段备用。生姜去皮切成细丝备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaohuangyutang_step1.webp"
+      },
+      {
+        "text": "【煎鱼定型】：锅中倒入食用油，开中火烧至油热（约六成热，微微冒烟）。将腌制好的小黄鱼用厨房纸吸干表面水分，放入锅中，中小火煎至一面金黄定型后小心翻面。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【葱花增香】：在煎另一面时，将葱花撒入锅中的热油里，与鱼一同煎制，直至葱花变为焦黄色、散发出浓郁的葱香。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaohuangyutang_step2.webp"
+      },
+      {
+        "text": "【烹酒调味】：沿锅边淋入黄酒和生抽，瞬间激发出酒香和酱香。加入姜丝，轻轻晃动锅子使调料均匀分布。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【加水煮汤】：加入两碗半清水（约600毫升），水量以刚好没过鱼身为宜。转大火烧开，保持大火沸腾状态煮5-8分钟，直至汤色变为浓郁的奶白色。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaohuangyutang_step3.webp"
+      },
+      {
+        "text": "【出锅装盘】：撒入葱叶段，关火。将鱼汤小心盛入碗中，趁热享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaohuangyutang_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "crispy-fried-king-oyster-mushroom-001",
     "name": "香酥杏鲍菇",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_xingbaogu.webp",
