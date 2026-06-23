@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "晚上好💡",
+  "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "koumo-jixiongren-2026-001",
-      "recipeName": "口蘑鸡胸肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/koumo_jixiongrou.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234605",
+      "recipeName": "麻婆豆腐",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/mapo_doufu.webp"
     },
     {
-      "recipeId": "crispy-fried-king-oyster-mushroom-001",
-      "recipeName": "香酥杏鲍菇",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_xingbaogu.webp"
+      "recipeId": "huang-yu-tang-2026-001",
+      "recipeName": "黄鱼汤",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/huangyutang.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234998",
-      "recipeName": "炒空心菜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/kongxincai.webp"
+      "recipeId": "d81e2a80-2736-4074-a0e4-b7b251234995",
+      "recipeName": "牛奶麻辣烫",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/niunai_malatang.webp"
     },
     {
-      "recipeId": "e305e54d-d7e1-45a7-93e1-38f3812d4d9c",
-      "recipeName": "经典蛋炒饭",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/danchaofan.webp"
+      "recipeId": "cong-dan-bing-001",
+      "recipeName": "煎葱蛋",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/congdan.webp"
     }
   ]
 }
