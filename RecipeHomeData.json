@@ -1,5 +1,31 @@
 [
   {
+    "id": "grilled-pork-shoulder-2026-001",
+    "name": "香煎梅花肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangjian_meihuarou.webp",
+    "brief": "外焦里嫩，肉汁丰盈，黑椒与黄油的香气完美融合，是一道简单快手的西式风味家常肉菜。",
+    "categoryIds": ["7", "2", "20", "12"],
+    "difficulty": "简单",
+    "time": "25分钟(不含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "梅花肉（猪肩肉）: 300克\n黑胡椒粉: 1/2茶匙\n盐: 1/2茶匙\n生抽: 1汤匙\n食用油（锁水用）: 1汤匙\n大蒜: 4瓣\n香叶: 2片\n无盐黄油: 15克",
+    "steps": [
+      {
+        "text": "【处理梅花肉】：梅花肉切大片洗净，用厨房纸彻底吸干表面水分。在肉的两面均匀撒上黑胡椒粉和盐，涂抹生抽，用手抓匀使调料附着在肉表面。最后淋入食用油，再次抓匀锁住水分，腌制半小时以上（可提前一晚冷藏腌制）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_meihuarou_step1.webp"
+      },
+      {
+        "text": "【热锅煎制】：平底锅中倒入适量食用油（配方外，约1汤匙），中大火烧热至油面微微冒烟。放入腌制好的梅花肉，保持中火，听到“劈里啪啦”的煎制声开始计时。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_meihuarou_step2.webp"
+      },
+      {
+        "text": "【翻面调味】：计时4分钟后，将蒜瓣拍碎放入锅中，同时放入香叶和黄油。待黄油融化后，将梅花肉翻面，继续中火煎制。期间可适当多翻几次面，让肉块均匀受热并裹上黄油蒜香，煎至另一面也呈金黄色、肉块整体熟透（约4分钟）。出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangjian_meihuarou_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "huang-yu-tang-2026-001",
     "name": "黄鱼汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiaohuangyutang.webp",
@@ -233,7 +259,6 @@
     "categoryIds": ["9", "2", "7", "25", "4"],
     "difficulty": "简单",
     "time": "10分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "黄瓜: 2根\n大蒜: 4瓣\n小米辣: 1个\n熟白芝麻: 1汤匙\n辣椒面: 1汤匙\n食用油（淋热油用）: 2汤匙\n生抽: 2汤匙\n蚝油: 1汤匙\n盐: 1/2茶匙\n陈醋: 2汤匙\n白糖: 1/2茶匙\n香油: 1茶匙\n香菜: 1小把\n熟花生米: 2汤匙",
     "steps": [
@@ -267,7 +292,6 @@
     "categoryIds": ["28", "2", "7", "25", "11"],
     "difficulty": "简单",
     "time": "25分钟",
-    "badge": ["新"],
     "serving_count": "1",
     "ingredients": "鸡胸肉: 1块\n面条（鲜面或干面）: 200克\n黄瓜: 半根\n花生米（可选）: 2汤匙\n料酒: 1汤匙\n葱（切段）: 1根\n姜片: 1片\n葱花（料汁）: 1汤匙\n蒜末（料汁）: 1汤匙\n辣椒面（料汁）: 1汤匙\n白芝麻（料汁）: 1汤匙\n食用油（淋热油用）: 3汤匙\n生抽（料汁）: 3汤匙\n陈醋（料汁）: 2汤匙\n蚝油（料汁）: 1汤匙\n盐（料汁）: 1/2茶匙\n白糖（料汁）: 1茶匙",
     "steps": [
@@ -305,7 +329,6 @@
     "categoryIds": ["14", "2", "7"],
     "difficulty": "简单",
     "time": "30分钟",
-    "badge": ["新"],
     "serving_count": "4",
     "ingredients": "苹果: 1个\n手抓饼皮: 4张\n无盐黄油: 1汤匙\n白糖: 2汤匙\n水淀粉（1茶匙淀粉 + 2汤匙水）: 3克\n鸡蛋（打散）: 1个\n黑芝麻（装饰用）: 1茶匙",
     "steps": [

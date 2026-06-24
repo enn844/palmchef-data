@@ -4830,7 +4830,7 @@
     "difficulty": "简单",
     "time": "10分钟",
     "serving_count": "2",
-    "ingredients": "土豆: 2个\n青椒: 1个\n干辣椒: 2个\n蒜末: 2瓣\n白醋: 1汤匙\n盐: 1/2茶匙\n食用油: 适量",
+    "ingredients": "土豆: 2个\n青椒: 1个\n辣椒（切圈）: 2个\n蒜末: 2瓣\n生抽 1汤匙\n耗油 1/2茶匙\n盐: 1/2茶匙\n食用油: 适量",
     "steps": [
       {
         "text": "【处理土豆丝】：土豆去皮切细丝，放入清水中浸泡5分钟洗去淀粉，捞出沥干水分。青椒切丝备用。"
@@ -4840,7 +4840,7 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_tudousi_step1.webp"
       },
       {
-        "text": "【快炒出锅】：倒入土豆丝和青椒丝，大火快速翻炒2分钟，沿锅边淋入白醋，加入盐调味，翻炒均匀即可出锅。",
+        "text": "【快炒出锅】：先倒入土豆丝，大火快速翻炒，土豆丝变色后，放点生抽，再放点耗油，炒匀后放青椒，炒至青椒塌软，加入适量盐调味，翻炒均匀即可出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_tudousi_step2.webp"
       }
     ]
