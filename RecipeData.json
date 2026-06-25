@@ -1,5 +1,80 @@
 [
   {
+    "id": "lv-dou-ya-chao-wu-hua-rou-2026-001",
+    "name": "炒豆芽",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/chaodouya.webp",
+    "brief": "绿豆芽脆嫩爽口，五花肉焦香不腻，大火快炒锁住锅气，是一道清爽下饭的快手家常菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "绿豆芽: 300克\n五花肉: 100克\n大蒜: 3瓣\n生姜: 2片\n生抽: 1汤匙\n蚝油: 1茶匙\n盐(焯水用): 1/4茶匙\n食用油: 1汤匙",
+    "steps": [
+      {
+        "text": "【处理绿豆芽】：绿豆芽掐去根部，用清水反复淘洗两遍，去除豆皮和杂质，捞出沥干水分备用。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【焯水断生】：锅中烧开水，加入盐和几滴食用油，放入洗净的绿豆芽，焯烫15秒左右，待豆芽稍微变软、颜色变得透亮时，立即捞出，放入冷水中过凉，然后彻底沥干水分备用。这一步能去除豆腥味并保持脆嫩口感。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaodouya_step1.webp"
+      },
+      {
+        "text": "【煸炒五花肉】：五花肉切成均匀的薄片。锅中倒入食用油，烧至五成热，放入五花肉片，中小火慢慢煸炒，炒至肉片变色、边缘微焦、脂肪部分变得透明并析出油脂。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【爆香小料】：将生姜切片、大蒜拍碎切末，放入锅中，与五花肉一同翻炒，炒出浓郁的姜蒜香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaodouya_step2.webp"
+      },
+      {
+        "text": "【调味增香】：沿锅边淋入生抽和蚝油，快速翻炒均匀，使五花肉充分上色并吸收酱香味。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【合炒出锅】：将焯好水并沥干的绿豆芽倒入锅中，转大火快速翻炒约30秒，使豆芽与肉片充分混合。加入适量盐调味，翻炒均匀后立即关火出锅，保持豆芽的脆爽口感。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/chaodouya_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "nen-chao-zhu-gan-001",
+    "name": "嫩炒猪肝",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/nenchao_zhugan.webp",
+    "brief": "猪肝嫩滑不腥，酱香浓郁，搭配洋葱和辣椒，色彩鲜亮，是一道补铁养血的快手家常菜。",
+    "categoryIds": ["7", "2", "20", "11"],
+    "difficulty": "简单",
+    "time": "25分钟（不含腌制时间）",
+    "badge": [],
+    "serving_count": "2",
+    "ingredients": "猪肝: 200克\n盐（腌制用）: 1茶匙\n白糖（腌制用）: 1/2茶匙\n料酒（腌制用）: 2茶匙\n淀粉（腌制用）: 2茶匙\n姜片: 3片\n蒜瓣: 1瓣\n洋葱: 半个（约100克）\n生抽: 1汤匙\n老抽: 1/2茶匙\n白糖（调味用）: 1/2茶匙\n料酒（调味用）: 1茶匙\n干辣椒: 2个\n青蒜苗: 1根\n水淀粉（1茶匙淀粉 + 2汤匙水）: 适量\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理猪肝】：猪肝放入清水中浸泡半小时，去除血水。捞出后剪去白色筋膜，切成均匀的薄片（约2-3毫米厚）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_zhugan_step1.webp"
+      },
+      {
+        "text": "【腌制去腥】：将切好的猪肝放入碗中，加入盐、白糖（腌制用）、料酒（腌制用）、淀粉、姜片和拍碎的蒜瓣，用手抓匀，腌制15分钟，让猪肝充分入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_zhugan_step2.webp"
+      },
+      {
+        "text": "【焯水定型】：锅中烧开足量清水（能完全没过猪肝），水开后放入腌好的猪肝，用筷子快速划散。待猪肝变色（约10-15秒）后立刻捞出，用流动水冲洗干净，沥干水分备用。这一步能有效去除腥味并保持嫩滑。"
+      },
+      {
+        "text": "【煸炒辅料】：锅中倒入食用油，烧至七成热（约180°C），放入洋葱块，中火煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_zhugan_step3.webp"
+      },
+      {
+        "text": "【合炒调味】：倒入沥干水分的猪肝，沿锅边淋入生抽、老抽、白糖（调味用）和料酒（调味用），加入干辣椒段和切段的青蒜苗，转大火快速翻炒均匀（约30秒），使酱汁均匀包裹猪肝。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_zhugan_step4.webp"
+      },
+      {
+        "text": "【勾芡出锅】：淋入调好的水淀粉，快速翻炒几下，待汤汁略微收浓即可关火出锅。全程大火快炒，保持猪肝的嫩滑口感。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nenchao_zhugan_step5.webp"
+      }
+    ]
+  },
+  {
     "id": "zhimaxianxiang-jichi-2026-001",
     "name": "芝麻咸香鸡翅",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhima_xianxiang_jichi.webp",

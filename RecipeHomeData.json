@@ -1,5 +1,122 @@
 [
   {
+    "id": "zhimaxianxiang-jichi-2026-001",
+    "name": "芝麻咸香鸡翅",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhima_xianxiang_jichi.webp",
+    "brief": "鸡翅外酥里嫩，芝麻焦香四溢，咸香入味，是一道越嚼越香的家常炸物。",
+    "categoryIds": ["7", "2", "20", "12"],
+    "difficulty": "简单",
+    "time": "1小时20分钟（含腌制时间）",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "整只鸡翅: 6只\n生抽: 2汤匙\n蚝油: 1汤匙\n白糖: 1茶匙\n五香粉: 1/2茶匙\n小葱: 1根\n生姜: 3片\n大蒜: 3瓣\n炸粉（超市买）: 50克\n生白芝麻: 30克\n清水: 适量\n食用油（炸制用）: 适量",
+    "steps": [
+      {
+        "text": "【处理鸡翅】：鸡翅洗净，用厨房纸彻底吸干表面水分。"
+      },
+      {
+        "text": "【腌制入味】：将鸡翅放入大碗中，加入生抽、蚝油、白糖、五香粉。小葱切段，生姜切片，大蒜拍碎，一同放入碗中，抓拌均匀，使料汁充分包裹鸡翅。盖上保鲜膜，放入冰箱冷藏腌制1小时。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhima_xianxiang_jichi_step1.webp"
+      },
+      {
+        "text": "【调制面糊】：挑出腌好的鸡翅中的葱姜蒜。取一个大碗，放入炸粉和生白芝麻，混合均匀。分次加入少量清水，边加边搅拌，调成浓稠顺滑、能均匀挂在鸡翅表面的面糊（面糊不宜过稀）。"
+      },
+      {
+        "text": "【裹糊上浆】：将腌好的鸡翅放入面糊碗中，用手抓拌，使每一个鸡翅都均匀裹上芝麻面糊。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhima_xianxiang_jichi_step2.webp"
+      },
+      {
+        "text": "【初炸定型】：锅中倒入足量食用油，烧至六成热（约160°C，油面微微冒烟）。将裹好糊的鸡翅逐一下入油锅，保持中小火慢炸，期间不时翻面，炸约8-10分钟，至鸡翅表面微黄、定型熟透，捞出沥油。"
+      },
+      {
+        "text": "【复炸酥脆】：将锅中油温升至八成热（约200°C），倒入初炸好的鸡翅，复炸约30-40秒，至表面金黄酥脆、芝麻香气四溢，捞出沥干油分。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhima_xianxiang_jichi_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "jiaoliu-donggua-2026-001",
+    "name": "焦溜冬瓜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoliu_donggua.webp",
+    "brief": "冬瓜外酥里嫩，焦香四溢，搭配青椒木耳，咸鲜适口，是一道创意素菜，比肉还香。",
+    "categoryIds": ["31", "4", "7", "2", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "冬瓜（去皮去瓤）: 300克\n盐（腌制用）: 1/4茶匙\n鸡蛋: 1个\n玉米淀粉: 3汤匙\n青椒: 1个\n木耳（干，可选）: 5朵\n大蒜: 4瓣\n生抽: 1汤匙\n盐（调味用）: 1/4茶匙\n清水: 3汤匙\n水淀粉（1茶匙淀粉 + 2汤匙水）: 1汤匙\n食用油（炸制用）: 适量",
+    "steps": [
+      {
+        "text": "【处理冬瓜】：冬瓜去皮去瓤，切成约1厘米厚的厚片（大小均匀，约4-5厘米见方）。放入大碗中，加入盐，用手抓匀腌制5分钟，杀出多余水分。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【挤水裹粉】：将腌制好的冬瓜片用手轻轻挤干多余水分（不必挤太干，保持微湿）。碗中打入1个鸡蛋，用筷子搅散成蛋液。将冬瓜片放入蛋液中，均匀裹上蛋液，再放入玉米淀粉中，两面轻轻按压，使冬瓜片均匀裹上一层薄薄的淀粉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoliu_donggua_step1.webp"
+      },
+      {
+        "text": "【炸制定型】：锅中倒入足量食用油，烧至四成热（约120°C，油面微动，筷子插入冒细密小泡）。将裹好粉的冬瓜片逐片下入油锅，保持中小火炸至表面微黄、定型变硬后捞出。",
+        "imageSrc": ""
+      },
+      {
+        "text": "【复炸酥脆】：将锅中油温升至六成热（约160°C，油面微微冒烟），倒入初炸好的冬瓜片，复炸约30-40秒至表面金黄酥脆，捞出沥干油分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoliu_donggua_step2.webp"
+      },
+      {
+        "text": "【备菜切配】：青椒洗净去籽，切成三角块；大蒜去皮切末；干木耳提前用温水泡发，洗净后撕成小朵备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoliu_donggua_step3.webp"
+      },
+      {
+        "text": "【爆香调味】：锅中留少许底油，放入蒜末，小火煸炒出香味。放入青椒块和木耳，转中火翻炒至青椒断生。加入生抽和3汤匙清水，大火烧开。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoliu_donggua_step4.webp"
+      },
+      {
+        "text": "【合炒收汁】：将炸好的冬瓜片倒入锅中，加入盐调味，快速翻炒均匀。淋入调好的水淀粉勾芡，大火翻炒至汤汁浓稠、均匀包裹在冬瓜片上即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoliu_donggua_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "steamed-pork-rice-flour-2026-001",
+    "name": "粉蒸肉（排骨）",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fenzhengrou.webp",
+    "brief": "五花肉片经过长时间的蒸制，油脂渗入红薯块中，肉质软糯，米粉油润，咸鲜微辣，是一道经典的川味家常蒸菜。",
+    "categoryIds": ["7", "2", "20", "11"],
+    "difficulty": "中等",
+    "time": "1小时40分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "五花肉（或排骨）: 500克\n红薯: 1个\n蒸肉米粉（五香味）: 1包\n料酒: 2汤匙\n生抽: 2汤匙\n老抽: 1/2汤匙\n蚝油: 1/2汤匙\n白胡椒粉: 1/2茶匙\n鸡精: 1/4茶匙\n郫县豆瓣酱: 1茶匙\n大蒜: 3瓣\n食用油: 1汤匙\n葱花（装饰用）: 适量",
+    "steps": [
+      {
+        "text": "【处理五花肉】：五花肉洗净，用厨房纸吸干表面水分。切成约7厘米长、3毫米厚的薄片（排骨直接切段），放入干净的大碗中备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step1.webp"
+      },
+      {
+        "text": "【腌制肉片】：在肉片中加入料酒、生抽、老抽、蚝油、白胡椒粉和鸡精，用手充分抓拌均匀，使每片肉都裹上酱汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step2.webp"
+      },
+      {
+        "text": "【炒制豆瓣蒜油】：锅中倒入1汤匙食用油，开中火烧热后关火。待油温稍微下降（约五成热），放入郫县豆瓣酱和切碎的蒜末，利用余温快速翻炒，炒出香味和红油。将炒好的料汁完全放凉后，倒入腌制的肉片中，再次抓匀，腌制40分钟入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step3.webp"
+      },
+      {
+        "text": "【裹蒸肉米粉】：将一包蒸肉米粉倒入腌好的肉片中，用手充分抓拌，使每一片肉都均匀地裹上米粉。如果感觉太干，可淋入少量清水（约1-2汤匙），让米粉湿润并更好地附着在肉上。"
+      },
+      {
+        "text": "【铺底摆盘】：红薯洗净去皮，切成大小均匀的滚刀块（约3厘米见方），铺在蒸碗或深盘底部。将裹好米粉的肉片一片片地铺在红薯块上，尽量铺平，不要用力按压。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step4.webp"
+      },
+      {
+        "text": "【蒸制】：蒸锅中加入足量清水，大火烧开。将摆好肉的碗放入蒸锅，盖上锅盖，转中火蒸90分钟，直至肉片软烂、红薯绵软、米粉完全熟透。"
+      },
+      {
+        "text": "【出锅装盘】：关火后取出蒸碗，小心倒掉盘中多余的汤汁（可保留少量）。撒上适量葱花点缀，即可上桌享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fenzhengrou_step5.webp"
+      }
+    ]
+  },
+  {
     "id": "grilled-pork-shoulder-2026-001",
     "name": "香煎梅花肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiangjian_meihuarou.webp",
@@ -115,7 +232,6 @@
     "categoryIds": ["7", "2", "20", "31", "11"],
     "difficulty": "简单",
     "time": "25分钟(不含腌制时间)",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "鸡胸肉: 200克\n口蘑: 200克\n大蒜: 6瓣\n盐（腌制用）: 1/4茶匙\n老抽: 1/2茶匙\n生抽: 1汤匙\n蚝油: 1汤匙\n白糖: 1/2茶匙\n白胡椒粉: 1/2茶匙\n料酒: 1汤匙\n玉米淀粉: 1茶匙\n食用油（腌制锁水用）: 1汤匙\n葱花（装饰用）: 适量",
     "steps": [
@@ -154,7 +270,6 @@
     "categoryIds": ["7", "2", "20", "31", "11"],
     "difficulty": "简单",
     "time": "35分钟(含高压锅时间)",
-    "badge": ["新"],
     "serving_count": "3",
     "ingredients": "干黄豆: 150克\n猪瘦肉: 50克\n大蒜: 3瓣\n生姜: 2片\n生抽: 1汤匙\n蚝油: 2茶匙\n白糖: 1茶匙\n盐: 1/4茶匙\n鸡精: 1/4茶匙\n食用油: 2汤匙\n清水: 适量（高压锅用）",
     "steps": [
@@ -188,7 +303,6 @@
     "categoryIds": ["7", "2", "20", "12"],
     "difficulty": "中等",
     "time": "30分钟",
-    "badge": ["新"],
     "serving_count": "3",
     "ingredients": "猪里脊肉: 300克\n青椒: 1个\n洋葱: 半个\n大蒜: 4瓣\n大葱: 1小段\n盐: 1茶匙\n白胡椒粉: 1/2茶匙\n生抽: 2汤匙\n土豆淀粉: 4汤匙\n食用油: 适量\n葱花（碗汁）: 1茶匙\n蒜末（碗汁）: 1茶匙\n盐（碗汁）: 1/4茶匙\n味精（碗汁）: 1/4茶匙\n酱油（碗汁）: 2汤匙\n白糖（碗汁）: 1茶匙\n老醋（碗汁）: 1茶匙\n土豆淀粉（碗汁）: 1茶匙\n清水（碗汁）: 约80毫升",
     "steps": [
@@ -231,8 +345,8 @@
     "categoryIds": ["7", "2", "31", "4", "11"],
     "difficulty": "简单",
     "time": "20分钟",
-    "badge": ["新"],
     "serving_count": "2",
+    "badge": ["热"],
     "ingredients": "小白菜: 300克\n土豆: 2个\n大蒜: 3瓣\n生抽: 1汤匙\n盐: 1/2茶匙\n鸡精: 1/4茶匙\n食用油: 2汤匙\n清水: 适量",
     "steps": [
       {
