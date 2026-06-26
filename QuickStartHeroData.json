@@ -2,24 +2,24 @@
   "sectionTitle": "一人食菜谱💡",
   "cards": [
     {
-      "recipeId": "nan-gua-zheng-pai-gu-2026-001",
-      "recipeName": "南瓜蒸排骨",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/nangua_zhengpaigu.webp"
+      "recipeId": "jiaoyan-zheng-jitui-2026-001",
+      "recipeName": "椒盐蒸鸡腿",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_zhengjitui.webp"
     },
     {
-      "recipeId": "hakka-stuffed-tofu-2026-001",
-      "recipeName": "酿豆腐",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/niangdoufu.webp"
+      "recipeId": "m7n7g8h9-i0j2-2k3l-4m5n-6o7p8q9r0s1s",
+      "recipeName": "素烧油豆角",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/sushao_youdoujiao.webp"
     },
     {
-      "recipeId": "cucumber-egg-soup-001",
-      "recipeName": "黄瓜蛋花汤",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/huanggua_danhuatang.webp"
+      "recipeId": "i0p7t6s5-s6t7-8y9z-a0h7",
+      "recipeName": "清蒸大闸蟹",
+      "imageSrc":"https://shiyuji.xyz/img/recipes/qingzheng_dazhaxie.webp"
     },
     {
-      "recipeId": "stir-fried-romaine-lettuce-001",
-      "recipeName": "炒油麦菜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/chaoyoumaicai.webp"
+      "recipeId": "u0a7z6y5-y6z7-8e9f-g0h1-i2j3k4l5m6n7",
+      "recipeName": "凉拌黑木耳",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_muer.webp"
     }
   ]
 }

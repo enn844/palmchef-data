@@ -1,5 +1,89 @@
 [
   {
+    "id": "nan-gua-zheng-pai-gu-2026-001",
+    "name": "南瓜蒸排骨",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/nangua_zhengpaigu.webp",
+    "brief": "贝贝南瓜的绵密清甜与排骨的鲜嫩多汁完美融合，蒜香四溢，是一道营养均衡、老少皆宜的家常蒸菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "45分钟(含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "猪肋排: 300克\n贝贝南瓜: 半个\n大蒜: 4瓣\n生抽: 2汤匙\n料酒: 1汤匙\n蚝油: 1汤匙\n白糖: 1/2茶匙\n盐: 1/4茶匙\n玉米淀粉: 2茶匙\n食用油: 1汤匙\n葱花: 适量",
+    "steps": [
+      {
+        "text": "【处理排骨】：新鲜排骨洗净，剁成约3-4厘米长的小段。放入清水中浸泡15分钟，泡出血水后捞出，用厨房纸彻底吸干表面水分，放入大碗中备用。"
+      },
+      {
+        "text": "【腌制排骨】：在排骨碗中加入生抽、料酒、蚝油、白糖、盐、玉米淀粉和食用油。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nangua_zhengpaigu_step1.webp"
+      },
+      {
+        "text": "【加入蒜末】：大蒜去皮切成细末，放入排骨碗中。用手充分抓拌均匀，使每一块排骨都均匀裹上料汁。盖上保鲜膜，放入冰箱冷藏腌制20分钟，让排骨充分入味。"
+      },
+      {
+        "text": "【处理南瓜】：贝贝南瓜洗净，无需去皮（带皮蒸制更香糯），对半切开后挖去瓜瓤，再切成约2厘米厚的月牙形块状。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nangua_zhengpaigu_step2.webp"
+      },
+      {
+        "text": "【铺底摆盘】：取一个深盘，将切好的南瓜块均匀铺在盘底。将腌制好的排骨逐一夹出，整齐地码放在南瓜块上方，尽量不要重叠。"
+      },
+      {
+        "text": "【蒸制】：蒸锅中加入足量清水，大火烧开。将摆好盘的南瓜排骨放入蒸锅，盖上锅盖，保持中大火蒸制25分钟，至排骨熟透、南瓜软糯。"
+      },
+      {
+        "text": "【出锅点缀】：关火后取出蒸盘，小心倒掉盘中多余的汤汁（可保留少许底汤）。撒上适量葱花点缀，即可趁热上桌享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nangua_zhengpaigu_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "hakka-stuffed-tofu-2026-001",
+    "name": "酿豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/niangdoufu.webp",
+    "brief": "客家名菜，豆腐外焦里嫩，肉馅咸香多汁，搭配浓郁的酱汁，是一道下饭又经典的客家风味菜。",
+    "categoryIds": ["7", "2", "4", "11"],
+    "difficulty": "中等",
+    "time": "35分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "老豆腐: 2块（约400克）\n猪瘦肉（或梅花肉）: 200克\n胡萝卜: 半根（约50克）\n大蒜: 3瓣\n盐: 1/2茶匙\n白胡椒粉: 1/2茶匙\n生抽: 1汤匙\n蚝油: 2汤匙\n玉米淀粉: 1汤匙\n清水: 半碗（约80毫升）\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理豆腐】：老豆腐用厨房纸吸干表面水分，切成大小均匀的方块（约4厘米见方、3厘米厚）。"
+      },
+      {
+        "text": "【制作肉馅】：猪瘦肉剁成肉糜，胡萝卜切成细末，大蒜剁成蒜蓉。将肉糜、胡萝卜末、蒜蓉放入碗中，加入盐、白胡椒粉和生抽，用筷子朝一个方向搅拌均匀，腌制10分钟入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niangdoufu_step1.webp"
+      },
+      {
+        "text": "【挖洞填馅】：用不锈钢汤勺的握柄在豆腐块中央轻轻旋转挖出一个圆形凹洞（注意不要挖穿底部）。将腌制好的肉馅填入豆腐洞中，用勺子背面压实抹平，使肉馅略高于豆腐表面。"
+      },
+      {
+        "text": "【煎制定型】：平底锅中倒入适量食用油，烧至六成热（约160°C）。将酿好的豆腐肉馅朝下放入锅中，保持中小火煎约1分钟，至肉馅表面金黄定型。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niangdoufu_step2.webp"
+      },
+      {
+        "text": "【六面煎香】：用锅铲小心将豆腐翻转，继续中小火慢煎。依次将豆腐的六个面都煎至微黄焦香（约需5-6分钟），期间注意火候，避免煎焦。煎好的豆腐出锅备用。"
+      },
+      {
+        "text": "【炒制肉酱】：将挖出的豆腐碎与剩余的肉馅混合拌匀。锅中留底油，放入豆腐肉糜末，中火煸炒至散开、出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niangdoufu_step3.webp"
+      },
+      {
+        "text": "【勾芡焖煮】：取一小碗，加入1汤匙玉米淀粉和半碗清水，调成水淀粉。将水淀粉和蚝油倒入锅中，与肉酱翻炒均匀，煮至汤汁浓稠。"
+      },
+      {
+        "text": "【合烧收汁】：将煎好的酿豆腐放入锅中，轻轻推入肉酱中，转中火慢煮约3分钟，使豆腐充分吸收酱汁。期间可用勺子将肉酱不断淋在豆腐表面，使其更入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niangdoufu_step4.webp"
+      },
+      {
+        "text": "【出锅装盘】：待汤汁收浓后关火，将酿豆腐小心夹出摆入盘中，最后将锅中剩余的肉酱均匀淋在豆腐上即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niangdoufu_step5.webp"
+      }
+    ]
+  },
+  {
     "id": "lv-dou-ya-chao-wu-hua-rou-2026-001",
     "name": "炒豆芽",
     "imageSrc": "https://shiyuji.xyz/img/recipes/chaodouya.webp",
@@ -1306,65 +1390,6 @@
       {
         "text": "【调味出锅】：加入老抽、生抽、蚝油、少许盐和白糖，转大火继续翻炒2分钟，使藕丁充分入味上色，即可关火出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "v3b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o2",
-    "name": "糖醋排骨",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_paigu.webp",
-    "brief": "酸甜适口，外酥里嫩，色泽红亮，老少皆宜的经典家常菜。",
-    "categoryIds": ["7", "20", "12"],
-    "difficulty": "中等",
-    "time": "60分钟",
-    "serving_count": "5",
-    "ingredients": "猪前腿小排: 1000克\n黄酒: 2大匙\n生抽: 4大匙\n镇江醋: 6大匙\n红糖（棕糖）: 8大匙\n开水: 400毫升左右",
-    "steps": [
-      {
-        "text": "【前期备菜】：将猪前腿小排切成1寸（约3厘米）大小的小块。用50度左右的温水浸泡10分钟，充分泡出血水。捞出排骨，用厨房纸巾彻底吸干表面水分。"
-      },
-      {
-        "text": "【煸炒出油】：锅烧热，无需放油，直接下入吸干水分的排骨。用中火煸炒约10分钟，直到排骨两面呈金黄色，并逼出排骨自身的油脂。此步骤不用追求煎出多少油，上色即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step1.webp"
-      },
-      {
-        "text": "【调味炖煮】：加入约400毫升开水，水量基本与排骨持平。依次加入黄酒、生抽、镇江醋和红糖。盖上锅盖，大火烧开后立即转小火，炖煮40分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step2.webp"
-      },
-      {
-        "text": "【收汁出锅】：40分钟后开盖，转大火收汁。不断翻炒防止粘锅，待汤汁变得浓稠油亮，均匀包裹在每块排骨上时，即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/tangcu_paigu_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "w1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o1",
-    "name": "萝卜丝饼",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/luobosibing.webp",
-    "brief": "外酥里嫩，清甜鲜美，萝卜的清香与虾仁的鲜甜完美融合，营养丰富的快手早餐。",
-    "categoryIds": ["10", "2", "7", "31", "21","11"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "serving_count": "3",
-    "ingredients": "青萝卜或白萝卜: 300克\n虾仁: 50克\n鸡蛋: 1个\n面粉: 1勺 (约15克)\n黑胡椒粉: 少许\n盐: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【萝卜焯水】：将青萝卜或白萝卜去皮洗净，用擦丝器擦成细丝。虾仁切丁。锅中烧开水，放入萝卜丝焯水3-4分钟，去除萝卜的生涩味和辛辣味，捞出后立即放入冷水中过凉。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/luobosibing_step1.webp"
-      },
-      {
-        "text": "【挤干水分】：将过凉的萝卜丝捞出，放入干净的纱布或用手用力挤压，彻底挤干多余的水分。这是煎饼酥脆的关键步骤，水分越少，煎出来的饼越香脆。"
-      },
-      {
-        "text": "【混合面糊】：将挤干水分的萝卜丝放入大碗中，加入虾仁丁、鸡蛋、面粉、少许黑胡椒粉和适量盐，用筷子或勺子充分搅拌均匀，使所有食材紧密结合成粘稠的糊状。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/luobosibing_step2.webp"
-      },
-      {
-        "text": "【小火慢煎】：平底锅烧热，倒入适量食用油，用勺子取适量萝卜丝糊放入锅中，轻轻压平成小圆饼状。保持小火慢煎，煎约2-3分钟至底面金黄定型。"
-      },
-      {
-        "text": "【翻面出锅】：用锅铲小心翻面，继续小火煎另一面，煎约2-3分钟至两面均呈金黄色、外皮酥脆即可出锅。可搭配醋或辣椒酱食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/luobosibing_step3.webp"
       }
     ]
   }
