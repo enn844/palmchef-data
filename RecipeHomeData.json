@@ -1,5 +1,37 @@
 [
   {
+    "id": "jiaoyan-zheng-jitui-2026-001",
+    "name": "椒盐蒸鸡腿",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_zhengjitui.webp",
+    "brief": "椒盐香气浓郁，鸡腿肉嫩滑多汁，蒸制做法简单无油烟，是一道快手健康的家常荤菜。",
+    "categoryIds": ["7", "2", "20", "11","17"],
+    "difficulty": "简单",
+    "time": "1小时(含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "鸡腿: 2个\n料酒: 2汤匙\n生抽: 2汤匙\n盐: 1茶匙\n花椒: 1茶匙",
+    "steps": [
+      {
+        "text": "【泡出血水】：鸡腿用凉水浸泡30分钟，期间换水一次，充分泡出血水，捞出后沥干水分备用。"
+      },
+      {
+        "text": "【腌制入味】：在沥干的鸡腿中加入料酒和生抽，用手抓匀，使料汁均匀裹满鸡腿表面，盖上保鲜膜，放入冰箱冷藏腌制30分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhengjitui_step1.webp"
+      },
+      {
+        "text": "【炒制椒盐】：取一个干净无水的炒锅，开小火加热，放入盐和花椒，小火不停翻炒，炒至盐粒微黄、花椒出香味（约2分钟），盛出晾凉备用。"
+      },
+      {
+        "text": "【撒椒盐】：将腌制好的鸡腿从冰箱取出，把炒好的椒盐均匀地撒在鸡腿两面，用手轻轻按压，使椒盐附着牢固。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhengjitui_step2.webp"
+      },
+      {
+        "text": "【蒸制熟透】：将鸡腿放入蒸盘，腌料汁淋在鸡腿上。蒸锅中加入足量水，大火烧开，放入蒸盘，盖上锅盖，转中火蒸30分钟。用筷子扎一下鸡腿最厚处，能轻松穿透且无血水渗出即表示熟透，即可出锅享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhengjitui_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "nan-gua-zheng-pai-gu-2026-001",
     "name": "南瓜蒸排骨",
     "imageSrc": "https://shiyuji.xyz/img/recipes/nangua_zhengpaigu.webp",

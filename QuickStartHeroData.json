@@ -2,24 +2,24 @@
   "sectionTitle": "一人食菜谱💡",
   "cards": [
     {
-      "recipeId": "jiaoyan-zheng-jitui-2026-001",
-      "recipeName": "椒盐蒸鸡腿",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_zhengjitui.webp"
+      "recipeId": "a1b2c3d4-e5f6-4g7h-8i9j-0k1l2m3n4o5r",
+      "recipeName": "土豆炒牛肉",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_chaoniurou.webp"
     },
     {
-      "recipeId": "m7n7g8h9-i0j2-2k3l-4m5n-6o7p8q9r0s1s",
-      "recipeName": "素烧油豆角",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/sushao_youdoujiao.webp"
+      "recipeId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
+      "recipeName": "糖醋里脊",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/tangcu_liji.webp"
     },
     {
-      "recipeId": "i0p7t6s5-s6t7-8y9z-a0h7",
-      "recipeName": "清蒸大闸蟹",
-      "imageSrc":"https://shiyuji.xyz/img/recipes/qingzheng_dazhaxie.webp"
+      "recipeId": "yumi-huotui-ding-001",
+      "recipeName": "玉米火腿丁",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/yumi_huotuiding.webp"
     },
     {
-      "recipeId": "u0a7z6y5-y6z7-8e9f-g0h1-i2j3k4l5m6n7",
-      "recipeName": "凉拌黑木耳",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_muer.webp"
+      "recipeId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d6",
+      "recipeName": "黄瓜烙",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/huanggualao.webp"
     }
   ]
 }
