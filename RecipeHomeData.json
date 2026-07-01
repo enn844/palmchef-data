@@ -1,5 +1,78 @@
 [
   {
+    "id": "zi-zhi-nai-cha-2026-001",
+    "name": "自制奶茶",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/naicha.webp",
+    "brief": "茶香浓郁，奶味醇厚，甜度自由掌控，是一杯可以随时享用的治愈系热饮。",
+    "categoryIds": ["14", "3", "2"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "serving_count": "2",
+    "ingredients": "红茶茶叶（推荐锡兰/阿萨姆）: 3汤匙\n纯净水: 500克\n纯牛奶: 250毫升\n冰糖: 40克（约5-6颗，可按口味增减）",
+    "steps": [
+      {
+        "text": "【洗茶去涩】：将15克红茶茶叶放入滤网中，用少许温水（约80℃）快速冲洗一遍，既能洗去浮尘，又能唤醒茶叶香气，沥干备用。"
+      },
+      {
+        "text": "【熬制焦糖】：取一个干净无水的厚底不粘锅，放入40克冰糖，开最小火加热。耐心等待冰糖慢慢融化，期间可轻轻晃动锅子让其受热均匀，直至糖液呈现诱人的琥珀色（注意不要熬过头，否则会发苦）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/naicha_step1.webp"
+      },
+      {
+        "text": "【加水煮茶】：立即向锅中缓缓倒入纯净水（注意此时糖液高温，倒水时小心蒸汽烫伤）。大火将水烧开，随后倒入洗好的红茶茶叶，保持大火煮开后，立即转小火，慢煮5分钟，让茶味充分释放。"
+      },
+      {
+        "text": "【加奶融合】：将250毫升纯牛奶缓缓倒入锅中，用勺子轻轻搅拌，使茶汤与牛奶混合均匀。转最小火，继续煮5分钟，让奶香与茶香充分融合，注意保持微沸状态，不要大火滚沸，以免牛奶起皮或糊底。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/naicha_step2.webp"
+      },
+      {
+        "text": "【焖制醇厚】：5分钟后关火，盖上锅盖，利用余温再焖3-5分钟，这一步能让奶茶的口感更加醇厚顺滑。"
+      },
+      {
+        "text": "【过滤出杯】：将煮好的奶茶通过细网筛（或直接使用茶漏）过滤掉茶叶渣，倒入杯中。喜欢热饮可立即享用，偏爱冰饮可放入冰箱冷藏或加冰块。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/naicha_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "xian-dan-huang-dou-fu-2026-001",
+    "name": "咸蛋黄豆腐",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiandanhuang_doufu.webp",
+    "brief": "咸蛋黄沙沙的咸鲜包裹着嫩滑的豆腐，火腿与牛肉末增添肉香，豌豆清甜解腻，是一道下饭又好看的家常菜。",
+    "categoryIds": ["7", "2", "4", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "嫩豆腐: 1盒（约350克）\n咸蛋黄: 3个\n火腿肠: 1根\n嫩豌豆: 50克\n大蒜: 3瓣\n红椒: 少许\n牛奶: 3汤匙\n生抽: 1汤匙\n蚝油: 1汤匙\n白糖: 1/2茶匙\n盐: 1/2茶匙\n豌豆粉（或玉米淀粉）: 1汤匙\n清水: 2汤匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜处理】：嫩豆腐从盒中取出，切成约2厘米见方的小方块。火腿肠切成小丁。咸蛋黄用勺子压碎成泥状。大蒜切末，红椒切小粒。嫩豌豆提前煮熟备用（煮的时候水里放入盐，可保持颜色翠绿）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiandanhuang_doufu_step1.webp"
+      },
+      {
+        "text": "【调制碗汁】：取一个小碗，加入生抽、蚝油、白糖和3汤匙热水，用勺子搅拌均匀，调成碗汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiandanhuang_doufu_step2.webp"
+      },
+      {
+        "text": "【炒制咸蛋黄】：锅中倒入适量食用油，烧至五成热，放入蒜末和压碎的咸蛋黄泥，转小火慢慢翻炒，炒至咸蛋黄密集冒泡、起沙出香味。"
+      },
+      {
+        "text": "【下入主料】：将切好的豆腐块、火腿肠丁、煮熟的豌豆一同放入锅中，轻轻晃动锅子或用锅铲从锅边轻推，使食材与咸蛋黄混合均匀，注意不要用力翻炒以免豆腐碎裂。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiandanhuang_doufu_step3.webp"
+      },
+      {
+        "text": "【调味焖煮】：沿锅边淋入3汤匙牛奶，再倒入调好的碗汁，大火煮开后期转中小火煮2分钟，让豆腐充分吸收汤汁的咸鲜味。"
+      },
+      {
+        "text": "【勾芡收汁】：将豌豆粉（或玉米淀粉）与清水混合调成水淀粉。转大火，将水淀粉淋入锅中，用锅铲从锅底小心地铲动，使勾芡均匀，汤汁收至浓稠。"
+      },
+      {
+        "text": "【出锅装盘】：撒上红椒粒点缀增色，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiandanhuang_doufu_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "jiaoyan-zheng-jitui-2026-001",
     "name": "椒盐蒸鸡腿",
     "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_zhengjitui.webp",
@@ -1359,69 +1432,6 @@
       {
         "text": "【出锅装盘】：连汤带料倒入大碗中，撒上香菜或葱花即可上桌。",
         "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step5.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251235000",
-    "name": "椒盐猪大排",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/jiaoyan_zhupai.webp",
-    "brief": "外酥里嫩，肉香多汁，椒盐味浓郁，是一道经典的家常炸物，趁热吃口感最佳。",
-    "categoryIds": ["7", "20", "2", "11"],
-    "difficulty": "中等",
-    "serving_count": "4",
-    "time": "50分钟(不含腌制时间)",
-    "ingredients": "猪大排: 4片\n盐: 适量\n料酒: 2汤匙\n姜片: 4片\n面粉: 100克\n鸡蛋: 2个\n小苏打: 2克\n水: 适量\n食用油: 适量\n椒盐粉: 适量",
-    "steps": [
-      {
-        "text": "【拍松腌制】：猪大排洗净，用刀背在正反两面轻轻交叉剁剁，使肉质松软。然后正反面撒上适量盐，淋上料酒，放上姜片，抓匀后放入冰箱冷藏腌制4-5小时，让大排充分入味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step1.webp"
-      },
-      {
-        "text": "【调制炸糊】：取一个大碗，加入面粉、鸡蛋、小苏打，分次加入少量水，用筷子或打蛋器搅拌均匀，调至面糊顺滑、无干粉结块，且舀起后滴落流速缓慢、呈浓稠酸奶状即可。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step2.webp"
-      },
-      {
-        "text": "【裹糊】：从冰箱取出腌制好的猪大排，取一片放入调好的面糊中，两面均匀裹满面糊，提起大排让多余的面糊自然滴落。"
-      },
-      {
-        "text": "【慢炸定型】：锅中倒入足量食用油（能没过猪大排为宜），烧至四五成热（约150°C，油面微微波动，筷子插入冒细密小泡）。放入裹好面糊的猪大排，小火慢炸，炸至底面金黄定型后翻面，继续炸另一面，直至两面均呈金黄色、外壳酥脆。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step3.webp"
-      },
-      {
-        "text": "【撒料出锅】：将炸好的猪大排捞出，放在吸油纸上沥去多余油分。趁热均匀撒上椒盐粉，即可切块或整块食用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/jiaoyan_zhupai_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "e5j7i6h5-h5i6-8o9p-q0r1-s2t3u4v5w6x7",
-    "name": "小炒藕丁",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_ouding.webp",
-    "brief": "清脆爽口，香辣开胃，莲藕丁经过焯水后脆嫩多汁，搭配小米椒和蒜末爆炒，是一道简单快手的家常下饭菜。",
-    "categoryIds": ["31", "7", "2", "11"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "serving_count": "3",
-    "ingredients": "莲藕: 1节\n小葱: 2根\n小米椒: 2个\n大蒜: 3瓣\n老抽: 1小勺\n生抽: 2小勺\n蚝油: 大半勺\n盐: 少许\n白糖: 少许\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【备菜处理】：莲藕去皮洗净，切成大小均匀的小丁。小葱切段，小米椒切圆圈，大蒜切末备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step1.webp"
-      },
-      {
-        "text": "【藕丁焯水】：锅中烧开水，放入藕丁焯水2分钟，捞出沥干水分备用。焯水能去除藕丁的涩味，同时保持清脆口感。"
-      },
-      {
-        "text": "【爆香调料】：锅中倒入适量食用油，油热后放入葱段、小米椒圈和蒜末，保持中小火炒约1分钟，煸炒出香味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step2.webp"
-      },
-      {
-        "text": "【加入藕丁】：将焯好水的藕丁倒入锅中，转大火快速翻炒均匀。"
-      },
-      {
-        "text": "【调味出锅】：加入老抽、生抽、蚝油、少许盐和白糖，转大火继续翻炒2分钟，使藕丁充分入味上色，即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_ouding_step3.webp"
       }
     ]
   }

@@ -4,6 +4,27 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "14",
+        "imageSrc": "https://shiyuji.xyz/img/article/yima_heilian.webp",
+        "title": "姨妈期黑脸？《傅青主女科》解密：经期要“通”不是“补”",
+        "brief": "经期就要大补红枣阿胶？这可能是你经期爆痘、血块增多、小腹坠胀的元凶。跟随妇科圣手傅青主，解锁“以通为补”的经期逆龄秘籍。",
+        "webUrl": "https://health-app.com/articles/period-care-001"
+      },
+      {
+        "id": "15",
+        "imageSrc": "https://shiyuji.xyz/img/article/suanxing_tizhi.webp",
+        "title": "“酸性体质”是骗局，“气郁体质”真存在：试试这三杯解郁茶",
+        "brief": "别再为子虚乌有的“酸性体质”交智商税了！但如果你总是莫名叹气、胸闷、心情不爽，那可能是真实的“气郁体质”在作祟。借由古籍智慧，教你如何疏通身心。",
+        "webUrl": "https://health-app.com/articles/qi-stagnation-001"
+      },
+      {
+        "id": "16",
+        "imageSrc": "https://shiyuji.xyz/img/article/hetao.webp",
+        "title": "拆解“以形补形”：吃核桃能补脑？听听《本草纲目》怎么说",
+        "brief": "因为长得像大脑，核桃就被推上了补脑神坛。这究竟是古人的智慧结晶，还是跨越千年的“看脸”误会？我们从《本草纲目》和现代营养学中为你找寻答案。",
+        "webUrl": "https://health-app.com/articles/walnut-brain-myth"
+      },
+      {
         "id": "13",
         "imageSrc": "https://shiyuji.xyz/img/article/shire_tizhi.webp",
         "title": "湿热体质自救：《温病条辨》教你清热祛湿",
@@ -182,28 +203,6 @@
         "brief": "如果你正因职场坎坷而心力交瘁，不妨看看苏东坡。他的一生不是在被贬，就是在被贬的路上，但他却靠着“食疗”活出了中国文人最高级的松弛感。",
         "webUrl": "https://health-app.com/articles/dongpo-health-001"
       },
-
-      {
-        "id": "14",
-        "imageSrc": "https://shiyuji.xyz/img/article/yima_heilian.webp",
-        "title": "姨妈期黑脸？《傅青主女科》解密：经期要“通”不是“补”",
-        "brief": "经期就要大补红枣阿胶？这可能是你经期爆痘、血块增多、小腹坠胀的元凶。跟随妇科圣手傅青主，解锁“以通为补”的经期逆龄秘籍。",
-        "webUrl": "https://health-app.com/articles/period-care-001"
-      },
-      {
-        "id": "15",
-        "imageSrc": "https://shiyuji.xyz/img/article/suanxing_tizhi.webp",
-        "title": "“酸性体质”是骗局，“气郁体质”真存在：试试这三杯解郁茶",
-        "brief": "别再为子虚乌有的“酸性体质”交智商税了！但如果你总是莫名叹气、胸闷、心情不爽，那可能是真实的“气郁体质”在作祟。借由古籍智慧，教你如何疏通身心。",
-        "webUrl": "https://health-app.com/articles/qi-stagnation-001"
-      },
-      {
-        "id": "16",
-        "imageSrc": "https://shiyuji.xyz/img/article/hetao.webp",
-        "title": "拆解“以形补形”：吃核桃能补脑？听听《本草纲目》怎么说",
-        "brief": "因为长得像大脑，核桃就被推上了补脑神坛。这究竟是古人的智慧结晶，还是跨越千年的“看脸”误会？我们从《本草纲目》和现代营养学中为你找寻答案。",
-        "webUrl": "https://health-app.com/articles/walnut-brain-myth"
-      },
       {
         "id": "17",
         "imageSrc": "https://shiyuji.xyz/img/article/shoujiao_bingliang.webp",
@@ -217,6 +216,41 @@
     "id": "yuanmei_science_series_v2",
     "title": "古籍智慧",
     "articles": [
+      {
+        "id": "wangzengqi_004",
+        "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_004.webp",
+        "title": "扬州干丝：极致切割与表面积的物理美学",
+        "brief": "扬州人的清晨，是从一盘细如发丝的干丝开始的。汪曾祺写干丝，重点在那一个“细”字。这不只是为了炫技，更是一场关于‘比表面积’与‘扩散作用’的精密物理实验。",
+        "webUrl": "https://zh.wikipedia.org/wiki/大煮干丝"
+      },
+      {
+        "id": "wangzengqi_005",
+        "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_005.webp",
+        "title": "从葵薤到马兰头：汪曾祺笔下的植物进化名录",
+        "brief": "汪曾祺不仅是性灵派作家，更是一位民间的植物分类学家。本文从《诗经》里的“葵”聊到街头巷尾的马兰头，揭开名字背后的味觉记忆与春季代谢的生物学密码。",
+        "webUrl": "https://zh.wikipedia.org/wiki/汪曾祺"
+      },
+      {
+        "id": "art_yuanmei_005",
+        "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_005.webp",
+        "title": "“戒单”中的断舍离：极简主义的餐桌哲学",
+        "brief": "当乾隆年间的随园遇上现代极简主义，美食的极致竟是一场“信噪比”的提升。本文结合神经科学，拆解袁枚“戒多”背后的感官逻辑，为现代人提供一种通透的“食物社交观”。",
+        "webUrl": "https://zh.wikipedia.org/wiki/随园食单"
+      },
+      {
+        "id": "liyu_001",
+        "imageSrc": "https://shiyuji.xyz/img/article/liyu_001.webp",
+        "title": "随季而动：李渔的“节律性饮食”与生物钟",
+        "brief": "李渔强调“顺时而食”，这不仅是对新鲜的追求，更是对人体生物钟的精准呵护。本文通过昼夜节律与内分泌学的视角，解构李渔饮食哲学中隐藏的季节节律。 ",
+        "webUrl": "https://zh.wikipedia.org/wiki/昼夜节律"
+      },
+      {
+        "id": "liyu_005",
+        "imageSrc": "https://shiyuji.xyz/img/article/liyu_005.webp",
+        "title": "蕈之诱惑：菌菇挥发性物质的“夺魂”瞬间",
+        "brief": "李渔称蕈为“山林之气”的化身。从科学角度看，这股令人夺魂的香气源于8-辛烯醇等挥发性物质。本文将带你领略李渔式的嗅觉美学与菌菇的分子奥秘。",
+        "webUrl": "https://zh.wikipedia.org/wiki/食用蕈"
+      },
       {
         "id": "caoben_qingying",
         "imageSrc": "https://shiyuji.xyz/img/article/caoben_qingying.webp",
@@ -245,13 +279,7 @@
         "brief": "为什么人类会对“异臭”趋之若鹜？从汪曾祺的性灵文字出发，深度拆解挥发性有机化合物如何通过鼻后嗅觉在脑内“反转”为鲜味，探索一场生存进化留下的逆向审美盛宴。",
         "webUrl": "https://zh.wikipedia.org/wiki/臭豆腐"
       },
-      {
-        "id": "liyu_005",
-        "imageSrc": "https://shiyuji.xyz/img/article/liyu_005.webp",
-        "title": "蕈之诱惑：菌菇挥发性物质的“夺魂”瞬间",
-        "brief": "李渔称蕈为“山林之气”的化身。从科学角度看，这股令人夺魂的香气源于8-辛烯醇等挥发性物质。本文将带你领略李渔式的嗅觉美学与菌菇的分子奥秘。",
-        "webUrl": "https://zh.wikipedia.org/wiki/食用蕈"
-      },
+
       {
         "id": "liyu_004",
         "imageSrc": "https://shiyuji.xyz/img/article/liyu_004.webp",
@@ -309,13 +337,7 @@
         "webUrl": "https://health-app.com/articles/jishiteng-001"
       },
 
-      {
-        "id": "liyu_001",
-        "imageSrc": "https://shiyuji.xyz/img/article/liyu_001.webp",
-        "title": "随季而动：李渔的“节律性饮食”与生物钟",
-        "brief": "李渔强调“顺时而食”，这不仅是对新鲜的追求，更是对人体生物钟的精准呵护。本文通过昼夜节律与内分泌学的视角，解构李渔饮食哲学中隐藏的季节节律。 ",
-        "webUrl": "https://zh.wikipedia.org/wiki/昼夜节律"
-      },
+
       {
         "id": "wangzengqi_001",
         "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_001.webp",
@@ -351,28 +373,6 @@
         "title": "修禊茶事：借一盏明前雪，洗去灵魂深处的“冬垢”",
         "brief": "古人在水边“修禊”以除不祥，我们在茶中洗濯灵魂。当通透的“水绿”遇上明前嫩芽，这是一场由内而外的“负离子洗礼”。",
         "webUrl": "https://health-app.com/articles/xiuxi-tea"
-      },
-
-      {
-        "id": "wangzengqi_004",
-        "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_004.webp",
-        "title": "扬州干丝：极致切割与表面积的物理美学",
-        "brief": "扬州人的清晨，是从一盘细如发丝的干丝开始的。汪曾祺写干丝，重点在那一个“细”字。这不只是为了炫技，更是一场关于‘比表面积’与‘扩散作用’的精密物理实验。",
-        "webUrl": "https://zh.wikipedia.org/wiki/大煮干丝"
-      },
-      {
-        "id": "wangzengqi_005",
-        "imageSrc": "https://shiyuji.xyz/img/article/wangzengqi_005.webp",
-        "title": "从葵薤到马兰头：汪曾祺笔下的植物进化名录",
-        "brief": "汪曾祺不仅是性灵派作家，更是一位民间的植物分类学家。本文从《诗经》里的“葵”聊到街头巷尾的马兰头，揭开名字背后的味觉记忆与春季代谢的生物学密码。",
-        "webUrl": "https://zh.wikipedia.org/wiki/汪曾祺"
-      },
-      {
-        "id": "art_yuanmei_005",
-        "imageSrc": "https://shiyuji.xyz/img/article/art_yuanmei_005.webp",
-        "title": "“戒单”中的断舍离：极简主义的餐桌哲学",
-        "brief": "当乾隆年间的随园遇上现代极简主义，美食的极致竟是一场“信噪比”的提升。本文结合神经科学，拆解袁枚“戒多”背后的感官逻辑，为现代人提供一种通透的“食物社交观”。",
-        "webUrl": "https://zh.wikipedia.org/wiki/随园食单"
       },
       {
         "id": "8",
