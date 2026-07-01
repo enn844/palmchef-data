@@ -2,19 +2,19 @@
   "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234601",
-      "recipeName": "家常红烧肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/hongshaorou.webp"
+      "recipeId": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "recipeName": "平菇炒肉",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/pinggu_chaorou.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234602",
-      "recipeName": "葱油拌面",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/congyou_banmian.webp"
+      "recipeId": "xian-dan-huang-dou-fu-2026-001",
+      "recipeName": "咸蛋黄豆腐",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xiandanhuang_doufu.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234604",
-      "recipeName": "素烧金针菇",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/sushao_jinzhengu.webp"
+      "recipeId": "hongshao-daiyu-001",
+      "recipeName": "红烧带鱼",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_daiyu.webp"
     },
     {
       "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9217",
