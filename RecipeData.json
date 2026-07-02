@@ -1,5 +1,46 @@
 [
   {
+    "id": "qingjiao-rousi-banmian-2026-001",
+    "name": "青椒肉丝拌面",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_rousimian.webp",
+    "brief": "青椒脆嫩，肉丝滑嫩，酱香浓郁，汤汁包裹着劲道的宽面，是一道简单快手的家常拌面。",
+    "categoryIds": ["7", "2", "20", "11", "28"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "猪里脊肉: 150克\n青椒: 2个\n小米辣: 2个\n大蒜: 3瓣\n生抽: 2汤匙\n老抽: 1/2汤匙\n盐（腌制用）: 1/2茶匙\n白糖: 1/2茶匙\n玉米淀粉: 1茶匙\n食用油: 适量\n宽面（鲜面或干面）: 200克",
+    "steps": [
+      {
+        "text": "【切配食材】：猪里脊肉洗净，先切成薄片，再改刀切成均匀的细丝。青椒去蒂去籽，切成细丝。小米辣切圈，大蒜切片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousimian_step1.webp"
+      },
+      {
+        "text": "【腌制肉丝】：将切好的肉丝放入碗中，加入盐、一半生抽和玉米淀粉，用手抓匀，使肉丝均匀裹上调料，腌制10分钟入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousimian_step2.webp"
+      },
+      {
+        "text": "【滑炒肉丝】：锅中倒入适量食用油，烧至六成热（约160°C），放入小米辣圈和蒜片，小火爆香。倒入腌好的肉丝，转中大火快速滑炒，炒至肉丝变色断生。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousimian_step3.webp"
+      },
+      {
+        "text": "【调味上色】：沿锅边淋入剩余生抽和老抽，快速翻炒均匀，使肉丝上色。加入白糖提鲜，继续翻炒片刻。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousimian_step4.webp"
+      },
+      {
+        "text": "【加入青椒】：沿锅边淋入少量开水（约2-3汤匙），放入切好的青椒丝，大火快速翻炒。喜欢青椒口感生脆的，翻炒均匀即可；喜欢口感软烂的，可适当延长翻炒时间。最后加入适量盐调味（生抽已有咸味，盐量要少），炒匀后盛出备用，炒菜的汤汁要保留一些，以便拌面。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousimian_step5.webp"
+      },
+      {
+        "text": "【煮面】：另起一锅，加入足量清水，大火烧开。下入宽面，用筷子轻轻拨散，煮至面条中间还有一点点白芯（约八分熟）时捞出，沥干水分放入碗中。"
+      },
+      {
+        "text": "【拌面装盘】：将炒好的青椒肉丝浇头连同汤汁一起铺在面条上，用筷子充分翻拌均匀，使每一根面条都裹上酱汁和肉香，即可享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_rousimian_step6.webp"
+      }
+    ]
+  },
+  {
     "id": "zi-zhi-nai-cha-2026-001",
     "name": "自制奶茶",
     "imageSrc": "https://shiyuji.xyz/img/recipes/naicha.webp",
@@ -6925,7 +6966,7 @@
     "ingredients": "面粉 300克\n开水 100毫升\n冷水 (烫面) 50毫升\n小葱 适量 (切碎)\n盐 1.5茶匙\n食用油（葱油酥用） 3汤匙左右",
     "steps": [
       {
-        "text": "【和面】：面粉用开水烫面，搅拌，再加入冷水和成光滑的烫面团，静置醒面30分钟。小葱切碎备用。"
+        "text": "【和面】：面粉用开水烫面，搅拌，加入准备好的盐的1/3，再加入冷水和成光滑的烫面团，静置醒面30分钟。小葱切碎备用。"
       },
       {
         "text": "【制油酥】：小葱碎加入剩下盐和食用油拌匀成浓稠、可涂抹的糊状，制成葱油酥。"
