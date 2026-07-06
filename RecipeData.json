@@ -1,5 +1,72 @@
 [
   {
+    "id": "hong-shu-pian-2026-001",
+    "name": "香煎红薯片",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_hongshupian.webp",
+    "brief": "红薯片外酥里软，蛋香浓郁，做法简单零失败，是一道健康美味的快手小食或早餐配菜。",
+    "categoryIds": ["7", "2", "10", "21", "4"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "红薯: 1个（约200克）\n鸡蛋: 2个\n玉米淀粉: 3汤匙\n盐: 1/4茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理红薯】：红薯洗净去皮，切成约0.5厘米厚的均匀圆片。"
+      },
+      {
+        "text": "【调制蛋糊】：碗中打入鸡蛋，加入玉米淀粉和盐，用筷子充分搅打均匀，调成顺滑无颗粒的浓稠蛋糊。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_hongshupian_step1.webp"
+      },
+      {
+        "text": "【裹上蛋液】：将切好的红薯片放入蛋糊碗中，用筷子或手（戴手套）翻拌，使每一片红薯正反两面都均匀裹上蛋糊。"
+      },
+      {
+        "text": "【煎制定型】：平底锅中倒入适量食用油，烧至六成热（约160°C）。将裹好蛋糊的红薯片逐片放入锅中，保持中小火慢煎。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_hongshupian_step2.webp"
+      },
+      {
+        "text": "【翻面煎熟】：煎约2-3分钟至底面金黄定型后，用锅铲小心翻面，继续煎另一面约2-3分钟，至两面金黄、红薯熟透（用筷子能轻松扎透）即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiangsu_hongshupian_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "nongjia-yiwanxiang-2026-001",
+    "name": "农家一碗香",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/nongjia_yiwanxiang.webp",
+    "brief": "湖南经典下饭菜，五花肉焦香不腻，煎蛋吸满汤汁，青红椒鲜辣开胃，一锅炒出浓郁锅气，是米饭的绝佳搭档。",
+    "categoryIds": ["7", "2", "20", "5", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "五花肉: 200克\n鸡蛋: 3个\n青椒: 2个\n红椒: 1个\n小葱: 2根\n大蒜: 4瓣\n生姜: 1小块\n郫县豆瓣酱: 1汤匙\n生抽: 1汤匙\n白糖: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【备菜切配】：青椒、红椒洗净，去蒂去籽后斜切成小段；小葱洗净切大段；大蒜去皮切末；生姜去皮切细丝。五花肉切成约2毫米厚的薄片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nongjia_yiwanxiang_step1.webp"
+      },
+      {
+        "text": "【煎蛋定型】：锅中倒入适量食用油，烧至六成热（约160°C），磕入鸡蛋，中小火煎至两面金黄焦香，取出放在案板上切成大小均匀的小块备用。"
+      },
+      {
+        "text": "【煸炒五花肉】：锅中留底油，开中小火，放入切好的五花肉片，慢慢煸炒至肉片出油、边缘微焦卷曲、呈金黄色（约3-4分钟），逼出多余油脂。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nongjia_yiwanxiang_step2.webp"
+      },
+      {
+        "text": "【爆香调料】：在煸好的五花肉中加入姜丝和蒜末，翻炒出香味。加入郫县豆瓣酱，小火翻炒均匀，炒出红油和酱香味。"
+      },
+      {
+        "text": "【合炒调味】：放入切好的青红椒段和葱段，以及煎好切块的鸡蛋，转大火快速翻炒。加入1汤匙生抽和1/2茶匙白糖，继续大火翻炒至青红椒变软、所有食材均匀入味（约1-2分钟）。"
+      },
+      {
+        "text": "【出锅装盘】：翻炒至辣椒变软、食材充分融合后，即可关火出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/nongjia_yiwanxiang_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "zha-shu-tiao-2026-001",
     "name": "炸薯条",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhashutiao.webp",
@@ -3145,7 +3212,6 @@
     "difficulty": "中等",
     "time": "20分钟",
     "serving_count": "2",
-    "badge":["热"],
     "ingredients": "粉丝: 100克\n猪肉末: 75克\n清水: 150克\n植物油: 适量\n酱油: 20克\n料酒: 13克\n郫县豆瓣酱: 13克\n葱花: 5克\n姜末: 3克\n蒜末: 3克\n味精: 3克\n辣椒粉: 1克",
     "steps": [
       {
@@ -5094,7 +5160,6 @@
     "categoryIds": ["7", "30", "11", "12","29"],
     "difficulty": "简单",
     "time": "25分钟",
-    "badge": ["热"],
     "serving_count": "3",
     "ingredients": "草鱼或鳊鱼: 1条\n姜片/蒜瓣/葱段: 适量\n生抽：2 汤匙\n老抽: 1汤匙\n香醋：1/2汤匙\n白糖: 1茶匙\n料酒: 1汤匙",
     "steps": [
@@ -5341,7 +5406,6 @@
     "brief": "茄子软糯吸满汤汁，肉末咸香浓郁，是一道经典的下饭神器。",
     "categoryIds": ["7", "2", "20", "31","11"],
     "difficulty": "中等",
-    "badge": ["热"],
     "time": "25分钟",
     "ingredients": "紫长茄子: 2根\n猪肉末: 150克\n蒜末: 3瓣\n姜末: 1茶匙\n葱花: 适量\n生抽: 1汤匙\n老抽: 1/2汤匙\n蚝油: 1汤匙\n白糖: 1/2茶匙\n淀粉: 1茶匙\n郫县豆瓣酱: 1汤匙\n食用油: 适量",
     "steps": [
@@ -5545,7 +5609,6 @@
     "serving_count": "3",
     "difficulty": "简单",
     "time": "25分钟",
-    "badge": ["热"],
     "ingredients": "土豆: 2个\n茄子: 1根\n青椒: 1个\n生抽: 1汤匙\n老抽: 1茶匙\n白糖: 1汤匙\n盐(调味汁): 1/2茶匙\n水淀粉（1茶匙淀粉+2汤匙水）: 1汤匙\n蒜: 2瓣\n食用油: 适量",
     "steps": [
 
@@ -5579,7 +5642,6 @@
       "7"
     ],
     "difficulty": "中等",
-    "badge": ["热"],
     "time": "25分钟",
     "ingredients": "猪里脊肉 250克\n黑木耳 50克\n青椒 1个\n胡萝卜 半个\n醋（根据口味调整）2汤匙\n糖 2汤匙\n生抽 1汤匙\n料酒 1茶匙\n水淀粉(1茶匙淀粉+2汤匙水) 适量\n姜蒜末、泡椒末 适量\n食用油 适量",
     "steps": [
@@ -5880,7 +5942,7 @@
     "difficulty": "简单",
     "time": "15分钟",
     "serving_count": "1",
-    "ingredients": "米饭（最好是隔夜饭）: 1碗\n鸡蛋: 2个\n葱: 适量\n火腿或腊肠: 50克\n盐: 1/4茶匙\n酱油: 1/2 茶匙\n食用油: 适量",
+    "ingredients": "米饭（最好是隔夜饭）: 1碗\n鸡蛋: 2个\n葱: 适量\n火腿或腊肠(可选): 50克\n盐: 1/4茶匙\n酱油: 1/2 茶匙\n食用油: 适量",
     "steps": [
 
       {
@@ -9423,7 +9485,6 @@
     ],
     "difficulty": "简单",
     "time": "10分钟",
-    "badge": ["热"],
     "serving_count": "2",
     "ingredients": "干黑木耳 50克\n蒜蓉 适量\n小米椒(切圈) 2个 \n陈醋 2汤匙\n生抽 1汤匙\n白糖 1/2茶匙\n麻油 适量",
     "steps": [
