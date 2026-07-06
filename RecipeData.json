@@ -1,5 +1,108 @@
 [
   {
+    "id": "zha-huluobo-suwanzi-2026-001",
+    "name": "炸胡萝卜素丸子",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhahuluobo_suwanzi.webp",
+    "brief": "外酥里嫩，色泽金黄，胡萝卜的清甜与葱香完美融合，是一道简单美味的家常素炸物。",
+    "categoryIds": ["7", "2", "31", "4", "12"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "胡萝卜: 2根\n鸡蛋: 1个\n小葱: 2根\n香菜: 3根\n生姜: 1小块\n盐: 1茶匙\n五香粉 1/2茶匙\n面粉: 3汤匙\n食用油（炸制用）: 适量",
+    "steps": [
+      {
+        "text": "【处理食材】：胡萝卜洗净，用擦丝器擦成细丝（越细越好，便于成型）。小葱洗净切末，香菜洗净切末，生姜去皮切成细末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhahuluobo_suwanzi_step1.webp"
+      },
+      {
+        "text": "【调制馅料】：将胡萝卜丝、葱末、香菜末、姜末放入大碗中，打入鸡蛋，加入盐和五香粉，用筷子充分搅拌均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhahuluobo_suwanzi_step2.webp"
+      },
+      {
+        "text": "【加入面粉】：分次加入面粉，边加边搅拌，调成粘稠的糊状，以能轻松捏成团不散开为宜（面粉量可根据胡萝卜出水程度微调）。"
+      },
+      {
+        "text": "【搓制丸子】：取适量馅料放在手心，轻轻搓成直径约3厘米的圆球状，依次搓好所有丸子，放在盘中备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhahuluobo_suwanzi_step3.webp"
+      },
+      {
+        "text": "【初炸定型】：锅中倒入足量食用油，烧至六成热（约160°C，油面微动）。将火调至中火，把丸子逐个下入油锅，先不要翻动，炸约2-3分钟至定型、表面微黄。"
+      },
+      {
+        "text": "【复炸酥脆】：用漏勺轻轻翻动丸子，使其受热均匀。继续炸约2-3分钟，至表面金黄酥脆、浮起时，捞出沥干油分。"
+      },
+      {
+        "text": "【控油出锅】：将炸好的胡萝卜素丸子放在吸油纸上吸去多余油分，即可装盘享用，可搭配椒盐或番茄酱蘸食。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhahuluobo_suwanzi_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "fanqie-chao-datou-cai-2026-001",
+    "name": "番茄炒包菜",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_chaobaocai.webp",
+    "brief": "包菜脆嫩爽口，西红柿酸甜多汁，两者简单焖炒，是一道开胃下饭的家常素菜。",
+    "categoryIds": ["7", "2", "31", "4", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "包菜（圆白菜/卷心菜）: 300克\n西红柿: 2个\n大蒜: 2瓣\n生抽: 1汤匙\n白糖: 1/2茶匙\n盐: 1/2茶匙\n食用油: 2汤匙",
+    "steps": [
+      {
+        "text": "【处理食材】：大头菜洗净，切成均匀的细丝。西红柿洗净，顶部划十字花刀，放入沸水中烫约20秒，待皮卷起后捞出冲凉水，轻松撕去外皮，切成小丁。大蒜切末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_chaobaocai_step1.webp"
+      },
+      {
+        "text": "【炒制番茄汁】：锅中倒入食用油，烧至五成热，放入蒜末爆香。倒入西红柿丁，转中火翻炒，用铲子按压，炒至西红柿软烂出汁。"
+      },
+      {
+        "text": "【调味】：加入生抽、白糖和盐，翻炒均匀，调成浓郁的番茄酱汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_chaobaocai_step2.webp"
+      },
+      {
+        "text": "【加入大头菜】：将切好的大头菜丝倒入锅中，转大火快速翻炒，使每一根菜丝都均匀裹上番茄汤汁。"
+      },
+      {
+        "text": "【焖熟出锅】：盖上锅盖，转中小火焖煮约2-3分钟，至大头菜变软、入味。打开锅盖，转大火略微收汁，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_chaobaocai_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "niurouwan-luobo-tang-2026-001",
+    "name": "牛肉丸萝卜汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/niurouwan_luobotang.webp",
+    "brief": "牛肉丸弹牙多汁，白萝卜清甜软糯，汤头清澈鲜美，是一道暖心暖胃的快手家常汤。",
+    "categoryIds": ["3", "7", "2", "20", "25"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "牛肉丸: 8颗\n白萝卜: 200克\n香葱: 1根\n大蒜: 2瓣\n生姜: 1小块\n食用油: 1汤匙\n盐: 1/2茶匙\n开水: 500毫升",
+    "steps": [
+      {
+        "text": "【备菜切配】：白萝卜洗净去皮，切成约2厘米厚的小块。香葱洗净切成葱花，大蒜去皮切末，生姜去皮切细丝。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurouwan_luobotang_step1.webp"
+      },
+      {
+        "text": "【爆香底料】：锅中倒入食用油，开中小火烧至五成热，下入姜丝和蒜末，小火慢慢煸炒至姜蒜微黄、散发出香味。"
+      },
+      {
+        "text": "【煮制萝卜】：往锅中加入足量开水（约500毫升），转大火烧开。放入切好的白萝卜块，保持大火煮至萝卜半透明状（约5-8分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurouwan_luobotang_step2.webp"
+      },
+      {
+        "text": "【加入肉丸】：将牛肉丸子放入锅中，继续中火煮约5分钟，至牛肉丸完全浮起、体积略微膨胀，萝卜块呈全透明状、用筷子能轻松扎透。"
+      },
+      {
+        "text": "【调味出锅】：加入盐调味，搅拌均匀后关火。盛入碗中，撒上葱花即可享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurouwan_luobotang_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "hong-shu-pian-2026-001",
     "name": "香煎红薯片",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_hongshupian.webp",
@@ -2563,7 +2666,7 @@
     "categoryIds": ["31", "20", "7", "2", "12"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": [""],
+    "badge": ["荐"],
     "serving_count": "3",
     "ingredients": "青椒: 1个\n红椒: 1个\n杏鲍菇: 2个\n火腿肠: 2根\n蒜末: 2瓣\n生抽: 1汤匙\n蚝油: 1/2汤匙\n盐: 适量\n食用油: 适量",
     "steps": [
