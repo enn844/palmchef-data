@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "晚上好💡",
+  "sectionTitle": "下午好💡",
   "cards": [
     {
-      "recipeId": "fanqie-chao-datou-cai-2026-001",
-      "recipeName": "番茄炒包菜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_chaobaocai.webp"
+      "recipeId": "zi-zhi-nai-cha-2026-001",
+      "recipeName": "自制奶茶",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/naicha.webp"
     },
     {
-      "recipeId": "d91e1a80-1736-4074-a0e4-b7b251234999",
-      "recipeName": "葱香焖鸡",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/congxiang_menji.webp"
+      "recipeId": "hong-shu-pian-2026-001",
+      "recipeName": "香煎红薯片",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_hongshupian.webp"
     },
     {
-      "recipeId": "niurouwan-luobo-tang-2026-001",
-      "recipeName": "牛肉丸萝卜汤",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/niurouwan_luobotang.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234614",
+      "recipeName": "原味葡式蛋挞",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/danta.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234995",
-      "recipeName": "青红椒炒杏鲍菇火腿条",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/qinghongjiao_xingbaogu_huotui.webp"
+      "recipeId": "apple-pie-001",
+      "recipeName": "苹果派",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/pingguopai.webp"
     }
   ]
 }
