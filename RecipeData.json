@@ -2575,7 +2575,7 @@
     "categoryIds": ["5", "12", "26"],
     "difficulty": "中等",
     "time": "25分钟",
-    "serving_count": "3",
+    "serving_count": "2",
     "badge": [""],
     "ingredients": "土豆: 1个\n西兰花: 半朵\n火腿: 一根 \n肥牛卷: 150克\n猪瘦肉: 100克\n其他食材（可选）: 适量\n河粉（或面条/粉丝）: 1份\n牛肉丸: 6个\n牛奶: 200毫升\n清水: 300毫升\n葱姜蒜: 适量\n郫县豆瓣酱: 1汤匙\n火锅底料: 1小块\n食用油: 适量",
     "steps": [
@@ -5131,7 +5131,6 @@
     "serving_count": "3",
     "ingredients": "三黄鸡/鸡腿: 600克\n小芋头：400克\n郫县豆瓣酱: 2汤匙\n生姜/大蒜: 适量\n八角/桂皮/干辣椒: 少许\n青椒(配色): 1个\n老抽、生抽、冰糖: 1汤匙",
     "steps": [
-      
       {
         "text":"【食材预处理】：鸡肉切成大小均匀的块，冷水入锅加姜片焯水捞出；小芋头去皮洗净（若过大可对半切开），青椒切块备用。",
         "imageSrc":"https://shiyuji.xyz/img/steps/hongshao_yuerji_step1.webp"
