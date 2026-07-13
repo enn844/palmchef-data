@@ -1,5 +1,157 @@
 [
   {
+    "id": "bai-xiang-guo-qing-ju-ning-meng-cha-2026-001",
+    "name": "百香果青桔柠檬茶",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baixiangguo_qingju_ningmengcha.webp",
+    "brief": "酸甜冰爽，果香四溢，夏日消暑必备的冷饮。百香果的浓郁、青桔的清新与柠檬的酸爽完美融合，提前冻好小盒，随喝随取，方便又解渴。",
+    "categoryIds": ["3", "25", "14"],
+    "difficulty": "简单",
+    "time": "20分钟（不含冷藏冷冻时间）",
+    "badge": ["新"],
+    "serving_count": "6",
+    "ingredients": "百香果: 6个\n青桔: 12个\n柠檬: 2个\n冰糖: 200克\n蜂蜜: 200克\n食盐: 适量\n清水: 适量",
+    "steps": [
+      {
+        "text": "【盐水浸泡】：将所有水果放入盆中，加入足量清水，撒入1汤匙食盐，浸泡10-15分钟。然后用流水逐一搓洗干净，沥干水分备用。"
+      },
+      {
+        "text": "【处理百香果】：将百香果对半切开，用勺子将果肉连同籽一起挖入一个大碗中，确保挖净。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step1.webp"
+      },
+      {
+        "text": "【处理青桔】：将青桔对半切开，用牙签或小刀挑出果籽（去籽可避免苦涩味），再将每半个青桔对半切开成四瓣，放入百香果碗中。"
+      },
+      {
+        "text": "【处理柠檬】：将柠檬切成约3毫米厚的薄片，用牙签挑去籽（去籽可避免苦涩味）。每片柠檬再十字切成4份小块，全部放入水果碗中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step2.webp"
+      },
+      {
+        "text": "【加糖蜜拌匀】：向水果碗中加入200克冰糖（约13汤匙）和200克蜂蜜（约13汤匙），用长柄勺充分搅拌均匀，使冰糖和蜂蜜与水果汁液初步融合。"
+      },
+      {
+        "text": "【冷藏出汁】：盖上保鲜膜，放入冰箱冷藏2-3小时，让冰糖完全融化，水果的汁水充分渗出并与糖蜜融合成浓稠的果浆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step3.webp"
+      },
+      {
+        "text": "【分装冷冻】：取出冷藏好的百香果青桔柠檬浆，用勺子分装到小冰格或小密封盒中（每盒约2-3汤匙果浆），盖好盖子放入冰箱冷冻保存。饮用时取出一块，加入温水或气泡水冲调即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "fanqie-dun-niunan-2026-001",
+    "name": "番茄炖牛腩",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_dun_niunan.webp",
+    "brief": "酸甜开胃，牛腩软糯，汤汁浓郁，非常适合拌饭。",
+    "categoryIds": ["7", "12", "20", "3", "26"],
+    "difficulty": "中等",
+    "time": "2小时",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "牛腩: 500克\n西红柿: 3个\n大葱: 1段\n生姜: 1小块\n大蒜: 3瓣\n八角: 1颗\n花椒（可选）: 10颗\n干红辣椒（可选）: 2个\n料酒: 1汤匙\n生抽: 2汤匙\n冰糖: 6粒\n盐: 1茶匙\n食用油: 适量\n清水: 适量",
+    "steps": [
+      {
+        "text": "【处理牛腩】：牛腩切成3-4厘米见方的块，放入清水中浸泡30分钟，泡出血水后捞出沥干备用。"
+      },
+      {
+        "text": "【准备配料】：大葱切段，生姜切片，大蒜切片。西红柿顶部划十字刀，放入开水中烫约20秒，捞出撕去外皮，切成小块备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step1.webp"
+      },
+      {
+        "text": "【牛腩焯水】：将泡好的牛腩冷水下锅，大火烧开后撇去浮沫，继续煮2分钟，捞出牛腩用温水冲洗干净，沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step2.webp"
+      },
+      {
+        "text": "【煸炒牛腩】：锅中倒入适量食用油，烧至五成热，放入葱段、姜片、蒜片、八角、花椒和干辣椒，小火煸炒出香味。倒入牛腩块，转中火翻炒至牛腩表面微黄，加入料酒和生抽，翻炒均匀上色。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step3.webp"
+      },
+      {
+        "text": "【炖煮牛腩】：锅中加入足量开水（水量要没过牛腩并多一些），大火烧开后转小火，盖上锅盖炖煮50分钟。"
+      },
+      {
+        "text": "【炒制番茄】：另起一锅，倒入少许食用油烧热，放入切好的西红柿块，中火翻炒至西红柿软烂出汁，加入半碗水烧开。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step4.webp"
+      },
+      {
+        "text": "【合煮调味】：将炒好的西红柿汤汁倒入牛腩锅中，加入冰糖和盐调味，继续小火炖煮30分钟，至牛腩完全软烂、汤汁浓郁即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "shou-zhua-bing-2026-001",
+    "name": "手抓饼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shouzhuabing.webp",
+    "brief": "无需放油，平底锅小火慢煎，饼皮金黄酥脆，层层分明。卷入煎蛋、火腿、芝士和生菜，搭配酱料，是一道简单快手的早餐或简餐。",
+    "categoryIds": ["7", "2", "10", "28", "22"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "1",
+    "ingredients": "手抓饼饼皮: 1张\n鸡蛋: 1个\n火腿片: 2片\n芝士片: 1片\n生菜叶: 2片\n沙拉酱或番茄酱: 适量",
+    "steps": [
+      {
+        "text": "【煎制饼皮】：平底锅无需放油，开小火，直接将手抓饼饼皮放入锅中。"
+      },
+      {
+        "text": "【抓松蓬松】：待面饼煎至半透明状时，用筷子和锅铲从饼皮边缘向中间轻轻抓挤，使饼皮层次松开，这样能让手抓饼更加蓬松酥脆。"
+      },
+      {
+        "text": "【煎至金黄】：保持小火，将饼皮两面煎至金黄酥脆，即可出锅，放在案板上备用。",
+        "imageSrc":"https:///shiyuji.xyz/img/steps/shouzhuabing_step1.webp"
+      },
+      {
+        "text": "【煎制火腿】：利用锅中剩余的底油，放入火腿片，小火煎至两面微黄、闻到香味后，盛出备用。"
+      },
+      {
+        "text": "【煎蛋】：锅中再磕入鸡蛋，保持小火慢煎，煎至蛋白完全凝固、蛋黄达到自己喜欢的熟度后，盛出备用。",
+        "imageSrc":"https:///shiyuji.xyz/img/steps/shouzhuabing_step2.webp"
+      },
+      {
+        "text": "【组装卷饼】：将煎好的手抓饼铺平，依次放上洗净沥干的生菜叶、煎好的火腿片、煎蛋和芝士片。"
+      },
+      {
+        "text": "【涂抹酱料】：在食材上均匀涂抹适量沙拉酱或番茄酱（或其他喜欢的酱料）。"
+      },
+      {
+        "text": "【对折享用】：将手抓饼对折，轻轻压实，即可趁热享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shouzhuabing_step3.webp"
+      }
+    ]
+  },
+  {
+    "id": "niurouwan-luobo-tang-2026-001",
+    "name": "牛肉丸萝卜汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/niurouwan_luobotang.webp",
+    "brief": "牛肉丸弹牙多汁，白萝卜清甜软糯，汤头清澈鲜美，是一道暖心暖胃的快手家常汤。",
+    "categoryIds": ["3", "7", "2", "20", "25"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "牛肉丸: 8颗\n白萝卜: 200克\n香葱: 1根\n大蒜: 2瓣\n生姜: 1小块\n食用油: 1汤匙\n盐: 1/2茶匙\n开水: 500毫升",
+    "steps": [
+      {
+        "text": "【备菜切配】：白萝卜洗净去皮，切成约2厘米厚的小块。香葱洗净切成葱花，大蒜去皮切末，生姜去皮切细丝。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurouwan_luobotang_step1.webp"
+      },
+      {
+        "text": "【爆香底料】：锅中倒入食用油，开中小火烧至五成热，下入姜丝和蒜末，小火慢慢煸炒至姜蒜微黄、散发出香味。"
+      },
+      {
+        "text": "【煮制萝卜】：往锅中加入足量开水（约500毫升），转大火烧开。放入切好的白萝卜块，保持大火煮至萝卜半透明状（约5-8分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurouwan_luobotang_step2.webp"
+      },
+      {
+        "text": "【加入肉丸】：将牛肉丸子放入锅中，继续中火煮约5分钟，至牛肉丸完全浮起、体积略微膨胀，萝卜块呈全透明状、用筷子能轻松扎透。"
+      },
+      {
+        "text": "【调味出锅】：加入盐调味，搅拌均匀后关火。盛入碗中，撒上葱花即可享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/niurouwan_luobotang_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "hong-shu-pian-2026-001",
     "name": "香煎红薯片",
     "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_hongshupian.webp",
@@ -7,7 +159,6 @@
     "categoryIds": ["7", "2", "10", "21", "4"],
     "difficulty": "简单",
     "time": "15分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "红薯: 1个（约200克）\n鸡蛋: 2个\n玉米淀粉: 3汤匙\n盐: 1/4茶匙\n食用油: 适量",
     "steps": [
@@ -39,7 +190,6 @@
     "categoryIds": ["7", "2", "20", "5", "11"],
     "difficulty": "简单",
     "time": "20分钟",
-    "badge": ["新"],
     "serving_count": "3",
     "ingredients": "五花肉: 200克\n鸡蛋: 3个\n青椒: 2个\n红椒: 1个\n小葱: 2根\n大蒜: 4瓣\n生姜: 1小块\n郫县豆瓣酱: 1汤匙\n生抽: 1汤匙\n白糖: 1/2茶匙\n食用油: 适量",
     "steps": [
@@ -74,7 +224,6 @@
     "categoryIds": ["2", "7", "13", "21"],
     "difficulty": "简单",
     "time": "25分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "土豆: 2个\n玉米淀粉: 4汤匙\n食用油（炸制用）: 适量\n盐（可选）: 1/2茶匙",
     "steps": [
@@ -109,7 +258,6 @@
     "categoryIds": ["7", "2", "20", "11", "28"],
     "difficulty": "简单",
     "time": "20分钟",
-    "badge": ["新"],
     "serving_count": "2",
     "ingredients": "猪里脊肉: 150克\n青椒: 2个\n小米辣: 2个\n大蒜: 3瓣\n生抽: 2汤匙\n老抽: 1/2汤匙\n盐（腌制用）: 1/2茶匙\n白糖: 1/2茶匙\n玉米淀粉: 1茶匙\n食用油: 适量\n宽面（鲜面或干面）: 200克",
     "steps": [
@@ -1453,119 +1601,6 @@
       {
         "text": "【最后调味】：关火后，撒入少许白胡椒粉和葱花，最后淋入香油，搅拌均匀即可盛出享用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "d81e1a80-1736-4074-a0e4-b7b251235100",
-    "name": "烧腐竹",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/shaofuzhu.webp",
-    "brief": "腐竹软韧入味，木耳脆爽，搭配青椒胡萝卜，酱汁浓郁咸香，是一道简单快手的家常素菜。",
-    "categoryIds": ["4", "7", "2", "31", "11"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "serving_count": "2",
-    "ingredients": "干腐竹: 100克\n干木耳: 10克\n青椒: 1个\n胡萝卜: 半根 \n蚝油: 1汤匙\n酱油: 1汤匙\n盐: 适量\n白糖: 1/2茶匙\n玉米淀粉: 1汤匙\n清水: 半碗\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【泡发腐竹木耳】：干腐竹和干木耳提前用冷水浸泡4-6小时，至完全泡发无硬芯。泡发后洗净，腐竹切段，木耳撕成小朵。"
-      },
-      {
-        "text": "【焯水】：锅中烧开水，放入腐竹和木耳焯水1-2分钟，捞出沥干水分备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step1.webp"
-      },
-      {
-        "text": "【备菜切丝】：青椒去籽切丝，胡萝卜去皮切丝备用。"
-      },
-      {
-        "text": "【调制酱汁】：取一个小碗，加入蚝油、酱油、盐、白糖、玉米淀粉和半碗清水，搅拌均匀调成酱汁备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step2.webp"
-      },
-      {
-        "text": "【翻炒配菜】：起锅烧油，油热后下入青椒丝和胡萝卜丝，中火翻炒至变软或断生。"
-      },
-      {
-        "text": "【合炒出锅】：放入焯好水的腐竹和木耳，翻炒几下后倒入调好的酱汁，大火快速翻炒至所有食材均匀挂上酱汁，汤汁浓稠后关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shaofuzhu_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "7d4a1b8e-b3c3-4f7d-a9e0-9d10e2f8g3d5",
-    "name": "肉末豆角",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_doujiao.webp",
-    "brief": "豆角脆嫩入味，肉末咸香下饭，搭配胡萝卜增加清甜，是一道家常又美味的下饭菜。",
-    "categoryIds": ["7", "2", "20", "31","11"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "serving_count": "3",
-    "ingredients": "豆角: 20根\n猪肉末: 200克\n胡萝卜: 半根\n小米椒: 1个\n洋葱: 2片\n蚝油: 1滴\n生抽: 适量\n老抽: 适量\n料酒: 适量\n盐: 适量\n白糖: 适量\n味精: 少许\n猪油: 适量\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【备菜切配】：豆角洗净，切成小丁。胡萝卜去皮切丁，洋葱切丁，小米椒切圈备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step1.webp"
-      },
-      {
-        "text": "【肉末煸炒】：热锅下猪油，油热后放入猪肉末翻炒至变色，继续煸炒至肉末呈金黄色。滴入1滴蚝油、适量生抽和老抽，炒匀后盛出备用。"
-      },
-      {
-        "text": "【豆角焯水】：锅中烧开水，放入豆角丁焯水2-3分钟至断生，捞出沥干水分备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step2.webp"
-      },
-      {
-        "text": "【爆香配菜】：锅中加油烧热，放入洋葱丁爆香，然后加入胡萝卜丁翻炒半分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step3.webp"
-      },
-      {
-        "text": "【炒熟豆角】：加入焯好水的豆角丁，翻炒均匀。加入适量盐和白糖，少量多次加入开水翻炒，直到豆角呈半透明状（豆角一定要炒熟才能去除毒性）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step4.webp"
-      },
-      {
-        "text": "【合炒出锅】：加入炒好的肉末和小米椒圈，沿锅边淋入料酒，继续翻炒片刻。最后加入少许味精，翻炒均匀即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/roumo_doujiao_step5.webp"
-      }
-    ]
-  },
-  {
-    "id": "e4j7i6h5-h5i6-8o9p-q0r1-s2t3u4v5w6x8",
-    "name": "家常版烤鱼",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/kaoyu.webp",
-    "brief": "不用烤箱的家常烤鱼，鱼肉外焦里嫩，麻辣鲜香，搭配丰富配菜，一锅出超满足。",
-    "categoryIds": ["5", "7", "12", "20"],
-    "difficulty": "中等",
-    "time": "50分钟",
-    "serving_count": "3",
-    "badge": ["荐"],
-    "ingredients": "鲈鱼: 1条\n土豆: 1个\n豆腐: 1方块\n金针菇/香菇: 100克\n火锅底料: 50克\n干辣椒: 10克\n生姜: 1块\n大蒜: 5瓣\n料酒: 2汤匙\n生抽: 2汤匙\n盐: 1茶匙\n糖: 1茶匙\n鸡精: 半茶匙\n食用油: 适量",
-    "steps": [
-      {
-        "text": "【处理鱼身】：鱼去内脏、刮去鳞片，洗净，在鱼身两面各划几刀，便于入味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step1.webp"
-      },
-      {
-        "text": "【腌制去腥】：鱼身内外撒少许盐，淋上料酒和生抽，鱼腹和底部铺上姜丝，腌制30分钟。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step2.webp"
-      },
-      {
-        "text": "【准备配菜】：土豆去皮切片，豆腐切厚片，菌菇洗净撕开，姜切片，其他喜欢的蔬菜一并备好。"
-      },
-      {
-        "text": "【煎鱼定型】：锅中加足量油烧至冒烟，放入腌好的鱼(鱼最好用厨房纸吸一下水分，不然会溅油)，中火慢煎。不要过早翻动，可轻轻晃动锅子防止粘底。煎至两面金黄后捞出备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step3.webp"
-      },
-      {
-        "text": "【炒制底料】：另起锅加新油，放入干辣椒、姜片、大蒜和火锅底料，小火炒1分钟至红油析出、香味扑鼻。"
-      },
-      {
-        "text": "【煮汤调味】：锅中倒入一碗清水（约400毫升），大火煮开，加入盐、糖、鸡精和生抽调味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step4.webp"
-      },
-      {
-        "text": "【下配菜和鱼】：先下入土豆片、豆腐等耐煮的蔬菜，煮至变软，再放入菌菇和煎好的鱼，继续煮5-8分钟至鱼熟透、配菜入味。"
-      },
-      {
-        "text": "【出锅装盘】：连汤带料倒入大碗中，撒上香菜或葱花即可上桌。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/kaoyu_step5.webp"
       }
     ]
   }

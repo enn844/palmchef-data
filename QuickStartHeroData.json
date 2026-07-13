@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "下午好💡",
+  "sectionTitle": "晚上好💡",
   "cards": [
     {
-      "recipeId": "bai-xiang-guo-qing-ju-ning-meng-cha-2026-001",
-      "recipeName": "百香果青桔柠檬茶",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/baixiangguo_qingju_ningmengcha.webp"
+      "recipeId": "stir-fried-beef-slices-001",
+      "recipeName": "嫩炒牛肉片",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/nenchao_niurou.webp"
     },
     {
-      "recipeId": "a2b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
-      "recipeName": "香酥曲奇",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_quqi.webp"
+      "recipeId": "d81e1a80-1936-4074-a0e4-b7b251234995",
+      "recipeName": "肉末嫩豆腐",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/roumo_nendoufu.webp"
     },
     {
-      "recipeId": "fanqie-dun-niunan-2026-001",
-      "recipeName": "番茄炖牛腩",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_dun_niunan.webp"
+      "recipeId": "21r8q7p6-p7q8-9v0w-x1y2-z3a4b5c6d7e9",
+      "recipeName": "小白菜炖土豆",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xiaobaicai_duntudou.webp"
     },
     {
-      "recipeId": "shou-zhua-bing-2026-001",
-      "recipeName": "手抓饼",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/shouzhuabing.webp"
+      "recipeId": "21r8q7p6-p7q8-9v0w-x1y2-z3a4b5c6d7f9",
+      "recipeName": "拍黄瓜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/paihuanggua.webp"
     }
   ]
 }
