@@ -1,5 +1,86 @@
 [
   {
+    "id": "fanqie-dun-niunan-2026-001",
+    "name": "番茄炖牛腩",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_dun_niunan.webp",
+    "brief": "酸甜开胃，牛腩软糯，汤汁浓郁，非常适合拌饭。",
+    "categoryIds": ["7", "12", "20", "3", "26"],
+    "difficulty": "中等",
+    "time": "2小时",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "牛腩: 500克\n西红柿: 3个\n大葱: 1段\n生姜: 1小块\n大蒜: 3瓣\n八角: 1颗\n花椒（可选）: 10颗\n干红辣椒（可选）: 2个\n料酒: 1汤匙\n生抽: 2汤匙\n冰糖: 6粒\n盐: 1茶匙\n食用油: 适量\n清水: 适量",
+    "steps": [
+      {
+        "text": "【处理牛腩】：牛腩切成3-4厘米见方的块，放入清水中浸泡30分钟，泡出血水后捞出沥干备用。"
+      },
+      {
+        "text": "【准备配料】：大葱切段，生姜切片，大蒜切片。西红柿顶部划十字刀，放入开水中烫约20秒，捞出撕去外皮，切成小块备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step1.webp"
+      },
+      {
+        "text": "【牛腩焯水】：将泡好的牛腩冷水下锅，大火烧开后撇去浮沫，继续煮2分钟，捞出牛腩用温水冲洗干净，沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step2.webp"
+      },
+      {
+        "text": "【煸炒牛腩】：锅中倒入适量食用油，烧至五成热，放入葱段、姜片、蒜片、八角、花椒和干辣椒，小火煸炒出香味。倒入牛腩块，转中火翻炒至牛腩表面微黄，加入料酒和生抽，翻炒均匀上色。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step3.webp"
+      },
+      {
+        "text": "【炖煮牛腩】：锅中加入足量开水（水量要没过牛腩并多一些），大火烧开后转小火，盖上锅盖炖煮50分钟。"
+      },
+      {
+        "text": "【炒制番茄】：另起一锅，倒入少许食用油烧热，放入切好的西红柿块，中火翻炒至西红柿软烂出汁，加入半碗水烧开。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step4.webp"
+      },
+      {
+        "text": "【合煮调味】：将炒好的西红柿汤汁倒入牛腩锅中，加入冰糖和盐调味，继续小火炖煮30分钟，至牛腩完全软烂、汤汁浓郁即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_dunniunan_step5.webp"
+      }
+    ]
+  },
+  {
+    "id": "shou-zhua-bing-2026-001",
+    "name": "手抓饼",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shouzhuabing.webp",
+    "brief": "无需放油，平底锅小火慢煎，饼皮金黄酥脆，层层分明。卷入煎蛋、火腿、芝士和生菜，搭配酱料，是一道简单快手的早餐或简餐。",
+    "categoryIds": ["7", "2", "10", "28", "22"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "1",
+    "ingredients": "手抓饼饼皮: 1张\n鸡蛋: 1个\n火腿片: 2片\n芝士片: 1片\n生菜叶: 2片\n沙拉酱或番茄酱: 适量",
+    "steps": [
+      {
+        "text": "【煎制饼皮】：平底锅无需放油，开小火，直接将手抓饼饼皮放入锅中。"
+      },
+      {
+        "text": "【抓松蓬松】：待面饼煎至半透明状时，用筷子和锅铲从饼皮边缘向中间轻轻抓挤，使饼皮层次松开，这样能让手抓饼更加蓬松酥脆。"
+      },
+      {
+        "text": "【煎至金黄】：保持小火，将饼皮两面煎至金黄酥脆，即可出锅，放在案板上备用。",
+        "imageSrc":"https:///shiyuji.xyz/img/steps/shouzhuabing_step1.webp"
+      },
+      {
+        "text": "【煎制火腿】：利用锅中剩余的底油，放入火腿片，小火煎至两面微黄、闻到香味后，盛出备用。"
+      },
+      {
+        "text": "【煎蛋】：锅中再磕入鸡蛋，保持小火慢煎，煎至蛋白完全凝固、蛋黄达到自己喜欢的熟度后，盛出备用。",
+        "imageSrc":"https:///shiyuji.xyz/img/steps/shouzhuabing_step2.webp"
+      },
+      {
+        "text": "【组装卷饼】：将煎好的手抓饼铺平，依次放上洗净沥干的生菜叶、煎好的火腿片、煎蛋和芝士片。"
+      },
+      {
+        "text": "【涂抹酱料】：在食材上均匀涂抹适量沙拉酱或番茄酱（或其他喜欢的酱料）。"
+      },
+      {
+        "text": "【对折享用】：将手抓饼对折，轻轻压实，即可趁热享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shouzhuabing_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "zha-huluobo-suwanzi-2026-001",
     "name": "炸胡萝卜素丸子",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhahuluobo_suwanzi.webp",
