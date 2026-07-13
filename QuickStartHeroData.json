@@ -1,6 +1,16 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "下午好💡",
   "cards": [
+    {
+      "recipeId": "bai-xiang-guo-qing-ju-ning-meng-cha-2026-001",
+      "recipeName": "百香果青桔柠檬茶",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/baixiangguo_qingju_ningmengcha.webp"
+    },
+    {
+      "recipeId": "a2b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5e",
+      "recipeName": "香酥曲奇",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xiangsu_quqi.webp"
+    },
     {
       "recipeId": "fanqie-dun-niunan-2026-001",
       "recipeName": "番茄炖牛腩",
@@ -10,16 +20,6 @@
       "recipeId": "shou-zhua-bing-2026-001",
       "recipeName": "手抓饼",
       "imageSrc": "https://shiyuji.xyz/img/recipes/shouzhuabing.webp"
-    },
-    {
-      "recipeId": "v2b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o8",
-      "recipeName": "冬瓜肉末汤",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/donggua_roumotang.webp"
-    },
-    {
-      "recipeId": "jisi-liangmian-001",
-      "recipeName": "鸡丝凉面",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/jisi_liangmian.webp"
     }
   ]
 }

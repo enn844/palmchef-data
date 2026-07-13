@@ -1,5 +1,44 @@
 [
   {
+    "id": "bai-xiang-guo-qing-ju-ning-meng-cha-2026-001",
+    "name": "百香果青桔柠檬茶",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baixiangguo_qingju_ningmengcha.webp",
+    "brief": "酸甜冰爽，果香四溢，夏日消暑必备的冷饮。百香果的浓郁、青桔的清新与柠檬的酸爽完美融合，提前冻好小盒，随喝随取，方便又解渴。",
+    "categoryIds": ["3", "25", "14"],
+    "difficulty": "简单",
+    "time": "20分钟（不含冷藏冷冻时间）",
+    "badge": ["新"],
+    "serving_count": "6",
+    "ingredients": "百香果: 6个\n青桔: 12个\n柠檬: 2个\n冰糖: 200克\n蜂蜜: 200克\n食盐: 适量\n清水: 适量",
+    "steps": [
+      {
+        "text": "【盐水浸泡】：将所有水果放入盆中，加入足量清水，撒入1汤匙食盐，浸泡10-15分钟。然后用流水逐一搓洗干净，沥干水分备用。"
+      },
+      {
+        "text": "【处理百香果】：将百香果对半切开，用勺子将果肉连同籽一起挖入一个大碗中，确保挖净。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step1.webp"
+      },
+      {
+        "text": "【处理青桔】：将青桔对半切开，用牙签或小刀挑出果籽（去籽可避免苦涩味），再将每半个青桔对半切开成四瓣，放入百香果碗中。"
+      },
+      {
+        "text": "【处理柠檬】：将柠檬切成约3毫米厚的薄片，用牙签挑去籽（去籽可避免苦涩味）。每片柠檬再十字切成4份小块，全部放入水果碗中。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step2.webp"
+      },
+      {
+        "text": "【加糖蜜拌匀】：向水果碗中加入200克冰糖（约13汤匙）和200克蜂蜜（约13汤匙），用长柄勺充分搅拌均匀，使冰糖和蜂蜜与水果汁液初步融合。"
+      },
+      {
+        "text": "【冷藏出汁】：盖上保鲜膜，放入冰箱冷藏2-3小时，让冰糖完全融化，水果的汁水充分渗出并与糖蜜融合成浓稠的果浆。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step3.webp"
+      },
+      {
+        "text": "【分装冷冻】：取出冷藏好的百香果青桔柠檬浆，用勺子分装到小冰格或小密封盒中（每盒约2-3汤匙果浆），盖好盖子放入冰箱冷冻保存。饮用时取出一块，加入温水或气泡水冲调即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baixiangguo_qingju_ningmengcha_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "fanqie-dun-niunan-2026-001",
     "name": "番茄炖牛腩",
     "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_dun_niunan.webp",
