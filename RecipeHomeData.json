@@ -1,5 +1,40 @@
 [
   {
+    "id": "hongtang-ciba-2026-001",
+    "name": "红糖糍粑",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/hongtang_ciba.webp",
+    "brief": "经典的小吃，外壳金黄酥脆，内里软糯拉丝，红糖浓郁鲜甜。",
+    "categoryIds": ["14", "13", "5"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "糯米粉: 200克\n凉水: 160毫升\n红糖: 30克\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【和面】：将糯米粉放入大碗中，分次加入凉水，边加边用筷子搅拌成絮状，然后用手揉成一个光滑、不粘手的面团。盖上保鲜膜静置10分钟，让面团稍微变干一些，更容易操作。"
+      },
+      {
+        "text": "【分剂塑形】：将静置好的面团搓成长条，切成大小均匀的小剂子（每个约25克）。取一个剂子，先搓圆，再用手掌轻轻按扁成薄圆饼状。依次做好所有糍粑生胚。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongtang_ciba_step1.webp"
+      },
+      {
+        "text": "【煎制定型】：平底锅刷一层薄油，开中小火烧热。放入糍粑生胚，用手在锅中小心按压，使其更薄（约3mm厚），保持中小火慢煎。煎约2分钟至底面金黄定型后，翻面继续煎另一面。"
+      },
+      {
+        "text": "【压薄煎透】：翻面后，用锅铲轻轻按压糍粑，使其变得更薄更均匀。继续煎约2分钟，至两面都呈金黄色、外皮酥脆、中间微微鼓起即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongtang_ciba_step2.webp"
+      },
+      {
+        "text": "【熬制红糖浆】：煎糍粑的同时，另取一小锅，加入30克红糖和30毫升清水，开小火慢慢加热。期间用勺子不断搅拌，煮至红糖完全融化、糖浆变得浓稠、能挂在勺子上即可关火。"
+      },
+      {
+        "text": "【刷糖对折】：将煎好的糍粑摆入盘中，在表面均匀刷上一层熬好的红糖浆，即可趁热享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/hongtang_ciba_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "congxiang-shucai-bao-niurouli-2026-001",
     "name": "葱香蔬菜爆牛肉粒",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shucai_niurouli.webp",
@@ -1649,33 +1684,6 @@
       {
         "text": "【合炒出锅】：打开锅盖，放入红泡椒丁和滑炒好的肉丝，转大火快速翻炒至红椒断生。最后加入葱花、适量盐和鸡精（可选），翻炒均匀后即可关火出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "f8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
-    "name": "紫菜蛋花汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/zicai_danhuatang.webp",
-    "brief": "鲜美爽口，制作极快，紫菜的鲜与鸡蛋的滑完美结合，是家常餐桌上最简单的一碗汤。",
-    "categoryIds": ["3", "2", "7", "4"],
-    "difficulty": "简单",
-    "time": "10分钟",
-    "serving_count": "3",
-    "ingredients": "干紫菜: 10克\n鸡蛋: 2个\n葱花: 1根\n盐: 1/2茶匙\n白胡椒粉: 少许\n香油：1茶匙\n生抽: 1茶匙\n清水: 600毫升",
-    "steps": [
-      {
-        "text": "【准备食材】：干紫菜用手撕成小片（或直接用剪刀剪碎），鸡蛋打入碗中充分搅散成蛋液，小葱切成葱花备用。"
-      },
-      {
-        "text": "【淋入蛋花】：锅中加入600毫升清水，大火烧开。将打散的蛋液呈细流状慢慢淋入锅中，同时用筷子在锅中快速画圈，形成漂亮的蛋花。保持水烧开，加入盐和生抽，搅拌均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step1.webp"
-      },
-      {
-        "text": "【加入紫菜】：立即放入撕好的紫菜片，用勺子轻轻推散，煮约10-15秒至紫菜完全变软、飘出鲜味即可关火。紫菜不宜久煮，否则会失去鲜味和口感。"
-      },
-      {
-        "text": "【最后调味】：关火后，撒入少许白胡椒粉和葱花，最后淋入香油，搅拌均匀即可盛出享用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/zicai_danhuatang_step2.webp"
       }
     ]
   }
