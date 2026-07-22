@@ -1,5 +1,77 @@
 [
   {
+    "id": "4c2d3b7e-e5a9-49f0-b1c4-5d82a1e7b4c6",
+    "name": "鱼香肉丝",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiangrousi.webp",
+    "brief": "咸甜酸辣，滑嫩可口，是川菜中无鱼胜有鱼的代表作。",
+    "categoryIds": ["20","11",
+      "5",
+      "7"
+    ],
+    "difficulty": "中等",
+    "time": "25分钟",
+    "serving_count":"2",
+    "ingredients": "猪里脊肉 250克\n黑木耳 50克\n青椒 1个\n胡萝卜 半个\n醋（根据口味调整） 2汤匙\n糖 2汤匙\n生抽 1汤匙\n料酒 1茶匙\n水淀粉（1茶匙淀粉+2汤匙水） 适量\n姜蒜末、泡椒末 适量\n食用油 适量",
+    "steps": [
+      {
+        "text": "【切制备菜】：猪里脊肉切丝，黑木耳提前用水泡开后切丝，青椒洗净切丝，胡萝卜去皮切丝。蒜切末备用。"
+      },
+      {
+        "text": "【腌制肉丝】：肉丝用料酒、少许盐和淀粉抓匀腌制15分钟。"
+      },
+      {
+        "text": "【调鱼香汁】：将醋、糖、生抽、料酒、水淀粉调匀成鱼香汁备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_rousi_step1.webp"
+      },
+
+      {
+        "text": "【滑炒肉丝】：锅中放油烧热，快速滑炒肉丝至变色，盛出备用。"
+      },
+
+      {
+        "text": "【煸炒调味】：锅中留底油，煸香姜蒜末和泡椒末，加入木耳丝和蔬菜丝翻炒至断生。倒入肉丝，倒入鱼香汁，快速翻炒至汤汁浓稠裹住食材即可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_rousi_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "apple-pie-001",
+    "name": "苹果派",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/pingguopai.webp",
+    "brief": "外皮酥脆金黄，内馅酸甜软糯，黄油与苹果的香气完美融合，是经典的美式家常甜点。",
+    "categoryIds": ["14", "2", "7"],
+    "difficulty": "简单",
+    "time": "30分钟",
+    "serving_count": "4",
+    "ingredients": "苹果: 1个\n手抓饼皮: 4张\n无盐黄油: 1汤匙\n白糖: 2汤匙\n水淀粉（1茶匙淀粉 + 2汤匙水）: 3克\n鸡蛋（打散）: 1个\n黑芝麻（装饰用）: 1茶匙",
+    "steps": [
+      {
+        "text": "【准备馅料】：苹果洗净去皮去核，切成约1厘米见方的小丁。"
+      },
+      {
+        "text": "【炒制苹果馅】：平底锅中放入黄油，开小火加热至完全融化。倒入苹果丁，转中火翻炒约2分钟，至苹果略微变软。加入白糖，继续翻炒至苹果出水、糖融化。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step1.webp"
+      },
+      {
+        "text": "【勾芡收汁】：将水淀粉再次搅匀，淋入锅中，快速翻炒至汤汁变得浓稠、紧紧包裹在苹果丁上即可关火，盛出晾凉备用。"
+      },
+      {
+        "text": "【处理饼皮】：将解冻的手抓饼皮放在案板上，用刀切成4份等大的扇形（或长方形）。取其中一份，在饼皮一侧放上适量炒好的苹果馅（约1汤匙）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step2.webp"
+      },
+      {
+        "text": "【封口包制】：将饼皮对折，盖住馅料，用叉子沿着边缘按压，使封口紧密贴合。依次包好所有苹果派。"
+      },
+      {
+        "text": "【刷蛋液撒芝麻】：将包好的苹果派均匀摆放在铺有油纸的烤盘上。在表面刷上一层薄薄的鸡蛋液，再撒上黑芝麻。"
+      },
+      {
+        "text": "【烘烤出炉】：烤箱提前以200°C预热。将烤盘放入烤箱中下层，烘烤20分钟，至表面金黄酥脆即可出炉。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "hongtang-ciba-2026-001",
     "name": "红糖糍粑",
     "imageSrc": "https://shiyuji.xyz/img/recipes/hongtang_ciba.webp",
@@ -1091,43 +1163,7 @@
       }
     ]
   },
-  {
-    "id": "apple-pie-001",
-    "name": "苹果派",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/pingguopai.webp",
-    "brief": "外皮酥脆金黄，内馅酸甜软糯，黄油与苹果的香气完美融合，是经典的美式家常甜点。",
-    "categoryIds": ["14", "2", "7"],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "serving_count": "4",
-    "ingredients": "苹果: 1个\n手抓饼皮: 4张\n无盐黄油: 1汤匙\n白糖: 2汤匙\n水淀粉（1茶匙淀粉 + 2汤匙水）: 3克\n鸡蛋（打散）: 1个\n黑芝麻（装饰用）: 1茶匙",
-    "steps": [
-      {
-        "text": "【准备馅料】：苹果洗净去皮去核，切成约1厘米见方的小丁。"
-      },
-      {
-        "text": "【炒制苹果馅】：平底锅中放入黄油，开小火加热至完全融化。倒入苹果丁，转中火翻炒约2分钟，至苹果略微变软。加入白糖，继续翻炒至苹果出水、糖融化。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step1.webp"
-      },
-      {
-        "text": "【勾芡收汁】：将水淀粉再次搅匀，淋入锅中，快速翻炒至汤汁变得浓稠、紧紧包裹在苹果丁上即可关火，盛出晾凉备用。"
-      },
-      {
-        "text": "【处理饼皮】：将解冻的手抓饼皮放在案板上，用刀切成4份等大的扇形（或长方形）。取其中一份，在饼皮一侧放上适量炒好的苹果馅（约1汤匙）。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step2.webp"
-      },
-      {
-        "text": "【封口包制】：将饼皮对折，盖住馅料，用叉子沿着边缘按压，使封口紧密贴合。依次包好所有苹果派。"
-      },
-      {
-        "text": "【刷蛋液撒芝麻】：将包好的苹果派均匀摆放在铺有油纸的烤盘上。在表面刷上一层薄薄的鸡蛋液，再撒上黑芝麻。"
-      },
-      {
-        "text": "【烘烤出炉】：烤箱提前以200°C预热。将烤盘放入烤箱中下层，烘烤20分钟，至表面金黄酥脆即可出炉。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/pingguopai_step3.webp"
-      }
-    ]
-  },
+
   {
     "id": "qingzheng-changyu-2026-001",
     "name": "清蒸鲳鱼",
