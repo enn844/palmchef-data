@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "晚上好💡",
   "cards": [
     {
-      "recipeId": "qingjiao-rousi-001",
-      "recipeName": "青椒肉丝",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_rousi.webp"
+      "recipeId": "kugua-niangrou-2026-001",
+      "recipeName": "苦瓜酿肉",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_niangrou.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234605",
-      "recipeName": "麻婆豆腐",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/mapo_doufu.webp"
+      "recipeId": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6g",
+      "recipeName": "青椒土豆丝",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_tudousi.webp"
     },
     {
-      "recipeId": "tomato-cauliflower-001",
-      "recipeName": "西红柿炒菜花",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_caihua.webp"
+      "recipeId": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "recipeName": "西葫芦炒鸡蛋",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xihulu_chaodan.webp"
     },
     {
-      "recipeId": "3f8d9e2a-1b4c-4d7e-9a2b-3c5d6e7f8a9c",
-      "recipeName": "南瓜蔬菜汤",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/nangua_shucaitang.webp"
+      "recipeId": "f8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
+      "recipeName": "紫菜蛋花汤",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/zicai_danhuatang.webp"
     }
   ]
 }
