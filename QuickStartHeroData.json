@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "晚上好💡",
+  "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "kugua-niangrou-2026-001",
-      "recipeName": "苦瓜酿肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_niangrou.webp"
+      "recipeId": "c6d7e8f9-a0b1-2c3d-4e5f-6g7h8i9j0k1l",
+      "recipeName": "黄豆焖猪蹄",
+      "imageSrc": "https:///shiyuji.xyz/img/recipes/huangdou_men_zhuti.webp"
     },
     {
-      "recipeId": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6g",
-      "recipeName": "青椒土豆丝",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_tudousi.webp"
+      "recipeId": "yumi-huotui-ding-001",
+      "recipeName": "玉米火腿丁",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/yumi_huotuiding.webp"
     },
     {
-      "recipeId": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
-      "recipeName": "西葫芦炒鸡蛋",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xihulu_chaodan.webp"
+      "recipeId": "zhimaxianxiang-jichi-2026-001",
+      "recipeName": "芝麻咸香鸡翅",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/zhima_xianxiang_jichi.webp"
     },
     {
-      "recipeId": "f8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
-      "recipeName": "紫菜蛋花汤",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/zicai_danhuatang.webp"
+      "recipeId": "d0i2h1g0-g1h2-8m9n-o0p1-q2r3s4t5u6v7",
+      "recipeName": "蔬菜瘦肉粥",
+      "imageSrc":"https://shiyuji.xyz/img/recipes/shucai_shourou_zhou.webp"
     }
   ]
 }
