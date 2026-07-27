@@ -1,5 +1,41 @@
 [
   {
+    "id": "fanqie-feiniu-2026-001",
+    "name": "番茄肥牛",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_feiniu.webp",
+    "brief": "肥牛鲜嫩多汁，番茄汤汁酸甜浓郁，开胃下饭，是一道15分钟就能搞定的快手家常菜。",
+    "categoryIds": ["7", "2", "20", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "肥牛卷: 200克\n番茄: 2个（约300克）\n小葱: 1根\n大蒜: 2瓣\n生抽: 2汤匙\n番茄酱: 1汤匙\n白糖: 1茶匙\n盐: 1/2茶匙\n食用油: 1汤匙\n清水: 50毫升",
+    "steps": [
+      {
+        "text": "【处理番茄】：番茄洗净，顶部划十字花刀。用叉子叉住番茄，放在灶火上方约2厘米处，转动烤至表皮微微卷起，撕去外皮，切成小块备用。"
+      },
+      {
+        "text": "【处理肥牛】：锅中烧开水，放入肥牛卷，用筷子快速拨散，烫至肥牛变色（约10-15秒）立即捞出，沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step1.webp"
+      },
+      {
+        "text": "【切配小料】：小葱洗净切葱花，大蒜去皮切末备用。"
+      },
+      {
+        "text": "【炒制番茄汤汁】：锅中倒入食用油，烧至五成热，放入蒜末爆香。倒入番茄块，转中火翻炒至番茄软烂出汁，用铲子按压番茄帮助出汁。加入生抽、番茄酱和白糖，翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step2.webp"
+      },
+      {
+        "text": "【合煮调味】：倒入烫好的肥牛片，加入50毫升清水，大火煮开。加入盐调味，快速翻炒均匀，使肥牛片均匀裹上番茄汤汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step3.webp"
+      },
+      {
+        "text": "【出锅装盘】：关火后撒上葱花，即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "kugua-niangrou-2026-001",
     "name": "苦瓜酿肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_niangrou.webp",
@@ -10051,12 +10087,13 @@
     ],
     "difficulty": "简单",
     "time": "15分钟",
-    "ingredients": "条状年糕 300克\n白菜/菠菜/香菇 适量 (配菜)\n生抽、老抽 适量\n盐 适量",
+    "serving_count":"2",
+    "ingredients": "条状年糕 300克\n白菜/菠菜/香菇 适量 (配菜)\n生抽 1汤匙\n老抽 1茶匙\n盐 1/4茶匙",
     "steps": [
       
-      {"text": "【处理年糕】：年糕切片，用热水浸泡至软（或焯水）。"},
+      {"text": "【处理年糕】：年糕切片，用热水浸泡至软（或焯水）。配菜洗净切段或者切片。"},
       {"text": "【煸炒】：锅中放油，煸炒配菜至断生。加入年糕片，翻炒。"},
-      {"text": "【调味】：加入生抽调味、少量老抽上色，继续翻炒至年糕和配菜混合均匀。"},
+      {"text": "【调味】：加入生抽调味、少量老抽上色，尝一下味道，如果觉得淡，再撒盐，继续翻炒至年糕和配菜混合均匀。"},
       {
         "text": "【收汁】：如果太干可加少量水，翻炒均匀即可出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/chaoniangao_step1.webp"
