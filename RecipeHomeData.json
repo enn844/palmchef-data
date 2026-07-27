@@ -1,5 +1,40 @@
 [
   {
+    "id": "kugua-niangrou-2026-001",
+    "name": "苦瓜酿肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_niangrou.webp",
+    "brief": "苦瓜清苦回甘，肉馅鲜嫩多汁，先煎后焖，酱汁浓郁，是一道清热解暑又下饭的夏季时令家常菜。",
+    "categoryIds": ["7", "25", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "35分钟",
+    "serving_count": "2",
+    "ingredients": "苦瓜: 1根（约300克）\n猪五花肉（肥瘦相间）: 200克\n葱白（切末）: 2段\n盐: 2茶匙\n白胡椒粉: 1茶匙\n玉米淀粉（2/3用于肉馅，1/3用于勾芡）: 3茶匙\n生抽（一半用于肉馅，一半用于焖煮）: 2汤匙\n蚝油（1/3用于肉馅，2/3用于焖煮）: 1.5汤匙\n食用油: 适量\n清水: 适量",
+    "steps": [
+      {
+        "text": "【调制肉馅】：将猪五花肉切成小块，放入绞肉机中，搅打成细腻的肉糜。将肉糜倒入大碗中，加入葱白末、盐、白胡椒粉、玉米淀粉、生抽和蚝油，用筷子朝一个方向充分搅拌均匀，腌制10分钟入味。"
+      },
+      {
+        "text": "【处理苦瓜】：苦瓜洗净，切成约5厘米长的段。用勺子或小刀挖去中间的瓜瓤和白膜（白膜是苦味主要来源，去得越干净苦味越轻），形成中空的苦瓜圈。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_niangrou_step1.webp"
+      },
+      {
+        "text": "【酿入肉馅】：将调好的肉馅用力塞入苦瓜圈中，用勺子背面压实抹平，确保肉馅填满且紧实，两端抹平。"
+      },
+      {
+        "text": "【煎制定型】：平底锅中倒入适量食用油，烧至六成热（约160°C）。将酿好肉的苦瓜圈放入锅中，保持中小火，先将带肉的一面煎至金黄定型，再小心翻面，将另一面也煎至金黄。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_niangrou_step2.webp"
+      },
+      {
+        "text": "【焖煮入味】：煎好后，向锅中加入清水，水量以没过苦瓜圈的1/3为宜。加入生抽和蚝油调味，盖上锅盖，转小火焖煮20分钟，让苦瓜和肉馅充分吸收汤汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_niangrou_step3.webp"
+      },
+      {
+        "text": "【勾芡收汁】：将玉米淀粉与清水混合调成水淀粉。打开锅盖，转大火，将水淀粉淋入锅中，轻轻晃动锅子，使汤汁浓稠并均匀包裹在苦瓜酿肉上，即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_niangrou_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "4c2d3b7e-e5a9-49f0-b1c4-5d82a1e7b4c6",
     "name": "鱼香肉丝",
     "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiangrousi.webp",
@@ -1685,41 +1720,6 @@
       {
         "text": "【合炒出锅】：倒入之前炒好的鸡蛋块，大火快速翻炒约30秒，使鸡蛋均匀裹上鱼香酱汁，即可关火出锅。",
         "imageSrc": "https://shiyuji.xyz/img/steps/yuxiang_jidan_step5.webp"
-      }
-    ]
-  },
-  {
-    "id": "e8f2c7a1-9c4d-4e6f-8a2c-1d3e5b7f9a3d",
-    "name": "毛豆炒肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/maodou_chaorou.webp",
-    "brief": "毛豆脆嫩，肉丝滑嫩，红泡椒点缀微辣，是一道咸鲜下饭的家常快手菜。",
-    "categoryIds": ["7", "2", "20", "31", "11"],
-    "difficulty": "简单",
-    "time": "20分钟",
-    "serving_count": "2",
-    "ingredients": "猪瘦肉: 150克\n去壳毛豆: 200克\n红泡椒: 1个\n大蒜: 3瓣 \n小葱: 1根\n盐: 适量\n白胡椒粉: 1/2茶匙\n白糖: 1/2茶匙\n生抽: 1汤匙\n料酒: 1汤匙\n食用油: 适量\n清水: 半碗\n盐: 少许\n食用油: 1茶匙\n生粉: 1茶匙",
-    "steps": [
-      {
-        "text": "【备菜腌制】：猪瘦肉切成细丝，加入少许盐、1茶匙食用油和1茶匙生粉，抓匀腌制10分钟。毛豆洗净，红泡椒去籽切成小丁，大蒜切碎，小葱切末备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step1.webp"
-      },
-      {
-        "text": "【毛豆焯水】：锅中烧开水，放入洗净的去壳毛豆，焯水2-3分钟至断生，捞出沥干水分备用。"
-      },
-      {
-        "text": "【滑炒肉丝】：锅中倒入适量食用油，烧至六成热，下入腌好的肉丝，迅速用筷子划散，炒至肉丝变色后立刻捞出备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step2.webp"
-      },
-      {
-        "text": "【煸炒毛豆】：锅中留底油，放入蒜末爆香，加入焯好水的毛豆，中火翻炒至毛豆表面微绿、颜色变深。"
-      },
-      {
-        "text": "【调味焖煮】：加入白胡椒粉、白糖、生抽和料酒，翻炒出香味后，倒入半碗开水，转中小火，盖上锅盖焖煮3-5分钟，至毛豆完全熟透入味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step3.webp"
-      },
-      {
-        "text": "【合炒出锅】：打开锅盖，放入红泡椒丁和滑炒好的肉丝，转大火快速翻炒至红椒断生。最后加入葱花、适量盐和鸡精（可选），翻炒均匀后即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/maodou_chaorou_step4.webp"
       }
     ]
   }
