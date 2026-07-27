@@ -12,22 +12,22 @@
     "ingredients": "肥牛卷: 200克\n番茄: 2个（约300克）\n小葱: 1根\n大蒜: 2瓣\n生抽: 2汤匙\n番茄酱: 1汤匙\n白糖: 1茶匙\n盐: 1/2茶匙\n食用油: 1汤匙\n清水: 50毫升",
     "steps": [
       {
-        "text": "【处理番茄】：番茄洗净，顶部划十字花刀。用叉子叉住番茄，放在灶火上方约2厘米处，转动烤至表皮微微卷起，撕去外皮，切成小块备用。"
+        "text": "【处理番茄】：番茄洗净，顶部划十字花刀。用叉子叉住番茄，放在灶火上方约2厘米处，转动烤至表皮微微卷起，撕去外皮，切成小块备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step1.webp"
       },
       {
         "text": "【处理肥牛】：锅中烧开水，放入肥牛卷，用筷子快速拨散，烫至肥牛变色（约10-15秒）立即捞出，沥干水分备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step1.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step2.webp"
       },
       {
         "text": "【切配小料】：小葱洗净切葱花，大蒜去皮切末备用。"
       },
       {
         "text": "【炒制番茄汤汁】：锅中倒入食用油，烧至五成热，放入蒜末爆香。倒入番茄块，转中火翻炒至番茄软烂出汁，用铲子按压番茄帮助出汁。加入生抽、番茄酱和白糖，翻炒均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step2.webp"
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step3.webp"
       },
       {
-        "text": "【合煮调味】：倒入烫好的肥牛片，加入50毫升清水，大火煮开。加入盐调味，快速翻炒均匀，使肥牛片均匀裹上番茄汤汁。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_feiniu_step3.webp"
+        "text": "【合煮调味】：倒入烫好的肥牛片，加入50毫升清水，大火煮开。加入盐调味，快速翻炒均匀，使肥牛片均匀裹上番茄汤汁。"
       },
       {
         "text": "【出锅装盘】：关火后撒上葱花，即可盛出享用。",
