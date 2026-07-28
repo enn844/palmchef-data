@@ -13,5 +13,5 @@
   "baseUrl": "",
   "imageBaseUrl": "",
   "appUpdateUrl": "https://appgallery.huawei.com/app/detail?id=com.zhaoyingzhou.shiyuji",
-  "description": "更新说明：优化界面ui，发现页新增搜素入口，新增心愿单功能"
+  "description": "更新说明：修改已知bug，设置页新增问题反馈方式"
 }
