@@ -1,5 +1,40 @@
 [
   {
+    "id": "zhuyao-tang-2026-001",
+    "name": "猪腰汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/zhuyaotang.webp",
+    "brief": "经典家常汤品，猪腰脆嫩爽口，姜香浓郁，汤鲜味美，是一道快手暖胃的滋补汤羹。",
+    "categoryIds": ["7", "2", "3", "20"],
+    "difficulty": "简单",
+    "time": "25分钟(不含浸泡时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "猪腰: 2个（约300克）\n盐（浸泡用）: 1汤匙\n生姜: 1块（约20克）\n小葱: 2根\n料酒: 1汤匙\n盐（调味用）: 1/2茶匙\n生抽: 1汤匙\n白胡椒粉: 1/2茶匙\n食用油: 1汤匙\n开水: 适量",
+    "steps": [
+      {
+        "text": "【处理猪腰】：猪腰对半切开，剔去内部白色筋膜和深红色部分（这些是骚味的主要来源，必须去除干净）。在猪腰表面切十字花刀，再切成约2厘米宽的条状。"
+      },
+      {
+        "text": "【浸泡去味】：将切好的猪腰放入碗中，加入足量清水和盐，搅拌均匀，浸泡20分钟，中途换水两次，充分去除腥骚味。捞出后用清水冲洗干净，沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhuyaotang_step1.webp"
+      },
+      {
+        "text": "【准备配料】：生姜去皮，剁成细末。小葱洗净，切成葱花备用。"
+      },
+      {
+        "text": "【爆香姜末】：锅中倒入食用油，烧至五成热（约150°C），放入姜末，小火煸炒出香味（约30秒）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhuyaotang_step2.webp"
+      },
+      {
+        "text": "【爆炒猪腰】：将沥干的猪腰倒入锅中，转大火快速翻炒约30秒，炒至猪腰变色卷曲。沿锅边淋入料酒，加入盐、生抽和白胡椒粉，继续大火翻炒30秒，使调料均匀裹在猪腰上。"
+      },
+      {
+        "text": "【煮汤出锅】：倒入适量开水（约400毫升），大火煮开约30秒，让汤汁略微变白。关火，撒入葱花，即可盛出享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/zhuyaotang_step3.webp"
+      }
+    ]
+  },
+  {
     "id": "fanqie-feiniu-2026-001",
     "name": "番茄肥牛",
     "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_feiniu.webp",
@@ -8854,9 +8889,9 @@
     ],
     "difficulty": "中等",
     "time": "25分钟",
-    "ingredients": "四季豆 400克\n肉末 50克 (可选)\n干辣椒 15克 (切段)\n花椒 适量\n碎米芽菜 30克\n姜蒜末 适量\n生抽 1汤匙 (15毫升)\n盐 适量",
+    "serving_count":"3",
+    "ingredients": "四季豆 400克\n肉末(可选) 50克 \n干辣椒 (切段) 15克\n花椒 适量\n碎米芽菜 30克\n姜蒜末 适量\n生抽 1汤匙\n盐 适量",
     "steps": [
-      
       {
         "text": "【干煸】：四季豆掐头去尾洗净。锅中放较多油，大火烧热后转中火，将四季豆放入油中炸至外皮起皱且颜色变深，捞出沥油。"
       },
@@ -14112,6 +14147,101 @@
       {
         "text": "【芳香封存】：关火后，立即撒入干桂花，盖上锅盖焖5分钟。利用余温激发出桂花的精油成分，待晾至微温或常温后即可倒出饮用。",
         "imageSrc": "https://shiyuji.xyz/img/steps/guihua_wumeitang_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "shengjiang-xiaomi-zhou-2026-001",
+    "name": "温润生姜小米粥",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shengjiang_xiaomizhou.webp",
+    "brief": "小米熬出浓稠米油，山药绵软，生姜温中驱寒，红糖点睛，是一道暖胃养脾的温润粥品。",
+    "categoryIds": ["32", "7", "10", "16"],
+    "difficulty": "简单",
+    "time": "35分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "小米: 50克\n鲜生姜（拍碎）: 3片\n干淮山药: 20克\n红糖: 适量（可选）\n清水: 800毫升",
+    "steps": [
+      {
+        "text": "【山药预备】：干淮山药用温水提前浸泡30分钟至变软，捞出切成小丁。小米淘洗干净，沥干水分备用。"
+      },
+      {
+        "text": "【慢火熬煮】：砂锅中加入800毫升清水，放入淘洗好的小米、泡好的山药丁和拍碎的生姜片。大火煮沸后，转小火慢熬30分钟，期间不时用勺子搅拌，防止糊底。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengjiang_xiaomizhou_step1.webp"
+      },
+      {
+        "text": "【融合成粥】：熬至小米完全开花、米油浮于表面，粥体呈现浓稠顺滑的状态。根据个人口味加入适量红糖，搅拌至完全融化。"
+      },
+      {
+        "text": "【温润享用】：将煮好的小米粥盛入碗中，趁温热时食用，温中散寒、健脾养胃，尤其适合晨起或胃寒不适时饮用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shengjiang_xiaomizhou_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "shan-yao-fu-ling-lian-zi-zhou-2026-001",
+    "name": "山药茯苓莲子粥",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shanyao_fuling_lianzizhou.webp",
+    "brief": "一道健脾祛湿、养心安神的经典药膳粥。山药补脾养胃，茯苓利水渗湿，莲子清心安神，三者合一，温润平补，尤其适合脾胃虚弱、心神不宁者食用。",
+    "categoryIds": ["32", "3", "16", "19"],
+    "difficulty": "简单",
+    "time": "1小时10分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "大米: 80克\n鲜山药（或干山药片50克）: 150克\n干莲子（去芯）: 20克\n干茯苓: 15克\n冰糖: 20克\n清水: 1200毫升",
+    "steps": [
+        {
+            "text": "【食材准备】：将干莲子和干茯苓用清水冲洗干净，然后分别用温水浸泡30分钟，使其充分吸水变软。大米淘洗干净，提前用清水浸泡20分钟。"
+        },
+        {
+            "text": "【处理山药】：鲜山药戴手套去皮，洗净后切成约1厘米厚的圆片。若使用干山药片，则只需用清水冲洗干净即可。",
+            "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_fuling_lianzizhou_step1.webp"
+        },
+        {
+            "text": "【入锅熬煮】：在砂锅或汤锅中加入1200毫升清水，大火烧开。水开后，下入泡好的大米，用勺子轻轻搅拌，防止粘底。"
+        },
+        {
+            "text": "【加入药材】：待大米再次煮沸后，将泡好的莲子、茯苓以及处理好的山药片一同放入锅中。转中小火，盖上锅盖慢煮。",
+            "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_fuling_lianzizhou_step2.webp"
+        },
+        {
+            "text": "【慢熬成粥】：保持中小火熬煮约40-50分钟，期间需不时用勺子搅拌，直至米粒完全开花、粥体变得浓稠绵密，莲子和山药都软糯熟透。"
+        },
+        {
+            "text": "【调味出锅】：关火前5分钟，加入冰糖调味，搅拌至完全融化。盛入碗中，稍微放凉后即可享用。",
+            "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_fuling_lianzizhou_step3.webp"
+        }
+    ]
+  },
+  {
+    "id": "baihe-lianzi-fuling-cha-2026-001",
+    "name": "百合莲子茯苓茶",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baihe_lianzi_fulingcha.webp",
+    "brief": "清心润肺，健脾安神。百合的甘润与莲子的清甜交织，茯苓健脾祛湿，是夏日里一杯抚平焦躁的养生茶饮。",
+    "categoryIds": ["3", "16", "19", "25"],
+    "difficulty": "简单",
+    "time": "25分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "干百合: 15克\n去芯干莲子: 15克\n白茯苓: 10克\n冰糖（约1汤匙，可按口味增减）: 15克\n清水: 600毫升",
+    "steps": [
+      {
+        "text": "【食材浸泡】：将干百合、去芯干莲子和白茯苓用清水冲洗干净，放入碗中，加入足量温水（约40°C）浸泡20分钟，使食材充分吸水舒展，利于有效成分析出。"
+      },
+      {
+        "text": "【入锅熬煮】：将浸泡好的百合、莲子、茯苓连同浸泡水一同倒入小锅中（如用砂锅或养生壶更佳），补足清水至600毫升。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baihe_lianzi_fulingcha_step1.webp"
+      },
+      {
+        "text": "【文火慢煮】：开大火煮沸后，立即转小火，盖上锅盖慢煮15分钟，直至莲子和百合变软、汤色微浊，茯苓的药香充分释放。"
+      },
+      {
+        "text": "【冰糖调味】：加入冰糖，搅拌至完全融化，继续煮2分钟即可关火。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baihe_lianzi_fulingcha_step2.webp"
+      },
+      {
+        "text": "【温热饮用】：将煮好的茶汤过滤（或不过滤直接饮用，食材亦可食用），倒入杯中，温热饮用或放凉后饮用皆可。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baihe_lianzi_fulingcha_step3.webp"
       }
     ]
   }

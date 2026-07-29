@@ -4,6 +4,13 @@
     "title": "养生技巧",
     "articles": [
       {
+        "id": "jingqi_xinhao",
+        "imageSrc": "https://shiyuji.xyz/img/article/jingqi_xinhao.webp",
+        "title": "顺应气血的节律：读懂经期身体的微小信号与温和应对",
+        "brief": "经期不适不是娇气，而是身体的自然节律重置。打破“多喝热水”与盲目大补的误区，顺应气血盈亏，读懂畏寒、胃口不佳与情绪波动的温和应对艺术。",
+        "webUrl": "https://health-app.com/articles/period-rhythm-001"
+      },
+      {
         "id": "dashu",
         "imageSrc": "https://shiyuji.xyz/img/article/dashu.webp",
         "title": "大暑，厨房见：以食为刃，与酷热过招",
