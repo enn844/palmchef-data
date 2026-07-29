@@ -1,5 +1,47 @@
 [
   {
+    "id": "kugua-chaodan-2026-001",
+    "name": "苦瓜炒蛋",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_chaodan.webp",
+    "brief": "苦瓜清苦回甘，鸡蛋嫩滑鲜香，两者简单快炒，是一道清热解暑、清爽下饭的家常素菜。",
+    "categoryIds": ["7", "25", "31", "4", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "苦瓜: 1根（约250克）\n鸡蛋: 3个\n小葱: 2根\n盐（腌苦瓜用）: 1茶匙\n盐（蛋液用）: 1/4茶匙\n食用油: 2汤匙",
+    "steps": [
+      {
+        "text": "【处理苦瓜】：苦瓜洗净，对半剖开，用勺子挖去内瓤和白膜（白膜是苦味主要来源，去得越干净苦味越轻）。将苦瓜斜切成均匀的斜条。"
+      },
+      {
+        "text": "【腌制杀水】：将切好的苦瓜片放入大碗中，加入1茶匙盐，用手抓匀，静置腌制15分钟左右，直到苦瓜出水变软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_chaodan_step1.webp"
+      },
+      {
+        "text": "【挤干水分】：将腌制好的苦瓜片用清水冲洗一遍（去除多余盐分），然后用手或纱布用力挤干多余的水分。这一步是去除苦味和保持口感的关键。"
+      },
+      {
+        "text": "【准备蛋液】：鸡蛋打入碗中，加入盐，用筷子充分搅散成蛋液。小葱洗净，切成葱花备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_chaodan_step2.webp"
+      },
+      {
+        "text": "【爆香葱花】：炒锅烧热，倒入食用油，油热后放入葱花，小火煸炒出葱香味。"
+      },
+      {
+        "text": "【翻炒苦瓜】：将挤干水分的苦瓜片倒入锅中，转中大火快速翻炒约1分钟，炒至苦瓜断生、颜色变深。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_chaodan_step3.webp"
+      },
+      {
+        "text": "【淋入蛋液】：将打散的蛋液均匀地淋在苦瓜上，不要立即翻动，待蛋液稍微凝固后，用锅铲快速翻炒，使蛋液均匀包裹在苦瓜表面。"
+      },
+      {
+        "text": "【出锅装盘】：翻炒至鸡蛋完全凝固、呈金黄色块状，与苦瓜充分混合均匀后，即可关火出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/kugua_chaodan_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "zhuyao-tang-2026-001",
     "name": "猪腰汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/zhuyaotang.webp",

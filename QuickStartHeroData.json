@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "晚上好💡",
   "cards": [
     {
-      "recipeId": "b7d3f0a2-8e5c-4f6b-a1d9-e23456789012",
-      "recipeName": "重庆鸡公煲",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/chongqing_jigongbao.webp"
+      "recipeId": "4c2d3b7e-e5a9-49f0-b1c4-5d82a1e7b4c6",
+      "recipeName": "鱼香肉丝",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiangrousi.webp"
     },
     {
-      "recipeId": "w6b3a2z1-z1a2-3r4s-t5u6-v7w8x9y0z1a2",
-      "recipeName": "干煸四季豆",
-      "imageSrc":"https://shiyuji.xyz/img/recipes/ganbian_sijidou.webp"
+      "recipeId": "kugua-chaodan-2026-001",
+      "recipeName": "苦瓜炒蛋",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_chaodan.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234704",
-      "recipeName": "锅塌豆腐",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/guota_doufu.webp"
+      "recipeId": "zhuyao-tang-2026-001",
+      "recipeName": "猪腰汤",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/zhuyaotang.webp"
     },
     {
-      "recipeId": "g6m3l2k1-k2l3-4q5r-s6t7-u8v9w0x1y2z3",
-      "recipeName": "地三鲜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/disanxian.webp"
+      "recipeId": "9f6c5d4b-d4e5-6h7i-j8k9-l0m1n2p3q4r5",
+      "recipeName": "清蒸鲈鱼",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_luyu.webp"
     }
   ]
 }
