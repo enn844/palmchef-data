@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "晚上好💡",
+  "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "4c2d3b7e-e5a9-49f0-b1c4-5d82a1e7b4c6",
-      "recipeName": "鱼香肉丝",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiangrousi.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234607",
+      "recipeName": "可乐鸡翅",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp"
     },
     {
-      "recipeId": "kugua-chaodan-2026-001",
-      "recipeName": "苦瓜炒蛋",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_chaodan.webp"
+      "recipeId": "bai-cai-dun-dou-fu-001",
+      "recipeName": "白菜炖豆腐",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/baicai_dundoufu.webp"
     },
     {
-      "recipeId": "zhuyao-tang-2026-001",
-      "recipeName": "猪腰汤",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/zhuyaotang.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234701",
+      "recipeName": "油焖大虾",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/youmen_daxia.webp"
     },
     {
-      "recipeId": "9f6c5d4b-d4e5-6h7i-j8k9-l0m1n2p3q4r5",
-      "recipeName": "清蒸鲈鱼",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/qingzheng_luyu.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234747",
+      "recipeName": "蒸蛋羹",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/zhengdangeng.webp"
     }
   ]
 }
