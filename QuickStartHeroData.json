@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "遇见好味道💡",
   "cards": [
     {
-      "recipeId": "j9p6o5n4-n5o6-7t8u-v9w0-x1y2z3a4b5c6",
-      "recipeName": "小鸡炖蘑菇",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xiaoji_dunmogu.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234607",
+      "recipeName": "可乐鸡翅",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp"
     },
     {
-      "recipeId": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
-      "recipeName": "平菇炒肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/pinggu_chaorou.webp"
+      "recipeId": "v1b8a7z6-z7a8-9f0g-h1i2-j3k4l5m6n7o1",
+      "recipeName": "公瑾抱蛋",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/gongjin_baodan.webp"
     },
     {
-      "recipeId": "m7n7g8h9-i0j2-2k3l-4m5n-6o7p8q9r0s1s",
-      "recipeName": "素烧油豆角",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/sushao_youdoujiao.webp"
+      "recipeId": "stir-fried-romaine-lettuce-001",
+      "recipeName": "炒油麦菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/chaoyoumaicai.webp"
     },
     {
-      "recipeId": "u4z7y6x5-x5y6-8e9f-g0h1-i2j3k4l5m6n7",
-      "recipeName": "芝士焗红薯",
-      "imageSrc":"https://shiyuji.xyz/img/recipes/zhishi_juhongshu.webp"
+      "recipeId": "bai-xiang-guo-qing-ju-ning-meng-cha-2026-001",
+      "recipeName": "百香果青桔柠檬茶",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/baixiangguo_qingju_ningmengcha.webp"
     }
   ]
 }
