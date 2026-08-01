@@ -5321,7 +5321,7 @@
   },
   {
     "id": "27d0f3c5-f8e2-442a-8c11-1a3b90c1f5d6",
-    "name": "水煮牛肉",
+    "name": "水煮牛肉（肉片）",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shuizhu_niurou.webp",
     "brief": "牛肉滑嫩，麻辣味厚，香气扑鼻的经典川菜代表。",
     "categoryIds": ["20",
@@ -5331,7 +5331,7 @@
     "difficulty": "中等",
     "time": "40分钟",
     "serving_count": "3",
-    "ingredients": "牛里脊肉 300克\n豆芽 100克\n大白菜/油菜 150克\n干辣椒 30克\n花椒 15克\n郫县豆瓣酱 2汤匙\n姜蒜末 适量\n腌肉料（蛋清、淀粉、料酒） 适量\n水 适量\n食用油 适量",
+    "ingredients": "牛里脊肉（猪肉） 300克\n豆芽 100克\n大白菜/油菜 150克\n干辣椒 30克\n花椒 15克\n郫县豆瓣酱 2汤匙\n姜蒜末 适量\n腌肉料（蛋清、淀粉、料酒） 适量\n水 适量\n食用油 适量",
     "steps": [
      
       {
