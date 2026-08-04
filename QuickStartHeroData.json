@@ -2,24 +2,24 @@
   "sectionTitle": "遇见好味道💡",
   "cards": [
     {
-      "recipeId": "4c2d3b7e-e5a9-49f0-b1c4-5d82a1e7b4c6",
-      "recipeName": "鱼香肉丝",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/yuxiangrousi.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234605",
+      "recipeName": "麻婆豆腐",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/mapo_doufu.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234627",
-      "recipeName": "锅包肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/guobaorou.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251235001",
+      "recipeName": "懒人焖排骨",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menpaigu.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234998",
-      "recipeName": "炒空心菜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/kongxincai.webp"
+      "recipeId": "cong-dan-bing-001",
+      "recipeName": "煎葱蛋",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/congdan.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234801",
-      "recipeName": "无水焖虾",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/wushui_menxia.webp"
+      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9220",
+      "recipeName": "干锅花菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/ganguo_huacai.webp"
     }
   ]
 }
