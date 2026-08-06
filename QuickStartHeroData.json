@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "晚上好💡",
   "cards": [
     {
-      "recipeId": "j9p6o5n4-n5o6-7t8u-v9w0-x1y2z3a4b5c6",
-      "recipeName": "小鸡炖蘑菇",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xiaoji_dunmogu.webp"
+      "recipeId": "tudou-jiding-2026-001",
+      "recipeName": "土豆鸡丁",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_jiding.webp"
     },
     {
-      "recipeId": "lan-ren-men-fan-2025-001",
-      "recipeName": "懒人焖饭",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menfan.webp"
+      "recipeId": "congxiang-shucai-bao-niurouli-2026-001",
+      "recipeName": "葱香蔬菜爆牛肉粒",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/shucai_niurouli.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234888",
-      "recipeName": "爆炒鱿鱼",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_youyu.webp"
+      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9215",
+      "recipeName": "上汤菠菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/shangtang_bocai.webp"
     },
     {
-      "recipeId": "d3j0i9h8-h9i0-1m2n-p3q4-r5s6t7u8v9w0",
-      "recipeName": "爆炒腰花",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_yaohua.webp"
+      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9217",
+      "recipeName": "麻辣豆皮",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/mala_gandoufu.webp"
     }
   ]
 }

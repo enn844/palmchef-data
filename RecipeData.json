@@ -1,5 +1,38 @@
 [
   {
+    "id": "tudou-jiding-2026-001",
+    "name": "土豆鸡丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_jiding.webp",
+    "brief": "鸡丁嫩滑入味，土豆丁外焦里软，酱香浓郁，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "25分钟(含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "鸡胸肉: 200克\n土豆: 1个\n料酒: 1汤匙\n玉米淀粉: 1汤匙\n盐（腌肉用）: 1/3茶匙\n生抽（腌肉用）: 1汤匙\n白糖（腌肉用）: 1/3茶匙\n老抽: 1汤匙\n白糖（调味用）: 1茶匙\n盐（调味用）: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理鸡肉】：鸡胸肉洗净，切成约1.5厘米见方的小丁。放入碗中，加入料酒、玉米淀粉、生抽、白糖和盐，用手抓拌均匀，腌制15分钟以上，让鸡肉充分入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step1.webp"
+      },
+      {
+        "text": "【处理土豆】：土豆去皮洗净，切成比鸡丁略小的小丁（约1厘米见方）。将切好的土豆丁放入清水中冲洗两遍，洗去表面多余淀粉，捞出后彻底沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step2.webp"
+      },
+      {
+        "text": "【煎土豆丁】：开大火将锅烧热，倒入一圈食用油（约2汤匙），待油温升高后，放入沥干水分的土豆丁。用锅铲轻轻将土豆丁码平，使底部均匀受热，保持大火干煎。煎至一面金黄后翻面，继续煎至另一面也呈金黄色，然后将火转为中火。"
+      },
+      {
+        "text": "【滑炒鸡丁】：将煎好的土豆丁推到锅的一边，将锅倾斜使油自然滑落到底部。放入腌制好的鸡丁，用锅铲迅速拌炒，使鸡丁均匀受热。保持中火，将鸡丁煎至表面变色、断生（约2-3分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step3.webp"
+      },
+      {
+        "text": "【调味收汁】：将土豆丁与鸡丁混合翻炒均匀，沿锅边淋入老抽上色，加入白糖和盐调味。轻轻翻炒使所有食材均匀裹上酱汁，继续翻炒约1分钟至酱汁收浓、均匀包裹在食材表面即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "kugua-chaodan-2026-001",
     "name": "苦瓜炒蛋",
     "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_chaodan.webp",
