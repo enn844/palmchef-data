@@ -14401,5 +14401,71 @@
         "imageSrc": "https://shiyuji.xyz/img/steps/baihe_lianzi_fulingcha_step3.webp"
       }
     ]
+  },
+  {
+    "id": "bingtang-chuanbei-dun-qiuli-2026-001",
+    "name": "冰糖川贝炖秋梨",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/bingtang_chuanbei_dunqiuli.webp",
+    "brief": "秋日润燥的经典糖水。雪梨的清甜与川贝的微苦在冰糖的调和下达到平衡，汤汁晶莹剔透，梨肉软糯，温润入喉，止咳化痰，是应对秋燥的温柔良方。",
+    "categoryIds": ["3", "14", "23"],
+    "difficulty": "简单",
+    "time": "45分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "雪梨: 2个\n川贝母粉: 1/2茶匙\n冰糖: 4茶匙\n枸杞: 10粒\n清水: 适量",
+    "steps": [
+      {
+        "text": "【处理雪梨】：雪梨洗净，在顶部约1/5处切开，用勺子小心地挖去梨核和部分果肉，形成一个梨盅。注意不要挖穿底部。"
+      },
+      {
+        "text": "【填入食材】：在挖好的梨盅内放入川贝母粉和冰糖。川贝母粉味道微苦，不宜过量。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/bingtang_chuanbei_dunqiuli_step1.webp"
+      },
+      {
+        "text": "【组合入碗】：将切下的梨盖盖回梨盅，用牙签固定。将处理好的雪梨放入碗中，加入枸杞，并在碗中注入少量清水（约没过梨盅底部1厘米即可）。"
+      },
+      {
+        "text": "【蒸制熟透】：将碗放入蒸锅中，大火烧开后转中火，隔水蒸30分钟，直至梨肉变得透明软糯。"
+      },
+      {
+        "text": "【温润享用】：取出蒸好的雪梨，去掉牙签，连汤带梨一同食用。梨肉和汤汁都要吃干净，润肺效果更好。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/bingtang_chuanbei_dunqiuli_step2.webp"
+      }
+    ]
+  },
+  {
+    "id": "baihe-yiner-lianzi-geng-2026-001",
+    "name": "百合银耳莲子羹",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/baihe_yiner_lianzigeng.webp",
+    "brief": "软糯粘稠，清甜润肺。银耳富含胶质，百合清心安神，莲子健脾养心，是秋季和冬季常饮的美容养颜甜品。",
+    "categoryIds": ["3", "14", "18", "19", "23"],
+    "difficulty": "简单",
+    "time": "1小时40分钟（含泡发时间）",
+    "badge": ["荐"],
+    "serving_count": "4",
+    "ingredients": "干银耳: 1朵（约15克）\n干百合: 20克\n干莲子（去芯）: 30克\n枸杞: 1汤匙\n冰糖: 4汤匙\n清水: 2000毫升",
+    "steps": [
+      {
+        "text": "【银耳泡发】：干银耳放入大碗中，加入足量冷水，浸泡2-3小时，直至银耳完全泡发、体积膨胀数倍。泡发后剪去根部硬蒂，用手撕成尽量小的碎朵（撕得越碎，越容易煮出胶质）。"
+      },
+      {
+        "text": "【莲子百合预处理】：干莲子和干百合分别用温水浸泡1小时，至变软。莲子需检查并去除中间的绿色莲心（莲心味苦，影响口感）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baihe_yiner_lianzigeng_step1.webp"
+      },
+      {
+        "text": "【初煮银耳】：将撕碎的银耳放入砂锅或汤锅中，加入2000毫升清水。大火烧开后，立即转最小火，盖上锅盖慢炖1小时，至银耳软化、汤水略微变稠。"
+      },
+      {
+        "text": "【加入莲子百合】：将泡发好的莲子和百合沥干水分，加入锅中，继续用小火炖煮30分钟，至莲子软糯、百合绵软。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baihe_yiner_lianzigeng_step2.webp"
+      },
+      {
+        "text": "【调味收尾】：加入冰糖，搅拌至完全融化。最后放入枸杞，继续煮5分钟即可关火。枸杞不宜久煮，以免发酸。"
+      },
+      {
+        "text": "【享用】：盛入碗中，趁热或放凉后食用皆可。冷藏后口感更佳，胶质更加浓稠。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/baihe_yiner_lianzigeng_step3.webp"
+      }
+    ]
   }
 ]
