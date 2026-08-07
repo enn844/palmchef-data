@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "晚上好💡",
+  "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "tudou-jiding-2026-001",
-      "recipeName": "土豆鸡丁",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_jiding.webp"
+      "recipeId": "xiaochao-jiding-2026-001",
+      "recipeName": "小炒鸡丁",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_jiding.webp"
     },
     {
-      "recipeId": "congxiang-shucai-bao-niurouli-2026-001",
-      "recipeName": "葱香蔬菜爆牛肉粒",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/shucai_niurouli.webp"
+      "recipeId": "wosusichao-roumo-2026-001",
+      "recipeName": "莴笋丝炒肉末",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/wosunsi_chaoroumo.webp"
     },
     {
-      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9215",
-      "recipeName": "上汤菠菜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/shangtang_bocai.webp"
+      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9230",
+      "recipeName": "香干炒芹菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xianggan_chaoqincai.webp"
     },
     {
-      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9217",
-      "recipeName": "麻辣豆皮",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/mala_gandoufu.webp"
+      "recipeId": "e5f64a7b-8c9d-0e1f-2a3b-4c4da1b2c3d4",
+      "recipeName": "午后能量盏",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/wuhou_nengliangzhan.webp"
     }
   ]
 }

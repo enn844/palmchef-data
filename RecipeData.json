@@ -1,5 +1,85 @@
 [
   {
+    "id": "wosusichao-roumo-2026-001",
+    "name": "莴笋丝炒肉末",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/wosunsi_chaoroumo.webp",
+    "brief": "莴笋丝清脆爽口，肉末咸香入味，只需少许蒜末和生抽提鲜，大火快炒，便是一道简单又下饭的快手家常菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "莴笋（去皮后）: 300克\n猪肉末: 150克\n大蒜: 2瓣\n生抽: 2汤匙\n料酒: 1汤匙\n盐: 1/2茶匙\n食用油: 2汤匙",
+    "steps": [
+      {
+        "text": "【处理莴笋】：莴笋去皮，擦成细丝。放入大碗中，加入一半盐，抓匀腌制5分钟，杀出多余水分，然后用手挤干，备用。"
+      },
+      {
+        "text": "【准备配料】：大蒜去皮，切成蒜末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step1.webp"
+      },
+      {
+        "text": "【煸炒肉末】：炒锅烧热，倒入食用油，油热后放入猪肉末，中火煸炒至肉末变色、散开，并炒出多余的油脂。"
+      },
+      {
+        "text": "【爆香蒜末】：加入蒜末，转小火煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step2.webp"
+      },
+      {
+        "text": "【调味增香】：沿锅边淋入料酒和生抽，快速翻炒均匀，使肉末上色并入味。"
+      },
+      {
+        "text": "【合炒莴笋丝】：将挤干水分的莴笋丝倒入锅中，转中大火快速翻炒约1分钟，炒至莴笋丝断生、颜色变得更翠绿。（时长视个人口感而定）",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step3.webp"
+      },
+      {
+        "text": "【出锅装盘】：加入剩余的盐调味，快速翻炒均匀后，即可关火出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "xiaochao-jiding-2026-001",
+    "name": "小炒鸡丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_jiding.webp",
+    "brief": "鸡腿肉嫩滑入味，搭配洋葱青椒的清脆与小米椒的微辣，大火快炒镬气十足，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "11"],
+    "difficulty": "简单",
+    "time": "20分钟(不含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "鸡腿肉: 300克\n生抽（腌制用）: 2汤匙\n生抽（调味用） 1汤匙\n料酒: 1汤匙\n胡椒粉 1/2茶匙\n玉米淀粉: 1/2汤匙\n盐: 1/4茶匙\n洋葱: 1/4个（约50克）\n青椒: 1个\n小米椒: 2个\n大蒜: 3瓣\n生姜: 1小块（约10克）\n蚝油: 1/2汤匙\n鸡精: 1/4茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理鸡肉】：鸡腿肉洗净，用厨房纸吸干表面水分，切成约2厘米见方的小丁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step1.webp"
+      },
+      {
+        "text": "【腌制鸡肉】：将切好的鸡丁放入碗中，加生抽、料酒、胡椒粉、玉米淀粉和盐，用手抓拌均匀，使调料充分包裹鸡丁。盖上保鲜膜，放入冰箱冷藏腌制20分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step2.webp"
+      },
+      {
+        "text": "【切配配料】：洋葱切成与鸡丁大小相近的小块；青椒去蒂去籽，切成小块；小米椒洗净切圈；大蒜去皮切片；生姜去皮切丝备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step3.webp"
+      },
+      {
+        "text": "【滑炒鸡丁】：锅中倒入适量食用油，烧至六成热（约160°C），放入腌好的鸡丁，中大火快速滑炒，炒至鸡丁表面变色、断生（约2-3分钟），盛出备用。"
+      },
+      {
+        "text": "【爆香底料】：锅中留底油，烧至五成热，放入姜丝和蒜片，小火煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step4.webp"
+      },
+      {
+        "text": "【合炒调味】：将滑炒好的鸡丁倒回锅中，加入洋葱块，转中大火翻炒约1分钟，炒至洋葱变软、香味溢出。加入生抽和蚝油，快速翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step5.webp"
+      },
+      {
+        "text": "【出锅装盘】：放入青椒块和小米椒圈，加入1/4茶匙鸡精，转大火快速翻炒约1-2分钟，炒至青椒变软即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step6.webp"
+      }
+    ]
+  },
+  {
     "id": "tudou-jiding-2026-001",
     "name": "土豆鸡丁",
     "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_jiding.webp",
