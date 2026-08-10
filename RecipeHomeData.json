@@ -1,5 +1,118 @@
 [
   {
+    "id": "wosusichao-roumo-2026-001",
+    "name": "莴笋丝炒肉末",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/wosunsi_chaoroumo.webp",
+    "brief": "莴笋丝清脆爽口，肉末咸香入味，只需少许蒜末和生抽提鲜，大火快炒，便是一道简单又下饭的快手家常菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "15分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "莴笋（去皮后）: 300克\n猪肉末: 150克\n大蒜: 2瓣\n生抽: 2汤匙\n料酒: 1汤匙\n盐: 1/2茶匙\n食用油: 2汤匙",
+    "steps": [
+      {
+        "text": "【处理莴笋】：莴笋去皮，擦成细丝。放入大碗中，加入一半盐，抓匀腌制5分钟，杀出多余水分，然后用手挤干，备用。"
+      },
+      {
+        "text": "【准备配料】：大蒜去皮，切成蒜末备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step1.webp"
+      },
+      {
+        "text": "【煸炒肉末】：炒锅烧热，倒入食用油，油热后放入猪肉末，中火煸炒至肉末变色、散开，并炒出多余的油脂。"
+      },
+      {
+        "text": "【爆香蒜末】：加入蒜末，转小火煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step2.webp"
+      },
+      {
+        "text": "【调味增香】：沿锅边淋入料酒和生抽，快速翻炒均匀，使肉末上色并入味。"
+      },
+      {
+        "text": "【合炒莴笋丝】：将挤干水分的莴笋丝倒入锅中，转中大火快速翻炒约1分钟，炒至莴笋丝断生、颜色变得更翠绿。（时长视个人口感而定）",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step3.webp"
+      },
+      {
+        "text": "【出锅装盘】：加入剩余的盐调味，快速翻炒均匀后，即可关火出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/wosunsi_chaoroumo_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "xiaochao-jiding-2026-001",
+    "name": "小炒鸡丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_jiding.webp",
+    "brief": "鸡腿肉嫩滑入味，搭配洋葱青椒的清脆与小米椒的微辣，大火快炒镬气十足，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "11"],
+    "difficulty": "简单",
+    "time": "20分钟(不含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "鸡腿肉: 300克\n生抽（腌制用）: 2汤匙\n生抽（调味用） 1汤匙\n料酒: 1汤匙\n胡椒粉 1/2茶匙\n玉米淀粉: 1/2汤匙\n盐: 1/4茶匙\n洋葱: 1/4个（约50克）\n青椒: 1个\n小米椒: 2个\n大蒜: 3瓣\n生姜: 1小块（约10克）\n蚝油: 1/2汤匙\n鸡精: 1/4茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理鸡肉】：鸡腿肉洗净，用厨房纸吸干表面水分，切成约2厘米见方的小丁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step1.webp"
+      },
+      {
+        "text": "【腌制鸡肉】：将切好的鸡丁放入碗中，加生抽、料酒、胡椒粉、玉米淀粉和盐，用手抓拌均匀，使调料充分包裹鸡丁。盖上保鲜膜，放入冰箱冷藏腌制20分钟。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step2.webp"
+      },
+      {
+        "text": "【切配配料】：洋葱切成与鸡丁大小相近的小块；青椒去蒂去籽，切成小块；小米椒洗净切圈；大蒜去皮切片；生姜去皮切丝备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step3.webp"
+      },
+      {
+        "text": "【滑炒鸡丁】：锅中倒入适量食用油，烧至六成热（约160°C），放入腌好的鸡丁，中大火快速滑炒，炒至鸡丁表面变色、断生（约2-3分钟），盛出备用。"
+      },
+      {
+        "text": "【爆香底料】：锅中留底油，烧至五成热，放入姜丝和蒜片，小火煸炒出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step4.webp"
+      },
+      {
+        "text": "【合炒调味】：将滑炒好的鸡丁倒回锅中，加入洋葱块，转中大火翻炒约1分钟，炒至洋葱变软、香味溢出。加入生抽和蚝油，快速翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step5.webp"
+      },
+      {
+        "text": "【出锅装盘】：放入青椒块和小米椒圈，加入1/4茶匙鸡精，转大火快速翻炒约1-2分钟，炒至青椒变软即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/xiaochao_jiding_step6.webp"
+      }
+    ]
+  },
+  {
+    "id": "tudou-jiding-2026-001",
+    "name": "土豆鸡丁",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_jiding.webp",
+    "brief": "鸡丁嫩滑入味，土豆丁外焦里软，酱香浓郁，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "25分钟(含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "鸡胸肉: 200克\n土豆: 1个\n料酒: 1汤匙\n玉米淀粉: 1汤匙\n盐（腌肉用）: 1/3茶匙\n生抽（腌肉用）: 1汤匙\n白糖（腌肉用）: 1/3茶匙\n老抽: 1汤匙\n白糖（调味用）: 1茶匙\n盐（调味用）: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理鸡肉】：鸡胸肉洗净，切成约1.5厘米见方的小丁。放入碗中，加入料酒、玉米淀粉、生抽、白糖和盐，用手抓拌均匀，腌制15分钟以上，让鸡肉充分入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step1.webp"
+      },
+      {
+        "text": "【处理土豆】：土豆去皮洗净，切成比鸡丁略小的小丁（约1厘米见方）。将切好的土豆丁放入清水中冲洗两遍，洗去表面多余淀粉，捞出后彻底沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step2.webp"
+      },
+      {
+        "text": "【煎土豆丁】：开大火将锅烧热，倒入一圈食用油（约2汤匙），待油温升高后，放入沥干水分的土豆丁。用锅铲轻轻将土豆丁码平，使底部均匀受热，保持大火干煎。煎至一面金黄后翻面，继续煎至另一面也呈金黄色，然后将火转为中火。"
+      },
+      {
+        "text": "【滑炒鸡丁】：将煎好的土豆丁推到锅的一边，将锅倾斜使油自然滑落到底部。放入腌制好的鸡丁，用锅铲迅速拌炒，使鸡丁均匀受热。保持中火，将鸡丁煎至表面变色、断生（约2-3分钟）。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step3.webp"
+      },
+      {
+        "text": "【调味收汁】：将土豆丁与鸡丁混合翻炒均匀，沿锅边淋入老抽上色，加入白糖和盐调味。轻轻翻炒使所有食材均匀裹上酱汁，继续翻炒约1分钟至酱汁收浓、均匀包裹在食材表面即可关火出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_jiding_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "kugua-chaodan-2026-001",
     "name": "苦瓜炒蛋",
     "imageSrc": "https://shiyuji.xyz/img/recipes/kugua_chaodan.webp",
@@ -1629,99 +1742,6 @@
       {
         "text": "【出锅装盘】：待南瓜焖至软糯、汤汁收浓至包裹在南瓜表面时，关火出锅即可。南瓜本身带有甜味，咸甜交融口感更佳。",
         "imageSrc": "https://shiyuji.xyz/img/steps/mennangua_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "m7n7g8h9-i0j2-2k3l-4m5n-6o7p8q9r0s1s",
-    "name": "素烧油豆角",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/sushao_youdoujiao.webp",
-    "brief": "东北家常炖菜，油豆角软糯入味，酱香浓郁，是一道简单下饭的素菜。",
-    "categoryIds": ["7", "2", "31", "4", "11"],
-    "difficulty": "简单",
-    "time": "25分钟",
-    "serving_count": "2",
-    "ingredients": "油豆角：300克\n大葱：1段\n大蒜：1瓣\n八角：1个\n生抽: 2汤匙\n盐：1/2茶匙\n食用油：2汤匙\n清水：适量",
-    "steps": [
-      {
-        "text": "【备菜处理】：油豆角掐去两头，撕去两侧的老筋，洗净后沥干水分。大葱切葱花，大蒜拍碎切末备用。"
-      },
-      {
-        "text": "【煸炒豆角】：锅中倒入食用油，烧至五成热，放入葱花爆香。倒入处理好的油豆角，中火翻炒约2-3分钟，炒至豆角颜色变为翠绿、表面微微起皱。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/sushao_youdoujiao_step1.webp"
-      },
-      {
-        "text": "【调味炖煮】：加入生抽翻炒均匀，倒入适量清水（水量以稍微没过豆角为宜），放入八角。大火烧开后转小火，盖上锅盖炖煮15分钟，至豆角软烂入味。"
-      },
-      {
-        "text": "【收汁出锅】：打开锅盖，放入蒜末和盐，转大火快速收汁，待汤汁浓稠均匀包裹在豆角上即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/sushao_youdoujiao_step2.webp"
-      }
-    ]
-  },
-  {
-    "id": "stir-fried-romaine-lettuce-001",
-    "name": "炒油麦菜",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/chaoyoumaicai.webp",
-    "brief": "翠绿爽口，蒜香浓郁，大火快炒锁住水分，是一道简单快手的家常绿叶蔬菜。",
-    "categoryIds": ["7", "2", "31", "4", "11"],
-    "difficulty": "简单",
-    "time": "10分钟",
-    "serving_count": "2",
-    "ingredients": "油麦菜：400克\n大蒜：3瓣\n食用油：1汤匙\n猪油：1茶匙\n盐：1/2茶匙\n鸡精：1/4茶匙\n白糖：1/4茶匙\n清水：2汤匙",
-    "steps": [
-      {
-        "text": "【清洗备菜】：油麦菜洗净，沥干水分，切成约4-5厘米长的段。将菜杆和菜叶分开放置备用。大蒜去皮切成蒜末。"
-      },
-      {
-        "text": "【爆香底料】：热锅下入1汤匙食用油和1茶匙猪油，待猪油融化后，放入蒜末，小火煸炒出香味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaoyoumaicai_step1.webp"
-      },
-      {
-        "text": "【先炒菜杆】：将切好的菜杆部分先下入锅中，转中大火快速翻炒几下，约10-15秒，使菜杆稍微变软。"
-      },
-      {
-        "text": "【再下菜叶】：接着放入菜叶部分，保持大火快速翻炒，使菜叶均匀受热、迅速变软。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaoyoumaicai_step2.webp"
-      },
-      {
-        "text": "【调味出锅】：加入盐、鸡精、白糖和清水，快速翻炒均匀，盖上锅盖，转中小火焖约30秒。待菜杆变软、颜色加深后，开盖转大火收干多余汤汁即可出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/chaoyoumaicai_step3.webp"
-      }
-    ]
-  },
-  {
-    "id": "japanese-tofu-001",
-    "name": "家常红烧日本豆腐",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/hongshao_ribendoufu.webp",
-    "brief": "日本豆腐外酥里嫩，裹满咸鲜酱汁，搭配胡萝卜和青椒，色彩缤纷，是一道简单快手的家常下饭菜。",
-    "categoryIds": ["7", "2", "4", "11"],
-    "difficulty": "简单",
-    "time": "15分钟",
-    "ingredients": "日本豆腐: 2条\n面粉: 30克\n胡萝卜: 半根\n青椒: 1个\n小葱: 1根\n大蒜: 2瓣\n蚝油: 1汤匙\n生抽: 1汤匙\n盐: 1/2茶匙\n食用油: 适量",
-    "serving_count": "2",
-    "steps": [
-      {
-        "text": "【前期备菜】：日本豆腐连包装从中间切断，轻轻挤出，切成约1厘米厚的圆块。\n胡萝卜切片，青椒切块，小葱切碎，大蒜切末备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step1.webp"
-      },
-      {
-        "text": "【裹粉】：取一个盘子倒入适量面粉。将切好的日本豆腐块轻轻放入面粉中，两面和侧面都均匀裹上一层面粉，注意不要包裹太厚，轻轻拍掉多余面粉即可。"
-      },
-      {
-        "text": "【煎豆腐】：炒锅中倒入足量食用油（油量能没过豆腐一大半即可），烧至六成热（约160°C）。放入裹好面粉的日本豆腐块，中小火煎至一面金黄定型后小心翻面，煎至两面金黄酥脆，捞出沥油备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step2.webp"
-      },
-      {
-        "text": "【爆香配料】：锅中留底油，放入葱末和蒜末，小火爆香。然后加入胡萝卜片和青椒块，转中火翻炒至断生或多炒一会炒软。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step3.webp"
-      },
-      {
-        "text": "【调味合炒】：加入蚝油、生抽和适量盐，翻炒均匀。倒入煎好的日本豆腐块，轻轻翻炒或晃动锅子，使豆腐均匀裹上酱汁，注意不要用力翻炒以免豆腐碎裂。"
-      },
-      {
-        "text": "【出锅装盘】：所有食材翻炒均匀、入味后即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/hongshao_ribendoufu_step4.webp"
       }
     ]
   }
