@@ -2,24 +2,24 @@
   "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "xiaochao-jiding-2026-001",
-      "recipeName": "小炒鸡丁",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_jiding.webp"
+      "recipeId": "f7m4q3p2-p3q4-5v6w-x7e4",
+      "recipeName": "剁椒鱼头",
+      "imageSrc":"https://shiyuji.xyz/img/recipes/duojiao_yutou.webp"
     },
     {
-      "recipeId": "wosusichao-roumo-2026-001",
-      "recipeName": "莴笋丝炒肉末",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/wosunsi_chaoroumo.webp"
+      "recipeId": "cong-shao-nen-dou-fu-001",
+      "recipeName": "葱烧嫩豆腐",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/congshao_doufu.webp"
     },
     {
-      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9230",
-      "recipeName": "香干炒芹菜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xianggan_chaoqincai.webp"
+      "recipeId": "f7e8d9c0-1a2b-3c4d-5e6f-7a8b9c0d1e2g",
+      "recipeName": "雪碧拌面",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xuebi_banmian.webp"
     },
     {
-      "recipeId": "e5f64a7b-8c9d-0e1f-2a3b-4c4da1b2c3d4",
-      "recipeName": "午后能量盏",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/wuhou_nengliangzhan.webp"
+      "recipeId": "j1q8u7t6-t7u8-9z0a-b1i8",
+      "recipeName": "八宝粥",
+      "imageSrc":"https://shiyuji.xyz/img/recipes/babaozhou.webp"
     }
   ]
 }
