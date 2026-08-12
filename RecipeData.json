@@ -1,5 +1,83 @@
 [
   {
+    "id": "shanyao-paigu-tang-2026-001",
+    "name": "山药排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shanyao_paigutang.webp",
+    "brief": "汤色清亮，排骨酥烂，山药绵密粉糯，自带清甜。简单炖煮，便是一碗温润滋补的家常好汤。",
+    "categoryIds": ["3", "7", "20", "26", "12"],
+    "difficulty": "简单",
+    "time": "1小时30分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "猪肋排: 500克\n铁棍山药: 300克\n生姜: 1块（约15克）\n小葱: 2根\n料酒: 1汤匙\n盐: 1茶匙\n清水: 2000毫升",
+    "steps": [
+      {
+        "text": "【处理排骨】：排骨斩成约4厘米长的小段，放入清水中浸泡20分钟，泡出血水后捞出，沥干水分备用。"
+      },
+      {
+        "text": "【排骨焯水】：将排骨冷水下锅，加入2片姜和1汤匙料酒。大火煮沸后，用勺子撇净浮沫，继续煮2分钟。捞出排骨，用温水冲洗干净表面杂质，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step1.webp"
+      },
+      {
+        "text": "【处理山药】：山药戴手套去皮，洗净后切成约4厘米长的段，放入清水中浸泡防止氧化变黑。小葱洗净打结，剩余生姜切片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step2.webp"
+      },
+      {
+        "text": "【炖煮汤底】：将焯好水的排骨、姜片和葱结一同放入锅中，加入2000毫升清水。大火烧开后，转最小火，盖上锅盖慢炖1小时。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step3.webp"
+      },
+      {
+        "text": "【加入山药】：打开锅盖，放入沥干水分的山药段，继续用小火炖煮20-30分钟，至山药变得绵软、用筷子能轻松扎透。"
+      },
+      {
+        "text": "【调味出锅】：捞出葱结，加入1茶匙盐调味，搅拌均匀后即可关火。盛入碗中，撒上少许葱花点缀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "fanqie-huarou-2026-001",
+    "name": "番茄滑肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_huarou.webp",
+    "brief": "番茄汤汁酸甜浓郁，肉片滑嫩爽口，简单快手的家常下饭菜，汤色红亮，开胃又营养。",
+    "categoryIds": ["7", "2", "20", "11"],
+    "difficulty": "简单",
+    "time": "25分钟(含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "猪里脊肉: 200克\n番茄: 2个（约300克）\n小葱: 1根\n大蒜: 2瓣\n生姜: 1小块\n料酒: 1汤匙\n生抽: 1.5汤匙\n红薯淀粉: 1.5汤匙\n白胡椒粉: 1/2茶匙\n盐: 1茶匙\n白糖: 1/2茶匙\n食用油: 2汤匙\n清水: 适量",
+    "steps": [
+      {
+        "text": "【处理肉片】：猪里脊肉洗净，用厨房纸吸干表面水分。逆着纹理切成约2毫米厚的薄片，放入碗中备用。"
+      },
+      {
+        "text": "【腌制肉片】：在肉片中加入料酒、1汤匙生抽、白胡椒粉和1/2茶匙盐，用手抓拌均匀，使肉片充分吸收料汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_huarou_step1.webp"
+      },
+      {
+        "text": "【上浆锁水】：分次加入红薯淀粉，用手抓拌至肉片表面均匀裹上一层薄浆，淀粉完全融入肉片纹理中。最后淋入1汤匙食用油，再次抓匀锁住水分，腌制15分钟。"
+      },
+      {
+        "text": "【处理番茄】：番茄洗净，顶部划十字花刀。用叉子叉住番茄，放在灶火上方约2厘米处，转动烤至表皮微微卷起，撕去外皮，切成小块备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_huarou_step2.webp"
+      },
+      {
+        "text": "【切配小料】：小葱洗净切葱花，大蒜去皮切末，生姜去皮切丝备用。"
+      },
+      {
+        "text": "【炒制番茄汤汁】：锅中倒入食用油，烧至五成热，放入姜丝和蒜末爆香。倒入番茄块，转中火翻炒至番茄软烂出汁，用铲子按压番茄帮助出汁。加入剩余的生抽、白糖和剩余盐，翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_huarou_step3.webp"
+      },
+      {
+        "text": "【滑入肉片】：向锅中加入适量开水（约300毫升），大火煮开。将腌制好的肉片逐片滑入锅中，用筷子轻轻拨散，煮至肉片变色断生、浮起即可（约1-2分钟）。"
+      },
+      {
+        "text": "【出锅装盘】：关火后撒上葱花，即可盛出享用。汤汁浓郁，肉片滑嫩，非常适合拌饭。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_huarou_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "haixiangu-chaoniurou-2026-002",
     "name": "海鲜菇炒牛肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/haixiangu_chaoniurou.webp",
@@ -9668,7 +9746,7 @@
     ],
     "difficulty": "中等",
     "time": "45分钟",
-    "ingredients": "三黄鸡或清远鸡 1只 (约1公斤)\n姜 1块\n葱 3根\n冰块 适量\n蘸料：姜蓉、葱白蓉、花生油、生抽",
+    "ingredients": "三黄鸡或清远鸡 1只\n姜 1块\n葱 3根\n冰块 适量\n蘸料：姜蓉、葱白蓉、花生油、生抽",
     "steps": [
       
       {
@@ -9785,7 +9863,7 @@
     ],
     "difficulty": "高级",
     "time": "2小时 (含预处理)",
-    "ingredients": "猪大肠 500克 (已清洗干净)\n料酒、醋、酱油、白糖、高汤 适量\n砂仁、豆蔻、肉桂、丁香（可选香料）\n姜片、葱段 适量",
+    "ingredients": "猪大肠 500克 (已清洗干净)\n料酒 2汤匙\n醋 2汤匙\n酱油 2汤匙\n老抽 1汤匙\n白糖 2汤匙\n高汤 500ml\n砂仁 3颗\n豆蔻 2颗\n肉桂 1小段\n丁香（可选香料） 2粒\n姜片 5片\n葱段 3段",
     "steps": [
       {
         "text": "【煮制大肠】：大肠翻面洗净后，放入锅中，加入葱姜、料酒和香料，煮至软烂（约1小时）。捞出切段。"
@@ -9963,7 +10041,8 @@
     ],
     "difficulty": "简单",
     "time": "10分钟",
-    "ingredients": "当季蔬菜(如西兰花、芦笋、菜心) 400克\n蒜蓉 适量\n盐 少许\n食用油 适量\n水淀粉 (可选)",
+    "serving_count":"3",
+    "ingredients": "当季蔬菜(如西兰花、芦笋、菜心) 400克\n蒜蓉（切末） 3瓣\n盐 1/2茶匙\n食用油 适量\n水淀粉 (可选)",
     "steps": [
       
       {
