@@ -1,4 +1,41 @@
 [
+ 
+  {
+    "id": "shanyao-paigu-tang-2026-001",
+    "name": "山药排骨汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/shanyao_paigutang.webp",
+    "brief": "汤色清亮，排骨酥烂，山药绵密粉糯，自带清甜。简单炖煮，便是一碗温润滋补的家常好汤。",
+    "categoryIds": ["3", "7", "20", "26", "12"],
+    "difficulty": "简单",
+    "time": "1小时30分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "猪肋排: 500克\n铁棍山药: 300克\n生姜: 1块（约15克）\n小葱: 2根\n料酒: 1汤匙\n盐: 1茶匙\n清水: 2000毫升",
+    "steps": [
+      {
+        "text": "【处理排骨】：排骨斩成约4厘米长的小段，放入清水中浸泡20分钟，泡出血水后捞出，沥干水分备用。"
+      },
+      {
+        "text": "【排骨焯水】：将排骨冷水下锅，加入2片姜和1汤匙料酒。大火煮沸后，用勺子撇净浮沫，继续煮2分钟。捞出排骨，用温水冲洗干净表面杂质，沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step1.webp"
+      },
+      {
+        "text": "【处理山药】：山药戴手套去皮，洗净后切成约4厘米长的段，放入清水中浸泡防止氧化变黑。小葱洗净打结，剩余生姜切片备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step2.webp"
+      },
+      {
+        "text": "【炖煮汤底】：将焯好水的排骨、姜片和葱结一同放入锅中，加入2000毫升清水。大火烧开后，转最小火，盖上锅盖慢炖1小时。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step3.webp"
+      },
+      {
+        "text": "【加入山药】：打开锅盖，放入沥干水分的山药段，继续用小火炖煮20-30分钟，至山药变得绵软、用筷子能轻松扎透。"
+      },
+      {
+        "text": "【调味出锅】：捞出葱结，加入1茶匙盐调味，搅拌均匀后即可关火。盛入碗中，撒上少许葱花点缀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step4.webp"
+      }
+    ]
+  },
   {
     "id": "guangdong-suan-cai-pai-gu-tu-dou-2026-001",
     "name": "酸菜土豆排骨",
@@ -38,42 +75,6 @@
       {
         "text": "【加入土豆】：将沥干水分的土豆块放入锅中，与排骨和酸菜翻拌均匀，继续用小火炖煮15-20分钟，至土豆软糯、能用筷子轻松扎透。",
         "imageSrc": "https://shiyuji.xyz/img/steps/suancai_tudou_paigu_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "shanyao-paigu-tang-2026-001",
-    "name": "山药排骨汤",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/shanyao_paigutang.webp",
-    "brief": "汤色清亮，排骨酥烂，山药绵密粉糯，自带清甜。简单炖煮，便是一碗温润滋补的家常好汤。",
-    "categoryIds": ["3", "7", "20", "26", "12"],
-    "difficulty": "简单",
-    "time": "1小时30分钟",
-    "badge": ["新"],
-    "serving_count": "3",
-    "ingredients": "猪肋排: 500克\n铁棍山药: 300克\n生姜: 1块（约15克）\n小葱: 2根\n料酒: 1汤匙\n盐: 1茶匙\n清水: 2000毫升",
-    "steps": [
-      {
-        "text": "【处理排骨】：排骨斩成约4厘米长的小段，放入清水中浸泡20分钟，泡出血水后捞出，沥干水分备用。"
-      },
-      {
-        "text": "【排骨焯水】：将排骨冷水下锅，加入2片姜和1汤匙料酒。大火煮沸后，用勺子撇净浮沫，继续煮2分钟。捞出排骨，用温水冲洗干净表面杂质，沥干备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step1.webp"
-      },
-      {
-        "text": "【处理山药】：山药戴手套去皮，洗净后切成约4厘米长的段，放入清水中浸泡防止氧化变黑。小葱洗净打结，剩余生姜切片备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step2.webp"
-      },
-      {
-        "text": "【炖煮汤底】：将焯好水的排骨、姜片和葱结一同放入锅中，加入2000毫升清水。大火烧开后，转最小火，盖上锅盖慢炖1小时。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step3.webp"
-      },
-      {
-        "text": "【加入山药】：打开锅盖，放入沥干水分的山药段，继续用小火炖煮20-30分钟，至山药变得绵软、用筷子能轻松扎透。"
-      },
-      {
-        "text": "【调味出锅】：捞出葱结，加入1茶匙盐调味，搅拌均匀后即可关火。盛入碗中，撒上少许葱花点缀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/shanyao_paigutang_step4.webp"
       }
     ]
   },
