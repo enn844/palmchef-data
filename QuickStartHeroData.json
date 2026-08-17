@@ -2,24 +2,24 @@
   "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "b7d3f0a2-8e5c-4f6b-a1d9-e23456789012",
-      "recipeName": "重庆鸡公煲",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/chongqing_jigongbao.webp"
+      "recipeId": "guangdong-suan-cai-pai-gu-tu-dou-2026-001",
+      "recipeName": "酸菜土豆排骨",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/suancai_tudou_paigu.webp"
     },
     {
-      "recipeId": "u1z3y2x1-x2y3-9d0e-f1g2-h3i4j5k6l7m8",
-      "recipeName": "干烧大虾",
-      "imageSrc":"https://shiyuji.xyz/img/recipes/ganshao_daxia.webp"
+      "recipeId": "qingjiao-rousi-001",
+      "recipeName": "青椒肉丝",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_rousi.webp"
     },
     {
-      "recipeId": "i5n7m6l5-l6m7-3r4s-t5u6-v7w8x9y0z1a2",
-      "recipeName": "葱油饼",
-      "imageSrc":"https://shiyuji.xyz/img/recipes/congyoubing.webp"
+      "recipeId": "niurouwan-luobo-tang-2026-001",
+      "recipeName": "牛肉丸萝卜汤",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/niurouwan_luobotang.webp"
     },
     {
-      "recipeId": "x4c6b5a4-a5b6-2g3h-i4j5-k6l7m8n9o0p1",
-      "recipeName": "罗宋汤",
-      "imageSrc":"https://shiyuji.xyz/img/recipes/luosongtang.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234998",
+      "recipeName": "炒空心菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/kongxincai.webp"
     }
   ]
 }
