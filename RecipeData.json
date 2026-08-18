@@ -1,5 +1,50 @@
 [
   {
+    "id": "fanqie-doufu-roupian-tang-2026-001",
+    "name": "西红柿豆腐肉片汤",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_doufu_roupiantang.webp",
+    "brief": "汤色红亮，酸甜开胃。西红柿的酸甜与肉片的滑嫩、豆腐的软嫩完美融合，是一道简单快手的家常暖汤，特别适合拌饭。",
+    "categoryIds": ["3", "7", "2", "20", "4", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "猪里脊肉: 150克\n嫩豆腐: 1盒（约350克）\n西红柿: 2个\n小葱: 1根\n生姜: 2片\n大蒜: 2瓣\n生抽: 1汤匙\n红薯淀粉: 1汤匙\n盐: 1.5茶匙\n食用油: 1.5汤匙\n清水: 500毫升",
+    "steps": [
+        {
+            "text": "【处理肉片】：猪里脊肉洗净，用厨房纸吸干表面水分。逆着纹理切成约2毫米厚的薄片，放入碗中备用。"
+        },
+        {
+            "text": "【腌制肉片】：在肉片中加入生抽和1/2茶匙盐，用手抓拌均匀，使肉片充分吸收料汁。"
+        },
+        {
+            "text": "【上浆锁水】：分次加入红薯淀粉，用手抓拌至肉片表面均匀裹上一层薄浆。最后淋入1/2汤匙食用油，再次抓匀锁住水分，腌制10分钟。",
+            "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_doufu_roupiantang_step1.webp"
+        },
+        {
+            "text": "【处理豆腐】：嫩豆腐从盒中取出，切成约2厘米见方的小方块，放入淡盐水中浸泡备用，可帮助豆腐定型，不易煮碎。"
+        },
+        {
+            "text": "【处理西红柿】：西红柿洗净，顶部划十字花刀。放入沸水中烫约20秒，待皮卷起后捞出冲凉水，轻松撕去外皮，切成小块备用。",
+            "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_doufu_roupiantang_step2.webp"
+        },
+        {
+            "text": "【切配小料】：小葱洗净切葱花，大蒜去皮切末，生姜去皮切丝备用。"
+        },
+        {
+            "text": "【炒制番茄汤汁】：锅中倒入1汤匙食用油，烧至五成热，放入姜丝和蒜末爆香。倒入西红柿块，转中火翻炒至西红柿软烂出汁，用铲子按压西红柿帮助出汁。加入剩余1茶匙盐调味，翻炒均匀。",
+            "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_doufu_roupiantang_step3.webp"
+        },
+        {
+            "text": "【煮汤】：向锅中加入500毫升清水，大火煮开。将豆腐块轻轻滑入锅中，用勺子背面轻推，煮约2分钟。"
+        },
+        {
+            "text": "【滑入肉片】：将腌制好的肉片逐片滑入锅中，用筷子轻轻拨散，煮至肉片变色断生、浮起即可（约1-2分钟）。",
+            "imageSrc": "https://shiyuji.xyz/img/steps/fanqie_doufu_roupiantang_step4.webp"
+        }
+    ]
+  },
+  {
     "id": "qingjiao-tudou-pian-chao-rou-2026-001",
     "name": "青椒土豆丁炒肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_tudou_chaorou.webp",

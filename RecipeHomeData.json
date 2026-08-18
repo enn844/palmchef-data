@@ -1,5 +1,86 @@
 [
   {
+    "id": "qingjiao-tudou-pian-chao-rou-2026-001",
+    "name": "青椒土豆丁炒肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_tudou_chaorou.webp",
+    "brief": "土豆片焦香软糯，肉片嫩滑入味，青椒脆甜，蒜香浓郁，是一道简单快手的家常下饭菜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "猪瘦肉: 150克\n土豆: 1个（约200克）\n青椒: 1个\n大蒜: 3瓣\n生抽: 2汤匙\n老抽: 1/2汤匙\n盐: 1/2茶匙\n玉米淀粉: 1茶匙\n清水: 2汤匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理肉片】：猪瘦肉洗净，用厨房纸吸干表面水分，逆着纹理切成约2毫米厚的薄片。放入碗中，加入一半生抽和玉米淀粉，用手抓匀，最后淋入适量油锁水，腌制10分钟入味。"
+      },
+      {
+        "text": "【处理土豆】：土豆去皮，切成小丁。将切好的土豆丁放入清水中冲洗两遍，洗去表面多余淀粉，捞出后彻底沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_tudou_chaorou_step1.webp"
+      },
+      {
+        "text": "【处理青椒】：青椒去蒂去籽，洗净后切丝。大蒜去皮，切成蒜末备用。"
+      },
+      {
+        "text": "【煎土豆片】：锅中倒入适量食用油，烧至六成热（约160°C），放入沥干水分的土豆丁，中小火慢煎。煎至四面呈金黄色、边缘微焦，盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_tudou_chaorou_step2.webp"
+      },
+      {
+        "text": "【滑炒肉片】：锅中留底油，烧至六成热，放入腌好的肉片，中大火快速滑炒，炒至肉片变色断生、表面微黄，盛出备用。"
+      },
+      {
+        "text": "【爆香合炒】：锅中留少许底油，放入蒜末，小火煸炒出香味。倒入煎好的土豆片和滑炒好的肉片，转中大火快速翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_tudou_chaorou_step3.webp"
+      },
+      {
+        "text": "【调味上色】：加入剩余一半生抽、老抽、和盐，沿锅边淋入清水，加入青椒，快速翻炒均匀，使所有食材均匀上色并入味。继续翻炒至食材变软即可出锅。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/qingjiao_tudou_chaorou_step4.webp"
+      }
+    ]
+  },
+  {
+    "id": "guangdong-suan-cai-pai-gu-tu-dou-2026-001",
+    "name": "酸菜土豆排骨",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/suancai_tudou_paigu.webp",
+    "brief": "广东家常风味，酸菜咸酸爽脆，排骨酥烂入味，土豆绵软吸饱汤汁，只需姜蒜和盐调味，清炖出食材本味。",
+    "categoryIds": ["7", "2", "20", "31", "11", "6"],
+    "difficulty": "简单",
+    "time": "1小时10分钟",
+    "badge": ["新"],
+    "serving_count": "3",
+    "ingredients": "猪肋排: 400克\n酸菜或咸菜: 200克\n土豆: 1个（约200克）\n生姜: 5片\n大蒜: 3瓣\n盐: 1茶匙\n食用油: 2汤匙\n清水: 适量",
+    "steps": [
+      {
+        "text": "【处理排骨】：猪肋排斩成约3-4厘米长的小段，放入清水中浸泡15分钟，泡出血水后捞出，沥干水分备用。"
+      },
+      {
+        "text": "【排骨焯水】：将排骨冷水下锅，加入2片生姜。大火烧开后，撇去浮沫，继续煮2分钟。捞出排骨，用温水冲洗干净，沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_tudou_paigu_step1.webp"
+      },
+      {
+        "text": "【处理酸菜】：酸菜用清水冲洗2-3遍，去除多余盐分，挤干水分后切成约2厘米宽的段。如果酸菜过咸，可提前用清水浸泡30分钟再切。"
+      },
+      {
+        "text": "【处理土豆】：土豆去皮洗净，切成约3厘米见方的滚刀块。将切好的土豆块放入清水中浸泡，洗去表面淀粉，捞出沥干备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_tudou_paigu_step2.webp"
+      },
+      {
+        "text": "【煸炒排骨】：锅中倒入食用油，烧至五成热，放入剩余的姜片和拍碎的大蒜，小火煸炒出香味。倒入焯好水的排骨，转中火煸炒至排骨表面微黄、出油。"
+      },
+      {
+        "text": "【加入酸菜】：将切好的酸菜段放入锅中，与排骨一起翻炒约2分钟，炒出酸菜的香味。加入盐，继续翻炒均匀。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_tudou_paigu_step3.webp"
+      },
+      {
+        "text": "【加水炖煮】：倒入足量热水（水量以没过食材为宜，约500-600毫升），大火烧开后转小火，盖上锅盖炖煮30分钟。"
+      },
+      {
+        "text": "【加入土豆】：将沥干水分的土豆块放入锅中，与排骨和酸菜翻拌均匀，继续用小火炖煮15-20分钟，至土豆软糯、能用筷子轻松扎透。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/suancai_tudou_paigu_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "shanyao-paigu-tang-2026-001",
     "name": "山药排骨汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/shanyao_paigutang.webp",
