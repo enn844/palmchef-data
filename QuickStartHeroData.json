@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "晚上好💡",
   "cards": [
     {
-      "recipeId": "qingjiao-tudou-pian-chao-rou-2026-001",
-      "recipeName": "青椒土豆丁炒肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/qingjiao_tudou_chaorou.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234607",
+      "recipeName": "可乐鸡翅",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/keleji.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234703",
-      "recipeName": "糟熘鱼片",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/zaoliu_yupian.webp"
+      "recipeId": "bai-cai-dun-dou-fu-001",
+      "recipeName": "白菜炖豆腐",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/baicai_dundoufu.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234704",
-      "recipeName": "锅塌豆腐",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/guota_doufu.webp"
+      "recipeId": "b2a8f3c1-7e4d-4a6b-8c9d-1e2f3a4b5c6d",
+      "recipeName": "茄子焖面",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/qiezi_menmian.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234721",
-      "recipeName": "蒜蓉西兰花",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/suanrong_xilanhua.webp"
+      "recipeId": "fanqie-doufu-roupian-tang-2026-001",
+      "recipeName": "西红柿豆腐肉片汤",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_doufu_roupiantang.webp"
     }
   ]
 }
