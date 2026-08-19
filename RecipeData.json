@@ -1,5 +1,48 @@
 [
   {
+    "id": "liangban-niurou-2026-001",
+    "name": "凉拌牛肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_niurou.webp",
+    "brief": "牛肉嫩滑入味，黄瓜清脆爽口，搭配酸辣鲜香的酱汁，是一道开胃下饭的家常凉菜。",
+    "categoryIds": ["9", "2", "7", "20", "11"],
+    "difficulty": "简单",
+    "time": "40分钟(含腌制时间)",
+    "badge": ["新"],
+    "serving_count": "2",
+    "ingredients": "牛里脊肉: 200克\n黄瓜: 1根（约200克）\n洋葱: 1/4个（约50克）\n大蒜: 3瓣\n小米椒: 2个\n香菜: 2根\n生抽: 3汤匙\n蚝油: 1汤匙\n白胡椒粉: 1/2茶匙\n玉米淀粉: 1汤匙\n盐: 1/2茶匙\n白糖: 1茶匙\n味精: 1/4茶匙\n陈醋: 1汤匙\n辣椒粉: 1汤匙\n熟白芝麻: 1汤匙\n食用油: 3汤匙\n清水: 适量",
+    "steps": [
+      {
+        "text": "【处理黄瓜】：黄瓜洗净，切段，拍碎，放入大碗中，加入1/2茶匙盐和1/2茶匙白糖，抓匀腌制10分钟，杀出多余水分。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liangban_niurou_step1.webp"
+      },
+      {
+        "text": "【腌制牛肉】：牛里脊肉洗净，用厨房纸吸干表面水分，逆着纹理切成约2毫米厚的薄片。放入碗中，加入1汤匙生抽、1汤匙蚝油、1/2茶匙白胡椒粉和1汤匙玉米淀粉，用手抓拌均匀，使调料充分包裹肉片。腌制30分钟入味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liangban_niurou_step2.webp"
+      },
+      {
+        "text": "【准备配料】：大蒜去皮切末，小米椒洗净切圈，洋葱切细丝，香菜洗净切段备用。"
+      },
+      {
+        "text": "【调制酱汁】：取一个大碗，放入蒜末、小米椒圈、洋葱丝、1汤匙辣椒粉和1汤匙熟白芝麻。锅中烧热3汤匙食用油，烧至微微冒烟（约七成热），将热油均匀淋入碗中，激发出香味。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liangban_niurou_step3.webp"
+      },
+      {
+        "text": "【调味】：继续在料汁碗中加入2汤匙生抽、1汤匙陈醋、1/2茶匙盐、1/2茶匙白糖和1/4茶匙味精，搅拌均匀，调成酸辣鲜香的酱汁。"
+      },
+      {
+        "text": "【焯烫牛肉】：锅中加入足量清水，大火烧开。将腌制好的牛肉片逐片下入锅中，用筷子轻轻拨散，煮至牛肉变色断生（约30秒-1分钟），立即捞出，沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liangban_niurou_step4.webp"
+      },
+      {
+        "text": "【拌匀装盘】：将腌制好的黄瓜块用手轻轻挤去多余水分，放入酱汁碗中。加入焯烫好的牛肉片和香菜段，用筷子充分抓拌均匀，使所有食材均匀裹上酱汁。"
+      },
+      {
+        "text": "【静置入味】：将拌好的凉拌牛肉静置5分钟，让食材更加入味，即可装盘享用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/liangban_niurou_step5.webp"
+      }
+    ]
+  },
+  {
     "id": "fanqie-doufu-roupian-tang-2026-001",
     "name": "西红柿豆腐肉片汤",
     "imageSrc": "https://shiyuji.xyz/img/recipes/fanqie_doufu_roupiantang.webp",
