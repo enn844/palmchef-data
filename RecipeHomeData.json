@@ -1,5 +1,50 @@
 [
   {
+    "id": "tudou-chao-rou-2026-001",
+    "name": "土豆炒肉",
+    "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_chaorou.webp",
+    "brief": "土豆片焦香软糯，肉片滑嫩入味，是一道简单快手的家常下饭菜，营养均衡，老少皆宜。",
+    "categoryIds": ["7", "2", "20", "31", "11"],
+    "difficulty": "简单",
+    "time": "20分钟",
+    "badge": [],
+    "serving_count": "2",
+    "ingredients": "猪里脊肉: 200克\n土豆（中等大小）: 2个\n大蒜: 3瓣\n生抽: 2汤匙\n老抽: 1/2汤匙\n料酒: 1汤匙\n玉米淀粉: 1茶匙\n白胡椒粉: 1/2茶匙\n盐: 1/2茶匙\n食用油: 适量",
+    "steps": [
+      {
+        "text": "【处理肉片】：猪里脊肉洗净，用厨房纸吸干表面水分，逆着纹理切成约2毫米厚的薄片，放入碗中备用。"
+      },
+      {
+        "text": "【腌制肉片】：在肉片中加入一半生抽、料酒、白胡椒粉和一半盐，用手抓拌均匀，使肉片充分吸收料汁。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaorou_step1.webp"
+      },
+      {
+        "text": "【上浆锁水】：加入玉米淀粉，用手抓拌至肉片表面均匀裹上一层薄浆。最后淋入1汤匙食用油，再次抓匀锁住水分，腌制10分钟。"
+      },
+      {
+        "text": "【处理土豆】：土豆去皮洗净，切成约3毫米厚的均匀薄片。将切好的土豆片放入清水中浸泡5分钟，洗去表面多余淀粉，捞出彻底沥干水分备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaorou_step2.webp"
+      },
+      {
+        "text": "【切配小料】：大蒜去皮切成薄片备用。"
+      },
+      {
+        "text": "【煸炒土豆】：锅中倒入适量食用油，烧至六成热（约160°C），放入沥干水分的土豆片，中火煎炒至土豆片边缘微焦、表面金黄（约3-4分钟），盛出备用。"
+      },
+      {
+        "text": "【滑炒肉片】：锅中留底油，烧至六成热，放入腌好的肉片，快速滑炒至肉片变色断生（约1-2分钟），立即盛出备用。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaorou_step3.webp"
+      },
+      {
+        "text": "【合炒调味】：锅中留少许底油，放入蒜片爆香。倒入煎好的土豆片和滑炒好的肉片，加入剩余一半生抽、老抽和剩余一半盐，转大火快速翻炒均匀，使所有食材均匀上色入味。"
+      },
+      {
+        "text": "【出锅装盘】：大火翻炒约30秒至汤汁收干、食材充分融合，即可关火出锅装盘。",
+        "imageSrc": "https://shiyuji.xyz/img/steps/tudou_chaorou_step4.webp"
+      }
+    ]
+  },
+  {
     "id": "liangban-niurou-2026-001",
     "name": "凉拌牛肉",
     "imageSrc": "https://shiyuji.xyz/img/recipes/liangban_niurou.webp",
@@ -1778,47 +1823,6 @@
       {
         "text": "【淋油出锅】：将25毫升酱油均匀淋在鱼身和葱丝上。锅中烧热2汤匙食用油（约30毫升，配方外），烧至微微冒烟后均匀浇在葱丝和辣椒丝上激发出香味，即可上桌。",
         "imageSrc": "https://shiyuji.xyz/img/steps/qingzheng_changyu_step4.webp"
-      }
-    ]
-  },
-  {
-    "id": "curry-chicken-001",
-    "name": "咖喱鸡肉",
-    "imageSrc": "https://shiyuji.xyz/img/recipes/gali_jirou.webp",
-    "brief": "咖喱酱汁浓郁丝滑，鸡肉嫩滑多汁，土豆绵软胡萝卜清甜，搭配洋葱的香甜，是一道开胃下饭的家常料理。",
-    "categoryIds": ["7", "2", "20", "11", "12"],
-    "difficulty": "简单",
-    "time": "30分钟",
-    "serving_count": "2",
-    "ingredients": "鸡胸肉或鸡腿肉: 250克\n料酒: 1汤匙\n生抽: 2汤匙\n葱: 1段\n姜: 2片\n盐: 1/2茶匙\n淀粉: 1茶匙\n胡萝卜: 1根\n土豆: 1个\n洋葱: 半个\n咖喱块（约40克）: 2块\n牛奶: 80毫升\n食用油: 适量\n清水（没过食材）: 适量",
-    "steps": [
-      {
-        "text": "【腌制鸡肉】：鸡肉洗净切小块，加入料酒、生抽、葱、姜、盐和淀粉，抓匀腌制10分钟。"
-      },
-      {
-        "text": "【备菜切配】：胡萝卜去皮切小块，土豆去皮切块，洋葱切丝备用。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step1.webp"
-      },
-      {
-        "text": "【煸炒土豆胡萝卜】：锅中倒入少许食用油，烧热后放入切好的土豆块和胡萝卜块，中火煸炒至土豆表面金黄、边缘微透明，盛出备用。"
-      },
-      {
-        "text": "【炒香洋葱】：锅中留底油，放入洋葱丝，小火慢慢翻炒，炒至洋葱变软、呈透明状，散发出香甜味。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step2.webp"
-      },
-      {
-        "text": "【翻炒鸡肉】：将腌好的鸡肉倒入锅中，转中火翻炒至鸡肉变色、表面发白。"
-      },
-      {
-        "text": "【加入配菜】：倒入之前煸炒过的土豆块和胡萝卜块，与鸡肉一起翻炒均匀。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step3.webp"
-      },
-      {
-        "text": "【炖煮咖喱】：倒入足量凉水，水量以没过所有食材为宜。大火煮开后，放入咖喱块，用铲子搅拌至咖喱块完全融化。转中小火，盖上锅盖炖煮10分钟，至土豆和胡萝卜软糯、鸡肉熟透入味。"
-      },
-      {
-        "text": "【收汁出锅】：打开锅盖，转大火收汁。待汤汁浓稠时，倒入80毫升牛奶，搅拌均匀，继续煮约1分钟至汤汁顺滑即可关火出锅。",
-        "imageSrc": "https://shiyuji.xyz/img/steps/gali_jirou_step4.webp"
       }
     ]
   }

@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "中午好💡",
+  "sectionTitle": "晚上好💡",
   "cards": [
     {
-      "recipeId": "tudou-chao-rou-2026-001",
-      "recipeName": "土豆炒肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/tudou_chaorou.webp"
+      "recipeId": "a3b4c5d6-e7f8-4a9b-8c0d-1e2f3a4b5c6d",
+      "recipeName": "小炒牛肉",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_niurou.webp"
     },
     {
-      "recipeId": "m6n7g8h9-i0j1-2k3l-4m5n-6o7p8q9r0s1s",
-      "recipeName": "豌豆炒肉末",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/wandou_roumo.webp"
+      "recipeId": "fengwei-qiezi-001",
+      "recipeName": "风味茄子",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/fengwei_qiezi.webp"
     },
     {
-      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9221",
-      "recipeName": "手撕包菜",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/shousi_baocai.webp"
+      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234888",
+      "recipeName": "爆炒鱿鱼",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_youyu.webp"
     },
     {
-      "recipeId": "tomato-cauliflower-001",
-      "recipeName": "西红柿炒菜花",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xihongshi_caihua.webp"
+      "recipeId": "lan-ren-men-fan-2025-001",
+      "recipeName": "懒人焖饭",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menfan.webp"
     }
   ]
 }
