@@ -1,25 +1,25 @@
 {
-  "sectionTitle": "晚上好💡",
+  "sectionTitle": "中午好💡",
   "cards": [
     {
-      "recipeId": "a3b4c5d6-e7f8-4a9b-8c0d-1e2f3a4b5c6d",
-      "recipeName": "小炒牛肉",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/xiaochao_niurou.webp"
+      "recipeId": "d91e1a80-1736-4074-a0e4-b7b251234999",
+      "recipeName": "葱香焖鸡",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/congxiang_menji.webp"
     },
     {
-      "recipeId": "fengwei-qiezi-001",
-      "recipeName": "风味茄子",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/fengwei_qiezi.webp"
+      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9218",
+      "recipeName": "清炒山药木耳",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/qingchao_shanyao_muer.webp"
     },
     {
-      "recipeId": "d81e1a80-1736-4074-a0e4-b7b251234888",
-      "recipeName": "爆炒鱿鱼",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/baochao_youyu.webp"
+      "recipeId": "1e7c5b96-10fe-4c74-9b5a-50c22e4c9226",
+      "recipeName": "麻酱油麦菜",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/majiang_youmaicai.webp"
     },
     {
-      "recipeId": "lan-ren-men-fan-2025-001",
-      "recipeName": "懒人焖饭",
-      "imageSrc": "https://shiyuji.xyz/img/recipes/lanren_menfan.webp"
+      "recipeId": "d81e1a80-2736-5074-a0e4-b7b251234995",
+      "recipeName": "猪肉煮年糕",
+      "imageSrc": "https://shiyuji.xyz/img/recipes/zhurou_zhuniangao.webp"
     }
   ]
 }
